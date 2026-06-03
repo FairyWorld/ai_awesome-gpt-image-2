@@ -139,9 +139,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **8639** |
+| 📝 Total Prompts | **8640** |
 | ⭐ Featured | **6** |
-| 🔄 Last Updated | **Tuesday, June 2, 2026 at 3:56:48 PM UTC** |
+| 🔄 Last Updated | **Wednesday, June 3, 2026 at 2:41:34 AM UTC** |
 
 </div>
 
@@ -4684,7 +4684,58 @@ Constraints: Keep the poster polished and photorealistic, preserve the exact por
 
 ---
 
-### No. 92: Product Marketing - Japanese Kids English LP Hero
+### No. 92: Product Marketing - Minimalist Modern Magazine Illustration Style
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Description
+
+A prompt for creating minimalist, elegant, and modern magazine-style illustrations with clean lines, soft neutral colors, and a focus on balance and negative space.
+
+#### 📝 Prompt
+
+```
+一张极简主义现代杂志风格插画，主体为[xxx]。画面以干净流畅的线条塑造形象，造型简洁但富有美感，背景保留大面积留白，配色以柔和中性色为主，并加入少量鲜艳色彩作为视觉焦点。整体构图精致平衡，氛围优雅清新，具有高级杂志插画与现代艺术海报质感，无文字。
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780448762845_au1755_HJxtXKDboAA4Abf.jpg" width="600" alt="Product Marketing - Minimalist Modern Magazine Illustration Style - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780448763466_7fig2z_HJxtZzMbMAECZqS.jpg" width="600" alt="Product Marketing - Minimalist Modern Magazine Illustration Style - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780448763684_poq1n7_HJxtwTMaEAAGAIz.jpg" width="600" alt="Product Marketing - Minimalist Modern Magazine Illustration Style - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780448764358_j21m4m_HJxvFDlbwAEfarP.jpg" width="600" alt="Product Marketing - Minimalist Modern Magazine Illustration Style - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Author:** [沐阳](https://x.com/yyyole)
+- **Source:** [Twitter Post](https://x.com/yyyole/status/2061644933287838180)
+- **Published:** June 2, 2026
+- **Languages:** zh
+
+**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=23706)**
+
+---
+
+### No. 93: Product Marketing - Japanese Kids English LP Hero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4738,7 +4789,7 @@ Constraints: Use Japanese text exactly as specified where visible, maintain a pr
 
 ---
 
-### No. 93: Product Marketing - Handmade Enamel Souvenir Magnet Design
+### No. 94: Product Marketing - Handmade Enamel Souvenir Magnet Design
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4842,7 +4893,7 @@ The hierarchy of the text:
 
 ---
 
-### No. 94: Product Marketing - Nike Sportswear Editorial Advertisement
+### No. 95: Product Marketing - Nike Sportswear Editorial Advertisement
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4876,7 +4927,7 @@ Hyper-realistic {argument name="brand" default="NIKE"} sportswear advertisement,
 
 ---
 
-### No. 95: Product Marketing - Colossal Male Model Skyscraper Artwork
+### No. 96: Product Marketing - Colossal Male Model Skyscraper Artwork
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4916,7 +4967,7 @@ Ultra-realistic fashion-surrealism artwork of a {argument name="subject" default
 
 ---
 
-### No. 96: Product Marketing - Realistic Commercial Beverage Advertisement
+### No. 97: Product Marketing - Realistic Commercial Beverage Advertisement
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4957,7 +5008,7 @@ Background filled with dynamic paint splashes and street-art textures in matchin
 
 ---
 
-### No. 97: Product Marketing - High-Concept Desert Mirror Fashion Photography
+### No. 98: Product Marketing - High-Concept Desert Mirror Fashion Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4991,7 +5042,7 @@ Use my reference photo as the {argument name="subject" default="subject"} (same 
 
 ---
 
-### No. 98: Product Marketing - Neon City Soda Advertisement
+### No. 99: Product Marketing - Neon City Soda Advertisement
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5025,7 +5076,7 @@ Create a cinematic ultra-realistic nighttime advertisement scene featuring a gia
 
 ---
 
-### No. 99: Product Marketing - Futuristic Urban Performance Poster
+### No. 100: Product Marketing - Futuristic Urban Performance Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5075,7 +5126,7 @@ Constraints: Use exactly 1 central human figure, exactly 3 prominent billboards,
 
 ---
 
-### No. 100: Product Marketing - Luxury Sportswear Advertising Poster
+### No. 101: Product Marketing - Luxury Sportswear Advertising Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5149,7 +5200,7 @@ The typography should feel integrated into the artwork, using premium editorial 
 
 ---
 
-### No. 101: Product Marketing - Urban Street Motorcycle Portrait
+### No. 102: Product Marketing - Urban Street Motorcycle Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5187,7 +5238,7 @@ blurry face, low quality, extra fingers, deformed hands, distorted body, duplica
 
 ---
 
-### No. 102: Product Marketing - Premium Lavender Smartphone Advertisement
+### No. 103: Product Marketing - Premium Lavender Smartphone Advertisement
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5220,7 +5271,7 @@ Ultra-realistic premium smartphone advertisement, featuring a confident young wo
 
 ---
 
-### No. 103: Product Marketing - Gothic Luxury Magazine Cover
+### No. 104: Product Marketing - Gothic Luxury Magazine Cover
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5251,46 +5302,6 @@ Ultra-realistic dark luxury magazine cover featuring a {argument name="subject" 
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=23574)**
-
----
-
-### No. 104: Product Marketing - Fashion Editorial Watercolor Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A refined contemporary watercolor illustration featuring delicate ink lines and translucent washes on a textured paper background.
-
-#### 📝 Prompt
-
-```
-Fashion editorial watercolor portrait illustration of {argument name="person" default="an young Korean woman with a Blown Bob"}, wearing {argument name="outfit" default="a soft pink top"}, in a subtle {argument name="atmosphere" default="sunny May flower garden"} atmosphere. Works naturally for any gender, age, ethnicity, skin tone, hairstyle, and body type, with respectful non-stereotyped features, natural proportions, and a calm warm expression. Fine delicate ink or pencil linework over translucent layered watercolor washes, loose fluid brush strokes, wet-on-wet blending, soft bleeding edges, unfinished open edges, visible white watercolor paper texture, deliberate negative space. Relaxed posture, gentle head tilt, slight three-quarter angle, waist-up or hip-to-head framing. Minimalist editorial fashion sketch aesthetic, refined contemporary portrait mood, flat even reproduction-style lighting, edge-to-edge clarity. No photorealism, no 3D rendering, no bokeh, no depth-of-field blur, no caricature, no harsh outlines, no cluttered background.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780391985208_pdv4b3_HJuTsekasAAgGkV.jpg" width="600" alt="Product Marketing - Fashion Editorial Watercolor Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780391985200_mcmcue_HJuTss9bgAA5AvZ.jpg" width="600" alt="Product Marketing - Fashion Editorial Watercolor Portrait - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Anissa](https://x.com/SimplyAnnisa)
-- **Source:** [Twitter Post](https://x.com/SimplyAnnisa/status/2061403655132336568)
-- **Published:** June 1, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/gpt-image-2-prompts?id=23604)**
 
 ---
 
@@ -5920,7 +5931,7 @@ Luxury product shot of a {argument name="perfume" default="Givenchy L’Interdit
 
 <div align="center">
 
-### 🎯 8519 more prompts not shown here
+### 🎯 8520 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5983,6 +5994,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-02T15:56:48.975Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-03T02:41:34.504Z</sub>
 
 </div>

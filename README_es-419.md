@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **8639** |
+| 📝 Total de prompts | **8640** |
 | ⭐ Destacado | **6** |
-| 🔄 Última actualización | **martes, 2 de junio de 2026, 3:57:25 p.m. UTC** |
+| 🔄 Última actualización | **miércoles, 3 de junio de 2026, 2:42:22 a.m. UTC** |
 
 </div>
 
@@ -4684,7 +4684,58 @@ Restricciones: Mantenga el póster pulido y fotorrealista, preserve el conteo ex
 
 ---
 
-### No. 92: Marketing de producto - Hero de LP de inglés para niños en Japón
+### No. 92: Marketing de producto - Estilo de ilustración de revista moderna y minimalista
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Descripción
+
+Un prompt para crear ilustraciones de estilo revista, minimalistas, elegantes y modernas, con líneas limpias, colores neutros suaves y un enfoque en el equilibrio y el espacio negativo.
+
+#### 📝 Prompt
+
+```
+Una ilustración de estilo revista moderna y minimalista, con [xxx] como tema principal. La imagen utiliza líneas limpias y fluidas para definir las formas, con un diseño sencillo pero estéticamente atractivo. El fondo mantiene un amplio espacio negativo, con una paleta de colores neutros y suaves, incorporando pequeños toques de colores vibrantes como punto focal visual. La composición general es refinada y equilibrada, con una atmósfera elegante y fresca, que evoca la calidad de las ilustraciones de revistas de alta gama y los pósteres de arte moderno, sin texto.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780448762845_au1755_HJxtXKDboAA4Abf.jpg" width="600" alt="Marketing de producto - Estilo de ilustración de revista moderna y minimalista - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780448763466_7fig2z_HJxtZzMbMAECZqS.jpg" width="600" alt="Marketing de producto - Estilo de ilustración de revista moderna y minimalista - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780448763684_poq1n7_HJxtwTMaEAAGAIz.jpg" width="600" alt="Marketing de producto - Estilo de ilustración de revista moderna y minimalista - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780448764358_j21m4m_HJxvFDlbwAEfarP.jpg" width="600" alt="Marketing de producto - Estilo de ilustración de revista moderna y minimalista - Image 4">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [沐阳](https://x.com/yyyole)
+- **Fuente:** [Twitter Post](https://x.com/yyyole/status/2061644933287838180)
+- **Publicado:** 2 de junio de 2026
+- **Idiomas:** zh
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=23706)**
+
+---
+
+### No. 93: Marketing de producto - Hero de LP de inglés para niños en Japón
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4738,7 +4789,7 @@ Restricciones: Usa el texto en japonés exactamente como se especifica donde sea
 
 ---
 
-### No. 93: Marketing de producto - Diseño de imán de recuerdo hecho a mano en esmalte
+### No. 94: Marketing de producto - Diseño de imán de recuerdo hecho a mano en esmalte
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4842,7 +4893,7 @@ La jerarquía del texto:
 
 ---
 
-### No. 94: Marketing de producto - Anuncio editorial de Nike Sportswear
+### No. 95: Marketing de producto - Anuncio editorial de Nike Sportswear
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4876,7 +4927,7 @@ Anuncio de ropa deportiva hiperrealista de {argument name="brand" default="NIKE"
 
 ---
 
-### No. 95: Marketing de producto - Obra de arte de rascacielos con modelo masculino colosal
+### No. 96: Marketing de producto - Obra de arte de rascacielos con modelo masculino colosal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4916,7 +4967,7 @@ Obra de arte de surrealismo de moda ultrarrealista de un {argument name="subject
 
 ---
 
-### No. 96: Marketing de producto - Anuncio publicitario realista de bebidas comerciales
+### No. 97: Marketing de producto - Anuncio publicitario realista de bebidas comerciales
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4957,7 +5008,7 @@ Fondo lleno de salpicaduras de pintura dinámicas y texturas de arte callejero e
 
 ---
 
-### No. 97: Marketing de producto - Fotografía de moda de alto concepto con espejos en el desierto
+### No. 98: Marketing de producto - Fotografía de moda de alto concepto con espejos en el desierto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4991,7 +5042,7 @@ Usa mi foto de referencia como el {argument name="subject" default="sujeto"} (mi
 
 ---
 
-### No. 98: Marketing de producto - Anuncio de Neon City Soda
+### No. 99: Marketing de producto - Anuncio de Neon City Soda
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5025,7 +5076,7 @@ Crea una escena publicitaria nocturna cinematográfica y ultrarrealista que pres
 
 ---
 
-### No. 99: Marketing de producto - Póster de rendimiento urbano futurista
+### No. 100: Marketing de producto - Póster de rendimiento urbano futurista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5075,7 +5126,7 @@ Restricciones: Utilice exactamente 1 figura humana central, exactamente 3 vallas
 
 ---
 
-### No. 100: Marketing de producto - Póster publicitario de ropa deportiva de lujo
+### No. 101: Marketing de producto - Póster publicitario de ropa deportiva de lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5149,7 +5200,7 @@ La tipografía debe sentirse integrada en la obra de arte, utilizando diseños e
 
 ---
 
-### No. 101: Marketing de producto - Retrato de motocicleta en calle urbana
+### No. 102: Marketing de producto - Retrato de motocicleta en calle urbana
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5187,7 +5238,7 @@ rostro borroso, baja calidad, dedos extra, manos deformes, cuerpo distorsionado,
 
 ---
 
-### No. 102: Marketing de producto - Anuncio premium de smartphone en color lavanda
+### No. 103: Marketing de producto - Anuncio premium de smartphone en color lavanda
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5220,7 +5271,7 @@ Anuncio de smartphone premium ultrarrealista, que presenta a una joven segura de
 
 ---
 
-### No. 103: Marketing de producto - Portada de revista de lujo gótico
+### No. 104: Marketing de producto - Portada de revista de lujo gótico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5251,46 +5302,6 @@ Portada de revista de lujo oscuro ultrarrealista que presenta a una {argument na
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=23574)**
-
----
-
-### No. 104: Marketing de producto - Retrato editorial de moda en acuarela
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Una refinada ilustración contemporánea en acuarela que presenta delicadas líneas de tinta y lavados translúcidos sobre un fondo de papel texturizado.
-
-#### 📝 Prompt
-
-```
-Ilustración de retrato editorial de moda en acuarela de {argument name="person" default="una joven coreana con un corte bob con volumen"}, vistiendo {argument name="outfit" default="una blusa rosa suave"}, en una atmósfera sutil de {argument name="atmosphere" default="un jardín de flores en un día soleado de mayo"}. Funciona de forma natural para cualquier género, edad, etnia, tono de piel, peinado y tipo de cuerpo, con rasgos respetuosos y no estereotipados, proporciones naturales y una expresión cálida y serena. Trazos finos y delicados de tinta o lápiz sobre lavados de acuarela translúcidos en capas, pinceladas sueltas y fluidas, técnica húmedo sobre húmedo, bordes suaves y difusos, bordes abiertos e inacabados, textura visible de papel de acuarela blanco, espacio negativo deliberado. Postura relajada, ligera inclinación de cabeza, ángulo de tres cuartos, encuadre de cintura hacia arriba o de la cabeza a la cadera. Estética de boceto de moda editorial minimalista, estilo de retrato contemporáneo refinado, iluminación plana y uniforme estilo reproducción, claridad de borde a borde. Sin fotorrealismo, sin renderizado 3D, sin bokeh, sin desenfoque de profundidad de campo, sin caricaturas, sin contornos marcados, sin fondos recargados.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780391985208_pdv4b3_HJuTsekasAAgGkV.jpg" width="600" alt="Marketing de producto - Retrato editorial de moda en acuarela - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780391985200_mcmcue_HJuTss9bgAA5AvZ.jpg" width="600" alt="Marketing de producto - Retrato editorial de moda en acuarela - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Anissa](https://x.com/SimplyAnnisa)
-- **Fuente:** [Twitter Post](https://x.com/SimplyAnnisa/status/2061403655132336568)
-- **Publicado:** 1 de junio de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/gpt-image-2-prompts?id=23604)**
 
 ---
 
@@ -5920,7 +5931,7 @@ Toma de producto de lujo de un frasco de perfume {argument name="perfume" defaul
 
 <div align="center">
 
-### 🎯 8519 prompts más no mostrados aquí
+### 🎯 8520 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5983,6 +5994,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-02T15:57:25.167Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-03T02:42:22.468Z</sub>
 
 </div>

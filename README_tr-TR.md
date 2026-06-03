@@ -139,9 +139,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **8639** |
+| 📝 Toplam İstem | **8640** |
 | ⭐ Öne Çıkan | **6** |
-| 🔄 Son Güncelleme | **2 Haziran 2026 Salı 15:57:46 UTC** |
+| 🔄 Son Güncelleme | **3 Haziran 2026 Çarşamba 02:42:55 UTC** |
 
 </div>
 
@@ -4686,7 +4686,58 @@ Kısıtlamalar: Posteri şık ve fotogerçekçi tutun, tam portre sayısını ve
 
 ---
 
-### No. 92: Ürün Pazarlaması - Japon Çocuk İngilizce LP Hero
+### No. 92: Ürün Pazarlaması - Minimalist Modern Dergi İllüstrasyon Tarzı
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Açıklama
+
+Temiz çizgiler, yumuşak nötr renkler, denge ve negatif alana odaklanan minimalist, zarif ve modern dergi tarzı illüstrasyonlar oluşturmak için bir komut.
+
+#### 📝 İstem
+
+```
+Minimalist ve modern bir dergi tarzı illüstrasyon, ana konu [xxx]. Görsel, temiz ve akıcı çizgilerle şekillendirilmiş, basit ama estetik bir tasarıma sahip. Arka planda geniş boşluklar bırakılmış, renk paleti ağırlıklı olarak yumuşak nötr tonlardan oluşuyor ve görsel odak noktası olarak az miktarda canlı renk kullanılıyor. Genel kompozisyon oldukça dengeli ve zarif; üst düzey dergi illüstrasyonları ve modern sanat posterleri kalitesinde, metinsiz bir çalışma.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780448762845_au1755_HJxtXKDboAA4Abf.jpg" width="600" alt="Ürün Pazarlaması - Minimalist Modern Dergi İllüstrasyon Tarzı - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780448763466_7fig2z_HJxtZzMbMAECZqS.jpg" width="600" alt="Ürün Pazarlaması - Minimalist Modern Dergi İllüstrasyon Tarzı - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780448763684_poq1n7_HJxtwTMaEAAGAIz.jpg" width="600" alt="Ürün Pazarlaması - Minimalist Modern Dergi İllüstrasyon Tarzı - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780448764358_j21m4m_HJxvFDlbwAEfarP.jpg" width="600" alt="Ürün Pazarlaması - Minimalist Modern Dergi İllüstrasyon Tarzı - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [沐阳](https://x.com/yyyole)
+- **Kaynak:** [Twitter Post](https://x.com/yyyole/status/2061644933287838180)
+- **Yayınlandı:** 2 Haziran 2026
+- **Diller:** zh
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=23706)**
+
+---
+
+### No. 93: Ürün Pazarlaması - Japon Çocuk İngilizce LP Hero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4740,7 +4791,7 @@ Kısıtlamalar: Görünür yerlerde Japonca metni tam olarak belirtildiği gibi 
 
 ---
 
-### No. 93: Ürün Pazarlaması - El Yapımı Emaye Hatıra Magnet Tasarımı
+### No. 94: Ürün Pazarlaması - El Yapımı Emaye Hatıra Magnet Tasarımı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4844,7 +4895,7 @@ Metin hiyerarşisi:
 
 ---
 
-### No. 94: Ürün Pazarlaması - Nike Sportswear Editöryel Reklamı
+### No. 95: Ürün Pazarlaması - Nike Sportswear Editöryel Reklamı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4878,7 +4929,7 @@ Hiper gerçekçi {argument name="brand" default="NIKE"} spor giyim reklamı, gü
 
 ---
 
-### No. 95: Ürün Pazarlaması - Devasa Erkek Model Gökdelen Sanat Çalışması
+### No. 96: Ürün Pazarlaması - Devasa Erkek Model Gökdelen Sanat Çalışması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4918,7 +4969,7 @@ Manhattan'ın üzerinde yükselen bir gökdelenin kenarında oturan {argument na
 
 ---
 
-### No. 96: Ürün Pazarlaması - Gerçekçi Ticari İçecek Reklamı
+### No. 97: Ürün Pazarlaması - Gerçekçi Ticari İçecek Reklamı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4959,7 +5010,7 @@ Arka plan, uyumlu marka renklerinde dinamik boya sıçramaları ve sokak sanatı
 
 ---
 
-### No. 97: Ürün Pazarlaması - Yüksek Konseptli Çöl Aynası Moda Fotoğrafçılığı
+### No. 98: Ürün Pazarlaması - Yüksek Konseptli Çöl Aynası Moda Fotoğrafçılığı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4993,7 +5044,7 @@ Referans fotoğrafımı {argument name="subject" default="özne"} olarak kullan 
 
 ---
 
-### No. 98: Ürün Pazarlaması - Neon Şehir Soda Reklamı
+### No. 99: Ürün Pazarlaması - Neon Şehir Soda Reklamı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5027,7 +5078,7 @@ Islak ve neon ışıklı bir şehir sokağında duran dev bir cam {argument name
 
 ---
 
-### No. 99: Ürün Pazarlaması - Fütüristik Kentsel Performans Posteri
+### No. 100: Ürün Pazarlaması - Fütüristik Kentsel Performans Posteri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5077,7 +5128,7 @@ Kısıtlamalar: Tam olarak 1 merkezi insan figürü, tam olarak 3 belirgin rekla
 
 ---
 
-### No. 100: Ürün Pazarlaması - Lüks Spor Giyim Reklam Afişi
+### No. 101: Ürün Pazarlaması - Lüks Spor Giyim Reklam Afişi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5151,7 +5202,7 @@ Tipografi; premium editoryal düzenler, güçlü hiyerarşi, dengeli boşluklar,
 
 ---
 
-### No. 101: Ürün Pazarlaması - Şehir Sokaklarında Motosiklet Portresi
+### No. 102: Ürün Pazarlaması - Şehir Sokaklarında Motosiklet Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5189,7 +5240,7 @@ bulanık yüz, düşük kalite, fazladan parmaklar, deforme olmuş eller, bozuk 
 
 ---
 
-### No. 102: Ürün Pazarlaması - Premium Lavanta Akıllı Telefon Reklamı
+### No. 103: Ürün Pazarlaması - Premium Lavanta Akıllı Telefon Reklamı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5222,7 +5273,7 @@ Ultra gerçekçi premium akıllı telefon reklamı; açık tenli, keskin yüz ha
 
 ---
 
-### No. 103: Ürün Pazarlaması - Gotik Lüks Dergi Kapağı
+### No. 104: Ürün Pazarlaması - Gotik Lüks Dergi Kapağı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5253,46 +5304,6 @@ Ultra gerçekçi karanlık lüks dergi kapağı; dramatik siyah düşes saten el
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=23574)**
-
----
-
-### No. 104: Ürün Pazarlaması - Moda Editöryel Sulu Boya Portre
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Dokulu kağıt arka plan üzerinde zarif mürekkep çizgileri ve yarı saydam boya katmanları içeren rafine, çağdaş bir sulu boya illüstrasyonu.
-
-#### 📝 İstem
-
-```
-Moda editöryel sulu boya portre illüstrasyonu: {argument name="person" default="Blown Bob saç kesimli genç bir Koreli kadın"}, üzerinde {argument name="outfit" default="yumuşak pembe bir üst"}, hafif {argument name="atmosphere" default="güneşli bir Mayıs çiçek bahçesi"} atmosferinde. Herhangi bir cinsiyet, yaş, etnik köken, cilt tonu, saç stili ve vücut tipi için doğal bir şekilde çalışır; saygılı, kalıplaşmış özelliklerden uzak, doğal oranlara ve sakin, sıcak bir ifadeye sahiptir. Yarı saydam katmanlı sulu boya yıkamaları üzerinde ince, zarif mürekkep veya kurşun kalem çizgileri, serbest ve akışkan fırça darbeleri, ıslak üzerine ıslak karıştırma, yumuşak dağılan kenarlar, tamamlanmamış açık kenarlar, görünür beyaz sulu boya kağıdı dokusu, bilinçli negatif alan kullanımı. Rahat duruş, hafif baş eğimi, hafif üç çeyrek açı, belden yukarı veya kalçadan başa kadar kadraj. Minimalist editöryel moda eskiz estetiği, rafine çağdaş portre havası, düz ve eşit reprodüksiyon tarzı aydınlatma, uçtan uca netlik. Fotorealizm yok, 3D render yok, bokeh yok, alan derinliği bulanıklığı yok, karikatür yok, sert ana hatlar yok, karmaşık arka plan yok.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780391985208_pdv4b3_HJuTsekasAAgGkV.jpg" width="600" alt="Ürün Pazarlaması - Moda Editöryel Sulu Boya Portre - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780391985200_mcmcue_HJuTss9bgAA5AvZ.jpg" width="600" alt="Ürün Pazarlaması - Moda Editöryel Sulu Boya Portre - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Anissa](https://x.com/SimplyAnnisa)
-- **Kaynak:** [Twitter Post](https://x.com/SimplyAnnisa/status/2061403655132336568)
-- **Yayınlandı:** 1 Haziran 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/gpt-image-2-prompts?id=23604)**
 
 ---
 
@@ -5922,7 +5933,7 @@ Lüks {argument name="perfume" default="Givenchy L’Interdit"} parfüm şişesi
 
 <div align="center">
 
-### 🎯 8519 burada gösterilmeyen daha fazla istem
+### 🎯 8520 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5985,6 +5996,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-02T15:57:46.683Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-03T02:42:55.962Z</sub>
 
 </div>
