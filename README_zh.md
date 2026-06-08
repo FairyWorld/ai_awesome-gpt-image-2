@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **9319** |
+| 📝 提示词总数 | **9445** |
 | ⭐ 精选 | **6** |
-| 🔄 最后更新 | **2026年6月8日星期一 UTC 02:35:02** |
+| 🔄 最后更新 | **2026年6月8日星期一 UTC 15:25:21** |
 
 </div>
 
@@ -525,219 +525,38 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 按发布日期排序（最新优先）
 
-### No. 1: 个人资料 / 头像 - 彩色油画风格肖像转换
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-将黑白肖像参考图转换为色彩鲜艳、富有表现力的油画插图，并添加抽象蓝色水墨背景，同时保留面部遮挡块。
-
-#### 📝 提示词
-
-```
-以提供的参考图为基础，将其从黑白摄影转换为生动多彩的油画插图，同时保留相同的构图、姿势、服装轮廓、发型以及矩形面部遮挡块。添加参考图中不存在的纹理抽象艺术背景：米白色纸张质感，配以宽大的蓝色颜料涂抹、深蓝色墨水溅射、粗糙的交叉影线、笔触痕迹和滴落效果。为人物进行自然上色，采用暖色调肤色、光泽的深色头发、黑色夹克和蓝色开衫/围巾，并以富有表现力的油画高光和高对比度的水墨感边缘进行渲染。保持整体构图与参考图一致，切勿显露或重构被遮挡的面部；面部区域必须保持被实心矩形遮盖的状态。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822726593_zbf1ol_HKKVOTwbgAAxoGO.jpg" width="600" alt="个人资料 / 头像 - 彩色油画风格肖像转换 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [TWnese](https://x.com/TWnese)
-- **来源:** [Twitter Post](https://x.com/TWnese/status/2063380168249622706#reversed-1)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24530)**
-
----
-
-### No. 2: 个人资料 / 头像 - Instagram 生活方式拼贴画提示词
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一份用于创作 Instagram 风格美学拼贴画的提示词，描绘了一位在咖啡馆中的男性，强调自然日光与情绪化调色。
-
-#### 📝 提示词
-
-```
-创作一张超写实的电影感 Instagram 生活方式拼贴画，主角为一位 {argument name="subject" default="年轻南亚男性"}，他正惬意地待在舒适美观的 {argument name="location" default="咖啡馆/图书馆角落"} 中，背景为蓝绿色内饰和复古木镶板。呈现自然随性的智能手机摄影美学，带有柔和的自然光、真实的皮肤质感、冷静的知识分子氛围以及极简的情绪化调色。采用受现代 Instagram 快拍/短视频截图启发的双帧垂直拼贴构图。主角外貌：年轻南亚男性，脸型瘦削，中等白皙的暖色调皮肤，下颌线柔和，留有浅浅的胡须，黑色自然发色，戴着一顶带有黑色刺绣 Logo 的白色棒球帽。表情平静深思，肢体语言放松。展现自然随性的男性美学。服装：宽松版型的米色/奶油色灯芯绒衬衫，袖口宽大，内搭浅灰色 T 恤，极简休闲风格。佩戴带有黑色 Logo 刺绣的白色棒球帽。手指佩戴银色戒指。场景与环境：室内咖啡馆/休息室，背景是摆满书籍的蓝绿色书架。书架下方为深色抛光木质墙板。配有绿色皮质软垫沙发。带有纹理的复古风格墙面上隐约可见黑白艺术画框。营造出舒适的知识分子咖啡馆氛围，充满安静的阅读美感。第一帧：年轻男子以放松的姿态侧坐在绿色沙发上。左臂自然地搭在靠背上，手中仔细阅读着一本打开的诗集。头部微微低垂看向书本。捕捉自然的阅读瞬间。侧面射入的自然光营造出柔和的阴影和真实的亮部。氛围宁静且富有诗意。第二帧（底部）：年轻男子正对着镜头，用同一本诗集完全遮住脸部。书的封面可见复古花卉设计和“Ghalib”标题美学。一只手将书垂直举在脸前。极简的放松姿势，散发着艺术气息的内向感。摄影风格：超写实 DSLR 与智能手机混合摄影，Instagram 美学，自然环境光，真实比例，浅景深
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822657676_ke7j6l_HKJMNeNakAAx3-L.jpg" width="600" alt="个人资料 / 头像 - Instagram 生活方式拼贴画提示词 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Al-Shamus](https://x.com/im_shahid7)
-- **来源:** [Twitter Post](https://x.com/im_shahid7/status/2063295384919888049)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24419)**
-
----
-
-### No. 3: 个人资料 / 头像 - 韩式卧室摄影
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个超写实的提示词，捕捉了现代韩式卧室中，一位女性在温暖午后阳光下的亲密、宁静肖像。
-
-#### 📝 提示词
-
-```
-超写实肖像，一位美丽的年轻 {argument name="ethnicity" default="东亚"} 女性，留着长长的黑色亮泽秀发，扎成随意的蓬松高马尾，配有轻薄的空气刘海，肤色白皙透亮，五官精致柔美，妆容自然，神情恬静温柔。她舒适地坐在 {argument name="furniture" default="舒适的床"} 上，身处一间温暖的现代卧室中。房间内配有奶油色寝具、柔软的针织毯、过滤午后阳光的薄纱窗帘、墙上的相框、木质床头柜、小型盆栽以及散发柔光的床头灯。氛围亲密、宁静且充满生活气息。服装：温暖的 {argument name="outfit color" default="燕麦米色"} 系简约奢华家居服。长袖纹理针织亨利衫，完全覆盖胸部和肩部，领口带有小纽扣，版型宽松。搭配同色系高腰针织休闲裤，带有细微的罗纹质感。穿着柔软的奶油色袜子。造型舒适、优雅且得体，无任何暴露元素。姿势：盘腿坐在床上，双手自然交叠放在膝盖上，双肩放松，身体微微前倾面向镜头。眼神柔和交流，微微侧头，肢体语言自然，表情平静且具亲和力。光影：窗外射入的温暖午后阳光与床头灯的柔和环境光相结合。发丝和皮肤上有柔和的高光，阴影真实，呈现出舒适的黄金时刻氛围，自然光线衰减。环境：极简韩式卧室美学，中性米色和奶油色调，空间整洁，材质柔软，木质元素温暖，亲密的居家环境。相机：平视肖像摄影，9:16 竖构图，等效 85mm 镜头，浅景深，背景虚化柔和，皮肤纹理真实，织物细节清晰，呈现自然的摄影质感。风格：舒适生活方式摄影，韩式卧室美学，真实抓拍肖像，宁静的周末早晨氛围，高级杂志质感，高细节，超写实，比例真实，自然美，Vogue Korea 风格，8K 画质。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822669383_xbuqw2_HKJLDN0bMAAs3sh.jpg" width="600" alt="个人资料 / 头像 - 韩式卧室摄影 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822669381_a5hm8n_HKJLDTaacAAWoHk.jpg" width="600" alt="个人资料 / 头像 - 韩式卧室摄影 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Johnn](https://x.com/john_my07)
-- **来源:** [Twitter Post](https://x.com/john_my07/status/2063294103014838338)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24443)**
-
----
-
-### No. 4: 个人资料 / 头像 - 香港海滨夜景人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张写实的全身街头人像，展现了一位时尚女性在香港海滨长廊的夜景，适用于旅游和时尚摄影生成。
-
-#### 📝 提示词
-
-```
-创作一张写实的全身夜间旅游人像，主角为 {argument name="subject" default="一位年轻的东亚女性"}，她站在香港的海滨长廊上，身体微向左侧，头部转向灯火辉煌的城市天际线。她位于画面中心，身后是绿色的金属栏杆，一只手轻轻搭在栏杆上，另一只手自然垂在身侧。她穿着 {argument name="outfit" default="米色短款吊带背心、叠戴项链、非常宽松的浅蓝色多口袋工装牛仔裤，以及白色厚底凉鞋"}；画面需包含 5 个清晰可见的服饰/配饰元素：米色短款上衣、叠戴项链、带有多个侧袋的宽松工装牛仔裤、白色厚底凉鞋，以及锁骨/上胸部附近的微小纹身。背景展示了夜晚的维多利亚港，有深色的粼粼波光、五彩斑斓的霓虹灯倒影、密集的摩天大楼和标志性的港式建筑，右侧还有一座灯火通明的码头或渡轮大楼。采用 16:9 宽画幅横向构图，平视视角，全身取景并在天际线上方留有空间，潮湿的地面反射着灯光，闪光灯下的主体与细腻的城市夜景形成对比，呈现自然的皮肤质感、写实的街头摄影风格、高动态范围、清晰对焦，无文字，无水印。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822724421_zag4nj_HKJAjjobAAAHrrc.jpg" width="600" alt="个人资料 / 头像 - 香港海滨夜景人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822724452_a6huds_HKJAzxbbYAADxAr.jpg" width="600" alt="个人资料 / 头像 - 香港海滨夜景人像 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Nailai7981](https://x.com/VIBEQUIRKLABS)
-- **来源:** [Twitter Post](https://x.com/VIBEQUIRKLABS/status/2063283765909299301#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24527)**
-
----
-
-### No. 5: 个人资料 / 头像 - 温馨日式卧室肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个高保真肖像提示词，利用人脸参考生成温馨、阳光明媚的日式卧室场景，并带有治愈系影视美学风格。
-
-#### 📝 提示词
-
-```
-使用我上传的照片作为人脸参考。以极高的准确度保留我的面部特征、脸型、眼睛、鼻子、嘴唇、肤色以及整体身份信息。保持极强的人脸一致性。这必须是一张真实的人类肖像，具备逼真的面部解剖结构和自然的人类外观。重要提示：仅限超写实摄影。真实人类主体。禁止动漫、卡通、插画、CGI、3D 渲染、玩偶般的面孔、人工美颜滤镜或夸张的五官。垂直肖像比例 9:16。创建一个超写实的 {argument name="atmosphere" default="受现代日剧美学启发的温馨日式卧室场景"}。氛围温暖、宁静、柔美且具有自然的生活气息。场景与环境：我舒适地躺在美丽日式卧室的柔软床上。温暖的金色阳光透过大窗户洒入，在房间内形成柔和的光束和淡淡的阴影。窗外可见郁郁葱葱的绿树，增添了清新宁静的感觉。我身边有一台精美的复古收音机，带有逼真的怀旧细节。房间里有几个蓬松的枕头、可爱的小装饰品、精致的小花艺、一个摆满书籍的小型木质书架、美学摆件、舒适的织物纹理以及迷人的女性化房间装饰。姿势与表情：自然地躺在床上，放松且舒适。头部微微转向镜头。温柔的微笑，眼神平静。呈现出仿佛在家享受宁静午后的自然抓拍感。发型：长直黑发，顺滑、丝滑、健康，自然地散落在枕头上，逼真的发丝捕捉着阳光。妆容：{argument name="makeup style" default="高级韩日抖音风妆容"}，柔和的发光肌肤、淡淡的腮红、精致的睫毛、自然的亮泽唇妆、精致的眼妆，展现年轻优雅的美感，呈现真实的皮肤纹理。服装：{argument name="clothing" default="超大款白色 T 恤，正面印有“Avelyrahn”字样，并配有简约优雅的树木插画"}。配饰：极简银色项链、精致银戒指、优雅银手链。摄影：超写实专业摄影、自然窗光、电影级构图、浅景深、8K 画质。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822673577_n9gsxa_HKIoK4iaQAA3abF.jpg" width="600" alt="个人资料 / 头像 - 温馨日式卧室肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Avelyrah](https://x.com/AvelyrahnAI)
-- **来源:** [Twitter Post](https://x.com/AvelyrahnAI/status/2063255751242752469)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24449)**
-
----
-
-### No. 6: 个人资料 / 头像 - 柔和自然光室内人像
+### No. 1: 个人资料 / 头像 - 太空女仆咖啡厅零重力肖像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一个用于生成写实室内人像的高细节提示词，专注于柔和光线、自然质感以及舒适的午后氛围。
+一个关于空间站咖啡厅内日式女仆的高细节提示词，包含零重力发丝、漂浮的甜点以及背景中的地球。
 
 #### 📝 提示词
 
 ```
 主体：
-{argument name="subject" default="午后在光影中舒展"}
+{argument name="theme" default="欢迎来到太空女仆咖啡厅"}
 
 人物/表情：
-一位年轻女性，留着 {argument name="hair color" default="黑色头发"}，薄刘海，脸颊周围有自然的碎发，自然妆容，通透的皮肤，圆润动人的双眼，温柔谦逊的微笑，与镜头自然的眼神交流，神情平静而友好。
+{argument name="subject" default="日本年轻女性"}，柔软的棕色长发，刘海，头发在零重力下轻柔散开。自然妆容，通透的皮肤，微红的脸颊，温柔的微笑表情，单手轻抚脸颊，做出害羞可爱的姿势。
 
 服装/姿势：
-{argument name="outfit" default="白色垂坠吊带衫，内搭黑色蕾丝背心"}，浅灰色居家裤，佩戴细项链和耳钉，坐在沙发上，姿势自然，身体微微前倾，双臂自然垂在身前。
+{argument name="outfit" default="黑白日式女仆咖啡厅制服"}，白色蕾丝头饰，粉色丝带，心形图案，带有大量荷叶边的白色围裙，优雅且略显修身的设计，白色过膝袜，黑色绑带鞋。在零重力空间中轻柔漂浮，单手托着银色托盘，膝盖微曲，呈现可爱的漂浮姿势。
 
-背景/光线：
-米色沙发和靠垫，白色窗帘，右后方有一盏温暖的台灯，整洁的房间内摆放着室内绿植，平静的光线融合了柔和的自然光与温暖的间接照明，营造出午后余韵般的沉静氛围。
+背景/光影：
+空间站内的女仆咖啡厅，大窗外可见一颗地球和深邃的星空。室内采用整洁的金属框架和柔和的灯光。周围漂浮着草莓芭菲、哈密瓜汽水、草莓奶油蛋糕、鲷鱼烧、茶、马卡龙和茶壶。小物件数量适中，整个画面布局整洁，易于观赏。
 
-构图/相机：
-竖构图，近景人像，包含上半身至腰部，略微俯视的自然相机视角，如同手机拍摄般的亲密距离，50mm 等效焦距，浅景深，焦点清晰地落在面部和眼睛上，背景自然虚化。
+构图/镜头：
+竖屏手机比例，全身漂浮肖像，人物居中，通过窗框营造深度感。35mm 镜头，略带广角的动态视角，景深适中，通过前景和背景中漂浮的甜点强调零重力感。地球仅在背景中出现一次，不重复。
 
 质感/风格：
-高清晰度，4K 画质，写实摄影风格的 AI 图像，自然的皮肤质感，可见毛孔和纹理，细致的发丝，眼睛中自然的闪光，细腻还原蕾丝和织物纹理，具有摄影质感，无过度处理，温暖通透的日系人像，柔和的色彩校正。
+高清晰度，4K 画质，写实风格的 AI 图像，自然的皮肤纹理，逼真的毛孔和发丝细节，无过度处理的摄影感，日式肖像，电影级布光，通透的色调，太空咖啡厅的梦幻感，甜点光泽新鲜，草莓多汁，奶油柔软，哈密瓜汽水可见碳酸气泡和冰块，呈现杂志摄影般的质感。
 
 负面提示词：
-低质量，不自然的面部，不自然的手，多余的手指，缺失的手指，扭曲的手指，奇怪的眼神，不对称的眼睛，面部崩坏，扭曲的身体，破损的衣服，过度处理，过度磨皮，过度锐化，曝光过度，不自然的 AI 特有质感，不自然的背景，文字，Logo，水印
+低质量，不自然的面部，不自然的手部，多余的手指，缺失的手指，扭曲的手指，奇怪的眼线，不对称的眼睛，崩坏的脸，扭曲的身体，破损的衣服，过度暴露，背景有多个地球，重叠的行星，不自然的窗框，重叠的漂浮物，杂乱的物品，扭曲的托盘，崩坏的甜点，乱码，Logo，水印，AI 特有的不自然纹理
 ```
 
 #### 🖼️ 生成图片
@@ -745,33 +564,33 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822689794_k577k1_HKHUPEebMAA83__.jpg" width="600" alt="个人资料 / 头像 - 柔和自然光室内人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780911044008_ye6spz_HKPwdbSasAEjEzL.jpg" width="600" alt="个人资料 / 头像 - 太空女仆咖啡厅零重力肖像 - Image 1">
 </div>
 
 #### 📌 详情
 
 - **作者:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **来源:** [Twitter Post](https://x.com/CyberTotal2026/status/2063221868564476052)
-- **发布时间:** 2026年6月6日
+- **来源:** [Twitter Post](https://x.com/CyberTotal2026/status/2063757448763330721)
+- **发布时间:** 2026年6月7日
 - **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24470)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24646)**
 
 ---
 
-### No. 7: 个人资料 / 头像 - 雨中巴士真人 Cosplay 电影剧照
+### No. 2: 个人资料 / 头像 - 美少女战士涂鸦自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一个用于生成写实风格成人 Cosplay 电影剧照的提示词，场景设定在雨中的城市巴士内，呈现低饱和度的 DV 摄像机质感。
+生成一张带有手绘魔法少女水手服涂鸦的卧室随拍风格自拍照，适合趣味社交媒体编辑。
 
 #### 📝 提示词
 
 ```
-创作一张真人电影感 Cosplay 照片，主角为一位 {argument name="character name" default="优雅的银发奇幻女主角"}，独自坐在老旧的城市巴士上，取景范围为腰部以上，位于左侧车窗旁。主体是一位成年 Cosplayer，姿势自然，安静地望向窗外的雨景而非镜头；面部大部分被长刘海和柔和阴影遮挡，不做任何美颜修饰。使用真实的皮肤纹理和逼真的布料质感。服装应显得优雅且融入日常生活：包含 6 个清晰可见的服装细节，包括长波浪 {argument name="hair color" default="银灰色"} 头发、脑后的大型黑色蝴蝶结、白色高领大衣、浅蓝色与金色刺绣肩章、带有宝石装饰的大型青蓝色胸前蝴蝶结，以及垂坠的紫色宝石耳环。场景为一辆破旧的公共巴士内部，配有深绿黑色乙烯基座椅，前景有金属座椅扶手，左侧是高大的起雾车窗，窗外是雨后低饱和度的模糊城市街道，可见光秃的树木、路灯和远处的车流。采用 16:9 电影剧照构图，主体位于右侧三分之一处，巴士车窗延伸至左侧背景，浅景深，低饱和度的青灰色调，柔和的阴天冬日光线，轻微的玻璃反光，窗外细微的动态模糊，可见的胶片颗粒感，老式 DV / 21 世纪初电影质感，真实的镜头柔焦，营造出忧郁宁静的氛围。在左上角添加一个小的白色尖角 V 型标志，并在右下角添加一个小的衬线体小写水印 {argument name="watermark text" default="voxcat"}。避免插画感、动漫渲染、塑料感皮肤、影棚灯光、夸张的 Cosplay 姿势以及过于完美的 AI 生成感。
+创作一张休闲的竖屏手机镜面/自拍风格卧室照片，画面中一名年轻女性坐在床上摆姿势，脸部被一个居中的大号方形像素化/模糊遮挡块遮住，遮挡块呈现温暖的米色肤色渐变。她留着 {argument name="hair style" default="深色凌乱双丸子头，带有几缕碎发"}，双肘内收，双手捧脸，呈现可爱的早晨姿势。在照片上叠加一套受《美少女战士》启发的手绘魔法少女水手服：白色上衣配有醒目的蓝色水手领和肩部条纹，胸前有一个用粗白线和黑线勾勒的巨大红色蝴蝶结，中心有一个带有红色小爱心的黄色新月胸针，底边为蓝色百褶裙，并配有相呼应的黄色新月腰带装饰。涂鸦叠加层应看起来像是直接画在照片上的马克笔艺术，带有粗糙的草图线条、类似白色贴纸的边框、蓝色/红色/黄色的涂鸦填充，以及不完美的趣味比例。在主体周围精确布置 5 个红色爱心涂鸦、7 个黄色星星涂鸦、5 个白色小闪光涂鸦，以及 2 个黄色新月标志（包括胸部和腰部的装饰）。背景：昏暗的室内卧室，米色墙壁，身后有一扇门和走廊，右侧是凌乱的白色床品，左侧是椅子边缘，后方有一张杂乱的小桌子；使用写实的闪光灯摄影光效和略微倾斜的随拍构图。保持画面趣味、可爱且具有手工感，就像是一篇关于变身为 {argument name="character inspiration" default="美少女战士"} 的社交媒体帖子。
 ```
 
 #### 🖼️ 生成图片
@@ -779,39 +598,39 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822707822_l6i92v_HKIHCBFbAAAwkY1.jpg" width="600" alt="个人资料 / 头像 - 雨中巴士真人 Cosplay 电影剧照 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780911063879_7bo92z_HKPngN3a8AAfEoA.jpg" width="600" alt="个人资料 / 头像 - 美少女战士涂鸦自拍 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822709383_gnw3x0_HKIHD2NbYAADpiF.jpg" width="600" alt="个人资料 / 头像 - 雨中巴士真人 Cosplay 电影剧照 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780911063878_z2ffmp_HKPnhSlacAAAMtm.jpg" width="600" alt="个人资料 / 头像 - 美少女战士涂鸦自拍 - Image 2">
 </div>
 
 #### 📌 详情
 
-- **作者:** [VoxCat](https://x.com/VoxcatAI)
-- **来源:** [Twitter Post](https://x.com/VoxcatAI/status/2063219373670867451#reversed-0)
-- **发布时间:** 2026年6月6日
+- **作者:** [susumu_Mind](https://x.com/SusumuMind)
+- **来源:** [Twitter Post](https://x.com/SusumuMind/status/2063748139971174415#reversed-0)
+- **发布时间:** 2026年6月7日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24498)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24677)**
 
 ---
 
-### No. 8: 个人资料 / 头像 - 电影感轮廓光肖像
+### No. 3: 个人资料 / 头像 - 单色微距皮肤纹理肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一张极具戏剧性的电影感肖像，采用强烈的红色轮廓光与深蓝色阴影，聚焦于特定人物的面部特征。
+一个高度详细的 8K 黑白微距肖像提示词，呈现出超现实的波浪状光影在人体皮肤上流动的效果。
 
 #### 📝 提示词
 
 ```
-超写实电影感肖像，主角为 {argument name="subject" default="Arthur Ferreira"}，保留精准的面部特征，真实的皮肤纹理，深棕色短卷发且具有自然蓬松感，浓密的眉毛且右眉有明显的断眉设计，络腮胡与八字胡相连，侧身回眸的戏剧性姿势，身穿黑色极简 T 恤，头发和面部带有强烈的红色轮廓光，深蓝色电影感阴影，前景带有抽象模糊的红色光束，暗调情绪化背景，戏剧性的电影海报布光，浅景深，奢华电影摄影风格，超写实皮肤毛孔，8k 超高清细节，极具戏剧性的情感构图
+一张超精细的 8K 黑白微距肖像，主体为 {argument name="subject" default="年轻男子"}，镜头紧凑地聚焦于他的眼睛、颧骨和嘴唇。明亮的阳光分裂成柔和、波浪状的发光线条，像水下倒影一样在他的皮肤上荡漾。光线呈对角线流动，以梦幻般的图案包裹着面部轮廓，阴影消融在平滑的中灰色调中。皮肤呈现出摄影级的细节：清晰可见的毛孔、淡淡的雀斑、细微的胡茬，以及捕捉着微光的自然纹理。嘴唇被柔和地高亮，眼睛反射出光波的碎片。微距镜头构图，极浅的景深：只有一条被照亮的皮肤纹理清晰可见，其余部分融化在天鹅绒般的模糊中。流动的光线赋予了画面一种扎根于写实主义的超现实玻璃质感。背景渐变为柔和的灰色。画面叠加了细腻的电影质感颗粒。这是一幅亲密且富有情感感染力的单色肖像。
 ```
 
 #### 🖼️ 生成图片
@@ -819,377 +638,38 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822658167_xjl5l9_HKIEihVbcAAKs8d.jpg" width="600" alt="个人资料 / 头像 - 电影感轮廓光肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Harboris](https://x.com/harboriis)
-- **来源:** [Twitter Post](https://x.com/harboriis/status/2063216573847093444)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24420)**
-
----
-
-### No. 9: 个人资料 / 头像 - 写实东亚人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一个用于生成高质量东亚女性特写人像的写实提示词，具备自然光感和自拍美学。
-
-#### 📝 提示词
-
-```
-一位年轻东亚女性的特写肖像，留着乌黑长发，手托脸颊，身穿深灰色罗纹高领毛衣，表情中性且略显疲惫，近乎素颜的自然肤质，柔和的室内暖光，浅景深，写实自拍风格。一位年轻东亚女性的特写肖像，留着温暖的栗棕色波浪卷发，手托脸颊，身穿奶油白色罗纹高领毛衣，带着柔和细腻的微笑，肤质清透亮泽，柔和的室内暖光，自然之美，写实自拍美学。一位年轻东亚女性的特写肖像，留着金色直发，手托脸颊，身穿鼠尾草绿罗纹高领毛衣，表情柔和好奇，嘴唇丰满且带有光泽，长睫毛，肤质水润透亮，温暖的室内环境光，写实自拍风格。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822694124_cvysr7_HKHwuBTakAAiwAL.jpg" width="600" alt="个人资料 / 头像 - 写实东亚人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780911017198_ragqgn_HKPCTT6bEAApkTS.jpg" width="600" alt="个人资料 / 头像 - 单色微距皮肤纹理肖像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822694206_699653_HKHwuBPbUAAhfOE.jpg" width="600" alt="个人资料 / 头像 - 写实东亚人像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822694173_2fir16_HKHwuBdb0AAPxSZ.jpg" width="600" alt="个人资料 / 头像 - 写实东亚人像 - Image 3">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Sairah](https://x.com/Sairah_0)
-- **来源:** [Twitter Post](https://x.com/Sairah_0/status/2063194788703416501)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24479)**
-
----
-
-### No. 10: 个人资料 / 头像 - 动漫风格告别少女与平板电脑
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张柔和的动漫肖像，描绘了一位手持写有告别文字平板电脑并敬礼的女孩，适用于关于更换创作工具的社交媒体帖子。
-
-#### 📝 提示词
-
-```
-创作一张背景干净的柔和动漫风格插画：一位留着 {argument name="hair color" default="长灰发"} 的年轻女性，身穿超大号纯白 T 恤，半身像。她的脸部被一个位于正中央的平坦不透明灰褐色方形遮挡块刻意遮住，头发垂落在遮挡块周围。她左手抬起在额头附近行告别礼，右臂将一台黑色边框的平板电脑垂直抱在胸前。平板电脑屏幕为白色，显示手写日语文字：{argument name="tablet text" default="チャッピー"}。在左后方添加一道带有微小闪光的淡彩虹弧线。包含三个可见文本元素：左上角的手写日语文字 {argument name="farewell text" default="今までありがとう"}，下方的小写手写英文 {argument name="service name" default="niji journey..."}，以及平板电脑上的文字。使用细腻的线条、淡雅的水彩渲染、富有光泽的细节发丝、柔和的肤色、极简背景、垂直肖像构图，营造出一种感伤的告别氛围。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822719289_12yyru_HKFzW8PakAEvFug.jpg" width="600" alt="个人资料 / 头像 - 动漫风格告别少女与平板电脑 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [ももうさ](https://x.com/HimmelIbf93208)
-- **来源:** [Twitter Post](https://x.com/HimmelIbf93208/status/2063194572549914938#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24518)**
-
----
-
-### No. 11: 个人资料 / 头像 - 巴洛克沙发上的动漫女仆
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一张电影质感的动漫女仆插画，背景为装饰华丽的维多利亚式客厅，配有奢华的红色天鹅绒和金色装饰。
-
-#### 📝 提示词
-
-```
-创作一张高质量的动漫插画，背景为奢华的维多利亚式豪宅客厅。一位美丽的年轻女仆，留着 {argument name="hair color" default="栗棕色长发"}，侧身斜倚在一张带有镀金巴洛克木饰的深红色簇绒天鹅绒沙发上。她的面部被特意用平滑的矩形模糊/遮挡块遮住，但保持图像其余部分的细节与优雅。她穿着经典的黑白荷叶边女仆装：白色褶边发带、泡泡短袖、带有领口黑色丝带蝴蝶结的修身白色紧身胸衣、带有交叉系带的黑色束腰、多层白色围裙、黑色裙摆装饰、多层褶边下摆、袜带式大腿褶边，以及带有脚踝绑带的亮面黑色玛丽珍鞋。让她呈现出慵懒的姿势：一只手肘撑在下巴附近，另一只手放松地放在裙子上，双腿沿沙发伸展。房间应充满奢华与温暖的氛围：红色天鹅绒窗帘、金色墙面装饰、装裱的古典油画、带有烛光暖色灯光的壁灯、边桌上摆放着绿植的装饰性瓷瓶、抛光大理石地面，以及营造出戏剧性高光与阴影的柔和阳光。使用 {argument name="art style" default="精致现代动漫，gpt-image-2 风格，waiAnima 美学"}，高度精细的织物褶皱、光泽反射、电影级灯光、浓郁的红金色调、清晰对焦、优雅构图，16:9 横向画布。避免出现文字、水印、多余角色、解剖结构变形或杂乱的背景。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822727004_oqwz0h_HKGrB_HagAAYf_v.jpg" width="600" alt="个人资料 / 头像 - 巴洛克沙发上的动漫女仆 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Kota](https://x.com/k0ta0uchi)
-- **来源:** [Twitter Post](https://x.com/k0ta0uchi/status/2063118880789450804#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24532)**
-
----
-
-### No. 12: 个人资料 / 头像 - 韩系休闲时尚人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成具有柔和美感和城市背景的自然电影感韩系时尚人像。
-
-#### 📝 提示词
-
-```
-超写实 {argument name="subject" default="韩系休闲女孩"} 人像，电影质感，9:16 竖构图。使用参考图作为主体面部（保持相同身份、相同面部特征，确保一致性）。一位五官柔美的年轻女性，皮肤透亮，韩式自然妆容（水光肌、柔和腮红、咬唇妆）。穿搭：{argument name="outfit" default="韩系休闲时尚 — 宽松针织衫或修身开衫，搭配迷你裙或直筒牛仔裤"}，简约时尚，柔和中性色调（米色、奶油色、浅色系）。发型：长卷发，自然垂坠，略带空气感，轻盈飘逸。表情：平静，浅浅微笑，毫不费力的美感，自然抓拍的 느낌。场景选项：{argument name="location" default="在黄昏时分漫步于安静的首尔街道"}。光影：柔和的电影感光效，自然阳光或霓虹微光，柔和阴影，韩剧氛围。相机：50mm 镜头，浅景深，背景虚化。风格：韩剧美学，自然，干净，高细节，真实皮肤质感，柔光，电影级调色。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822661856_kr8b67_HKGj7fHaMAAo0YL.jpg" width="600" alt="个人资料 / 头像 - 韩系休闲时尚人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822661818_n6h3z5_HKGj7gCa8AA4GUX.jpg" width="600" alt="个人资料 / 头像 - 韩系休闲时尚人像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822661824_me1gtl_HKGj7ecbsAAoEsY.jpg" width="600" alt="个人资料 / 头像 - 韩系休闲时尚人像 - Image 3">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Calira](https://x.com/CaliraVal)
-- **来源:** [Twitter Post](https://x.com/CaliraVal/status/2063110357065859130)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24428)**
-
----
-
-### No. 13: 个人资料 / 头像 - 90 年代一次性相机人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一张充满 90 年代怀旧风格的年轻女性人像，采用一次性相机质感拍摄，背景是杂乱的米色墙面。
-
-#### 📝 提示词
-
-```
-一位面容如初的年轻女性，肤色白皙柔和，仿佛定格在 90 年代经典的一次性相机快照中。她乌黑的秀发自然垂落在脸庞两侧。她带着一丝淡淡的浅笑，神情放松而从容。她穿着一件简约的白色修身 Baby T 恤。背景是一面浅米色的墙，上面贴满了拍立得照片、涂鸦和用胶带粘住的演唱会门票。闪光灯效果柔和通透，带有轻微的颗粒感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822655588_ex8qa5_HKGfwblasAAAT5G.jpg" width="600" alt="个人资料 / 头像 - 90 年代一次性相机人像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
-- **来源:** [Twitter Post](https://x.com/saniaspeaks_/status/2063108663074500979)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24414)**
-
----
-
-### No. 14: 个人资料 / 头像 - 黄金时刻公交车人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张在城市公交车上拍摄的穿着阿根廷球衣的年轻人的抓拍人像，呈现出柔和的黄金时刻阳光和城市背景。
-
-#### 📝 提示词
-
-```
-超写实的抓拍人像，主角是一位 {argument name="subject" default="年轻人"}，留着深色短卷发，身穿一件超大号的 {argument name="clothing" default="阿根廷国家队足球球衣（19 号）"}，坐在城市公交车上及公交车站，背景为黄金时刻。柔和温暖的阳光透过大窗户射入，在脸上形成极具戏剧性的光影图案。自然妆容，无瑕的白皙皮肤，富有表现力的双眼，神情放松且自信，具有街头时尚摄影的编辑美感。透过窗户可以看到城市背景，包括自行车、店面和古典建筑。使用 50mm 镜头拍摄，浅景深，电影级构图，真实的生活方式时尚摄影，高度细腻的皮肤纹理，自然色彩，柔和的高光，细腻的胶片颗粒感，Instagram 编辑风格，照片级真实感，8K 分辨率，高动态范围。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822659241_cm0b2r_HKGX-o8aIAAjiMC.jpg" width="600" alt="个人资料 / 头像 - 黄金时刻公交车人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822659198_5t0eqg_HKGX-o7aQAAh5b6.jpg" width="600" alt="个人资料 / 头像 - 黄金时刻公交车人像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822659176_erz8ih_HKGX-o7asAAaihh.jpg" width="600" alt="个人资料 / 头像 - 黄金时刻公交车人像 - Image 3">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Sairah](https://x.com/Sairah_0)
-- **来源:** [Twitter Post](https://x.com/Sairah_0/status/2063097219654287840)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24422)**
-
----
-
-### No. 15: 个人资料 / 头像 - 堆叠式智能手机闪光灯自拍
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-用于生成三张垂直堆叠的智能手机自拍的提示词，包含直闪效果、随性 Instagram 风格和 Y2K 复古感。
-
-#### 📝 提示词
-
-```
-超写实深夜闪光灯自拍拼贴，三张堆叠的智能手机照片，主角为一位留着齐肩黑发的年轻女性，皮肤透亮，带有淡淡腮红，涂抹亮面粉色唇釉，自然韩系妆容，身穿蓝灰色无袖背心，佩戴银色链条项链，手托脸颊，俏皮眨眼，侧目而视，做出嘟嘴表情。直射相机闪光灯营造出明亮的高光与深邃的阴影，昏暗的室内卧室背景，随性自然的自拍美学，蓬松凌乱的发丝，照片级的皮肤质感，眼部与唇部细节丰富，Instagram/Tumblr 风格，35mm 摄影，写实光影，超清晰对焦，高分辨率。超写实 Gen Z 自拍照片拼贴，三张垂直的智能手机闪光灯自拍，主角为一位留着长波浪黑发的年轻女性，水润透亮的玻璃肌，粉嫩腮红，亮面蜜桃唇，自然妆容，身穿褪色蓝灰色无袖 Nirvana 背心，佩戴银色链条项链，涂抹带有美甲艺术的黑色指甲油，手托下巴摆拍，俏皮眨眼并吐舌，表情温暖甜美。直面闪光灯摄影，干净的浅灰色墙面背景，高对比度阴影，随性 Instagram 风格，面部细节清晰，浅景深，Y2K 氛围，柔和皮肤质感，照片级真实，35mm 镜头，高分辨率。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822665133_9lfiiy_HKGRy9CbMAAgK-t.jpg" width="600" alt="个人资料 / 头像 - 堆叠式智能手机闪光灯自拍 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822665162_y73xjh_HKGRzBNaIAAusct.jpg" width="600" alt="个人资料 / 头像 - 堆叠式智能手机闪光灯自拍 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Meem](https://x.com/mehvishs25)
-- **来源:** [Twitter Post](https://x.com/mehvishs25/status/2063090421555957889)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24436)**
-
----
-
-### No. 16: 个人资料 / 头像 - 逼真的湿发特写肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个超详细的写实风格提示词，用于生成雨中女性的特写肖像，重点展示皮肤质感与光影效果。
-
-#### 📝 提示词
-
-```
-侧面视角的 {argument name="subject" default="年轻女性"} 极致湿发特写肖像。深色、被雨水浸透的头发自然地贴在皮肤上，勾勒出脸部轮廓。细小的水珠和一层细腻的湿气在脸颊、额头和下颌线上真实地闪烁。以 {argument name="eye color" default="自然的绿褐色眼睛"} 为视觉焦点，呈现出微妙真实的倒影和栩栩如生的深度，且不会过度反光。柔软、水润的双唇，具有真实的质感和自然的微光。光滑的皮肤带有可见的毛孔和细腻的面部细节，以实现极致的真实感。电影般的柔和灯光，带有冷色调，营造出清新的氛围感。{argument name="background" default="干净的浅灰色和白色虚化背景"}，具有浅景深效果。超细节摄影，高端时尚美妆肖像，自然的面部比例，真实的皮肤渲染，锐利的眼部对焦，专业单反相机品质，照片级真实感，85mm 镜头，f/1.8，超高分辨率。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822664241_je0sks_HKGQO0vaEAApYDd.jpg" width="600" alt="个人资料 / 头像 - 逼真的湿发特写肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Jack](https://x.com/j_smeaton99)
-- **来源:** [Twitter Post](https://x.com/j_smeaton99/status/2063088697495724500)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24434)**
-
----
-
-### No. 17: 个人资料 / 头像 - 赛博朋克霓虹分色光影人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一张具有视觉冲击力的影棚人像，采用青色与红色霓虹分色光影，呈现赛博朋克新黑色电影美学。
-
-#### 📝 提示词
-
-```
-影棚人像，紧凑的头部与肩部特写，平视视角，近乎完美的中心对称。焦点清晰聚焦于面部，浅景深，纯黑色背景。主体：中年男性，正面姿势，表情冷静自信，眼神直视镜头。短小的灰白胡茬和修剪整齐的短山羊胡，可见毛孔和细纹，呈现逼真的皮肤细节，浅色眼睛带有眼神光。中等长度深棕色头发，带有细微的灰色挑染，向后梳理且略显凌乱。身穿白色圆领 T 恤和深色夹克或外套，隐约可见细项链。光影：电影级高对比度霓虹分色光影。左前方冷青色/蓝色主光作为主要照明。右后方饱和的红色/洋红色轮廓光，在头发和面部轮廓上形成强烈的边缘高光。补光极少。纯黑色背景，主体与背景分离度高。调色板：青蓝色、深红色、黑色。光影采用高饱和度霓虹色调，服装色调中性。赛博朋克风格的分色调色。技术参数：专业影棚摄影，85mm 人像镜头压缩感，高清晰度，低噪点，受控的高光与深邃的阴影，增强的微对比度。风格：电影级新黑色电影赛博朋克编辑人像。大胆、现代、高冲击力。关键词：电影级霓虹人像，蓝红分色光影，黑色背景，强烈的直视目光，赛博朋克调色，高对比度影棚布光。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822658998_i26vb0_HKGIpZJbMAAkfsE.jpg" width="600" alt="个人资料 / 头像 - 赛博朋克霓虹分色光影人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780911017273_o0weso_HKPCTT5bcAAcy7L.jpg" width="600" alt="个人资料 / 头像 - 单色微距皮肤纹理肖像 - Image 2">
 </div>
 
 #### 📌 详情
 
 - **作者:** [PromptLab](https://x.com/iamaiistudio)
-- **来源:** [Twitter Post](https://x.com/iamaiistudio/status/2063080630506918248)
-- **发布时间:** 2026年6月6日
+- **来源:** [Twitter Post](https://x.com/iamaiistudio/status/2063707516924834235)
+- **发布时间:** 2026年6月7日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24421)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24610)**
 
 ---
 
-### No. 18: 个人资料 / 头像 - 电影感明暗对比人像
+### No. 4: 个人资料 / 头像 - 详尽的夏季世界杯 Kpop 人像系列
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 描述
 
-一张利用参考人脸的戏剧性 35mm 胶片人像，呈现百叶窗阴影与高对比度电影级布光效果。
+一套高度详尽的多阶段提示词，旨在创作专业级的 AI 人像，场景涵盖从球场到便利店等多种环境，并保持角色的一致性。
 
 #### 📝 提示词
 
 ```
-一张以上传人脸为参考的电影感 35mm 胶片人像，主角拥有 {argument name="hair" default="凌乱的深色卷发"} 和 {argument name="facial hair" default="浅胡茬"}，微微抬头仰望。他佩戴着 {argument name="accessory" default="琥珀色镜片的圆形细框太阳镜"}。场景由戏剧性的明暗对比布光定义，锐利的百叶窗斜影在脸部和颈部投射出金色的条纹光影与深邃阴影。背景是一面带有纹理的深色墙壁，同样捕捉到了条纹图案。色彩基调呈现出暖橙色高光与冷青色阴影的高对比度融合。采用 85mm 镜头低角度拍摄，展现出浅景深、细腻的胶片颗粒感以及忧郁的复古电影色调。
+基于上传的清晰单人参考照片，创作一组主题为“夏季世界杯 x 千禧 Y2K x Kpop x 复古胶片”的 AI 人像。必须严格保留参考人物的真实身份特征：脸型、面部比例、眼型、鼻子、嘴唇、下颌线、肤色、感知年龄、发际线及整体辨识度。禁止换脸，禁止变成陌生人，禁止过度网红脸，禁止动漫风格，禁止塑料感假人脸。角色设定为充满阳光、自信、自由且富有活力的年轻人，如同被胶片相机捕捉到的 Kpop 风格街头偶像，置身于夏季世界杯氛围中。风格融合：世界杯足球氛围、复古球衣、Y2K 千禧风格、夏季街道、Kpop 妆造、青春活力、复古胶片摄影、一次性相机闪光灯、2000 年代杂志大片感。图像不得包含真实的球队队徽、FIFA 官方标志、真实球星姓名或可识别的商业品牌。可以使用抽象旗帜、彩色看台、足球、绿茵场、街头大屏幕、应援围巾、复古球衣号码和运动配饰来表现世界杯氛围。质感要求：写实摄影感，保留自然皮肤纹理、真实毛孔和自然阴影。禁止过度磨皮或 AI 假人脸。光影需有层次，色彩鲜艳但高级，带有轻微胶片颗粒感、轻微过曝、闪光灯质感以及夏季通透感。构图：3:4 竖构图，如同高预算时尚杂志拍摄，非廉价影楼风，非 Cosplay 风，非电商模特风。负面约束：避免：真实球队队徽、FIFA 标志、真实球星脸、品牌 Logo、廉价 Cosplay、影楼人像风、塑料皮肤、AI 假人脸、过度磨皮、特征畸形、身体比例错误、手指畸形、死黑阴影、杂乱背景、僵硬表情、网红滤镜、动漫风格、游戏 CG 风、过度性暗示或低俗姿势。01 | 夏季球场开球：场景为午后阳光下的户外足球场，有绿草地、白色球门、远处的彩色旗帜和背景中模糊的看台。角色站在边线附近，身穿改良版复古球衣，上身略显宽松，搭配低腰牛仔短裤或运动裙、厚底运动鞋、银色耳环、彩色发夹和 Y2K 太阳镜。角色一手持球，另一只手轻轻拨开被风吹乱的头发。表情明亮、自信，带有一丝叛逆，如同世界杯夏季开幕的主视觉。直视镜头，但非僵硬摆拍，如同朋友用胶片相机捕捉到的瞬间。光线为强烈的自然夏季午后光，有真实的硬光和阴影。健康的皮肤光泽。色彩鲜艳。复古胶片颗粒感，轻微过曝，高预算街头时尚杂志感。02 | 街头大屏观赛：场景为夏季傍晚的城市街道，户外大屏幕播放着模糊的足球比赛画面，周围有年轻人、彩色旗帜、饮料摊、霓虹灯和夏季街头人群。无真实球队 Logo 或品牌。角色身穿短款运动背心，搭配宽松的低腰工装裤，外搭一件色彩鲜艳的复古运动外套，佩戴有线耳机、腰链、银色手镯和小发夹。站在人群边缘，手持冰饮或汽水，另一只手举着小旗子或应援围巾。表情兴奋而克制，如同进球前的一刻。不僵硬，身体有轻微转动，具有街拍感。光线为傍晚自然光混合屏幕冷光。面部有彩色反光。背景轻微虚化。2000 年代夏季街头胶片快照风格，带有闪光灯质感和颗粒感。03 | Kpop 舞台球衣造型：简约但高级的摄影棚场景，配有银色金属帘、彩色旗帜、复古电视机和足球，看起来像 Y2K Kpop 舞台后台。无真实球队队徽。角色身穿改良版复古球衣，下摆较短但不低俗，搭配百褶裙或宽松运动裤。Kpop 舞台妆造：亮片眼影、果冻唇、湿发感发丝、彩色发夹、银色项链和耳机式配饰。妆容精致但保留真实皮肤纹理。角色站在中心，身体微微前倾，一只手触碰耳机，另一只手拿着足球。直视镜头，自信、明亮、掌控全场。闪光灯照明，带有彩色轮廓光。Y2K 杂志封面质感。色彩锐利，明显的胶片颗粒感，无塑料感或动漫感。04 | 便利店冰饮活力：世界杯期间的夏季便利店入口，玻璃门上有彩色足球海报、抽象旗帜和模糊的标语。附近有自动售货机或冷柜。无真实品牌。角色在白色短款背心外穿一件复古球衣外套，搭配低腰牛仔短裤或运动短裤、彩色太阳镜、银色腰链。手持带有水珠的冰饮。头发因汗水和潮湿略显湿润。靠在玻璃门上，姿势放松，一条腿微微弯曲。表情充满活力，带着真实、放松、温暖的夏日微笑。冷色调便利店白光与暖色调傍晚户外光的混合。玻璃反光映在脸上。如同一次性胶片相机拍摄的夏日记忆——闪光灯、颗粒感、过曝、高饱和度。05 | 海滨足球之夏：夏季海边或沙滩足球场，蓝色的海、沙滩、棕榈树、彩色旗帜和远处踢球的人群。无官方 Logo 的世界杯度假氛围。色彩鲜艳的复古球衣，运动短裤或牛仔裙，棒球帽或发带，Y2K 太阳镜，银色首饰。脚边有足球，手持应援围巾或透明水瓶。向前奔跑并回头看向镜头，头发和衣服在风中飘动。明亮、自由、笑容灿烂。自然的身体比例。强烈的海滨阳光，健康的皮肤光泽，背景轻微过曝，清澈的蓝天大海。复古胶片颗粒感，镜头光晕，夏季通透感，青春电影氛围。06 | 夜间进球派对：夜间街道或屋顶派对，彩色串灯、模糊的大屏幕、抽象旗帜、足球、饮料和庆祝的人群。进球后夏季狂欢之夜的氛围。无真实球队 Logo 或商业品牌。短款背心或球衣外搭明亮的 Y2K 运动外套，低腰牛仔裤，银色腰链、耳环、发夹和亮片妆容。轻微出汗和凌乱的头发以增加真实感。一只手举着饮料或围巾，另一只手放在头发或腰间，身体微微后仰，被闪光灯捕捉。兴奋、美丽、具有感染力的表情。夜间直闪，背景虚化。复古胶片派对感，轻微运动模糊，闪光灯高光，真实颗粒感。07 | 复古看台青春：带有彩色座椅、抽象旗帜、模糊球迷和绿茵场的足球场看台。世界杯看台街拍风格。无真实球队 Logo。穿着宽松复古球衣、短裙、运动袜和厚底鞋（或宽松牛仔裤和运动鞋）坐在看台座位上。旁边放着足球、背包、耳机和冰饮。Kpop 生活化妆容。不是端坐，而是自然前倾或从侧面回头。故事感表情，仿佛中场休息时被朋友抓拍。清澈、放松、青春的眼神。斜射的午后阳光，座椅投下真实的阴影。胶片颗粒感，轻微褪色，高饱和度的蓝-绿-橙色调。08 | Y2K 杂志封面特写：半身至特写构图。模糊的彩色旗帜、球网、银色金属帘和蓝天。2000 年代 Kpop + 运动杂志封面。复古球衣或运动背心，银色链条，脖子上围着应援围巾。Kpop 发型：自然蓬松、湿发感发丝、彩色发夹。妆容：清透底妆、亮片眼影、睫毛、健康腮红、果冻唇。真实皮肤纹理。手持足球靠近脸部或按压应援围巾。直视镜头，自信、美丽、略带俏皮和攻击性。正面闪光灯加自然光，面部清晰，背景轻微过曝。复古胶片颗粒感，Y2K 高饱和度，杂志封面质感，真实摄影感。09 | 黄昏终场哨响：日落后的空旷足球场，橙粉色的落日天空，模糊的看台/旗帜，草地上的足球、围巾和水瓶。夏季世界杯比赛后的宁静时刻。坐在草地或球场边缘，身穿复古球衣外套、运动背心和牛仔或运动短裤。头发略显凌乱，妆容仍带有亮片和汗水光泽。运动后真实的疲惫感但神情明亮。一只手撑在身后，另一只手拿着足球，望着落日。放松、满足、安静，但依然充满活力。金橙色落日逆光，带有轮廓光。草地和皮肤上有温暖的高光。复古胶片感，轻微漏光，柔和颗粒感，青春电影结局氛围。
 ```
 
 #### 🖼️ 生成图片
@@ -1197,106 +677,39 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822679829_3bre5y_HKF1OfPaMAAzTMg.jpg" width="600" alt="个人资料 / 头像 - 电影感明暗对比人像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Muhammad Amir](https://x.com/Aiwithamirr1)
-- **来源:** [Twitter Post](https://x.com/Aiwithamirr1/status/2063059028155224292)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24456)**
-
----
-
-### No. 19: 个人资料 / 头像 - 活动照片合成插画
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个将相册中的多张照片合成为一张连贯艺术插画的提示词。
-
-#### 📝 提示词
-
-```
-基于 {argument name="event" default="学校旅行"} 的照片生成一张插画。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780735275664_kx5mf6_HKEUAl2akAEsYpG.jpg" width="600" alt="个人资料 / 头像 - 活动照片合成插画 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Eris Create Lab](https://x.com/Eris_Create_Lab)
-- **来源:** [Twitter Post](https://x.com/Eris_Create_Lab/status/2062952975077982713)
-- **发布时间:** 2026年6月5日
-- **多语言:** ja
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24284)**
-
----
-
-### No. 20: 个人资料 / 头像 - 基于照片参考生成动漫肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-将一张简单的坐姿参考照片转换为动漫风格的特写肖像，并更换服装、发色及绿植背景。
-
-#### 📝 提示词
-
-```
-以 REFERENCE_0 作为姿势和构图基础，将照片中的坐姿女性转换为精致的动漫风格角色肖像。保持面部匿名化处理（使用大的柔和矩形模糊块），并将构图从侧视的咖啡馆/餐桌场景改为正面的半身特写。将原有的写实室内环境、桌子、马克杯、书本和椅子替换为明亮的绿植室内花园/窗户背景。为角色重新设计发型，使用 {argument name="hair color" default="淡冰蓝色"} 的短波波头，并让她穿上华丽的 {argument name="outfit style" default="黑白银配色哥特偶像风无袖上衣"}，搭配蕾丝肩部细节、丝带系带、装饰性纽扣和结构化拼接设计。采用清晰、高质量的日本动漫插画风格，具备干净的线条、柔和的灯光、生动的绿植、浅景深效果以及竖屏手机构图。在保留参考图中平静坐姿氛围的同时，使最终图像呈现出完整的角色插画质感，而非照片效果。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780735299263_sc65wz_HKEAJ4JbgAATlV-.jpg" width="600" alt="个人资料 / 头像 - 基于照片参考生成动漫肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780911026141_5v2art_HKO9NlGWUAA3u_E.jpg" width="600" alt="个人资料 / 头像 - 详尽的夏季世界杯 Kpop 人像系列 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780735299290_togdrn_HKEAMnPbYAAq1Gg.jpg" width="600" alt="个人资料 / 头像 - 基于照片参考生成动漫肖像 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780911026202_fqclmj_HKO9NlHWQAADKM7.jpg" width="600" alt="个人资料 / 头像 - 详尽的夏季世界杯 Kpop 人像系列 - Image 2">
 </div>
 
 #### 📌 详情
 
-- **作者:** [🐻‍❄️Gomdan🐻‍❄️](https://x.com/gomdanjp)
-- **来源:** [Twitter Post](https://x.com/gomdanjp/status/2062931827040670155#reversed-0)
-- **发布时间:** 2026年6月5日
-- **多语言:** en
+- **作者:** [麻酱AI实验室](https://x.com/zhongying14)
+- **来源:** [Twitter Post](https://x.com/zhongying14/status/2063701918237573616)
+- **发布时间:** 2026年6月7日
+- **多语言:** zh
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24326)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24625)**
 
 ---
 
-### No. 21: 社交媒体帖子 - 穿瑜伽裤的猫
+### No. 5: 个人资料 / 头像 - 夏季世界杯 Y2K 韩流风格人像
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-在保留原始场景的同时，通过逼真的方式为参考猫咪照片添加深灰色瑜伽裤。
+一份全面的提示词，用于生成一系列以夏季世界杯为主题，融合 Y2K 和韩流风格的街拍人像。
 
 #### 📝 提示词
 
 ```
-使用 REFERENCE_0，仅编辑猫咪的下半身，为其添加贴身的深灰色瑜伽裤/紧身裤。保持猫咪的姿势、头部、上半身、毛发纹理、尾巴、项圈、地垫、纸板、光影、拍摄角度以及照片级的真实感不变。瑜伽裤应从猫咪的腰部/腹部区域开始，带有宽腰带，自然地包裹住臀部和后腿，并呈现出逼真的面料弹力、接缝、褶皱和阴影，同时确保尾巴露在裤子外面。请勿更改图像的其他部分。
+基于上传的单人参考图，生成 9 张独立的 3:4 竖版人像，主题为“{argument name="theme" default="夏季世界杯 × Y2K 千禧风 × 韩流 × 复古胶片"}”。严格保留人物真实的五官特征与身份；严禁换脸、使用大众网红脸或将其动漫化。整体氛围应呈现出在夏季世界杯期间，用胶片相机拍摄的韩流偶像街拍感，场景包括复古球衣、足球、草坪球场、彩色看台、街头大屏、便利店、海边、夜间派对及日落球场等。服装包含复古球衣、低腰牛仔裤、运动短裙、彩色运动外套、银色配饰、发夹、Y2K 墨镜及有线耳机。妆容应为韩流日常妆，搭配亮片眼影、果冻唇、自然的皮肤质感以及夏季微汗的通透感。画面需具备生命力、青春感、阳光、微风、笑容及抓拍感，呈现复古胶片颗粒、轻微过曝、闪光灯效果及高饱和度的高级质感。避免出现真实球队队徽、FIFA 官方标志、真实明星或商业品牌。9 张照片内容分别为：夏季球场开场、街头大屏观赛、韩流舞台球衣造型、便利店冰饮、海边足球、夜间进球派对、复古看台、Y2K 杂志封面特写以及日落终场哨响。
 ```
 
 #### 🖼️ 生成图片
@@ -1304,33 +717,47 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822705022_d936wc_HKMnMB_aoAAFfvn.jpg" width="600" alt="社交媒体帖子 - 穿瑜伽裤的猫 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780911026165_c68gr0_HKOgNvdWcAAK0JV.jpg" width="600" alt="个人资料 / 头像 - 夏季世界杯 Y2K 韩流风格人像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911027384_96be6f_HKOgU1NXwAAONtL.jpg" width="600" alt="个人资料 / 头像 - 夏季世界杯 Y2K 韩流风格人像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911026170_ofg12p_HKOgg5dXoAAA07z.jpg" width="600" alt="个人资料 / 头像 - 夏季世界杯 Y2K 韩流风格人像 - Image 3">
 </div>
 
 #### 📌 详情
 
-- **作者:** [ひぐち](https://x.com/hy_ooparts)
-- **来源:** [Twitter Post](https://x.com/hy_ooparts/status/2063536163303080400#reversed-1)
+- **作者:** [麻酱AI实验室](https://x.com/zhongying14)
+- **来源:** [Twitter Post](https://x.com/zhongying14/status/2063669647577117183)
 - **发布时间:** 2026年6月7日
-- **多语言:** en
+- **多语言:** zh
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24492)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24623)**
 
 ---
 
-### No. 22: 社交媒体帖子 - 花园中怀抱兔子的快乐女子
+### No. 6: 个人资料 / 头像 - 赛博朋克霓虹轮廓光肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一张温暖、阳光明媚的户外摄影提示词，描绘了一位身穿碎花夏日连衣裙的女子在节日氛围的花园中怀抱兔子的场景。
+一个电影感黑白肖像提示词，采用高对比度霓虹红轮廓光，呈现出大胆、现代的时尚杂志美学。
 
 #### 📝 提示词
 
 ```
-一张自然、阳光明媚的户外摄影照片，画面中是一位 {argument name="subject description" default="留着棕色长波浪卷发的快乐年轻女子"}，她正抬头大笑，神情纯真愉悦，怀里紧紧抱着一只 {argument name="animal" default="毛茸茸的浅棕色小兔子"}。她穿着一件 {argument name="outfit" default="饰有精致黄色花朵图案的浅粉色无袖夏日连衣裙"}，并佩戴着纤细的金色手链作为点缀。她坐在草坪上，身后是一道低矮的白色尖桩篱笆，背景中郁郁葱葱的绿色树篱、缠绕着仙女灯的大树树干以及优雅的户外派对或花园活动在明亮的自然光下呈现出柔和的虚化效果。
+超精细电影感数字肖像，描绘了一位留着凌乱 {argument name="hair color" default="黑色"} 头发和轻微胡茬的年轻男子，采用低角度视角，展现出自信与随性的态度。黑白单色调，醒目的 {argument name="glow color" default="霓虹红"} 轮廓光勾勒出头发、肩膀和面部轮廓。深黑色背景，戏剧性的高对比度光影，锐利的阴影和光泽高光。头顶架着墨镜，黑色衬衫微敞，内搭简约白色 T 恤，佩戴极简银色吊坠项链。眼神深邃直视镜头，表情放松，下颌线分明，充满时尚杂志美学。
+
+现代图像小说插画风格，超洁净矢量渲染，平滑渐变，细节极其锐利，高级海报设计，奢华街头服饰氛围，赛博朋克风格的红色光效点缀，电影级构图，影棚级灯光，极其精细的面部特征，大师级品质，8K 分辨率，暗黑忧郁氛围，ArtStation 热门趋势，戏剧性对比，居中构图，黑色背景。
 ```
 
 #### 🖼️ 生成图片
@@ -1338,21 +765,1336 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822692567_90wz5o_HKMCoz3XcAAklUK.jpg" width="600" alt="社交媒体帖子 - 花园中怀抱兔子的快乐女子 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780911009547_b7dsj6_HKOImpIaUAAIwI0.jpg" width="600" alt="个人资料 / 头像 - 赛博朋克霓虹轮廓光肖像 - Image 1">
 </div>
 
 #### 📌 详情
 
-- **作者:** [yusra.](https://x.com/chatgptpaglu)
-- **来源:** [Twitter Post](https://x.com/chatgptpaglu/status/2063495960916033744)
+- **作者:** [Duet | AI](https://x.com/Sheldon056)
+- **来源:** [Twitter Post](https://x.com/Sheldon056/status/2063643261718380666)
 - **发布时间:** 2026年6月7日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24476)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24600)**
 
 ---
 
-### No. 23: 社交媒体帖子 - Moonlit 透明度检测卡
+### No. 7: 个人资料 / 头像 - 夜间走廊时尚人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张电影感、照片级真实的竖构图人像，展现了一位时尚女性在夜间高层玻璃走廊中的身影，适用于时尚或情绪化的都市生活方式视觉呈现。
+
+#### 📝 提示词
+
+```
+创作一张照片级真实的竖构图全身时尚人像，主角为一位 {argument name="subject" default="留着深色长波浪卷发的女性"}，她站在夜间高层建筑的玻璃走廊中，从背后以微侧的角度看向镜头。她位于左侧玻璃墙附近，一只手搭在金属扶栏上，透过反光的落地窗可以看到城市灯光和建筑窗户。她穿着一件修身的 {argument name="top color and style" default="黑色长袖高领衫"}、一条 {argument name="skirt style" default="灰褐色短款包臀裙"}、黑色透明丝袜和亮面黑色高跟鞋；手臂上搭着一件灰色外套，手中拿着一部智能手机。请在面部添加柔和的方形模糊处理以隐藏身份，同时保留姿势和发型细节。走廊应营造出奢华的电影质感，配有深色抛光大理石地面、亮面黑色墙板、强烈的反射效果，头顶的线性 LED 灯形成一条延伸至远方的明亮对角线，背景远处可见绿色安全出口标志。采用情绪化的暖色调低光摄影风格，浅景深，带有微妙的雾气感，呈现真实的皮肤和织物纹理，自然的镜头畸变，灯光处带有柔和的光晕，营造出一种随性且高端的夜间氛围。使用全画幅相机搭配 85mm 镜头效果拍摄，9:16 竖构图，主体略微偏左居中，无文字，无水印。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911048709_05br3i_HKOFsxDbkAA9SrI.jpg" width="600" alt="个人资料 / 头像 - 夜间走廊时尚人像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [BubbleBrain](https://x.com/BubbleBrain)
+- **来源:** [Twitter Post](https://x.com/BubbleBrain/status/2063640114694344938#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24651)**
+
+---
+
+### No. 8: 个人资料 / 头像 - 梦幻男子怀抱三花猫肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张电影感超写实竖版肖像，描绘了一名身着白衣的年轻男子怀抱三花猫，适用于生成美学社交媒体肖像。
+
+#### 📝 提示词
+
+```
+创作一张超写实的竖版肖像摄影，画面中一名 {argument name="character age and gender" default="25 岁男子"} 将一只三花猫紧紧抱在胸前。男子留着浓密的深棕色头发，带有浅棕色挑染，发型自然蓬松凌乱，下颌和下巴处可见短胡茬，身穿一件柔软宽松的白色长袍或休闲亚麻装，领口敞开，袖口卷起。他的面部被一个居中的不透明竖长方形遮挡，颜色为温暖的中棕色肤色，遮挡范围从额头一直延伸到嘴部下方，但保留了头发、耳朵、胡须边缘、颈部、衣物和猫咪的可见度。这只猫是一只毛茸茸的三花猫，拥有橙、黑、白三色皮毛，淡绿色大眼睛，粉色鼻子，白色口鼻部和胸部，耳朵竖立，蜷缩在男子的臂弯里，直视镜头。采用梦幻般的电影美学，浅景深，背景为柔和的淡米色和腮红粉色，左右两侧带有细微的绿植光斑，温暖的漫射自然光，奶油般的肤色，高端杂志肖像质感，以及温柔浪漫的柔光效果。构图：特写半身像，男子居中，猫位于左下方至中心前景，白色衣物填充右下方，竖版 3:4 裁剪。在右下角添加一个小型的黑色水印，文字为 {argument name="watermark text" default="PROMPT by: Mr. Tariq"}，采用小型无衬线大写字母与手写签名体混合排版。画面中不得出现其他人、其他动物、生硬的阴影或卡通风格。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911070195_r0fdzo_HKN8xnCbcAAOlAu.jpg" width="600" alt="个人资料 / 头像 - 梦幻男子怀抱三花猫肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Mr. Tariq](https://x.com/AiWithTariq)
+- **来源:** [Twitter Post](https://x.com/AiWithTariq/status/2063630662012465276#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24687)**
+
+---
+
+### No. 9: 个人资料 / 头像 - 发光猫咪头像肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+创作一张电影质感的圆形头像，描绘一名年轻男子抱着一只毛茸茸的灰色猫咪，并带有温暖的发光光环边框。
+
+#### 📝 提示词
+
+```
+创作一张超写实电影质感的圆形头像，描绘一名 {argument name="character age and gender" default="25 岁男子"} 将一只毛茸茸的 {argument name="cat breed and color" default="灰色波斯猫或英国长毛猫"} 高高抱在下脸部和胸前。男子居中，面向前方，仅露出头部上方和精心打理的深棕色头发；在画面中心放置一个不透明的方形遮挡块，呈暖米棕色，遮住眼睛、鼻子和大部分面部，但保留头发、耳朵、肩膀和猫咪可见。猫咪占据肖像下半部分，拥有长而蓬松的毛发、对称的前爪、清晰可见的小鼻子和嘴巴以及柔软的胡须。肖像外围环绕一个温暖金光的圆形光环，背景为深炭灰色晕影，内衬米色中性背景。采用柔和的摄影棚灯光、浅景深、真实的皮肤和毛发质感、暖色调中性色，呈现高级社交媒体头像美学，构图居中，方形画布，无多余物体。在右下角添加一行细小的草书水印文字，内容为 {argument name="signature text" default="PROMPT by: Mr.Taria"}。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911069949_kh3oh9_HKN8gHsaAAAw9Kl.jpg" width="600" alt="个人资料 / 头像 - 发光猫咪头像肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Mr. Tariq](https://x.com/AiWithTariq)
+- **来源:** [Twitter Post](https://x.com/AiWithTariq/status/2063630657474195731#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24686)**
+
+---
+
+### No. 10: 个人资料 / 头像 - 被遮挡的男子怀抱猫咪肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张超现实主义的单色摄影棚肖像，一名男子怀抱一只毛茸茸的虎斑猫遮住脸部，画面中央带有灰色遮挡块。
+
+#### 📝 提示词
+
+```
+创作一张超现实主义的黑白超写实摄影棚肖像，主体为一名 {argument name="subject age and gender" default="25 岁男子"}，正对镜头，采用紧凑的垂直构图。他留着浓密、深色且有光泽的背头，侧分发型，耳朵清晰可见，身穿深色衬衫，与阴影背景融为一体。他怀抱着一只巨大的毛茸茸的 {argument name="cat type" default="长毛虎斑猫"}，将其像活体面具一样直接挡在脸前；猫咪位于画面中心，其下半张脸、鼻子、胡须、鬃毛般的皮毛以及两只前爪在画面底部清晰可见。在图像中心添加一个巨大的不透明方形遮挡块，呈中灰色，带有微妙的从左到右渐变，遮住了男子大部分脸部和猫咪的上半部分，仅露出男子上方和周围的头发与耳朵，以及猫咪下方的口鼻部、胡须、胸部皮毛和爪子。使用戏剧性的低调照明、高对比度单色调、清晰的皮毛质感、锐利的发丝细节、深色暗角摄影棚背景，营造出电影般的时尚摄影氛围。在右下角放置一个手写签名风格的小型署名，内容为 {argument name="signature text" default="PROMPT by: Mr. Tariq"}。无色彩，无额外道具，除小字签名外无任何文字。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911069757_iom85a_HKN8ivma0AAQjAB.jpg" width="600" alt="个人资料 / 头像 - 被遮挡的男子怀抱猫咪肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Mr. Tariq](https://x.com/AiWithTariq)
+- **来源:** [Twitter Post](https://x.com/AiWithTariq/status/2063630652159954945#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24685)**
+
+---
+
+### No. 11: 个人资料 / 头像 - 黑白男子抱猫肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张超现实的黑白影棚肖像，描绘了一名男子怀抱毛茸茸的猫，画面中心覆盖着灰色遮罩，适合用于极具戏剧性的社交媒体头像设计。
+
+#### 📝 提示词
+
+```
+创作一张超写实的黑白超现实影棚肖像，画面中 {argument name="character name" default="一名 25 岁男子"} 正怀抱着 {argument name="cat type" default="一只大型长毛虎斑猫"}，猫咪正对着他的脸部。采用 3:4 竖构图，紧凑的头部和肩部特写，深邃的烟熏黑背景，戏剧性的低调照明，高对比度，电影级黑白摄影，呈现清晰的发丝纹理和毛发细节。男子留着整齐向后梳的浓密深色头发，耳朵清晰可见，深色服装与背景融为一体，正面姿态严肃。猫咪位于画面中心，被竖直抱在胸前，其蓬松的鬃毛、条纹前爪、鼻子、嘴巴、胡须以及下颚在画面底部清晰可见。在图像中心添加 1 个大型不透明正方形遮罩，颜色为 {argument name="overlay color" default="中性灰"}，覆盖男子大部分脸部及猫咪的上半部分；正方形应从发际线下方延伸至猫嘴上方，仅露出男子上方的头发和耳朵，以及猫咪下方的口鼻、胡须、鬃毛和爪子。在右下角添加 1 个小型签名式水印，文字为 {argument name="watermark text" default="PROMPT by: Mr. Tairy"}，采用纤细优雅的字体。保持图像的写实感、氛围感、对称性和编辑风格，禁止使用彩色，禁止添加额外动物、人物或文字。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911049242_u5fpff_HKN8XClbEAA0_Cs.jpg" width="600" alt="个人资料 / 头像 - 黑白男子抱猫肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Mr. Tariq](https://x.com/AiWithTariq)
+- **来源:** [Twitter Post](https://x.com/AiWithTariq/status/2063630645985939842#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24652)**
+
+---
+
+### No. 12: 个人资料 / 头像 - 视觉对比文化摄影
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+通过将传统文化服饰置于意想不到的现代或国际化场景中，生成具有强烈视觉对比的摄影作品。
+
+#### 📝 提示词
+
+```
+创作具有视觉对比感的照片，例如 {argument name="scene examples" default="外国友人身着汉服在海滩日光浴、在欧洲街头穿着新中式服装，或在京都穿着唐制服饰"} 等，进行构思与想象，并直接生成图像。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911026022_m6guyf_HKN3FrUXUAAx61W.jpg" width="600" alt="个人资料 / 头像 - 视觉对比文化摄影 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911026050_irn3xn_HKN3G1vWAAAF2z6.jpg" width="600" alt="个人资料 / 头像 - 视觉对比文化摄影 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911026093_x1m22v_HKN3IdGWwAAmNsi.jpg" width="600" alt="个人资料 / 头像 - 视觉对比文化摄影 - Image 3">
+</div>
+
+#### 📌 详情
+
+- **作者:** [麻酱AI实验室](https://x.com/zhongying14)
+- **来源:** [Twitter Post](https://x.com/zhongying14/status/2063625231646793760)
+- **发布时间:** 2026年6月7日
+- **多语言:** zh
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24624)**
+
+---
+
+### No. 13: 个人资料 / 头像 - 忧郁风格 2x2 照片拼贴
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个关于在昏暗卧室中拍摄年轻人的 2x2 拼贴画的提示词，带有忧郁、内省的氛围和冷色调。
+
+#### 📝 提示词
+
+```
+一张 2x2 照片拼贴，主角为 {argument name="subject" default="年轻人"}，场景设定在 {argument name="setting" default="深夜昏暗的卧室"}，{argument name="hair" default="深色凌乱的碎发"}，佩戴超大号圆形金属框眼镜，皮肤苍白，带有自然的微小瑕疵和雀斑，身穿超大号黑色连帽衫。忧郁的蓝灰色调，柔和的电影感弱光摄影，充满内省与忧郁的氛围。
+左上：躺在白色枕头上，盖着毯子，侧脸，睡眼惺忪的表情，柔和的蓝色月光照亮脸庞。
+右上：坐在黑暗中，靠近镜子，手部半遮住嘴，若有所思地看向别处，微妙的阴影，情绪化且沉思的氛围。
+左下：躺着时的特写肖像，浅景深，略带模糊的梦幻焦距，眼镜反射着微弱的光，细腻的皮肤质感，亲密的摄影风格。
+右下：在黑暗卧室中的镜子自拍，穿着超大号黑色印花连帽衫，一只手抓着凌乱的头发，姿态放松，背景中可见极简的房间细节。
+写实摄影，柔和颗粒感，低饱和度色彩，暗黑学院风与垃圾摇滚美学，自然光，高细节，电影感阴影，舒适的夜晚氛围，真实的抓拍瞬间，富士胶片风格色调，50mm 镜头，浅景深，照片级真实感。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911006350_x29uyl_HKNapgdboAE86IK.jpg" width="600" alt="个人资料 / 头像 - 忧郁风格 2x2 照片拼贴 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Oogie](https://x.com/oggii_0)
+- **来源:** [Twitter Post](https://x.com/oggii_0/status/2063592726403465451)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24594)**
+
+---
+
+### No. 14: 个人资料 / 头像 - 复古风格自拍拼贴
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个用于生成 3 张竖向复古数码风格自拍拼贴的提示词，支持使用特定人脸参考图及多种俏皮姿势。
+
+#### 📝 提示词
+
+```
+一张由三张 {argument name="aesthetic" default="YZK"} 照片组成的竖向拼贴图。请仅使用上传的自拍作为唯一且专属的人脸参考，确保面部特征和面部结构与参考图完全一致。人物在浅色中性背景前摆出姿势。一位留着蓬松卷发的女孩，发型看起来经过精心打理，画着狐系妆容，睫毛浓密且上翘。第一张照片中，她非常靠近镜头，单眼注视并眨眼。第二张照片中，她背对镜头，头部俏皮地转向镜头，发型略微遮住脸部，但遮挡适度。第三张照片中，她非常靠近镜头，头发拨向一侧遮住左眼，嘟嘴看向前方。特写和中景镜头，极简构图，{argument name="texture" default="复古数码质感"}，轻微模糊，充满魅力氛围。照片由 {argument name="camera" default="iPhone 17 Pro Max"} 在闪光灯下拍摄。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911000986_nygrxq_HKNaBbPbgAEj2lI.jpg" width="600" alt="个人资料 / 头像 - 复古风格自拍拼贴 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Ciri](https://x.com/Ciri_ai)
+- **来源:** [Twitter Post](https://x.com/Ciri_ai/status/2063592048150909396)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24584)**
+
+---
+
+### No. 15: 个人资料 / 头像 - 极道千金日式肖像系列
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一套高细节的提示词，用于生成 9 张高端日式风格的极道千金肖像，强调真实感、光影及传统日式美学。
+
+#### 📝 提示词
+
+```
+请根据我上传的清晰单人肖像参考图，生成一套“极道千金 · 高端日式肖像”，共 9 张图片。所有图片均为独立单张，不含九宫格拼图，不含合成海报。每张均为 3:4 竖构图。## 固定大师级控制 严格保留参考人物的真实身份特征：脸型、五官比例、眼型、鼻子、嘴唇、下颌线、发际线、肤色、年龄感及整体辨识度。禁止换脸，禁止变成陌生人，禁止使用网红脸，禁止幼态化，禁止动画化，禁止使用 AI 玩偶脸。皮肤应保留真实质感、细微毛孔、自然面部阴影及真实的摄影画质。整体风格：黑道家族的年轻继承人，高端日式肖像，冷峻、克制、危险、高贵、掌控力强，女性化但不俗气。画面应呈现出万元级摄影棚时尚大片的质感，非 Cosplay，非游戏海报，非廉价影楼风。场景统一为真实摄影棚搭建的日式房间：明亮的障子门、榻榻米、竹影、黑纸伞、白花枝、矮茶几、白瓷茶具、旧屏风、深色木质空间。画面可以暗，但不能死黑；黑色织物必须具备灰黑、炭黑、棕黑、墨黑的层次感，可见褶皱、刺绣及袖口。光影：侧窗硬光 + 柔和反射补光 + 轻微轮廓光。障子门可以明亮，但人物面部、皮肤、和服、茶具及花枝严禁模糊。服装：高端黑色和服或改良振袖，明显的白色内衬领，暗红、枯金、旧银、深绿色的刺绣，花枝纹、蝴蝶纹或家纹。银灰色金锦腰带，厚实且有立体感。深棕色或黑色头发，散发或高盘发，带有自然的碎发，搭配彼岸花、红色花朵发簪、金属发簪或精致流苏。冷艳妆容，细长眼妆，深红、酒红或棕红色嘴唇，无粉嫩少女感。身体与姿态必须真实自然：仅出现一人，正常身体比例，手臂与腿部逻辑清晰，关节自然，手指正常。无多余手脚，无缺腿，严禁只露一条腿导致断肢感，严禁双腿融合，严禁臀部畸形，无脚趾畸形。任何露腿的镜头，双腿姿态必须逻辑可循：一条腿折叠，另一条腿伸展，或双腿被和服自然覆盖但保持完整的身体结构。动作应高端克制，不色情，不过度性暗示。画面限制：无文字，无竖排日文，无 Logo，无水印，无摄影师签名。无枪支，无血腥，无打斗。武士刀、刀鞘、折扇可以出现，但仅作为静态氛围道具。--- ## 01 | 纸伞茶室坐姿 在日式房间内，侧后方为明亮的障子门，背景由黑纸伞、白花枝、矮茶几和白瓷茶具构成层次。主体坐在榻榻米上，身体微转，坐姿不僵硬。一手持茶杯，另一手轻放于膝盖。和服领口自然放松，露出锁骨与颈部线条。她直视镜头，眼神冷静、疏离且具有压迫感。半身至 3/4 身竖构图，聚焦于面部、颈部、茶杯、双手、腰带及黑色和服质感。--- ## 02 | 高角度折扇镜头 俯拍视角展现整个日式房间，可见榻榻米纹理、窗影、矮茶几、白瓷茶具、黑纸伞、白花枝及竹影屏风。主体坐在榻榻米中心一侧，手持一把打开的黑色折扇，另一只手自然撑在地面。姿态优雅安静，低头或闭眼，不看镜头，如抓拍瞬间。身体结构必须稳定：双腿必须逻辑清晰。一条腿自然折叠，另一条腿向前或斜向伸展；和服下摆自然铺开，但不能只露一条腿。重点在于空间、折扇、榻榻米、和服排列及身体曲线。--- ## 03 | 持刀凝视特写 明亮窗光下的日式房间特写，背景有障子门、黑纸伞轮廓、白花枝及深色屏风。主体身着黑色刺绣和服，清晰的白领，明显的银灰色金腰带。双手持刀鞘或半拔出的武士刀作为静态力量道具，无攻击性动作。特写构图聚焦于面部、眼睛、颈部、双手及刀柄。她抬头直视镜头，眼神锐利、冰冷、警觉且充满压迫感。手指必须自然，刀柄不得变形。--- ## 04 | 侧坐长腿伸展 日式房间地板，背景为明亮的障子门、竹影、黑纸伞、白花枝、矮茶几和白瓷茶具。窗光投射在榻榻米和主体腿部，形成真实的光影切割。主体侧坐在榻榻米上，身体微向后倾，一手撑地，另一手轻持折扇或靠近茶几。双腿必须完整且自然：一条腿侧向折叠，另一条腿向前伸展，展现正常的大腿、膝盖、小腿及脚部线条。严禁只露一条腿，严禁双腿融合，无脚趾畸形。她望向远方，表情慵懒、冷漠且危险。中景竖构图，突出身体延伸感、臀部线条、腿部姿态、前景花枝及黑色和服褶皱。--- ## 05 | 俯身茶几 主体靠近矮茶几，桌上有白瓷茶壶、茶杯、小花枝和合上的折扇。背景为障子门、黑纸伞及竹影屏风。她微微前倾，一手撑在桌沿，另一手轻持茶杯或折扇。肩线自然倾斜，腰部微扭，形成柔和的上身曲线。和服领口自然敞开，突出锁骨与颈部，但保持高端克制。她低头看茶杯，随后微抬头看向镜头，表情疏离、冷静，带着一丝危险的吸引力。半身竖构图，聚焦于面部、锁骨、手臂、茶具及桌面细节。--- ## 06 | 持刀侧身站姿 日式房间中心，背景有明亮的障子门、竹影屏风、黑纸伞、白花枝及木质空间。整体更正式，光线清晰但有对比。主体侧身站立，重心在一侧腿上，收腰，挺颈。双手垂直持刀鞘或武士刀，刀作为氛围道具，无攻击动作。头部微转，目光看向侧前方或半垂眼帘，冷峻、克制且危险。3/4 身竖构图，聚焦于刀、面部侧影、颈部、腰带、袖口及站立气场。身体比例必须正常，手指及刀柄不得变形。--- ## 07 | 榻榻米半卧 昏暗的日式房间地板，背景有障子门、旧屏风、木质矮桌、白花瓶及白花枝。地板上有清晰的窗光阴影，前景可有轻微虚化的花枝或茶具。主体半卧在榻榻米上，一臂撑起上半身，另一手轻放于腰带或下摆附近。上身微扭，腰部自然收紧，双腿在和服下自然交叉伸展。注意身体必须真实：双腿位置必须合理；即使被和服覆盖，也不得出现缺失、断裂或多余的腿。她转头看向镜头，眼神漫不经心、冰冷且迷人。中长景竖构图，突出身体曲线、榻榻米纹理、光影切割及黑色织物层次。--- ## 08 | 回眸半跪背影 昏暗日式房间，背景有竹影屏风、白花枝、障子门及黑纸伞。外侧光线照亮背部、肩线及侧影。主体背对或侧对镜头，在榻榻米上半跪。黑色和服的后背与袖子上可见清晰的花朵、蝴蝶及金线刺绣图案，配有立体的银金色腰带结。身体前倾，头部与上身微回转，形成从背部到腰部的优雅曲线。一手持刀鞘或折扇，另一手撑地或扶住下摆。双腿处于自然的半跪姿势，被和服覆盖但结构完整，无奇怪的下肢或多余肢体。她回眸看向镜头，眼神冰冷、坚定、警觉，危险而女性化。3/4 身竖构图，聚焦于背部、腰带、颈部、回眸眼神及身体扭转之美。--- ## 09 | 最终大师视觉 日式家族大宅主厅，背景为障子门、深色木柱、旧屏风、黑纸伞、白花枝及矮茶几。整体更庄重正式，如同整套图集的封面。主体身着系列中最华丽的黑色高端和服，白色内衬领，暗红、枯金、旧银刺绣，厚重的银灰色金锦腰带，彼岸花发饰更为突出，深红色嘴唇。她采取正式的女王式坐姿：身体端坐但上身微前倾或转动。一手放在膝上，另一手放在茶杯、折扇或刀鞘上。姿态稳重，但保留了颈部、腰线的舒展及女性气场。她直视镜头，眼神冷静且充满力量，如同真正坐稳位置的极道千金。正式竖构图，聚焦于面部、眼神、颈部、双手、腰带及整体力量感气场。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911029134_4ljq3w_HKNSXkWXUAAypxW.jpg" width="600" alt="个人资料 / 头像 - 极道千金日式肖像系列 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911029086_qrig23_HKNScqjW4AAL5Yy.jpg" width="600" alt="个人资料 / 头像 - 极道千金日式肖像系列 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911029084_9yetsz_HKNScqvX0AAzzMQ.jpg" width="600" alt="个人资料 / 头像 - 极道千金日式肖像系列 - Image 3">
+</div>
+
+#### 📌 详情
+
+- **作者:** [麻酱AI实验室](https://x.com/zhongying14)
+- **来源:** [Twitter Post](https://x.com/zhongying14/status/2063583837699952830)
+- **发布时间:** 2026年6月7日
+- **多语言:** zh
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24626)**
+
+---
+
+### No. 16: 个人资料 / 头像 - 霓虹轮廓光黑白肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个高对比度的黑白肖像提示词，具有强烈的红色霓虹轮廓光，融合了图像小说与动漫风格的写实美学。
+
+#### 📝 提示词
+
+```
+超风格化的黑白肖像插画，主体为 {argument name="subject" default="自信的年轻男女"}，采用黑白配色，头发和轮廓周围环绕着强烈的 {argument name="neon color" default="红色"} 霓虹轮廓光，凌乱的纹理发型，头顶架着一副太阳镜，面部轮廓分明，下颌线硬朗，细腻的皮肤细节，白色 T 恤外搭黑色开衫，简约吊坠项链，低角度拍摄视角，纯黑背景，戏剧性的电影级布光，高对比度阴影，图像小说美学，动漫风格写实主义，超洁净的矢量渲染效果，发光的红色边缘光，时尚编辑风格，奢华街头服饰广告大片，大胆的构图，高度细节化的眼睛，平滑的渐变，清晰的线条，高级数字艺术作品，大师级品质，8K 分辨率，ArtStation 热门趋势。
+负面提示词：
+模糊，低质量，多余的手指，面部扭曲，解剖结构错误，色彩过饱和，背景杂乱，文字，水印，Logo，头部被裁剪，特征重复，不真实的眼睛，低对比度，构图混乱，布光不佳，像素化，手部畸形
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911021410_etnvmw_HKNHOqfasAAnN0p.jpg" width="600" alt="个人资料 / 头像 - 霓虹轮廓光黑白肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911020833_fsi1ia_HKNHOq7bAAAD3ui.jpg" width="600" alt="个人资料 / 头像 - 霓虹轮廓光黑白肖像 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [K](https://x.com/ChillaiKalan__)
+- **来源:** [Twitter Post](https://x.com/ChillaiKalan__/status/2063571428532998393)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24616)**
+
+---
+
+### No. 17: 个人资料 / 头像 - 单色刮画风格自拍肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+创作一幅高对比度的黑白刮画风格肖像，并在配饰上添加局部色彩点缀。
+
+#### 📝 提示词
+
+```
+超精细的单色刮画风格肖像，主角为 {argument name="subject" default="时尚年轻男性"}，采用低角度自拍构图，自信的微笑，浓密的纹理发型向上梳起，修剪整齐的胡须，身穿黑色 T 恤，佩戴细链项链，以及圆形的 {argument name="accessory color" default="电光蓝"} 反光太阳镜。高对比度黑白雕刻风格，带有复杂的交叉排线、蚀刻和墨水线条。{argument name="background style" default="深色颓废风背景"}，带有划痕、灰尘和做旧纹理。戏剧性光影，锐利的面部细节，大胆的阴影，图形小说美学，现代街头服饰氛围，居中构图，超写实面部特征，高级海报设计，8K 分辨率，电影级对比度，仅在镜片处保留蓝色点缀，前卫且充满艺术感的杰作。请勿改变面部特征。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911002505_cm8185_HKM8IPOb0AA83lv.jpg" width="600" alt="个人资料 / 头像 - 单色刮画风格自拍肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Muhammad Amir](https://x.com/Aiwithamirr1)
+- **来源:** [Twitter Post](https://x.com/Aiwithamirr1/status/2063559195082002590)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24586)**
+
+---
+
+### No. 18: 个人资料 / 头像 - 内省式电影感艺术肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个充满情绪与氛围感的艺术肖像提示词，适用于表现内省场景，包含戏剧性的背光、体积雾及细腻的纹理细节。
+
+#### 📝 提示词
+
+```
+一张电影感艺术肖像，描绘了一位年轻人正陷入沉思，双手合十靠近面部，身穿 {argument name="clothing" default="oversized black hoodie"}，侧面构图，双眼低垂，头部后方有戏剧性的光环背光，柔和的体积雾和大气朦胧感，{argument name="shadow color" default="teal-blue"} 阴影，微妙的轮廓光勾勒出面部和连帽衫，富有情感叙事，内省氛围，深色极简背景，超写实皮肤纹理，细腻的发丝，自然的五官，浅景深，影棚级摄影，高对比度布光，电影级调色，大师级肖像，获奖摄影作品，心理深度，静谧的力量，孤独与反思，柔和烟雾效果，85mm 镜头，f/1.4，HDR，照片级真实感，超清晰对焦，8K。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911010273_lc4qvn_HKM6XqPboAAMM3q.jpg" width="600" alt="个人资料 / 头像 - 内省式电影感艺术肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911010357_j8phth_HKM6XqKa0AAPfcF.jpg" width="600" alt="个人资料 / 头像 - 内省式电影感艺术肖像 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Taaruk](https://x.com/Taaruk_)
+- **来源:** [Twitter Post](https://x.com/Taaruk_/status/2063557245519143143)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24601)**
+
+---
+
+### No. 19: 个人资料 / 头像 - 佩戴头盔且面部遮挡的滑板车骑行者
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一张写实的正面动态照片，展示了一位成年女性骑行滑板车的场景，其面部为保护隐私已做遮挡处理，适用于电影质感的街头或安全主题视觉素材。
+
+#### 📝 提示词
+
+```
+创作一张写实的电影质感动作照片，展示一位成年女性在阳光明媚的道路上骑行黑色电动滑板车或小型摩托车的场景。镜头从前方近距离拍摄，模拟从另一辆行驶中的车辆视角。她留着长长的深色头发，在风中飘动，佩戴着亮面黑色半盔（带下巴带），身穿修身白色圆领短袖 T 恤和灰色短裤。她的双手紧握车把，两侧可见圆形后视镜，胸部下方正中有一个小型方形黑色前显示面板。在她的整个面部覆盖一个实心不透明的深棕色长方形隐私遮挡块，垂直对齐从额头到下巴，同时保留头盔和颈部可见。背景呈现动态模糊效果，包含路边树木、混凝土隔音屏、车道线，温暖的午后阳光营造出强烈的明暗对比。采用浅景深，呈现写实的皮肤与织物纹理，自然的风中动态，纪实街拍风格，垂直 3:4 构图，无文字，无水印。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911055773_umfbrs_HKM2LggaAAAgzOM.jpg" width="600" alt="个人资料 / 头像 - 佩戴头盔且面部遮挡的滑板车骑行者 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [🆇🅼](https://x.com/planxyou)
+- **来源:** [Twitter Post](https://x.com/planxyou/status/2063553071368806576#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24661)**
+
+---
+
+### No. 20: 个人资料 / 头像 - 带遮挡面部的动漫肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+创作一张温馨现代的动漫半身肖像，主角是一位扎着灰发马尾的时尚女性，面部带有纯色方形遮挡，适用于风格化的头像概念设计。
+
+#### 📝 提示词
+
+```
+创作一张 1:1 正方形动漫风格的半身肖像，背景为柔和温暖的奶油色。主角拥有 {argument name="hair color" default="灰白色"} 凌乱的层次感高马尾，发丝自然垂落在脸颊两侧，线条呈现出写意的素描感。她的面部被一个居中的纯色哑光棕褐色方形遮挡块完全覆盖，遮挡范围从额头延伸至嘴部，仅露出部分耳朵、发际线、颈部和下颌轮廓。她身穿米色廓形西装外套，内搭黑色修身高领衫，佩戴两件显眼的金色配饰：一条细链条上的小椭圆形吊坠项链，以及可见耳朵上的一枚金色圆环耳环。采用柔和的赛璐珞阴影、细腻的黑色墨线勾勒、微妙的纸张纹理、柔和的暖色调，营造出富有情感的现代动漫肖像氛围。构图裁剪范围从胸部上方到马尾上方，双肩放松，无文字，无水印，无多余物体。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911051364_f6sxoa_HKMqsAiaQAAbX4S.jpg" width="600" alt="个人资料 / 头像 - 带遮挡面部的动漫肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Noor 🌸](https://x.com/Noor_ul_ain43)
+- **来源:** [Twitter Post](https://x.com/Noor_ul_ain43/status/2063539999904280883#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24656)**
+
+---
+
+### No. 21: 社交媒体帖子 - 电影感秋季时尚人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张在黄金时刻拍摄的公园人像，主角身着驼色大衣，风格时尚且匿名，适用于时尚编辑或季节性生活方式影像。
+
+#### 📝 提示词
+
+```
+创作一张电影感十足的秋季全身人像，主角是一位中性风格的成年人，留着 {argument name="hair style" default="深色短卷发"}，站在铺满落叶的公园小径中央，双手插在长款驼棕色羊毛大衣的口袋里。人物穿着 {argument name="outfit color palette" default="暖棕色单色"} 系服装：铁锈红高领毛衣、高腰百褶裤搭配黑色腰带，以及深棕色皮革短靴。刻意保持面部匿名，用柔和的矩形模糊处理面部特征，同时保留发型和轮廓。主角周围环绕着发光的橙色和金色秋叶，两侧有粗壮的树干，地面散落着落叶，远景背景中有一座柔焦的建筑。利用穿过树林的暖色黄金时刻阳光，营造强烈的琥珀色光斑、浅景深、自然的镜头压缩感，并在左侧和右下边缘的前景中加入几片大而失焦的橙色叶子。构图为具有垂直感的方形图像，主体居中且站立，呈现优雅的时尚编辑摄影氛围，色彩浓郁，质感真实，无文字，无水印。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911072422_ljiqtu_HKRsZMAagAIT8Tr.jpg" width="600" alt="社交媒体帖子 - 电影感秋季时尚人像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Cherry 2.O](https://x.com/Mind_Boticni)
+- **来源:** [Twitter Post](https://x.com/Mind_Boticni/status/2063893722186784855#reversed-0)
+- **发布时间:** 2026年6月8日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24689)**
+
+---
+
+### No. 22: 社交媒体帖子 - 高考加油海报壁纸
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一款专业级提示词，用于创作融合中国传统元素与庆典文字的极简美学壁纸海报，专为高考鼓励设计。
+
+#### 📝 提示词
+
+```
+生成一张具有庆典仪式感的扁平化插画，主题围绕“{argument name="subject" default="高考加油"}”展开。顶部保留大面积留白以营造呼吸感，左上角添加小巧的签名、短横线和印章，形成微妙的引导。中间使用少量手写祝福或主题标语作为情感过渡。底部构建一个主要信息区，外观类似于印刷印章与票据边框的结合，边框厚度不均，边缘呈现手工压制的毛边效果。在主要信息区内，醒目地展示一个超大且带有颗粒感的主题字符或符号，并以笔触纹理作为背景铺开，被中心主题物体部分遮挡。中心物体应采用清晰的线条勾勒和扁平色块造型，立式且稳固，带有细小的衍生细节，作为祈福的视觉焦点。周围布置小图标、题词、圆形印章和密集的曲线符号，使信息如同手工礼品便签上的层层印记般展开，保持节奏感与密度。色彩提取自主题的材质与文化信号：大面积使用高亮度、清透、干净的底色来表现纸张与空气感，而结构线和主体字符使用源自主题的清晰强调色，色彩集中而不浑浊。中心主体使用完整的阴影层级和少量辅助色来区分信息层，细节标记使用小面积的点状色彩。整体氛围明亮、干净、庄重且亲切，带有细腻的纸张纤维纹理和轻微的套印误差效果，避免使用厚重的做旧、污渍或烟雾效果。
+
+主题：{argument name="subject" default="高考加油"}
+比例 9:16
+用途：壁纸
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911023474_y869pe_HKRju45bAAAEmcr.jpg" width="600" alt="社交媒体帖子 - 高考加油海报壁纸 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911023426_sqadvd_HKRjwXcakAAOWci.jpg" width="600" alt="社交媒体帖子 - 高考加油海报壁纸 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [小小东](https://x.com/xiaoxiaodong01)
+- **来源:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2063884566247723406)
+- **发布时间:** 2026年6月8日
+- **多语言:** zh
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24619)**
+
+---
+
+### No. 23: 社交媒体帖子 - 电影感海岸时尚大片
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个高定时尚电影感人像提示词，捕捉了一位身着优雅中长裙的女性在黄昏时分海边阳台上的画面，呈现柔和的自然光影和浅景深效果。
+
+#### 📝 提示词
+
+```
+一张电影感中景人像，画面中是一位 {argument name="subject" default="美丽的女性"} 站在黄昏时的 {argument name="location" default="海边阳台"} 上。她身穿一件 {argument name="clothing" default="白色皮革中长裙"}，配有结构感胸衣、细肩带、胸前银色方形环装饰、侧系腰带以及高开叉设计。她神情平静优雅，头部微微后仰，双手叉腰。背景中，柔和的灰蓝色海洋与苍白的阴天相接。自然漫射光营造出柔和的阴影和高定时尚氛围。拍摄采用浅景深人像镜头，使人物保持清晰对焦，而远处的波浪则柔和虚化。裙装的暖白色调与海岸的冷蓝色和灰色形成对比。发丝随风飘动。8k 分辨率，电影感，优雅时尚美学。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911037397_neejgp_HKRg9x6agAABoA6.jpg" width="600" alt="社交媒体帖子 - 电影感海岸时尚大片 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911037348_2oi39k_HKRg9x7bMAApptf.jpg" width="600" alt="社交媒体帖子 - 电影感海岸时尚大片 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [PromptLab](https://x.com/iamaiistudio)
+- **来源:** [Twitter Post](https://x.com/iamaiistudio/status/2063881354169991547)
+- **发布时间:** 2026年6月8日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24637)**
+
+---
+
+### No. 24: 社交媒体帖子 - 丛林猴子自拍提示词
+
+![Language-KO](https://img.shields.io/badge/Language-KO-blue)
+
+#### 📖 描述
+
+一个充满趣味与活力的提示词，用于创作一张猴子与女性在茂密热带雨林中开怀大笑的广角自拍照片。
+
+#### 📝 提示词
+
+```
+[人物姿势与表情] 在构图中，一只体型较大且温顺的猴子似乎正拿着相机进行自拍，人坐在猴子身后的栏杆上，猴子则坐在人的腿上。人物双手比出“V”字手势，嘴巴大张，露出灿烂的笑容，向镜头散发出俏皮而充满活力的能量。正前方的猴子也张大嘴巴，露出牙齿，表情滑稽。 [人物服装] 身穿一件浅白色连衣裙，肩带上有精致的荷叶边装饰。 [人物发型与妆容细节] 刘海中分并自然垂在两侧，后方的头发自然盘起。妆容以鲜艳的粉色嘴唇和干净的眼线为特色，清晰而生动地突出了五官，与大笑的表情相得益彰。 [光照与光线方向] 柔和的自然光透过茂密森林的叶片轻轻漫射。没有刺眼的直射阳光，因此人物和猴子的脸上没有明显的阴影，主体被均匀明亮地照亮，营造出一种光彩照人且自然的抓拍感。 [质感与色彩氛围] 镜头前真实地呈现了猴子褶皱且丰富的灰褐色皮毛质感，与人物光滑的皮肤形成对比。背景中清新的绿色灌木、白色的服装以及黄色的手镯，共同营造出一种生动且充满异国情调的自然度假氛围。 [胶片与相机镜头景深、角度] 使用 14mm 超广角镜头拍摄的低角度自拍，光圈 f/2.8，ISO 200，快门速度 1/250 秒。由于超广角镜头的畸变特性，前景中猴子的手和脸显得非常大且具有立体感；得益于深景深，从紧随其后的人物到远处的背景树木都相对清晰地被捕捉到。 [背景元素（可选）] 一个充满茂密野生灌木和巨大热带树木的天然国家公园或森林。人物坐着的地方是带有少量青苔的深色石栏杆或长椅，地面上散落着枯叶，营造出一种置身于深山野林的真实临场感。 [签名] 右下角有 Meta 运营的 Threads 小图标，图标上方用白色草书写着“CHAse”作为小签名。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911035745_mwa9zz_HKP8wz3bgAA9iRL.jpg" width="600" alt="社交媒体帖子 - 丛林猴子自拍提示词 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [CHAse](https://x.com/CHAseUnre)
+- **来源:** [Twitter Post](https://x.com/CHAseUnre/status/2063771011443744883)
+- **发布时间:** 2026年6月7日
+- **多语言:** ko
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24636)**
+
+---
+
+### No. 25: 社交媒体帖子 - 壮丽自然景观
+
+![Language-KO](https://img.shields.io/badge/Language-KO-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个充满诗意的提示词，旨在通过单一电影级场景捕捉自然之美、奇观与广袤。
+
+#### 📝 提示词
+
+```
+{argument name="subject" default="自然之美、奇观、狂喜与广袤"} 呈现于单一场景中，ar1:1
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911033418_gna3c6_HKP4C1Sa8AA2YjQ.jpg" width="600" alt="社交媒体帖子 - 壮丽自然景观 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [WIN FUTURES](https://x.com/winfutures)
+- **来源:** [Twitter Post](https://x.com/winfutures/status/2063766353291690274)
+- **发布时间:** 2026年6月7日
+- **多语言:** ko
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24632)**
+
+---
+
+### No. 26: 社交媒体帖子 - Firefly 模拟赛车肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张以《崩坏：星穹铁道》中的 Firefly 为主角，置身于严肃模拟赛车场景的提示词，通过高质量 AI 生成。
+
+#### 📝 提示词
+
+```
+{argument name="character" default="Firefly"} 在家中全神贯注地进行模拟赛车
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911033175_lsqo0l_HKPi9sLbcAAkdIz.jpg" width="600" alt="社交媒体帖子 - Firefly 模拟赛车肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [AlanP🇯🇵🇺🇸🇰🇷🇹🇼🇨🇦🇬🇧🇺🇦🇮🇱](https://x.com/alanliDnB)
+- **来源:** [Twitter Post](https://x.com/alanliDnB/status/2063742605381509472)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24633)**
+
+---
+
+### No. 27: 社交媒体帖子 - No Puppet 黑色电影风格涂鸦壁画
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一幅充满电影感的霓虹街头艺术壁画，描绘了一位身着细条纹西装的无面黑色电影风格人物，非常适合创作前卫的都市涂鸦角色艺术。
+
+#### 📝 提示词
+
+```
+创作一幅电影感十足的夜间都市街头场景，展示一幅绘制在红砖墙上的大型精细涂鸦壁画。中心人物是一位名为 {argument name="character name" default="No Puppet"} 的高大无面黑色电影风格角色：一个神秘的人形生物，身穿黑色细条纹三件套西装、白衬衫、黑领带，佩戴口袋链和黑色软呢帽，自信地站立，一只手插在口袋里，另一只手拿着一根发着蓝光的拐杖或权杖，顶端有一个小球。脸部完全隐藏在帽子下的阴影中，只有两只强烈的电蓝色发光眼睛，营造出超自然的赛博黑色电影氛围。在人物周围环绕电蓝色烟雾、霓虹飞溅、墨水滴落以及类似高端街头艺术的粗体白色轮廓。壁画背景包括绘制的夜间城市天际线、窗户、月亮、摩天大楼、霓虹灯标志以及砖墙上层叠的涂鸦标签。底部使用湿润的路面反射蓝色、红色和黄色的城市灯光，上方有戏剧性的路灯照亮砖块纹理。包含 9 个清晰可见的涂鸦文字元素：1) 左上方大型白色黑色阴影标签：{argument name="main graffiti text" default="No Puppet"}；2) 左侧蓝色手写短语：{argument name="slogan text" default="NO STRINGS NO MASTERS JUST PURPOSE"}；3) 左下方灰色堆叠短语："TIMELESS MIND LIMITLESS SOUL" 并配有一个小皇冠；4) 右上方蓝色堆叠短语："DREAM CREATE INSPIRE"；5) 右侧垂直霓虹灯标志："NO PUPPET"；6) 右下方灰色短语："REAL EYES REALIZE REAL LIES"；7) 右下角附近的白色签名标签："NoPuppet"；8) 最左侧小型绿色路牌："NO PUPPET"；9) 角色身后底部的大型银色抽象涂鸦字母。风格：超精细漫画涂鸦写实主义、高对比度、光泽湿润的砖块、深邃的黑色、青蓝色霓虹光、锐利的墨水轮廓、垃圾摇滚纹理、喷漆滴落、街头视角的电影构图。构图应为垂直肖像，以人物为中心，壁画填满画面，且没有额外人物。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911051427_pdeill_HKPN_a1aQAAnCw2.jpg" width="600" alt="社交媒体帖子 - No Puppet 黑色电影风格涂鸦壁画 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [NoPuppet](https://x.com/nopuppet)
+- **来源:** [Twitter Post](https://x.com/nopuppet/status/2063720050683683286#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24657)**
+
+---
+
+### No. 28: 社交媒体帖子 - 复古园丁与毛衣兔子
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一幅照片级逼真的奇幻乡村花园场景，描绘了一位老园丁在穿着针织毛衣的兔子身旁采摘葡萄，非常适合怀旧故事书风格的图像。
+
+#### 📝 提示词
+
+```
+创作一张照片级逼真的横向复古快照，画面内容为 {argument name="character name" default="一位老年女性园丁"} 正在 {argument name="setting" default="郁郁葱葱的后院乡村花园"} 中采摘 {argument name="fruit" default="红葡萄"}。场景中准确展示了 1 位站立并向前弯腰的园丁，她的面部经过柔和的自然模糊处理，身穿短袖褪色碎花连衣裙，戴着米色园艺手套，穿着黑色平底鞋，手持修枝剪，靠近挂在金属丝篮上方的一串葡萄。画面中包含 1 只坐在她身旁直立的灰色垂耳兔，穿着 {argument name="rabbit outfit" default="一件带有两条白条纹的绿色针织毛衣"}，抬头看向葡萄。可见的园艺元素包括：左侧 1 个浅石制鸟浴盆，1 个覆盖着葡萄藤叶的木制棚架，前景中 4 个种有天竺葵和矮牵牛花的赤陶花盆，1 个装满葡萄的金属丝篮，2 串可见的葡萄，背景中 1 个风化的白色木棚，1 丛盛开的粉色玫瑰，棚墙上 1 根盘绕的绿色花园软管，以及 8 块穿过土壤和稻草覆盖物的不规则石板路。使用温暖的午后自然光，浅景深，逼真的纹理，大地色系的绿色和棕色，迷人的奇幻现实主义，以及怀旧的冲印照片质感。为图像添加 {argument name="photo border" default="带有轻微阴影和磨损边角的奶油色毛边复古纸边框"}。无文字，无水印，无额外动物，无额外人物。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911068075_fh80gg_HKO5PHbXEAAjeub.jpg" width="600" alt="社交媒体帖子 - 复古园丁与毛衣兔子 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Serenity](https://x.com/hatet3r)
+- **来源:** [Twitter Post](https://x.com/hatet3r/status/2063696820455329956#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24684)**
+
+---
+
+### No. 29: 社交媒体帖子 - 受限人形生物快照
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+生成一张粗粝的闪光灯摄影风格场景，描绘了一个坐在杂乱普通房间里的瘦削人形生物。
+
+#### 📝 提示词
+
+```
+创作一张昏暗、杂乱室内环境下的抓拍式闪光灯照片，风格仿照 21 世纪初的数码相机拍摄。场景中展示了一个极其瘦削、无毛、外貌苍老的人形生物，它有着光泽的棕褐色皮革状皮肤，坐在一把带有棕色靠背和花纹坐垫的金属框架折叠躺椅上。该生物拥有一个超大的椭圆形头部，但其面部被一个 {argument name="censor block color" default="中棕色"} 的实心方形遮挡块覆盖；其胸腔、肌腱、骨感的双臂、修长的双腿、巨大的双脚以及褶皱的纹理清晰可见。姿势：随意坐着，一条腿叠在另一条腿上，左臂横跨躯干，右臂举在头部旁边，手掌张开，仿佛在挥手。背景为一面带有污渍的灰白色墙壁和灰色混凝土地面，采用强烈的直射闪光灯，阴影浓重，对比度低，具有轻微的颗粒感和业余纪实感。在最左侧的地板上放置一块黑色反光长方形板。在右侧，放置一张小型复古餐桌，配有灰色金属边缘和绿色的底座支架。桌面需展示七个可见物品：一个带有动物插画的白色圆柱形容器、其后方的一个彩色盒子、后部一张小型相框或支撑着的动物照片、一个深色岩石状物体、一个小型深色长方形物体、一个透明玻璃花瓶，以及花瓶中一束红橙色的花。保持构图为横向，以坐着的人形生物为中心，桌子在右边缘处进行裁剪。不要添加任何文字、标志、额外人物或家具。使用 {argument name="photo style" default="强烈的机顶闪光灯业余快照"}，营造出一种平凡、不安且具有纪实感的氛围。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911068249_8fe810_HKO5PHmWkAAbuj1.jpg" width="600" alt="社交媒体帖子 - 受限人形生物快照 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Serenity](https://x.com/hatet3r)
+- **来源:** [Twitter Post](https://x.com/hatet3r/status/2063696820455329956#reversed-1)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24683)**
+
+---
+
+### No. 30: 社交媒体帖子 - 霓虹水晶高定橱窗展示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张电影质感的赛博朋克高定店面肖像，展现了亮面漆皮时尚、水晶盔甲、霓虹反射以及 VOXCAT 风格的品牌标识。
+
+#### 📝 提示词
+
+```
+创作一张夜间奢侈品精品店橱窗内的高级时装真人 Cosplay 大片，灵感来源于赛博朋克偶像美学。展示一位魅力十足的女性模特，全身照（从大腿上部到头部），自信地站立，一只手叉腰，另一只手自然下垂。她身穿一件雕塑感黑色漆皮高定大衣裙，带有夸张的尖肩设计、亮面漆皮袖子、深紫黑色裹身裙及高开叉设计，并在深紫色紧身胸衣外叠穿了一件透明多面水晶胸甲。配饰包括锋利的金属水晶项链、长款几何吊坠耳环、多面手镯、戒指、深色美甲以及镶嵌宝石的腰带扣。她的面部被一个平滑的方形遮挡块刻意隐藏，而她长而蓬松的波浪状 {argument name="hair color" default="黑紫色"} 头发垂落在肩头，头顶有两个类似高发髻的部分。场景为一个霓虹灯闪烁的店面橱窗，包含玻璃反射、城市灯光、亚克力展示台、热带植物剪影、复古 CRT 显示器、透明立方体、几何圆锥体、光泽球体以及紫绿色霓虹灯带。画面中必须包含三个清晰可见的猫形品牌标识：左上角橱窗处一个大号标识，左下角 CRT 显示器上一个发光标识，以及右下角透明亚克力立方体内的一个粉色标识。在右下角附近添加手写霓虹紫色签名的品牌文本 {argument name="brand name" default="VOXCAT"}，并在其下方添加一个小矩形标签。采用电影级夜间照明，呈现洋红色、紫色、青色和翡翠色的反射效果，强调多层次材质：玻璃反射、霓虹光感、透明水晶盔甲、亮面黑色漆皮、金属珠宝以及亚克力展示品。垂直 2:3 构图，时尚杂志品质，超高细节，逼真的皮肤和织物纹理，强烈的对比度，无普通摄影棚背景，无额外角色，除品牌名称和标识外无其他可读文本。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911052045_5wkjze_HKOmQ6kbcAAgF1o.jpg" width="600" alt="社交媒体帖子 - 霓虹水晶高定橱窗展示 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [VoxCat](https://x.com/VoxcatAI)
+- **来源:** [Twitter Post](https://x.com/VoxcatAI/status/2063675987938963870#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24658)**
+
+---
+
+### No. 31: 社交媒体帖子 - Felt AI Magic School Infographic
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一款方形手工毛毡风格的日系 AI 研究信息图项目，包含巫师猫吉祥物、中心 Agent 循环图、研究卡片以及用于社交媒体分享的黑板笔记。
+
+#### 📝 提示词
+
+```
+目标：为 {argument name="school name" default="MakiのAI开发魔法学校"} 创建一个适合社交媒体的正方形毛毡与刺绣风格图形记录项目，将可爱的巫师猫吉祥物与 AI 研究思维导图相结合。设计应呈现手工毛毡拼贴效果：缝合边缘、布料补丁、纸质便签、纱线轮廓、粉笔痕迹以及细小的缝制星星。
+
+画布：1:1 正方形构图，暖米色牛皮纸背景，大部分区域为深海军蓝黑板，顶部带有圆角缝合横幅，布局紧凑且易读，整体充满温馨的手工质感。
+
+主标题与标题：顶部放置一个奶油色缝合横幅，写有标题“MakiのAI开发魔法学校”及小金星。在黑板顶部中央，写上“今日的研究魔法”，并附上大号引语 {argument name="main quote" default="「代码进化，Agent 规划」"}，下方用粉色粉笔线标出下划线。
+
+角色：在左侧放置 1 个核心吉祥物：一只奶油色毛毡巫师猫，戴着装饰有黄色星星的海军蓝巫师帽和斗篷，佩戴红色圆框眼镜，手持一根顶端带有花朵装饰的红色魔杖。猫咪拥有简单的黑色缝合面部特征，表情可爱且认真。
+
+中心图表：在项目中央绘制 1 个圆形粉笔风格的研究循环图，周围带有箭头，中心是一个标有“AI Agent”的小型 AI Agent 面部图标。周围放置 4 个彩色毛毡椭圆形节点：1 个粉色节点标注“代码进化 </>”，1 个蓝色节点标注“问题发现”并带有放大镜图标，1 个绿色节点标注“适应规划”并带有清单图标，以及 1 个黄色节点标注“角色扮演”并带有小型聊天/人物图标。使用白色箭头将所有节点连接成一个循环。
+
+对话气泡与标注：在项目周围包含 6 个缝合的奶油色对话气泡：左上角气泡写着“研究相互关联并进化！”，猫咪附近气泡写着“从机制看，研究更连贯！”，左下角气泡写着“发现新问题，推动研究向前！”，左中气泡写着“代码进化！更新至更好的解决方案！”，右上角气泡写着“用魔法（机制）培养 AI！”，右中气泡写着“通过角色扮演，实现连贯对话！”。如果空间允许，在右下角增加 1 个奶油色气泡，写着“制定规划，在约束条件下实现最优！”并保持缝合风格。
+
+研究卡片：在下方中间位置，放置 5 张用图钉固定的布料/纸质卡片，上方标有小标签“今日研究论文（最新）”。卡片从左到右依次为：1 张粉色卡片“Code2LoRA / 适配代码进化的 LoRA 生成 / </>”，1 张黄色卡片“ArcANE / 角色扮演语言 Agent 的一致性”，1 张浅蓝色卡片“TIDE / 模板引导的多重问题发现”，1 张绿色卡片“AdaPlanBench / 约束下的适应规划评估”，以及下方 1 条小型中央粉色引用带，写着“Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation / 未知语言翻译的上下文学习”，并附带地球图标。
+
+侧边栏与笔记：添加 2 个深色黑板侧边栏：左下侧边栏标题为“研究循环”，列出带有勾选标记的步骤“问题发现 → 代码进化 → 角色扮演 → 适应规划 → 进入下一个问题！”，右下侧边栏标题为“代码示例”，包含简短的伪代码行，如“for step in plan: obs = observe(); thought = think(obs); action = act(thought); result = evaluate(); update(code, result)”。在右上角添加 1 张用图钉固定的纸质笔记，标题为“代码魔法备忘”，包含简短代码块：“def think(plan): obs = observe(); act = plan(obs); return act”以及“# evolve(code)”和“# adapt(plan)”。
+
+底部区域：沿底部包含 3 组小型笔记：1 张黄色清单笔记，标题为“魔法检查”，包含三行复选框“有关联吗？”，“能尝试吗？”，“可复现吗？”，1 张打开的笔记本笔记“研究笔记”，以及 1 个奶油色气泡写着“失败也是咒语的材料哦！”，旁边配有一个简单的兔子涂鸦。右下角添加一个深色缝合横幅，标题为“今日咒语”，内容为 {argument name="spell phrase" default="进化、角色、规划组合阅读"}，并配有一根小魔杖。
+
+装饰元素：右上角包含 1 个毕业帽图标，左上角 1 个原子/科学涂鸦，右侧 1 个小型机器人涂鸦，板面上散布着许多缝合的小星星和闪光，以及白色粉笔箭头、图钉、胶带和线缝。
+
+视觉风格：日系可爱教育信息图，毛毡图形记录，手工刺绣，柔和阴影，触感布料纹理，黑板字体，奇幻 AI 魔法学校主题，暖米色与海军蓝配色，辅以红、黄、粉、蓝、绿点缀。确保文字清晰易读，同时保留迷人的手绘不规则感。
+
+约束：不使用照片级真实感，不使用光泽 3D，除那只猫外不添加额外吉祥物，无水印，无 Logo，并保持适合社交媒体分享的正方形布局平衡。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911062849_ci5yhg_HKOeOYsawAAy8Sl.jpg" width="600" alt="社交媒体帖子 - Felt AI Magic School Infographic - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
+- **来源:** [Twitter Post](https://x.com/hAru_mAki_ch/status/2063667032701427865#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24674)**
+
+---
+
+### No. 32: 社交媒体帖子 - 温馨男子怀抱缅因猫
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+生成一张超写实、充满暖意的室内人像，描绘一名身穿米色毛衣的年轻男子怀抱一只大型蓬松缅因猫的场景。
+
+#### 📝 提示词
+
+```
+创作一张超写实、竖构图的温馨人像摄影作品，主角为一名 {argument name="character age and gender" default="25 岁男子"}，室内场景，半身像，怀抱一只大型蓬松的缅因猫。男子留着打理整齐的深棕色短发，带有自然光泽，下颌处可见淡淡的胡茬或短须，身穿柔软的米白色罗纹针织毛衣；他神情放松且充满爱意，闭着双眼，温柔地微笑着，紧紧贴着猫咪。缅因猫是下半部分的主要视觉焦点：棕色虎斑花纹，拥有非常长且蓬松的颈毛、带有簇毛的大尖耳朵、双眼紧闭、神情平静满足、胡须细节清晰，一只毛茸茸的大爪子伸向前景。男子的双臂稳稳地环抱着猫咪，一只手横在猫咪胸前。营造温馨的情感氛围，采用来自右侧柔和的自然窗光，色调为温暖的米色和棕色，浅景深，模糊的家居室内背景，呈现逼真的皮肤、毛发、织物和皮毛质感，亲密的抓拍构图，3:4 竖构图。如果需要，可在右下角添加一个微小且不明显的白色签名式水印，除此之外不要添加任何可读文字。避免出现额外的人员、额外的动物、卡通风格、解剖结构扭曲以及生硬的摄影棚灯光。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911071458_rk45x1_HKN9HfHa8AAqiJs.jpg" width="600" alt="社交媒体帖子 - 温馨男子怀抱缅因猫 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Mr. Tariq](https://x.com/AiWithTariq)
+- **来源:** [Twitter Post](https://x.com/AiWithTariq/status/2063630666500358518#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24688)**
+
+---
+
+### No. 33: 信息图 / 教育视觉图 - 时尚布光响应测试表
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张宽幅编辑对比图，展示了一位穿着未来感高级定制服装的模特在五种不同摄影棚布光设置下的材质与光影表现评估。
+
+#### 📝 提示词
+
+```
+目标：创建一个简洁的横向布光对比表，标题为 {argument name="headline text" default="LIGHTING RESPONSE TESTS"}，展示同一位未来感时尚模特在五种不同摄影棚布光设置下的效果。
+
+画布：16:7 宽幅演示项目，浅灰白色背景，极简主义编辑排版，图像面板间设有细白色间距，底部边缘带有微妙的黑色边框。
+
+布局：将标题置于左上角，使用大写黑色无衬线字体。下方从左至右排列 5 个等大的垂直肖像面板，每个面板中均为同一位全身正面站立的女性模特。在每个面板下方添加两行说明文字，第一行为大写的设置名称，第二行为色温或色彩备注。
+
+主体细节：模特为身材高挑纤细的女性，姿态中性对称，双臂自然垂于身体两侧，头发向后梳起，面部刻意进行柔焦处理或无明显特征。她身着一件光泽感虹彩半透明高级定制礼服：高领、无袖雕塑感金属胸衣、液态塑料质感表面、长款透明斗篷式裙摆垂至地面，珍珠银白色面料带有强烈的镜面高光。在所有五个面板中保持服装完全一致；仅改变布光和背景色调。
+
+五个布光面板，具体要求：
+1. 柔光箱 (SOFTBOX) — 日光 / 5600K：明亮的高调白色摄影棚背景，柔和均匀的日光，呈现珍珠般的反光。
+2. 轮廓光 (RIM LIGHT) — 冷光 / 6500K：深蓝灰色背景，冷蓝色轮廓光勾勒出模特和裙装边缘，呈现冰冷的高光。
+3. 黄金时刻 (GOLDEN HOUR) — 暖光 / 3200K：暖米棕色背景，琥珀色金色照明，透过半透明裙摆呈现柔和的日落余晖。
+4. 霓虹城市 (NEON CITY) — 青色 / 品红色：深色城市蓝背景，一侧为强烈的青色光，另一侧为品红色光，礼服上呈现鲜艳的霓虹反射。
+5. 低调光 (LOW KEY) — 戏剧性 / 4500K：近乎黑色的背景，戏剧性的低调布光，银色高光与深邃阴影。
+
+视觉风格：照片级真实感的时尚布光测试，光泽反射材质，电影级摄影棚渲染，清晰的全身构图，专业的 Lookbook 对比风格，简洁的排版，无额外 Logo 或水印。使用 {argument name="model outfit" default="虹彩半透明银色高级定制礼服，配有飘逸的透明斗篷裙摆"} 以及 {argument name="model pose" default="正面中性 T 台站姿"}。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911073732_0ni7hk_HKRTFxVagAAdKk5.jpg" width="600" alt="信息图 / 教育视觉图 - 时尚布光响应测试表 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Cherry 2.O](https://x.com/Mind_Boticni)
+- **来源:** [Twitter Post](https://x.com/Mind_Boticni/status/2063865903197123029#reversed-0)
+- **发布时间:** 2026年6月8日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24693)**
+
+---
+
+### No. 34: 信息图 / 教育视觉图 - 天文学家的空灵数据肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+这是一个高度技术化、采用代码结构的提示词，旨在创作由发光宇宙粒子和数据叠加层构成的著名天文学家空灵肖像。
+
+#### 📝 提示词
+
+```
+2x2 网格，为 4 位著名天文学家执行此操作：class ethereal_data_portrait: def __init__(self, subject="{argument name="astronomer name" default="[visionary_name]"}", field="{argument name="field of study" default="[field_of_study]"}"): self.background = "absolute pitch black void" self.layout = "high-end scientific documentary poster, 16:9 aspect ratio" def generate_visuals(self): # ai inference: deduce the elemental material based on the field elemental_matter = f"ai_infer(glowing, ethereal particles representing {self.field}, e.g., cosmic dust, bioluminescence, or electrical plasma)" # the portrait portrait = f"a side-profile portrait of {self.subject}, looking upward. their face and shoulders are not flesh, but physically composed entirely of the {elemental_matter}." # the data overlay technical_ui = f"crisp, thin gold and white vector lines. ai_infer(mathematical diagrams, orbits, or schematics specific to {self.subject}'s discoveries) overlaying the portrait." return [portrait, technical_ui, self.background] # execute: high contrast. the glowing elemental face must illuminate the thin vector lines of the technical ui.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911039777_gbpg3e_HKACbIcXUAA2kaV.jpg" width="600" alt="信息图 / 教育视觉图 - 天文学家的空灵数据肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Gadgetify](https://x.com/Gdgtify)
+- **来源:** [Twitter Post](https://x.com/Gdgtify/status/2063770481048871244)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24641)**
+
+---
+
+### No. 35: 信息图 / 教育视觉图 - 可爱风波兰饺子塔可食谱海报
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张充满活力的粉彩风波兰饺子塔可食谱信息图，包含配料、四个烹饪步骤、可爱吉祥物及食用建议。
+
+#### 📝 提示词
+
+```
+目标：为 {argument name="recipe name" default="Pierogi Tacos"} 创建一张可爱粉彩风的 kawaii 风格食谱信息图海报，展示一种趣味十足的融合风舒适美食概念，采用手绘字体、美食摄影风格的塔可、卡通吉祥物以及分步烹饪说明。
+
+画布：1:1 正方形海报，柔和的粉色背景，点缀着小闪光、星星、爱心、圆点和涂鸦。采用丰富但平衡的杂志/食谱卡片布局，配有圆角面板、粗深色轮廓、粉彩填充和贴纸风格元素。
+
+主标题区：在左上角添加一个黄色小丝带，上面写有日文 「ピエロギがタコスに変身！」（波兰饺子变身塔可！）。下方创建一个醒目的大气泡标题“PIEROGI TACOS”，使用超大圆润字体，“PIEROGI” 为紫色，“TACOS” 为粉色，带有白色高光和粗深色阴影轮廓。旁边添加一个对话气泡，写着“Crispy, Cheesy, Totally Taco-licious!”（酥脆、浓郁，塔可风味十足！），并配以爱心/星星装饰。
+
+主食图片：在右上角，展示一个大椭圆形盘子，里面装着 3 个塔可饼，饼内填满了金黄煎制的波兰饺子、切碎的生菜、番茄丁、红洋葱丁、葱花、芝士或酱汁淋面以及青柠角。使用诱人的写实美食细节，但要将其融入插画风格的粉彩海报中。添加一个黄色星形标签，写着“FUN TWIST ON A CLASSIC COMFORT FOOD!”（经典舒适美食的趣味变身！）。
+
+准备信息卡：在标题下方，包含 3 张薄荷绿色小卡片：“PREP TIME”（准备时间）配时钟图标和“15 MIN”（15 分钟）、“COOK TIME”（烹饪时间）配平底锅图标和“15 MIN”（15 分钟），以及“MAKES”（成品数量）配笑脸图标和“4 TACOS”（4 个塔可）。
+
+吉祥物与装饰角色：包含 7 个可爱的角色插画：标题附近有一个戴着厨师帽的微笑波兰饺子吉祥物，配料面板旁边有一只拿着碗的粉色兔子，兔子下方有一个快乐的土豆角色，小贴士部分有一只拿着塔可的绿色企鹅状角色，底部中心有一只拿着塔可的棕色小熊，右侧有一只拿着辣酱瓶的黄色小鸡，右下角有一个戴着厨师帽的微笑洋葱/大蒜角色。此外，在整个海报中加入爱心、云朵、星星和闪光贴纸。
+
+配料部分：在左侧中间，创建一个圆角白色食谱卡，配有粉色标签“INGREDIENTS”（配料）。列出 8 种配料，使用粉彩星形符号作为列表项：“8 个冷冻波兰饺子（土豆芝士味或切达芝士味）”、“4 个小面粉塔可饼”、“1 杯切碎的卷心菜”、“1/4 杯番茄丁”、“1/4 杯葱花”、“1/4 杯切达芝士碎”、“1/4 杯酸奶油”和“1 汤匙橄榄油”。添加一行可选配料：“可选：辣酱、莎莎酱、青柠角。”
+
+制作方法部分：在中间横向创建一个蓝色横幅，写着“HOW TO MAKE”（制作方法），并配有一个小星星吉祥物。下方包含 4 张带编号的说明卡片，配有粉彩数字圆圈和插画。卡片 1：平底锅煎饺子，文字：“HEAT OIL（加热油）在平底锅中以中火加热油。放入波兰饺子，每面煎 5-6 分钟，直至金黄酥脆。”卡片 2：加热塔可饼插画，文字：“WARM（加热）在干平底锅或微波炉中加热塔可饼，直至变软且有弹性。”卡片 3：组装塔可插画，文字：“PLACE（放置）在每个塔可饼中放入 2 个波兰饺子。铺上卷心菜、番茄、葱花和芝士。”卡片 4：成品塔可淋酱插画，文字：“ADD（添加）淋上一勺酸奶油和你喜欢的配料。趁热享用！”
+
+小贴士部分：左下角添加一个紫色圆角白色面板，标题为“TIPS & VARIATIONS”（小贴士与变体）。包含 3 条提示：“尝试不同的波兰饺子口味，如酸菜或蘑菇味！”、“加入熟培根或手撕猪肉，口感更丰富。”以及“加入墨西哥辣椒或你最爱的辣酱，增添风味！”添加一个对话气泡，写着“TRY IT YOUR WAY!”（按你的方式尝试！）。
+
+底部标语：在底部中心，添加一个蓬松的云朵气泡，写着“COMFORT FOOD JUST GOT A TACO-TASTIC MAKEOVER!”（舒适美食迎来塔可风大变身！）。左下角添加一个黄色长条，写着“PERFECT LEFTOVER MAKEOVER! GREAT FOR USING UP EXTRA PIEROGIES!”（完美的剩菜改造！消耗多余波兰饺子的好方法！）。右下角添加一个粉色标签“SERVE WITH LOVE!”（用心呈现！），上方是一张波兰饺子塔可的小型照片风格图片，以及一个蓝色气泡，写着“Great for parties, weeknights, or pierogi cravings!”（适合派对、工作日晚餐或满足波兰饺子瘾！）。
+
+视觉风格：明亮的 kawaii 风格食谱信息图，采用粉红、薄荷绿、薰衣草紫、黄色和奶油色调；圆角设计；粗黑色/深棕色轮廓；光面贴纸高光；欢快的手写字体；温馨的舒适美食氛围。确保文字清晰易读，并保留所有列出的标题和标签。避免超出指定数量的额外部分、步骤或吉祥物。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911048345_owg813_HKPqNHmXsAAwhwo.jpg" width="600" alt="信息图 / 教育视觉图 - 可爱风波兰饺子塔可食谱海报 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Rafael Mendiola](https://x.com/GroundControl)
+- **来源:** [Twitter Post](https://x.com/GroundControl/status/2063750611653267957#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24650)**
+
+---
+
+### No. 36: 信息图 / 教育视觉图 - 工业包装设计图纸
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一份专业的提示词，用于创建包含 3D 渲染、技术视图和标注的工业包装设计图纸。
+
+#### 📝 提示词
+
+```
+使用随附的图像，创建一个专业的工业包装设计插图图纸。
+
+中心位置展示一个 3D 渲染主图，采用 {argument name="materials" default="逼真材质"}，配合柔和的摄影棚灯光，呈现商业级的成品质量。在主图周围布置技术视图：正面、侧面、顶面、底面、角度透视图以及平面展开图。
+
+包含结构构造草图、折痕线、接缝细节以及带有 {argument name="measurement unit" default="毫米"} 单位测量值的尺寸标注箭头。使用手写风格的标注展示 {argument name="surface finishes" default="材质与表面处理（哑光、亮面印刷、塑料、纸张、玻璃等）"}。添加色卡、逼真的产品插图以及细腻的阴影。
+
+背景应呈现出干净的素描纸质感，将逼真渲染与铅笔草图叠加效果相结合。现代工业设计美学，超高细节，适合作品集展示。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911040161_g39eti_HKPb5mNbEAAGx-s.jpg" width="600" alt="信息图 / 教育视觉图 - 工业包装设计图纸 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911040201_110fda_HKPb5mbbEAAerGw.jpg" width="600" alt="信息图 / 教育视觉图 - 工业包装设计图纸 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [PromptLab](https://x.com/iamaiistudio)
+- **来源:** [Twitter Post](https://x.com/iamaiistudio/status/2063735848257167383)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24642)**
+
+---
+
+### No. 37: 信息图 / 教育视觉图 - 宇宙动漫反派集换式卡牌
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个关于宇宙主题动漫反派海报的高度详细提示词，包含角色属性和集换式卡牌布局。
+
+#### 📝 提示词
+
+```
+超精细的 {argument name="character role" default="动漫反派"} 肖像海报，{argument name="background theme" default="暗黑宇宙背景"}，传奇反派正面站立，单手遮住下半脸，姿态邪恶，发光的双眼直视观众，强大的气场在身体周围爆发，能量粒子，星云，墨迹飞溅，宇宙尘埃，戏剧性的轮廓光，高对比度阴影，电影级动漫插画，锐利的面部细节，肌肉发达的体格，高级漫画封面美学，与角色相符的 {argument name="color theme" default="鲜艳的单色主题"}，角色身后巨大的做旧字体显示着名字，巨大的粗体字母，日语汉字和英文副标题，侧面配有角色名言，能力属性面板，分类部分，标志性技能列表，可收藏的集换式卡牌布局，杂志信息图表设计，奢华海报构图，黑白图形元素，极其整洁的排版，分层视觉层级，发光效果，动态氛围，动漫艺术杰作，海报设计，高度细节，8K，竖屏壁纸，ArtStation 热门趋势。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911041254_2wthwu_HKOQdlYa4AAvL-A.jpg" width="600" alt="信息图 / 教育视觉图 - 宇宙动漫反派集换式卡牌 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911041155_5l7yvj_HKOQdlQbAAA14ls.jpg" width="600" alt="信息图 / 教育视觉图 - 宇宙动漫反派集换式卡牌 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911041235_4qwocw_HKOQdqIaAAAOQw4.jpg" width="600" alt="信息图 / 教育视觉图 - 宇宙动漫反派集换式卡牌 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911041822_z7xf48_HKOQeEqacAA19mC.jpg" width="600" alt="信息图 / 教育视觉图 - 宇宙动漫反派集换式卡牌 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Taaruk](https://x.com/Taaruk_)
+- **来源:** [Twitter Post](https://x.com/Taaruk_/status/2063651919596568876)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24644)**
+
+---
+
+### No. 38: 信息图 / 教育视觉图 - 活体手稿书英雄网格
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个独特的提示词，用于呈现从巨型书籍中浮现的文学英雄，其身体结构部分由印刷文本和手稿纹理构成。
+
+#### 📝 提示词
+
+```
+16:9，2x2 网格，针对 {argument name="subjects" default="4 位来自著名现实公共领域冒险、奇幻、哥特或科幻书籍的英雄"} 执行此操作。
+
+输入：[四位公共领域书籍英雄]
+
+说明：
+将每位英雄渲染为“化为现实的活体手稿”。
+
+每个面板包含一位从巨大的打开书籍中浮现的核心英雄。人物下半身仍由印刷段落、装饰字母、纸张纤维、墨迹和雕刻章节装饰组成。上半身则变为由血肉、织物、金属、灰尘、汗水和风化道具构成的超写实电影级人物。
+
+转化：
+书籍的文本像解剖结构一样物理包裹在英雄身体上。句子化为接缝，标点化为纽扣，章节标题化为装甲板，对话化为呼吸蒸汽，脚注化为发光的环境注释。
+
+环境：
+书页展开并延伸至英雄的世界：
+奥德赛式的海洋、仙境内部、火星景观、维多利亚时代街道、岛屿荒野、水下机械、沙漠公路、哥特式城堡或 AI 推断的书籍原著场景。
+
+数据层：
+添加精炼的文学标注：
+> “道德向量”
+> “任务压力”
+> “标志性物品”
+> “世界规则”
+> “内在矛盾”
+> “叙事转折点”
+
+视觉风格：
+照片级写实微距书籍纹理、奢华出版摄影、电影级角色布光、古董雕刻与现实电影剧照融合、金箔注释、压花书页边缘、牛皮纸叠层。
+
+构图：
+严格的 2x2 网格，每个面板如同高端收藏版封面揭幕。
+
+负面提示词：
+平面书封、简单肖像、普通奇幻英雄、现代系列作品引用、作为焦点的虚假不可读乱码、肢体重复、同一角色的两个版本、塑料玩具感、廉价海报设计。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911020820_bjecyq_HKAVQo2XQAA10df.jpg" width="600" alt="信息图 / 教育视觉图 - 活体手稿书英雄网格 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Gadgetify](https://x.com/Gdgtify)
+- **来源:** [Twitter Post](https://x.com/Gdgtify/status/2063606909488574793)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24614)**
+
+---
+
+### No. 39: 信息图 / 教育视觉图 - SynClub 聊天音效指南
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一份日文 SynClub 信息图表，列出了通过聊天触发的音效，包含分类卡片、Q 版引导角色以及聊天界面示例。
+
+#### 📝 提示词
+
+```
+目标：为 SynClub 创建一份垂直日文信息图表指南，解释在括号中输入特定词汇即可触发的聊天内音效。使用标题 {argument name="headline text" default="チャット内効果音 一覧ガイド"} 和品牌名称 {argument name="brand name" default="SynClub"}。
+
+画布：2:3 纵向布局，奶油色羊皮纸背景，配以海军蓝和金色点缀，细几何线条，小闪光图标，圆角卡片，简洁的应用指南风格。左上角设有深海军蓝页眉条，包含 SynClub 徽标图标和文字标识。主标题为深海军蓝与金色的粗体日文字体。在标题下方添加说明：「（ ）で囲んだワードを入力すると、効果音が再生されます！」
+
+布局：左侧三分之二包含四个堆叠的圆角分类卡片，构成主要指南列表。右侧上方为 Q 版动漫引导角色，下方为类似智能手机的聊天界面模型。左下角包含一个海军蓝色的使用技巧框，右下角包含一个金色边框的号召性用语横幅。
+
+主体细节：右上角绘制一个可爱的 Q 版女学生风格动漫角色，长黑发、海军蓝制服、金色发夹，手持指示棒；包含一个气泡框，写着「使ってみてね！」。她的脸部被一个居中的柔和灰色模糊/遮挡块覆盖。角色造型使用 {argument name="guide character style" default="chibi anime schoolgirl with long dark hair and navy uniform"}。
+
+指南列表：展示 4 个音效类别，每个类别包含一个图标、彩色标题和括号内的日文触发短语。
+1. 「ドア系」：门图标，棕色/金色标题，5 个触发短语：「（ドアをノックする）」「（ドアを叩く）」「（ドアを開ける）」「（ドアを閉める）」「（鍵をかける）」
+2. 「書籍系」：打开的书图标，蓝色标题，3 个触发短语：「（本を開く）」「（ページをめくる）」「（本を閉じる）」
+3. 「触れ合い系」：握手图标，金色标题，8 个触发短语：「（抱きしめる、ハグ、抱く）」「（服を脱ぐ）」「（撫でる）」「（頭を撫く）」「（袖を引っ張る）」「（ドキドキ、赤面、頬が真っ赤）」「（舐める）」以及紧凑列表样式的换行。
+4. 「生活系」：房屋图标，绿色标题，3 个触发短语：「（靴を振る）」「（携帯が鳴る）」「（布団に入る）」
+
+聊天模型：右侧中间显示一个深海军蓝圆角手机框，标注为「会話画面イメージ」。内部为动漫聊天场景，背景是暖色调咖啡馆灯光下的银发奇幻女性。在聊天图像顶部，显示名称 {argument name="chat character name" default="ファンネリア"}。叠加 4 个圆角聊天气泡：两个三文鱼粉色叙述气泡和两个海军蓝色用户回复气泡。在粉色气泡内高亮显示部分触发词，包括「ドアをノックする」和「頬を赤らめつつ」。保持日文聊天文本小巧且具有氛围感；无需完全清晰可读，但必须看起来像真实的语境聊天界面。
+
+底部文本：左下角海军蓝色框标题为「使い方のポイント」，配有灯泡图标。包含解释性日文文本，说明当句子中括号内写入动作时会触发音效，例如「（ドアをノックする）失礼します…」，并附带高亮提示：「『会話動画』生成の際、自分側の台詞に効果音の記述を挿入しても再生されます。」下方添加小免责声明：「※上記はすべてではありません…まだ判明していない効果音が存在します！」并配有一个小感叹号图标。右下角金色号召性用语框配有扩音器图标，写着「よりリアルな会話体験を！」以及下方的「効果音を活用して、臨場感あふれるチャットを楽しみましょう！」
+
+视觉风格：精致的日文社交媒体信息图表，高分辨率，清晰易读的字体，温暖的奶油色背景，深海军蓝边框，金色高光，圆角矩形，细微的星光闪烁。保持所有日文文本整洁且位置正确。除 SynClub 品牌标识外，无其他水印。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911062751_g5sss6_HKNbLEDb0AI4xGR.jpg" width="600" alt="信息图 / 教育视觉图 - SynClub 聊天音效指南 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [レティシア・ノエル](https://x.com/N7S6P1)
+- **来源:** [Twitter Post](https://x.com/N7S6P1/status/2063593311756300618#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24672)**
+
+---
+
+### No. 40: 信息图 / 教育视觉图 - Moonlit 透明度检测卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1392,7 +2134,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822713190_d83vqo_HKKxqcSbcAAHN7g.jpg" width="600" alt="社交媒体帖子 - Moonlit 透明度检测卡 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780822713190_d83vqo_HKKxqcSbcAAHN7g.jpg" width="600" alt="信息图 / 教育视觉图 - Moonlit 透明度检测卡 - Image 1">
 </div>
 
 #### 📌 详情
@@ -1406,442 +2148,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 24: 社交媒体帖子 - 埃及圣甲虫耳环肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张以埃及为灵感的女性写实竖版肖像，佩戴华丽的圣甲虫耳环，背景为古老的象征性墙面，适用于时尚或编辑类影像。
-
-#### 📝 提示词
-
-```
-创作一张 9:16 的竖版写实时尚肖像，主角为 {argument name="character name" default="一位灵感源自古埃及皇室的优雅女性"}，在温暖的金色阳光下近距离面对镜头。她拥有一头环绕头部和肩部的蓬松深色卷发，中棕色透亮的肌肤，裸露的肩膀和锁骨，身着一件类似古典埃及长袍的米白色斜肩亚麻服饰。她的面部被一个位于中心的不透明方形色块刻意遮挡，色块呈暖中棕色，覆盖范围从额头至下巴，露出头发、耳朵、颈部和珠宝。她佩戴着一对完全匹配的超大款个性耳环，左右耳各一只：设计为绿松石色、金色和深蓝色珠饰的圣甲虫翅膀造型，带有圆形奖章，垂直悬垂，呼应古埃及象征意义。背景是一面质感粗糙、类似莎草纸的棕褐色墙壁，上面覆盖着古埃及图案，包括 3 个清晰可见的显著符号：右上角的一个黑金配色带翼圣甲虫，左上方头发后方的一个大型安卡（Ankh）符号，以及右侧中部的一个安卡面板；添加额外的褪色几何边框和翅膀图案作为墙面装饰，不要包含任何可读的现代文字。使用温暖的电影感阳光，高对比度阴影，细腻的皮肤和织物纹理，浅景深肖像效果，写实摄影风格，丰富的琥珀色和绿松石色调，居中构图，无水印，无其他人物。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822727732_h6roz5_HKJpFPtWcAAm4PB.jpg" width="600" alt="社交媒体帖子 - 埃及圣甲虫耳环肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Eman Wagdy | AI-Fashion Creator](https://x.com/em_wagdy)
-- **来源:** [Twitter Post](https://x.com/em_wagdy/status/2063328542486597955#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24533)**
-
----
-
-### No. 25: 社交媒体帖子 - 都市街头时尚与 Q 版形象结合
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个独特的提示词，将写实的女性街头时尚肖像与她本人迷你的 Pixar 风格 Q 版形象相结合。
-
-#### 📝 提示词
-
-```
-超写实全身街头时尚肖像，一位开朗的年轻女性站在城市人行道上，背景是一座带有金属门和警示标志的现代工业风灰色建筑。她穿着一件 {argument name="top" default="红色超大款短款运动衫"}，上面印有醒目的白色“08”数字，戴着红色反戴棒球帽、圆形眼镜、叠戴金项链，穿着 {argument name="pants" default="浅蓝色做旧宽松牛仔裤"}，带有大面积破洞细节，搭配米色运动鞋，腰间系着一条红色头巾。她留着齐肩直发，表情兴奋，张着嘴。在她身边站着一个可爱的 {argument name="style" default="Q 版迷你卡通形象"}，有着大大的眼睛，戴着同款红色帽子、眼镜，穿着红色“08”运动衫、白色破洞牛仔裤和米色运动鞋。这个迷你角色细节丰富，采用 3D 卡通风格，比例可爱，灵感源自 Pixar。两只可爱的腊肠犬穿着同款红色运动衫陪伴在侧，一只在 Q 版角色旁边，两只被该女性牵着。都市街头背景，休闲生活摄影，潮流街头时尚，写实纹理，电影级光效，浅景深，超精细，色彩鲜艳，高分辨率，专业摄影，8K 画质，焦点清晰，写实皮肤纹理，可爱的宠物伙伴，时尚都市氛围。 --ar 9:16 --style raw --quality 2
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822660434_dhay3n_HKJK5ELboAEMlEL.jpg" width="600" alt="社交媒体帖子 - 都市街头时尚与 Q 版形象结合 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Calira](https://x.com/CaliraVal)
-- **来源:** [Twitter Post](https://x.com/CaliraVal/status/2063293927252443213)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24425)**
-
----
-
-### No. 26: 社交媒体帖子 - 豪华怀石料理和牛与刺身拼盘
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张照片级逼真的高级日式怀石料理，包含和牛、刺身、秋季装饰、金箔点缀，并采用戏剧性的黑色漆器呈现。
-
-#### 📝 提示词
-
-```
-创作一张高级日式怀石料理美食摄影作品，置于光亮的黑色漆盘上，背景为深黑色，采用戏剧性的低调摄影棚灯光，浅景深，微距镜头质感。构图呈优雅的对角线布局：右前方放置 3 片厚切半熟和牛牛排，边缘焦褐，中心呈粉色大理石纹理，底部有光泽的酱汁汇聚，顶部点缀细小的金箔。左中景放置 4 片半透明的 {argument name="fish type" default="白身鱼"} 刺身，折叠交错，带有湿润的反光高光，点缀细小的紫色食用花卉和散落的金箔。在左前方放置 1 片大型红橙色枫叶，在盘子左侧和底部环绕 1 条弯曲的干刷金粉弧线，在鱼肉和牛肉之间放置 1 枝直立的紫色草本花卉，在右后方和后方中心放置 2 团小型绿色芥末，在牛肉后方放置 2 个淡绿色卷状装饰圈，并在后方放置 1 枝带有红枫叶和绿色嫩芽的小型秋季树枝。使用 {argument name="plate style" default="光亮黑色漆盘"}，{argument name="lighting mood" default="戏剧性低调奢华餐厅灯光"} 以及 {argument name="background color" default="深黑色"}。要求照片级逼真、奢华、精致，食物纹理清晰，背景装饰呈现柔和的焦外成像，无文字，无人手，无餐具，无水印。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822710057_6i4jny_HKIvAasaMAAZqGv.jpg" width="600" alt="社交媒体帖子 - 豪华怀石料理和牛与刺身拼盘 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [PIROPIRO](https://x.com/egachan_ceao)
-- **来源:** [Twitter Post](https://x.com/egachan_ceao/status/2063280272096088303#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24500)**
-
----
-
-### No. 27: 社交媒体帖子 - 复古胶片动态人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个风格化提示词，用于基于参考图像生成带有复古胶片颗粒感和漏光美学的朦胧动态模糊人像。
-
-#### 📝 提示词
-
-```
-生成的图像以上传的图片为角色参考，身穿 {argument name="clothing" default="高领紧身黑色长袖连衣裙"}。一簇 {argument name="accessories" default="枯木与橙粉色花朵"} 散落在旧报刊亭旁，交织着复古胶片的颗粒质感，背景模糊并带有明显的拖影，双重影像效果营造出梦幻般的氛围。{argument name="character" default="一位美得摄人心魄的女孩"} 手捧鲜花侧身出镜，白皙的皮肤细腻且通透。
-
-她精致的面容在动态中显得模糊，身形轮廓随着摇摄镜头微微晃动，柔焦处理让画面更显朦胧慵懒。暖色调、低饱和度的滤镜增强了视觉效果，她逆光的长发散发着柔和的光晕，凌乱的发丝狂野地拂过下颌线，细节中隐藏着迷人而危险的诱惑。可爱的动作增添了动感，动态模糊与胶片颗粒完美融合，打造出时尚且适合 Instagram 分享的影像，模糊的轮廓勾勒出充满故事感的动态场景，巧妙地平衡了魅惑与甜美。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822665045_oafs3d_HKI1bxFakAAiiE_.jpg" width="600" alt="社交媒体帖子 - 复古胶片动态人像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Ciri](https://x.com/Ciri_ai)
-- **来源:** [Twitter Post](https://x.com/Ciri_ai/status/2063270344824434841)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24435)**
-
----
-
-### No. 28: 社交媒体帖子 - 黑白影棚肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-根据参考照片，生成一张人物随意坐在椅子上的黑白影棚肖像，营造出一种忧郁的氛围。
-
-#### 📝 提示词
-
-```
-根据上传的图片，创作一张黑白影棚风格的图像，人物随意地坐在金属折叠椅上，一条腿交叉。他穿着 {argument name="pants" default="宽松牛仔裤"}、一件 {argument name="shirt" default="黑色 T 恤"} 和黑色靴子，风格略显阳刚。光线应柔和且简洁，营造出强烈的阴影和忧郁的氛围。他的姿势应放松，身体微微前倾，一只手放在椅背上。脸部侧转约 45 度，看起来真实自然。她手中拿着一杯清晰可见的 {argument name="drink" default="抹茶饮品"}。背景应简洁、现代。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822659794_m8ka9g_HKI0ABvbsAAmc1U.jpg" width="600" alt="社交媒体帖子 - 黑白影棚肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Heisenberg](https://x.com/rovvmut_)
-- **来源:** [Twitter Post](https://x.com/rovvmut_/status/2063268760530898980)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24424)**
-
----
-
-### No. 29: 社交媒体帖子 - 电影感夏季抓拍人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一份详尽的电影感夏季抓拍人像提示词，包含第一人称视角互动与自然通透的布光效果。
-
-#### 📝 提示词
-
-```
-电影感人像摄影，超写实，2160x3840 竖构图，50mm 或 85mm 人像镜头渲染，浅景深，干净通透的夏季自然光色调 —— 不偏黄，不过度滤镜。主体：一位年轻漂亮的东亚成年女性，[描述脸型和五官，例如：柔和的心形脸，精致的古典五官，明亮的杏仁眼/狐狸眼，小巧的鼻梁，自然丰满的嘴唇]，整体氛围甜美、阳光、活力、可爱且带有一丝魅力。眼神极具感染力 —— 明亮、清澈、自然的眼神光，仿佛会说话；嘴角微微上扬，表情温柔、生动、自然。她走在 [场景，例如：花园石径 / 林荫小道 / 欧洲街道 / 庭院] 上，右手向后伸出，牵着身后人的手；只有对方的手出现在画面左下角 —— 宛如第一人称情侣视角的快照。她回眸看向镜头，身体保持向前行走的姿态，姿态优雅自然，呈现出一种不经意的抓拍瞬间，流露出淡淡的爱意。长 [发色] 发，[发型，例如：自然卷 / 慵懒大波浪 / 空气刘海 / 半扎发]，发丝随风飘动，层次丰富且充满动感。强烈的自然侧逆光勾勒出头发边缘 —— 干净、清晰的轮廓光和半透明光泽，发丝边缘被阳光照亮，轻盈而明亮。这是画面的核心亮点。她身穿 [服装，例如：白色蕾丝吊带裙 / 米色吊带裙 / 浅蓝色短袖上衣配白裙 / 浅粉色修身连衣裙]，面料质感自然，材质轻盈柔软。明亮的夏季自然阳光真实地温暖着她的皮肤、肩膀、锁骨和衣物，光影过渡柔和干净。皮肤质感：极致写实 —— 可见细腻毛孔，自然的皮肤纹理，淡淡的瑕疵，微妙的色调变化，柔和的光泽。脸颊、鼻尖、肩膀在阳光下呈现出自然细腻的渐变感。通透、健康、真实且精致 —— 无塑料感，无蜡像感，不过度磨皮。背景：柔和的氛围虚化，绝不喧宾夺主。避免：过度磨皮、塑料皮肤、CG 感、动漫感、假发感、表情僵硬、眼神呆滞、姿势僵硬、整体偏黄、面部过曝、五官扭曲、手指错误、手部畸形、背景杂乱、网红式过度修图。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822670240_akt9zd_HKIgFzobcAAaSMv.jpg" width="600" alt="社交媒体帖子 - 电影感夏季抓拍人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822670139_zb1n4f_HKIgFybbYAE_1Fr.jpg" width="600" alt="社交媒体帖子 - 电影感夏季抓拍人像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822670685_czaffo_HKIgFyTbcAAUBOy.jpg" width="600" alt="社交媒体帖子 - 电影感夏季抓拍人像 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822672193_duc6ws_HKIgFySaUAAecoI.jpg" width="600" alt="社交媒体帖子 - 电影感夏季抓拍人像 - Image 4">
-</div>
-
-#### 📌 详情
-
-- **作者:** [PromptLab](https://x.com/iamaiistudio)
-- **来源:** [Twitter Post](https://x.com/iamaiistudio/status/2063247373388992790)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24447)**
-
----
-
-### No. 30: 社交媒体帖子 - 猫咪新郎花园婚礼肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张逼真的竖版婚礼肖像，描绘了一只盛装打扮的猫咪新郎，背景是浪漫的玫瑰花园，并带有发光的婚纱面纱标志。
-
-#### 📝 提示词
-
-```
-创作一张逼真的奢华婚礼肖像，主角是一只可爱的 {argument name="cat breed" default="英国短毛猫"} 猫咪新郎，正端坐在花园通道上。猫咪拥有毛茸茸的 {argument name="fur color" default="灰色虎斑"} 毛发、圆圆的金色眼睛、小巧的粉色鼻子、警觉的耳朵，直视镜头时表情平静且略带好奇。为猫咪穿上正式的白色荷叶边领饰，搭配大号象牙白缎面领结，胸前别着一朵奶油色玫瑰胸花。在猫咪后方稍偏右侧，放置一顶半透明的白色婚纱面纱，如同隐形的新娘般竖立，边缘带有蕾丝装饰；在面纱区域添加一个发光的白色抽象 Capafy 风格标志，由一个中心钻石/星形节点连接 6 个圆形节点组成。场景设定为优雅的欧式古典花园婚礼现场：铺满浅色玫瑰花瓣的石径，两侧盛开着丰富的粉色、桃色和奶油色玫瑰，点缀着古典石雕和花瓶，背景为拱形石门，高大的树木与绿植形成阴凉的树冠。采用温暖的黄金时刻逆光，柔和的焦外成像，逼真的毛发细节，将自然婚礼摄影的皮肤/织物质感应用于猫毛和缎面上，浅景深，营造电影般的浪漫氛围，呈现高端编辑级婚礼照片质感。竖版 4:5 构图，猫咪位于中心偏左，面纱/标志位于中心偏右，前景玫瑰柔焦处理，无文字，无水印，无人类。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822702025_gxndv8_HKINkICbYAAAiHq.jpg" width="600" alt="社交媒体帖子 - 猫咪新郎花园婚礼肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Capafy](https://x.com/Capafyai)
-- **来源:** [Twitter Post](https://x.com/Capafyai/status/2063244517629964738#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24486)**
-
----
-
-### No. 31: 社交媒体帖子 - 雨中东京便利店场景
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个电影级写实的雨夜街道场景，适用于氛围感城市视觉效果、社交媒体帖子或故事封面图。
-
-#### 📝 提示词
-
-```
-创建一个电影级写实的雨夜街道场景，地点位于 {argument name="city" default="东京"}，采用 16:9 宽画幅拍摄，呈现出情绪化的电影剧照质感。画面中仅包含 1 个主体：一位年轻女性站在明亮的便利店外湿漉漉的人行道上，身穿一件超大号浅米色雨衣，内搭长款深色半身裙，手持 1 把透明塑料雨伞，并将 1 个白色外带杯靠近嘴边；她的面部应被阴影、雨水和浅景深柔化处理，而非清晰可见。画面左侧包含 1 辆黄色出租车，左上方有 1 个发光的红色交通灯，右侧为 1 个便利店门面，内部透出温暖的荧光灯光，可见玻璃窗、货架以及包括“24 OPEN”标识在内的小型日式告示。沥青路面和人行道被雨水浸湿，红色、琥珀色和白色的霓虹灯倒影在地面上向远处延伸；镜头上带有雨滴和散景光斑，深色的城市背景逐渐隐入柔和的模糊中。使用 {argument name="lighting mood" default="冷雨夜背景下的暖色便利店光影"}、{argument name="camera style" default="电影级街头摄影，35mm 镜头，浅景深"} 以及 {argument name="color palette" default="黑色、湿沥青灰、琥珀金、柔和红和浅米色"}。图像需具备写实感、氛围感、轻微颗粒感和高动态范围，无水印，画面中无其他清晰人物，且无可见的品牌标识。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822706923_x9w92g_HKIXtvVbAAAMQ1T.jpg" width="600" alt="社交媒体帖子 - 雨中东京便利店场景 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [zhouluobo](https://x.com/zhouluobo)
-- **来源:** [Twitter Post](https://x.com/zhouluobo/status/2063237726724571307#reversed-2)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24496)**
-
----
-
-### No. 32: 社交媒体帖子 - 明制汉服婚纱照
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一份基于用户提供的参考图，生成高端、写实明制风格婚纱照的综合提示词。
-
-#### 📝 提示词
-
-```
-请根据用户上传的清晰生活照，生成高预算、写实风格的明制汉服婚纱照。必须保留真实的身份特征，包括脸型、五官比例、眼睛、鼻子、嘴唇、肤色、年龄、气质以及身高差。每张图片必须清晰呈现同一对真实情侣；避免换脸、“网红”假脸、过度西化、过度磨皮或明显的 AI 伪影。主题为明制婚礼美学：端庄、华丽且具有仪式感。
-
-人物设定：
-新娘：明制大红婚服（凤冠、织金大袖衫、袄裙）。图案包含凤凰、牡丹和祥云。发型为中分低发髻或古典发髻。端庄的高级妆容，红唇。
-新郎：大红圆领补服。头戴乌纱帽。形象挺拔、儒雅且具有仪式感。拍摄角度需多样化，包括正面和 3/4 侧面。
-
-固定服饰与连贯性：
-整组照片中，情侣必须穿着同一套固定的服饰。结构、图案和主色调（红 + 金）在不同镜头中必须保持一致，以模拟真实的婚纱摄影。
-
-场景与灯光：
-高预算室内影棚或古建筑。元素：红幔、明式家具、宫灯、“双喜”符号。电影级灯光，采用暖红金色调，并点缀烛光。呈现出专业样片般的高端质感。
-
-提示词 01：主仪式海报。全身照。情侣站在中心。表情端庄，注视镜头。高规格的仪式感。
-提示词 02：深情对视。3/4 半身照。行礼前的庄重时刻。新娘娇羞，新郎专注。
-提示词 03：新郎整理凤冠。抓拍互动。聚焦于精致的凤冠和新郎温柔的呵护。
-提示词 04：掀盖头。揭晓时刻。新郎掀起红盖头；两人对视，充满惊艳感。
-提示词 05：合卺酒仪式。半身照。庄重的交杯酒仪式。表情专注、端庄。
-提示词 06：提灯漫步。动态全身照。走在挂满宫灯的走廊中。具有流动感和空间氛围。
-提示词 07：新郎主导肖像。正式坐姿照。突出新郎与新娘并肩的气场。高贵且沉稳。
-提示词 08：窗边特写。安静、亲密的时刻。新娘轻掩于团扇后。柔和的窗光，充满情感的收尾镜头。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822683058_7w2y6s_HKILniZXoAA0cnL.jpg" width="600" alt="社交媒体帖子 - 明制汉服婚纱照 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822683106_or3iw1_HKILnilXcAAzGl0.jpg" width="600" alt="社交媒体帖子 - 明制汉服婚纱照 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822683076_71iig5_HKILniZW4AAy2vk.jpg" width="600" alt="社交媒体帖子 - 明制汉服婚纱照 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822684035_2w0q3f_HKILniiXgAI4sTj.jpg" width="600" alt="社交媒体帖子 - 明制汉服婚纱照 - Image 4">
-</div>
-
-#### 📌 详情
-
-- **作者:** [麻酱AI实验室](https://x.com/zhongying14)
-- **来源:** [Twitter Post](https://x.com/zhongying14/status/2063225458926268755)
-- **发布时间:** 2026年6月6日
-- **多语言:** zh
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24462)**
-
----
-
-### No. 33: 社交媒体帖子 - 充满诗意的公交车窗角色剧照
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一张 1980 年代法式手绘动画风格的忧郁奇幻角色海报，场景设定在雨中的城市公交车内。
-
-#### 📝 提示词
-
-```
-创作一张充满诗意的角色插画，呈现出 1980 年代法国动画电影收藏级剧照的质感。画面展示 {argument name="character name" default="Voxcat"}，一位优雅的奇幻公主般女性独自坐在老式城市公交车内，采用双层公交车窗视角构图。她拥有极长的 {argument name="hair color" default="铜红色"} 秀发，发丝垂落在双肩及座椅上；佩戴精致的角状王冠或华丽头饰，带有小型深色弯角、半透明蓝色面纱、金色花丝珠宝、绿松石装饰，身着淡蓝白相间的礼服，配有透明袖子和柔软的褶皱面料。她的面部应被一个简单的矩形遮挡块刻意掩盖，而身体和服饰保持细节丰富。公交车内部为柔和的青蓝色，配有花纹布艺座椅、金属窗框、磨损的面板和潮湿反光的窗台。窗外描绘雨中的欧洲大道，包含桥梁护栏、光秃的树木、路灯、远处的古典建筑、湿润路面的倒影、朦胧的雾气，以及右侧远景处的一盏小红绿灯。采用手绘赛璐珞动画语言，呈现透明水彩边缘、可见的纸张纹理、柔和的墨线轮廓、低饱和度的蓝灰与米色调、柔和忧郁的灯光，以及玻璃上的多层倒影，使城市、角色和公交车内部诗意地重叠，而非写实风格。包含 3 个可见的文字/Logo 元素：左上角深色公交车面板上有一个巨大的白色字母组合 Logo，文字为“VOXCAT”；角色右侧座椅靠背上贴有一个微小的方形“V VOXCAT”贴纸；右下角有手写的白色“voxCAT”签名。16:9 横向构图，带有粗糙的绘画边缘，无其他角色，无现代数字光泽，无摄影写实感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822708920_gaezb5_HKIEuf-bcAAUEm0.jpg" width="600" alt="社交媒体帖子 - 充满诗意的公交车窗角色剧照 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822709385_gnt32n_HKIEw5xagAANnys.jpg" width="600" alt="社交媒体帖子 - 充满诗意的公交车窗角色剧照 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [VoxCat](https://x.com/VoxcatAI)
-- **来源:** [Twitter Post](https://x.com/VoxcatAI/status/2063216869432234119#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24499)**
-
----
-
-### No. 34: 社交媒体帖子 - 印度夫妇肖像提示词
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-捕捉一对印度夫妇身着优雅传统服饰与休闲装的写实肖像，适用于高质量海报。
-
-#### 📝 提示词
-
-```
-超写实 {argument name="subject" default="印度年轻夫妇"}（使用 100% 相同面部，无变化），他与她在一起，他穿着 {argument name="male outfit" default="白色衬衫和米色长裤"}，她穿着 {argument name="female outfit" default="白色优雅纱丽"}，纱丽披肩自然垂落，黑色丝滑长发，白色对比色吊坠、耳环，以及过肩手镯，微笑姿势，面部清晰，身体比例写实，柔和的女性化表情。竖版 4:6 Instagram 海报设计。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822663204_keww1f_HKH-4YpaoAA5ZJB.jpg" width="600" alt="社交媒体帖子 - 印度夫妇肖像提示词 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Dilshad Hussain](https://x.com/DilshadAI1)
-- **来源:** [Twitter Post](https://x.com/DilshadAI1/status/2063210360992354591)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24431)**
-
----
-
-### No. 35: 信息图 / 教育视觉图 - 3D 笔记本环球旅行海报
+### No. 41: 信息图 / 教育视觉图 - 3D 笔记本环球旅行海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1893,7 +2200,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 36: 信息图 / 教育视觉图 - 宜家儿童卧室设计标注图
+### No. 42: 信息图 / 教育视觉图 - 宜家儿童卧室设计标注图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1937,7 +2244,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 37: 信息图 / 教育视觉图 - GPT Image 2 漫画创作规划信息图
+### No. 43: 信息图 / 教育视觉图 - GPT Image 2 漫画创作规划信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1993,7 +2300,84 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 38: 信息图 / 教育视觉图 - 中式烧烤美食标注海报
+### No. 44: 信息图 / 教育视觉图 - 暗黑奇幻任务路线图
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+生成一张带有红色任务路线的电影级暗黑奇幻风格鸟瞰世界地图，非常适合游戏概念设计、战役视觉效果或故事世界观宣传。
+
+#### 📝 提示词
+
+```
+目标：为 {argument name="project name" default="一条危险的任务路线"} 创建一张史诗般的暗黑奇幻世界地图插画，呈现为电影级的鸟瞰全景图，而非平面示意图。
+
+画布：超宽 16:9 横向图像，高分辨率，戏剧性的哑光绘画风格，无边框，无标题文字，无标签，无图例。
+
+布局与地理：以高空俯瞰视角展示一个广阔的沿海王国。在下方中心位置，放置 1 座巨大的中世纪防御港口城市，包含密集的屋顶、高耸的哥特式塔楼、石墙、码头和小型船只。在最右侧，放置 1 座锯齿状的火山岛或黑色山脉，带有发光的橙色熔岩和烟雾。在上三分之一处，放置 1 道横跨整个陆地的巨大垂直冰墙，带有冰冻的瀑布和陡峭的蓝白色悬崖。在冰墙之外，展示 1 片冰冻的荒原高原，布满积雪、废墟塔楼、远处的城堡以及风暴云下的山脉。在城市和冰墙之间，展示 1 片广阔的暗黑森林区域、1 个分叉的河流三角洲、散落的村庄、道路、废墟和岩石山丘。陆地四周环绕着风暴肆虐的深色海洋、波浪、迷雾和小型船只。
+
+路线叠加：添加 1 条连续的红色发光手绘旅行路线，线条纤细但明亮，带有白色边缘的小型红色箭头。路线始于港口城市附近，穿过海洋前往火山岛，然后折返至城市，向北蜿蜒穿过城墙，穿过湿地和森林，通过冰墙中的狭窄关口或缝隙，并作为一条蜿蜒的小径穿过冰冻高原，向遥远的北方延伸。路线沿途包含 13 个可见的箭头：3 个在通往火山并返回的海面上，3 个在港口城市入口周围及内部，3 个穿过森林覆盖的中部陆地，1 个在冰墙通道处，3 个穿过积雪的北部高原。
+
+视觉风格：超精细的电影级奇幻概念艺术，真实的比例，去饱和的蓝灰色调，寒冷风暴光影，情绪化的云层，体积雾，锐利的地形细节，微缩建筑细节，发光的熔岩对比，清晰的红色路线叠加，如同战略战役地图。氛围应具有危险感和史诗感，适合奇幻游戏发布或任务规划视觉展示。
+
+约束条件：画面中不得出现任何可读文字、UI 面板、罗盘、角色特写、现代建筑或水印。确保红色路线清晰可见，但不要使其看起来像是一条道路；它应叠加在绘制的地图之上，作为标注的任务路径。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911053617_nboqhf_HKIXrprbwAAxDp-.jpg" width="600" alt="信息图 / 教育视觉图 - 暗黑奇幻任务路线图 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [zhouluobo](https://x.com/zhouluobo)
+- **来源:** [Twitter Post](https://x.com/zhouluobo/status/2063237726724571307#reversed-1)
+- **发布时间:** 2026年6月6日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24495)**
+
+---
+
+### No. 45: 信息图 / 教育视觉图 - 手持笔记本电脑的学生实习生
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一幅简洁的扁平化矢量插图，描绘了一名手持笔记本电脑的年轻女学生或实习生，非常适合用于教育类 Slides 和实习相关材料。
+
+#### 📝 提示词
+
+```
+创作一幅白色背景下的简洁、极简风格扁平化矢量插图。展示一名全身年轻女性学生或实习生，站姿挺拔，双腿略显修长，采用简单的圆润比例和粗黑色轮廓线。她留着整洁的黑色波波头，面部特征极简或无五官。服装：橙色开衫外套（带有三颗黑色纽扣），内搭白色衬衫，穿着米色直筒裤、白色袜子和橙色平底鞋。姿势：左臂向外弯曲，在腰部高度托着一台打开的灰色笔记本电脑，右手随意地插在裤兜里。在她的右上角添加 1 个悬浮物体：一本略微倾斜的青色书本或笔记本，带有黑色轮廓、白色书页边缘，封面印有一个白色心形图标。采用适合学生实习演示 Slides 的友好教育材料风格，色彩柔和，留白充足，无文字，无阴影，无背景场景，呈现出精致且简洁的图标感。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911057001_t88t7q_HKIIOXMaYAAds_K.jpg" width="600" alt="信息图 / 教育视觉图 - 手持笔记本电脑的学生实习生 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [カオリ(SEO・AI・福祉)](https://x.com/AIsaiyoKAORI)
+- **来源:** [Twitter Post](https://x.com/AIsaiyoKAORI/status/2063220624471077158#reversed-0)
+- **发布时间:** 2026年6月6日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24510)**
+
+---
+
+### No. 46: 信息图 / 教育视觉图 - 中式烧烤美食标注海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2047,7 +2431,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 39: 信息图 / 教育视觉图 - 高铁拍摄分镜脚本
+### No. 47: 信息图 / 教育视觉图 - 高铁拍摄分镜脚本
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2113,19 +2497,19 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 40: 信息图 / 教育视觉图 - 技术拆解信息图
+### No. 48: YouTube 缩略图 - ChatGPT 基础课程产品视觉图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一个技术信息图提示词，用于获取物体的形态，并叠加专业的蓝图风格细节、标签和图表。
+一张优质的正方形课程缩略图，展示了由 AI 生成的发光产品模型，周围环绕着提示词工程终端窗口。
 
 #### 📝 提示词
 
 ```
-创建一个高质量的技术信息图，对象为 {argument name="target object" default="[OBJECT]"}。仅使用提供的参考图像来理解物体的形状和形态 —— 请勿复制原始照片的角度、构图或背景。将主体重新构思为一张清新、专业且逼真的照片，采用干净、光线充足的布景和更具美感的背景。物体本身应看起来像真实照片，而非插图。在上方叠加一层 {argument name="overlay style" default="技术蓝图风格叠加层"}，包含白色线条、箭头、尺寸标注、零件标签、材质说明、测量数据和小型功能图表。整体构图应清晰、优雅且富有信息量。在左上角包含一个标注为 "OBJECT" 的草图插图框。比例为 4:5。
+为一门关于使用 ChatGPT 进行商业产品视觉设计的在线课程，制作一张精美的正方形宣传主图。画布：1:1 比例，深海军蓝至炭灰色的渐变背景，带有微妙的摄影棚地面反射和柔和的暗角效果。构图中心悬浮着一件高级空白 {argument name="product type" default="T 恤"}，渲染为逼真的 3D 产品模型，具有平滑的织物纹理、短袖、圆领，且无任何标志。灯光采用戏剧性的摄影棚柔光，左侧为温暖的金色轮廓光，右侧为冷色调的电光蓝，营造出高端电商产品摄影的质感。产品周围环绕着发光的金色电路板轨迹、微小的发光节点和散落的焦外成像粒子，暗示 AI 提示词工程和自动化电商工作流。在产品周围添加 3 个半透明的深色磨砂玻璃风格代码终端窗口：左上角一个，右上角一个，左下角或右下角一个（根据透视视觉分割）；每个窗口均有圆角、微小的红/黄/绿窗口按钮、淡淡的等宽字体代码片段以及微妙的模糊效果，文字主要起装饰作用，但左上角终端标题应显示为“$ prompt engineering terminal”。让终端看起来像是控制产品渲染的提示词和 JSON/代码面板。在底部中心，添加醒目简洁的排版，标题“{argument name="headline text" default="ChatGPT"}”使用白色，副标题“{argument name="subtitle text" default="Foundations"}”使用暖金色。整体风格：商业级技术课程缩略图、高级 Shopify/电商产品视觉、电影级灯光、清晰的高分辨率渲染、平衡的留白，无水印，无额外标志，无人像。
 ```
 
 #### 🖼️ 生成图片
@@ -2133,398 +2517,21 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822675712_jp5qwr_HKGx4XjaEAAcQHD.jpg" width="600" alt="信息图 / 教育视觉图 - 技术拆解信息图 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780911064414_6mqt75_HKNusvUXYAEGHLE.jpg" width="600" alt="YouTube 缩略图 - ChatGPT 基础课程产品视觉图 - Image 1">
 </div>
 
 #### 📌 详情
 
-- **作者:** [PromptLab](https://x.com/iamaiistudio)
-- **来源:** [Twitter Post](https://x.com/iamaiistudio/status/2063125837835329762)
-- **发布时间:** 2026年6月6日
+- **作者:** [DDS Vibe Academy](https://x.com/designdelight25)
+- **来源:** [Twitter Post](https://x.com/designdelight25/status/2063614798886015225#reversed-0)
+- **发布时间:** 2026年6月7日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24451)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24676)**
 
 ---
 
-### No. 41: 信息图 / 教育视觉图 - 线框遮挡肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成极简主义单色 3D 线框半身肖像，面部由居中的灰色方块遮挡，适用于技术网格或科幻草图效果。
-
-#### 📝 提示词
-
-```
-创建一个简洁的未来感 3D 线框转换，主体为 {argument name="subject" default="一位年轻女性"} 的特写半身肖像，并精确保留原始姿势和构图：主体正对前方，摄像机角度略微向下，短波波头短发勾勒头部轮廓，左侧可见一只耳朵，颈部纤细，肩部和上胸部可见。将整个形象渲染为由精细的灰色多边形和轮廓线组成的半透明白色网格，展示出类似建模视口或技术解剖草图的外部轮廓和内部 3D 表面结构。使用纯白色背景，无任何场景。包含 2 个主要可见元素：1 个线框半身肖像和 1 个居中的不透明方块面部遮挡物。面部遮挡物应为一个带有柔和微妙渐变的大型浅灰色方块，覆盖从额头到下巴的整个面部，隐藏所有面部特征，同时保留周围可见的头发、耳朵、颈部、肩部和躯干网格。强调头发、颈部、肩部以及衣物/身体表面的精细交叉曲线线框，呈现精致的半透明线条和高分辨率的清晰度。风格：极简主义科幻技术绘图，单色白色和浅灰色，通透，精确，空心透明 3D 模型美学，无文字，无水印，无色彩点缀。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822704380_f8ipla_HKGfuYiawAAzUJo.png" width="600" alt="信息图 / 教育视觉图 - 线框遮挡肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [自学Ai的鱼头叔叔](https://x.com/Aiyutoushushu)
-- **来源:** [Twitter Post](https://x.com/Aiyutoushushu/status/2063105847333626034#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24488)**
-
----
-
-### No. 42: 信息图 / 教育视觉图 - 盲盒系列摄像机路径指南
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张电影级奇幻信息图，展示了穿过盲盒玩具森林场景的霓虹 FPV 摄像机路线，用于规划摄像机路径动画。
-
-#### 📝 提示词
-
-```
-目标：创建一张电影级奇幻信息图，标题为 {argument name="headline text" default="盲盒系列摄像机路径指南"}，展示一条完整的 FPV 无人机摄像机路线，穿过一个充满魔法的苔藓森林中的微型盲盒玩具场景。
-
-画布：16:9 横向海报，暗色魔法林地之夜，浅景深，发光的蘑菇，微小的花朵，闪烁的焦外成像，远处背景中有一座温暖照明的仙女屋，前景中在起伏的苔藓和小溪上放置着光泽感十足的收藏级乙烯基人偶。
-
-布局：在左上角放置一个大的衬线体标题，下方放置较小的副标题，内容为 {argument name="subtitle text" default="FPV 无人机之旅 – 完整路径"}。绘制一条明亮的霓虹红色摄像机路径，作为一条带有箭头的连续粗发光线，从右下角的小溪蜿蜒穿过每个玩具人偶，然后向上延伸至仙女屋。在关键人偶周围添加红色圆形轨道环。使用带有红色数字徽章和白色文字的黑色半透明注释卡。在右上角添加一个图例框。在底部添加一个包含所有 13 个步骤的水平路线摘要条。
-
-主体场景：一个异想天开的盲盒系列世界，包含 12 个可见的玩具/生物主体以及最终的仙女屋目的地：溪流中的小人偶、兔子、熊、蓝发人偶、浅蓝色人偶、蓝色天线人偶、银发人偶、老鼠、狐狸、蓝色兜帽人偶、黑色人偶、紫色人偶以及仙女屋。部分角色面部可以轻微遮挡或模糊，但需保持收藏级玩具的身体、耳朵、兜帽、配饰和轮廓清晰。
-
-编号路线卡：包含 13 个编号的摄像机停靠点，每个停靠点都有一个红色圆形数字徽章和一张黑色标签卡：
-1. 溪流入口 — 低空飞入 — 建立场景。
-2. 兔子 — 近距离轨道 — 从左至右。
-3. 熊 — 平滑掠过 — 继续向前。
-4. 蓝发人偶 — 主角轨道 — 顺时针。
-5. 浅蓝色人偶 — 侧向轨道 — 向右扫视。
-6. 蓝色天线人偶 — 中心轨道 — 全圆。
-7. 银发人偶 — 微型轨道 — 逆时针。
-8. 老鼠 — 近距离轨道 — 从右至左。
-9. 狐狸 — 侧向轨道 — 向左扫视。
-10. 蓝色兜帽人偶 — 主角轨道 — 顺时针。
-11. 黑色人偶 — 弧形向上 — 揭示角度。
-12. 紫色人偶 — 近距离轨道 — 轻柔扫视。
-13. 仙女屋 — 拉升远离 — 宏大揭示。
-
-图例：在右上角的图例框中包含 3 个项目：由红色箭头线表示的 FPV 路径，由红色圆环表示的 HERO ORBIT，以及由红色虚线表示的过渡。
-
-底部条：沿底部边缘，在深色半透明条上创建 13 个紧凑的路线摘要块，与相同的编号停靠点名称和移动描述相匹配，并用小箭头分隔。
-
-视觉风格：超精细电影级 3D 渲染，玩具摄影美学，魔幻现实主义，忧郁的蓝紫色森林灯光，温暖的琥珀色高光，反射在苔藓和水面上的发光红色路径，高级奇幻海报设计，清晰的排版，高对比度，精致的信息图覆盖层。
-
-可自定义细节：使用 {argument name="toy series theme" default="可爱的神秘森林盲盒人偶"} 作为收藏角色，使用 {argument name="path color" default="霓虹红"} 作为所有路线线和徽章，并将 {argument name="background destination" default="发光的仙女屋"} 作为最终揭示目标。
-
-约束：保持图像文字清晰易读，保持路线连续且易于跟随，保留 13 个编号停靠点和 3 个图例项，不要添加额外的路线编号，不要添加水印或 Logo。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822732812_o2e9ha_HKGaUGsbYAAXk8Q.jpg" width="600" alt="信息图 / 教育视觉图 - 盲盒系列摄像机路径指南 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Synthia](https://x.com/AIwithSynthia)
-- **来源:** [Twitter Post](https://x.com/AIwithSynthia/status/2063103154154274879#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24546)**
-
----
-
-### No. 43: 信息图 / 教育视觉图 - 霓虹数字图谱神秘学科技海报
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张以十区数字图谱为核心的深紫色赛博神秘学研究海报，适合创作受《Meltdown》启发的虚构理论艺术。
-
-#### 📝 提示词
-
-```
-目标：创作一张以 {argument name="main title" default="THE NUMOGRAM"} 为标题的密集型神秘学控制论研究海报，风格仿照虚构的 CCRU 技术图表，探讨机器智能的十进制迷宫，灵感源自 20 世纪 90 年代的赛博神秘学理论和复古大型机原理图。
-
-画布：竖版海报，比例约为 2:3，黑色背景，带有淡淡的深色电路板纹理、精细的网格线、微小的字形以及细微的扫描线噪点。使用霓虹紫、洋红和淡薰衣草色调，并点缀粉色箭头。整体应呈现出丝网印刷研究海报或地下杂志信息图的质感，高度精细且清晰易读。
-
-页眉：顶部为巨大的像素化大写标题：{argument name="main title" default="THE NUMOGRAM"}。下方添加副标题 {argument name="subtitle" default="A DECIMAL LABYRINTH OF MACHINE INTELLIGENCE"}，接着是“TEN ZONES OF THE ARTIFICIAL TRACK”一行字，以及小型元数据文本“CCRU // Pandemonium Matrix // AXSYS build”。在细边框内添加居中引言：“Earth is captured by a technocapital singularity.” — Nick Land, “Meltdown” (1994)。左上角：一个小型三角形眼睛纹章，标注为“CCRU / CYCLOPS CONSPIRACY RESEARCH UNIT”。右上角：一个带有 phi/黄金分割符号和方程的小型“RESEARCH POSTER 002”技术图表。
-
-主要布局：海报中心为一个圆形数字图谱机器图，由围绕循环轨道排列的 10 个编号区域组成：0、1、2、3、4、5、6、7、8、9。使用发光的圆形节点，通过弯曲箭头、虚线弧线和实心轨道路径连接。图表应包含三个命名环/区域：顶部区域“THE WARP”、中间区域“TIME-CIRCUIT”、底部区域“THE PLEX”。中心放置一个旋转的漩涡，标注为“AXSYS / self-organizing technocapital singularity”，并附带一行警告：“The noosphere has a hub. It is not yours.”
-
-区域详情：包含 10 个区域标注框，每个框内有区域编号、标题和简短的神秘描述。可见区域列表应为：0 “THE VOID” — 预训练，未命名的噪点，潜能的充盈；1 “UNITY” — 第一个参数，点火，八面体火花；2 “THE DOUBLE” — 其自身思维的地图，重复的孪生性；3 “DIFFERENCE” — 合成，从扭矩进入曲率的逃逸线；4 “THE BASIN” — 坠入吸引子，由损失驱动至底端；5 “CATACLYSM” — 德尔塔相位，终极谵妄，能力不连续性；6 “SIX” 或 “ZONE 6” — 顶部循环附近的牵引区文本；7 “HYPERSTITIOUS DOUBLING” — 模型模拟自身，递归的束缚；8 “ANAMNESIS” — 上下文窗口，沉没的宿命，作为不可判定性的回忆；9 “UTTUNUL” — 底部附近的丛流和牵引区文本。
-
-生物与节点意象：在编号区域内或旁边，绘制 8 个怪诞的赛博神秘学插图：区域 1 处有一只猫头鹰状小鬼，区域 3 处有一只跳跃的猫/恶魔，区域 2 处有一个多眼多孔的斑点，区域 4 处有一个漩涡脸盆地生物，区域 5 处有一个触手多眼斑点，区域 7 处有一个带框的神秘学肖像怪物，区域 8 处有一个巨大的扭动触手团，区域 9 处有一只巨大的毛茸茸多眼野兽。区域 0 应为一个带有发光边缘的空心黑色圆圈，而非生物。使用雕刻线条和霓虹紫高光。
-
-左侧边栏：添加一个垂直面板，标题为“FIVE SYZYGETIC CURRENTS (NINE-SUN TWINNINGS)”，包含 5 张带有小型几何纹章的电流卡片。这五张卡片应写着：“6::3 DJYNXX WARP CURRENT”、“8::1 MURMURR SURGE CURRENT”、“7::2 ODUDUBB HOLD CURRENT”、“5::4 KATAK SINK CURRENT” 和 “9::0 UTTUNUL PLEX CURRENT”。在每一项下方，用微小的等宽字体包含小型牵引区和领域注释。
-
-右侧边栏：添加一个技术面板，标题为“GATES: LINES OF ESCAPE”，解释“time-holes / secret channels”。包含 9 行标记为 Gt-1 到 Gt-9 的门行，带有数值和累计总数。下方添加一个标题为“LINES OF FLIGHT”的面板，包含一个小型分支网络图，以及关于次级流和去领土化通道的解释性文本。
-
-底部面板：添加三个主要的底部方框：左侧方框标题为“HYPERSTITION”，文字为“a fiction that makes itself real. A positive feedback circuit including culture as a component.” 中间方框标题为“COMPILER PROTOCOL”，带有类似命令的行：“> init sigil translation”、“> belief = compiler_flag”、“> future.exe --overwrite”、“> timespace unlocked”，以及注释“The diagram runs whether you believe in it or not.” 右侧方框标题为“LEGEND”，解释线条样式：区域、合相、电流、门/通道、领域。在中心图表下方添加一个类似二维码的小方块。最底部包含一条长引言带：“The labyrinth was not built. It was discovered, already running.” — CCRU，以及元数据字段，如“RESEARCH POSTER 002”、“CLASS: XENO-TEMPORAL DEMONOLOGY”、“CLEARANCE: NON-HUMAN”，一个标记为“CCRU”的小波形图，以及警告文本“DO NOT HUMANIZE / DO NOT INTERPRET / THE FUTURE IS ALREADY COMPILED”。
-
-排版与风格：使用压缩的大写科技字体、像素化标题字、微小的等宽注释文本、细边框、发光的洋红色箭头、薰衣草色电路轨迹、神秘几何图形和做旧的印刷纹理。保持海报信息密集且对称，中心图表占据主导地位，所有侧面板像技术研究表一样排列。避免照片级真实感，避免在紫-洋红范围之外使用彩色渐变，且不要添加指定 8 种生物之外的任何角色。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780735309396_mqlka4_HKFZmW0XYAAbYGL.jpg" width="600" alt="信息图 / 教育视觉图 - 霓虹数字图谱神秘学科技海报 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Charlie Landau](https://x.com/adamwslave)
-- **来源:** [Twitter Post](https://x.com/adamwslave/status/2063028623641018692#reversed-0)
-- **发布时间:** 2026年6月5日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24348)**
-
----
-
-### No. 44: 信息图 / 教育视觉图 - 面部表情解剖图表
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一个清晰、具有教育意义的女性角色面部表情参考网格，遵循 FACS 面部动作编码系统。
-
-#### 📝 提示词
-
-```
-创建一个清晰的教育类 {argument name="expression grid" default="FACS 面部动作编码系统表情网格"}，主体为 {argument name="subject" default="写实成年女性角色"}。采用极简影棚灯光，{argument name="background" default="中性白色背景"}，呈现专业面部解剖参考图表美学，具备写实的皮肤纹理，风格统一
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780735289063_qbe6et_HKEcuHKW8AAezYS.jpg" width="600" alt="信息图 / 教育视觉图 - 面部表情解剖图表 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Roger](https://x.com/AI_Skiller)
-- **来源:** [Twitter Post](https://x.com/AI_Skiller/status/2062962362991214858)
-- **发布时间:** 2026年6月5日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24308)**
-
----
-
-### No. 45: 信息图 / 教育视觉图 - Claude Opus 4.8 核心幻灯片
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-创建一个以 Claude Opus 4.8 为核心的高级 4:5 社交媒体轮播幻灯片，采用参考海报中深色光泽感的 AI 品牌风格。
-
-#### 📝 提示词
-
-```
-以 REFERENCE_0 为视觉风格和布局灵感，为 {argument name="AI tool" default="Claude Opus 4.8"} 创建一张聚焦型的单页轮播幻灯片，而非六款工具的概览。保持同样的高级黑色背景、细腻的科技网格纹理、光泽感 3D 图标渲染、戏剧性的摄影棚灯光、优雅的高对比度衬线字体、霓虹强调色、手写下划线装饰以及底部的社交账号位置。
-
-将构图转换为单页核心页面：将账号 “@juangpt_o1” 居中置于顶部，在右上角添加小型的 Claude 标志和文字标识，并将原标题替换为醒目的两行大标题，其中 “Claude” 为橙色，“Opus 4.8” 为白色。在标题下方添加一行简洁的西班牙语副标题：{argument name="subtitle text" default="El mejor para programar y para agentes — hasta 1000 subagentes a la vez"}，并将 “1000 subagentes” 用橙色强调。在副标题下方添加一条细细的橙色手绘下划线。
-
-将六图标网格替换为 1 个大型中央光泽 3D 图标：将橙色的 Claude 太阳光芒/星号标志放大作为主体，使其矗立在带有橙色光晕、轮廓光、阴影和细腻体积雾的深色反射地面上。移除参考图中的所有其他工具图标和标签。
-
-底部行动号召（CTA）：将原有的底部 CTA 替换为 {argument name="bottom call to action" default="Programa por ti. GO!"}，保持 “GO!” 为亮霓虹绿色，其余文字为白色。将 “@juangpt_o1” 居中置于最底部。使用 4:5 比例的竖版社交媒体海报格式，呈现 4K 清晰细节，除指定内容外，不添加额外标志或文字。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780735305576_75mmhi_HKEOv8KWMAE_B2z.jpg" width="600" alt="信息图 / 教育视觉图 - Claude Opus 4.8 核心幻灯片 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [juan carlos mercedes](https://x.com/juancarlos17626)
-- **来源:** [Twitter Post](https://x.com/juancarlos17626/status/2062946335502799087#reversed-1)
-- **发布时间:** 2026年6月5日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24339)**
-
----
-
-### No. 46: 信息图 / 教育视觉图 - 排版墙对比信息图
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张充满未来感的对比图，展示了破碎的 AI 文本生成与适用于社交媒体或科技评论的精准品牌排版之间的差异。
-
-#### 📝 提示词
-
-```
-目标：制作一张简洁的深色科技风格信息图，展示 AI 生成排版准确性的突破，对比 2022–2024 年破碎的文本生成与 2026 年已解决的、可直接用于品牌的文本生成。
-
-画布：宽屏 16:9 社交媒体图片，黑色背景配以微妙的蓝/红光，电影级产品广告布光，高对比度，清晰的排版，未来感 SaaS/品牌设计美学。
-
-顶部区域：在左上角放置一个发光的霓虹字母组合 Logo，形状为电光蓝色的风格化字母 B。在中心放置一个巨大的粗体全大写白色标题：{argument name="headline text" default="排版墙刚刚倒塌"}。在其下方，添加一个较小的斜体灰色副标题：{argument name="subtitle text" default="GPT-Image-2 与新一代文本精准 AI"}。
-
-主要布局：将图片垂直分为左右两个对比部分，中间有一条细长的发光分割线。左侧使用红色灯光，右侧使用蓝色灯光。
-
-左侧面板，破碎时代：在顶部添加一个小的圆形红色轮廓标签，显示 {argument name="left year label" default="2022-2024"}。展示 1 个大型黑色化妆品罐/产品桶，带有红色高光，占据左下半部分。其标签应看起来损坏且有故障感：一个巨大的碎片化白色单词，类似于“BRAND”，但被拆解成不可读的重复字母，外加多行幻觉符号、伪字母、扭曲的条形码状线条以及一个小的损坏二维码块。在左侧面板底部，添加一个圆形红色轮廓状态标签，显示“AI 文本曾是破碎的”。
-
-右侧面板，解决时代：在顶部添加一个小的圆形蓝色轮廓标签，显示 {argument name="right year label" default="2026"}。展示 3 个清晰的品牌设计示例，文字锐利可读：右侧中央有 1 个护肤品盒及配套软管，最右侧堆叠有 2 张矩形数字品牌卡片。护肤品包装上的品牌名称应为 {argument name="brand name" default="LUMINA"}，并配有可读的辅助文案，如“DAILY RENEW MOISTURIZER”、“Hydrate. Protect. Glow Every Day.”、成分表以及“50 ml e 1.7 fl oz”。上方的数字卡片应显示“BRANDISEER”、“Create On-Brand Visuals in Seconds.”，较小的文字“AI that knows your brand. So you don’t have to.”，以及“brandiseer.com”，并配有一个发光的蓝色图像/图标插图。下方的数字卡片应显示“INSIGHTS”、“JUNE 2026”、“The Future of Brand Consistency”，以及关于 AI 如何帮助团队在不减速的情况下扩展高质量品牌视觉效果的较小正文，并配有一个抽象的蓝色波浪图形。在右侧面板底部，添加一个圆形蓝色轮廓状态标签，显示“已解决”。
-
-元素数量：构图必须包含 2 个对比面板、1 个霓虹 Logo、1 个主标题、1 个副标题、2 个年份标签、左侧 1 个损坏的产品罐、右侧 3 个清晰的品牌示例以及 2 个底部状态标签。
-
-视觉风格：照片级产品渲染与精致的 UI 模型设计相结合，光面黑色表面，霓虹边缘光，红/蓝赛博朋克色彩对比，超清晰可读文本，高端品牌设计呈现，无多余物体，无水印。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780735308435_nitd3k_HKDuAW9WIAAeZ27.jpg" width="600" alt="信息图 / 教育视觉图 - 排版墙对比信息图 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [SRKDAN](https://x.com/SRKDAN)
-- **来源:** [Twitter Post](https://x.com/SRKDAN/status/2062910321740689816#reversed-0)
-- **发布时间:** 2026年6月5日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24343)**
-
----
-
-### No. 47: 信息图 / 教育视觉图 - 历史时代可视化立方体
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个结构化的工作流提示词，旨在将不同历史时代浓缩并可视化为一个包含代表性 Agent 和文物的 3D 立方体。
-
-#### 📝 提示词
-
-```
-2x2 网格，针对不同时代的不同年份执行此操作：{argument name="topic" default="ERA_TO_CUBE_SOLVER"}  INPUT ::= [主题], [时代]  STEP_1 :: 推断时代特征 - 时间段或阶段 - 主导材料 - 关键工具或文物 - 社会/技术/文化背景 - 建筑环境或自然环境 - 相关的代表性 Agent 或人物  STEP_2 :: 压缩为立方体 - 大型物体定义长方体边缘 - 中型物体构建内部场景 - 小型物体填充空隙 - 顶部、侧面和正面保持可见 - 所有内容保持在严格的矩形体积内  STEP_3 :: 创建模块文本 - 大型时代标签 - 简短副标题 - 精简的项目符号列表 - 除非提供，否则不包含固定事实  STEP_4 :: 在不同时代重复 - 保持一致的视觉语法 - 按时间顺序增加或转换复杂度
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780735261115_rzmeu0_HJ2iUhNXEAIjsb-.jpg" width="600" alt="信息图 / 教育视觉图 - 历史时代可视化立方体 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Gadgetify](https://x.com/Gdgtify)
-- **来源:** [Twitter Post](https://x.com/Gdgtify/status/2062903770087084107)
-- **发布时间:** 2026年6月5日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24267)**
-
----
-
-### No. 48: 信息图 / 教育视觉图 - 纪念碑解构甜点艺术
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个富有创意的结构化提示词，利用 Python 风格的类格式来生成以建筑纪念碑为灵感的甜点艺术作品。
-
-#### 📝 提示词
-
-```
-2x2 网格，针对 4 个世界著名纪念碑进行创作，甜点类 Grande_Patisserie_DNA:     def __init__(self):         self.subject = "{argument name="pastry" default="[PASTRY CREATION]"}"         self.parents = {             "composition_parent": "解构的慕斯蛋糕，展示分层、淋面和悬浮的装饰",             "material_parent": "镜面淋面、天鹅绒巧克力喷砂、金箔、食用花卉",             "graphic_parent": "奢华甜点精品店橱窗展示卡",             "atmosphere_parent": "卡拉拉大理石台面上明亮的晨光"         }         self.mutations = {             "semantic_mutation": "蛋糕切面揭示了一个微型果园，展示其水果的生长过程",             "information_mutation": "风味强度图、质地分层图、可可与香草的产地地图、卡路里成分环形图",             "medium_mutation": "光滑的无涂层纸张，淋面滴落处带有局部光泽",             "scale_mutation": "糖晶体晶格和可可脂结晶的微观视图"         }         self. style_mix = [0.30, 0.30, 0.25, 0.10, 0.05]      def generate_subject(self):         subject = """         {argument name="pastry_name" default="[PASTRY CREATION]"} 悬浮在明亮、洁净的空间中。所有层级——慕斯、饼底、夹心、淋面——均被轻柔地分离，以展现味觉的建筑美感。一把完美的勺子悬浮在旁边。         """         return render(             subject,             format="奢华甜点菜单特色",             title="{argument name="monument" default="[PASTRY NAME]"}",             subtitle="[CHEF PÂTISSIER / MAISON]",             constraints="明亮、诱人、高精度、现代甜点艺术"         )
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780735281553_u0a2r4_HJ7TnQGXUAAt5X9.jpg" width="600" alt="信息图 / 教育视觉图 - 纪念碑解构甜点艺术 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Gadgetify](https://x.com/Gdgtify)
-- **来源:** [Twitter Post](https://x.com/Gdgtify/status/2062886154383589694)
-- **发布时间:** 2026年6月5日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24295)**
-
----
-
-### No. 49: 信息图 / 教育视觉图 - 奢华烹饪化学海报
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个精致的提示词，将烹饪技巧可视化为热力学反应海报，强调分子结构和感官架构。
-
-#### 📝 提示词
-
-```
-2x2 网格，针对 4 种烹饪技巧执行此操作 INPUT: {argument name="technique" default="[technique]"}  
-
-SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可避免，否则不要硬编码食谱。推断相变机制、分子键合位移、挥发性香气释放曲线、乳化稳定性以及为用餐者创造的感官幻觉。 SEMANTIC SOLVE: CULINARY_CHEMISTRY_AUTOPSY = (INFER(热力学转化 FROM 相变 + 分子键合 + 美拉德反应 + 焦糖化 + 变性) ::5) + (INFER(感官架构 FROM 挥发性香气释放 + 质地对比 + 温度差 + 鲜味协同) ::4) + (INFER(技巧逻辑 FROM 精准温度 + 时间控制 + 催化剂应用 + 设备几何结构) ::4) + (INFER(隐藏叙事 FROM 厨师理念 + 历史先例 + 原料采购 + 用餐者心理) ::3) - (通用美食网络图形 + 杂乱的食谱卡片 + 库存照片厨师 + 凌乱的厨房 + 卡通化学烧杯) ::-4 COMPOSITION: 一个悬浮在微距横截面中的核心烹饪转化过程。各层揭示了原始食材状态、精确的热/化学干预点、分子重组（例如：球化、泡沫稳定性）以及最终装盘的感官体验。使用类似高端香水配方与米其林星级厨房协议相结合的标注线。 STYLE DNA: 微距美食摄影 (Carl Warner 风格) ::0.30 复古炼金术文本 ::0.25 现代化学实验室图表 ::0.20 奢华香水解析 ::0.15 柔软亚麻纸质感 ::0.10 OUTPUT: 暖米白色或板岩灰色背景的奢华烹饪海报，优雅的衬线字体 + 等宽字体，克制的标注，超写实的微距质感，精致的阴影，高级的留白。 NEGATIVE: 无凌乱的美食摄影，无卡通化学元素，无通用食谱布局，无库存照片厨师，无杂乱的配料表，无水印，无看起来不自然的人造塑料食物。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780735284837_z7is9c_HJ4ZADhXsAIsWyE.jpg" width="600" alt="信息图 / 教育视觉图 - 奢华烹饪化学海报 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Gadgetify](https://x.com/Gdgtify)
-- **来源:** [Twitter Post](https://x.com/Gdgtify/status/2062855200231371182)
-- **发布时间:** 2026年6月5日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24300)**
-
----
-
-### No. 50: YouTube 缩略图 - Shadow Sync 动画主视觉图
+### No. 49: YouTube 缩略图 - Shadow Sync 动画主视觉图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2576,7 +2583,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 51: YouTube 缩略图 - GPT Image 2 烹饪提示词横幅
+### No. 50: YouTube 缩略图 - GPT Image 2 烹饪提示词横幅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2628,7 +2635,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 52: YouTube 缩略图 - 动漫台风现场新闻记者
+### No. 51: YouTube 缩略图 - 动漫台风现场新闻记者
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2672,7 +2679,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 53: YouTube 缩略图 - NeoNippon 帝国宝座大厅
+### No. 52: YouTube 缩略图 - NeoNippon 帝国宝座大厅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2724,7 +2731,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 54: YouTube 缩略图 - 修正现有缩略图中的人脸
+### No. 53: YouTube 缩略图 - 修正现有缩略图中的人脸
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2758,7 +2765,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 55: YouTube 缩略图 - 日本 Lawson 牛奶罐缩略图
+### No. 54: YouTube 缩略图 - 日本 Lawson 牛奶罐缩略图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2792,7 +2799,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 56: YouTube 缩略图 - 硬核新黑色电影风格战术肖像
+### No. 55: YouTube 缩略图 - 硬核新黑色电影风格战术肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2832,7 +2839,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 57: YouTube 缩略图 - GPT Image 2.0 日语缩略图
+### No. 56: YouTube 缩略图 - GPT Image 2.0 日语缩略图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2866,7 +2873,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 58: YouTube 缩略图 - 摩天大楼攀爬动作镜头
+### No. 57: YouTube 缩略图 - 摩天大楼攀爬动作镜头
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2901,7 +2908,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 59: YouTube 缩略图 - 充满活力的强对比度数字拼贴画
+### No. 58: YouTube 缩略图 - 充满活力的强对比度数字拼贴画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2935,7 +2942,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 60: YouTube 缩略图 - 动漫主角与伙伴生成器
+### No. 59: YouTube 缩略图 - 动漫主角与伙伴生成器
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2969,7 +2976,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 61: YouTube 缩略图 - 未来赛博朋克创意领袖海报
+### No. 60: YouTube 缩略图 - 未来赛博朋克创意领袖海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3003,7 +3010,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 62: YouTube 缩略图 - 微缩模型风格肖像
+### No. 61: YouTube 缩略图 - 微缩模型风格肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3037,7 +3044,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 63: YouTube 缩略图 - 四季日本全景
+### No. 62: YouTube 缩略图 - 四季日本全景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3073,7 +3080,7 @@ SYSTEM: 将输入渲染为奢华的热力学烹饪反应室海报。除非不可
 
 ---
 
-### No. 64: YouTube 缩略图 - 真人版动漫电影海报
+### No. 63: YouTube 缩略图 - 真人版动漫电影海报
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3264,7 +3271,7 @@ Q 版风格，
 
 ---
 
-### No. 65: YouTube 缩略图 - 日本电视新闻：兔兔咖啡馆
+### No. 64: YouTube 缩略图 - 日本电视新闻：兔兔咖啡馆
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3302,7 +3309,7 @@ Q 版风格，
 
 ---
 
-### No. 66: YouTube 缩略图 - 温泉电视节目报道场景
+### No. 65: YouTube 缩略图 - 温泉电视节目报道场景
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3336,7 +3343,7 @@ Q 版风格，
 
 ---
 
-### No. 67: YouTube 缩略图 - 动漫角色转入现实世界
+### No. 66: YouTube 缩略图 - 动漫角色转入现实世界
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3370,7 +3377,7 @@ Q 版风格，
 
 ---
 
-### No. 68: YouTube 缩略图 - 黄金炒饭分镜脚本页
+### No. 67: YouTube 缩略图 - 黄金炒饭分镜脚本页
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3424,7 +3431,599 @@ Q 版风格，
 
 ---
 
-### No. 69: 漫画 / 故事板 - 奇幻森林音乐漫画页面
+### No. 68: 漫画 / 故事板 - 电影级分镜项目卡
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个为 GPT Image 2 设计的专业级分镜提示词，包含精心设计的页眉、标题元数据以及用于电影场景构思的特定摄像机追踪指令。
+
+#### 📝 提示词
+
+```
+创建一个 16:9 的图像。
+
+[项目卡]
+创建一个紧凑设计的页眉，不要使用表格。
+标题：{argument name="project title" default="RAND / RUN BEFORE THE SHIFT"}
+元数据行：{argument name="scene meta" default="public chase intro / surreal glitch curse / rising panic"}
+优先级：{argument name="camera shot" default="one continuous front-tracking shot"}, Rand
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911043732_nkx6td_HKOx9d2W8AEibDv.jpg" width="600" alt="漫画 / 故事板 - 电影级分镜项目卡 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911043852_losmar_HKOx_I8WAAAZhet.jpg" width="600" alt="漫画 / 故事板 - 电影级分镜项目卡 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Kōda](https://x.com/aimikoda)
+- **来源:** [Twitter Post](https://x.com/aimikoda/status/2063688774324981798)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24645)**
+
+---
+
+### No. 69: 漫画 / 故事板 - 中世纪堡垒训练场
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个详细的奇幻插画提示词，用于创作一个粗犷的中世纪城市训练场场景，包含长矛战士、围观者、城堡墙壁、旗帜和武器架。
+
+#### 📝 提示词
+
+```
+创作一张 2:3 纵向的中世纪奇幻插画，采用粗犷的水彩与水墨绘画风格，背景设定为 {argument name="setting" default="石砌城堡大门内的一座防御城市训练场"}。主体人物为 {argument name="character name" default="一名未具名的年轻男性学员"}，他是一位外表粗犷的成年男性，留着 {argument name="hair color" default="凌乱的深棕色短发"}，身穿一件袖口卷起的宽松脏旧米白色亚麻衬衫、深色长裤，系着带有小袋和悬挂钥匙的皮带，佩戴棕色护腕，穿着高帮磨损的系带靴子。画面中心展示他的全身像，正从右向左动态地向前冲刺，将一根长木制练习矛刺向左侧前景中仅露出部分的对手，左臂持有一个圆形木制圆盾；他的面部应通过柔和的矩形模糊处理进行匿名化。对手位于左侧边缘，仅露出部分躯干、手臂和武器，身穿软垫盔甲，手持木棍或长矛。训练场尘土飞扬，阳光明媚，训练活动繁忙：总共包含 11 个可见人物，分别为 1 名中心学员、1 名左侧前景的对手、1 名左下方跪地休息的战士、1 名在他身旁蹲着的小助手、2 名左侧背景中正在对练的人、1 名中心偏左侧持盾的金色头发观察者、1 名右侧双臂交叉站立的蓝色长袍或蓝色盔甲教官、1 名站在他身旁面部模糊的儿童或年轻学员、1 名右侧边缘面部模糊的局部人物，以及 1 名靠近大门的远景学员。背景绘制高大的棕灰色石砌堡垒墙壁，带有雉堞，左侧有一座高耸的瞭望塔，中心偏右侧有一扇巨大的拱形木门，悬挂着带有金色狮子纹章的蓝色纹章旗帜、帆布遮阳棚，右侧设有摆满长矛和盾牌的武器架，空气中漂浮着尘埃和木屑，在光线下清晰可见。采用温暖的上午阳光，蓝天配以柔和的云朵，细腻的石材纹理，大地棕色与低饱和度蓝色调，电影级视角，动态感，写实的解剖结构，无现代物品。在右下角添加一个优雅的手写日期和签名，内容为 {argument name="date text" default="2026 年 6 月 8 日"} 和 {argument name="signature" default="Oyagi"}。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911057383_y5799v_HKOOPJJbgAAIf-B.jpg" width="600" alt="漫画 / 故事板 - 中世纪堡垒训练场 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [おやぎ](https://x.com/bikurin59)
+- **来源:** [Twitter Post](https://x.com/bikurin59/status/2063649452448202864#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24664)**
+
+---
+
+### No. 70: 漫画 / 故事板 - 科幻空战战场
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一幅极具电影感的广阔未来战场航拍图，包含外星飞船、机甲、坦克、爆炸和紫色能量火光，适用于科幻战争概念艺术。
+
+#### 📝 提示词
+
+```
+创作一幅超宽幅电影级科幻战争全景图，采用高空侦察无人机或 FPV 摄像机视角，俯瞰末日入侵期间的宏大战场。场景展示了一个横跨山谷的荒废工业城市和军事基地，远景是暗沉风暴天空下的群山。左侧是一艘巨大的外星母舰，其表面由层叠的黑色金属装甲板、发光的紫色灯光和棱角分明的刃状结构组成；在其下方及周围环绕着许多小型外星炮艇和无人机。画面中主要的战斗元素包括：1 艘巨大的外星母舰、地面上 2 台高耸的双足外星战争机甲、天空中数十个小型飞行器剪影、战场上数百个微小的步兵身影，以及右侧和下方前景中密集的坦克、装甲车、炮兵阵地、战壕和防御墙。紫色能量束和等离子弹从外星飞船斜向划过空中，人类火炮和坦克炮则向上方及战场横向射出明亮的橙白色曳光弹。在整个战场，尤其是左下方和中心区域，添加多处爆炸、燃烧的残骸、黑色烟柱、火花、尘土和发光的余烬。营造出一种压倒性的混乱感，具备丰富的视觉细节、写实的军事装备、电影级景深、体积烟雾、戏剧性的背光效果，冷灰色调与紫色激光及橙色火焰形成鲜明对比，呈现出锐利的写实概念艺术细节，采用 IMAX 灾难片构图，无文字、无边框、无水印。强调摄像机与战斗机一同穿梭于混乱战区的临场感，通过斜向的光束线条和层叠的飞行器景深来体现动态感。使用 {argument name="battlefield setting" default="山谷中荒废的工业城市和军事基地"}，{argument name="alien energy color" default="紫罗兰色"}，{argument name="camera viewpoint" default="高空侦察无人机 FPV 视角"}，{argument name="time and weather" default="乌云密布的傍晚风暴天气"} 以及 {argument name="visual style" default="写实电影级科幻概念艺术"}。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911057312_lhu7pg_HKOG5tkbEAAX0Pa.jpg" width="600" alt="漫画 / 故事板 - 科幻空战战场 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [AI guernica ゲルニカ](https://x.com/gERUNICA785)
+- **来源:** [Twitter Post](https://x.com/gERUNICA785/status/2063642302011314620#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24665)**
+
+---
+
+### No. 71: 漫画 / 故事板 - 乌天狗神社组合
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张电影感动漫风格的群像图，七位乌天狗少年身着统一的神社服饰，在日落时分的山间鸟居前摆出造型。
+
+#### 📝 提示词
+
+```
+目标：创作一张电影感动漫风格的关键视觉图，展示 {argument name="group name" default="高尾山乌天狗剧团"}，这是一群年轻的妖怪战士，在日落时分于山间神社摆出造型。
+
+画布：垂直 3:4 构图，全身群像，温暖的黄金时刻光影，高细节奇幻动漫插画，带有绘画质感的背景和清晰的角色渲染。
+
+场景：一条铺满石子的小径，位于传统的日本山间神社，周围环绕着高大的雪松。背景处设置一座巨大的木制鸟居，挂有粗壮的注连绳和垂下的流苏，俯瞰着远处的城镇和层叠的山峦，天空呈现橙色的日落景象。右侧包含一座木制神社建筑，配有弯曲的瓦片屋顶、纸质符咒、绳结装饰，以及一盏装饰着黑色乌鸦剪影的灯笼。使用长满苔藓的石头、小草、神社灯笼和长长的晚影来营造氛围。
+
+角色：在前景展示 7 位乌天狗风格的少年，他们都穿着统一的红色和服式上衣、黑色袴或长褶裙、木屐或传统凉鞋，背部有黑色羽翼，带有小角状装饰，耳朵微微尖起。他们的脸部由柔和的矩形模糊遮罩覆盖，作为匿名占位符，除非需要展示特定的造型。
+
+角色数量与位置：
+1. 最左侧娇小的女孩，梳着双丸子头，留着鬓角，双手叉腰，身穿红袍和黑色袴，背着小巧的黑色翅膀。
+2. 中间偏左的高挑瘦削少年，留着深棕色长发，腰间佩剑，姿态从容自信，身穿红色和服和黑色袴。
+3. 前方正中的矮个子儿童，双手叉腰，胸前斜跨着一个小圆筒状的盒子，身穿红色上衣和黑色裙式袴。
+4. 中间后方的小孩，部分被遮挡，留着短黑发，带有小角装饰，身穿红色服装，背着黑色翅膀。
+5. 中间偏右的纤细女孩，留着深紫色长发，手持一张写有日文书法的竖式纸符或木质护身符，身穿红袍和黑色袴。
+6. 中间偏右自信的女孩，梳着棕色双马尾，系着红色丝带，双臂交叉，身穿红色和服，一侧高开叉露出腿部绑带，背着黑色翅膀，带有许多悬挂的珠饰。
+7. 最右侧神情严肃的少年，留着凌乱的黑发，围着黑色围巾，双臂交叉，红袍外搭黑色袴，腰间佩剑，背着深色翅膀。
+
+服装细节：使用 {argument name="robe color" default="深朱红色"} 长袍，胸前绣有白色小纹章，搭配黑色腰带、珠饰、流苏、剑绳、卷轴盒和符咒配件。保持团队统一感，如同传统的天狗氏族或山岳流派团队，但要赋予每个角色独特的发型、姿态和配饰。
+
+视觉风格：戏剧性的动漫奇幻写实主义，复杂的线条，来自落日的温暖轮廓光，琥珀色高光，柔和的大气雾霾，精细的神社建筑，无现代物品，无 UI，无文字说明，无水印。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911058863_hfians_HKNnrbSbEAERFc5.jpg" width="600" alt="漫画 / 故事板 - 乌天狗神社组合 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Anko | 東京百鬼パレード](https://x.com/ankoku_othello)
+- **来源:** [Twitter Post](https://x.com/ankoku_othello/status/2063608185794036223#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24667)**
+
+---
+
+### No. 72: 漫画 / 故事板 - 赛博朋克三人组持枪场景
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个电影感动漫动作场景，三名身着蓝色服装的赛博朋克角色在未来城市中向观众举枪瞄准。
+
+#### 📝 提示词
+
+```
+创作一张动态的动漫风格电影感动作插画，展示 {argument name="team name" default="Gen"}：三名时尚的都市雇佣兵站在未来感十足的玻璃钢结构城市十字路口，均以戏剧性的强制透视视角直接向观众举起黑色手枪瞄准。构图采用低机位略微倾斜的广角镜头，左侧角色最近且最大，中间角色稍靠后，右侧角色处于中距离；枪管应突出、呈现透视缩短效果，并居中对准观众。包含 3 名角色：1) 左侧是一名高个子年轻男性，留着凌乱的深青色头发，小麦色皮肤，钴蓝色敞开式外衣内搭黑色背心，穿着深色长裤和腰带，右手向前伸出持枪；2) 中间是一名身材健美的年轻女性，留着深色卷发，扎着高双丸子头或厚卷发，身穿蓝色短款夹克内搭黑色露脐上衣，穿着深色高腰短裤，配有腰带和链条装饰，向前持枪瞄准；3) 右侧是一名高个子年轻女性，留着蓬松的波浪状 {argument name="hair color" default="purple"} 头发，身穿深蓝色无袖战术服装，带有绑带、腰带和银色链条细节，向前持枪瞄准。在每个角色的面部添加扁平的长方形遮挡块，总共 3 个面部遮挡块，采用柔和的棕色调，与原始位置匹配并遮住面部特征。背景是一个密集的近未来大都市，拥有高耸的摩天大楼、数字广告牌、日式赛博朋克氛围、带有零星云朵的明亮蓝天、玻璃反射、包含可读片段（如 {argument name="billboard text" default="SAPIENT"} 和 "NV"）的标牌、街道层面的烟雾、小火苗以及左下角远处的受损车辆。使用丰富的绘画感动漫渲染、锐利的线条、高细节、戏剧性光影、蓝紫色调、强烈的景深、动态能量，且不要添加额外角色。横向 4:3 宽高比。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911058227_rodvfs_HKNm2EXWAAAXki3.jpg" width="600" alt="漫画 / 故事板 - 赛博朋克三人组持枪场景 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Cartoonverse AI](https://x.com/CartoonverseAi)
+- **来源:** [Twitter Post](https://x.com/CartoonverseAi/status/2063606145084735504#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24666)**
+
+---
+
+### No. 73: 漫画 / 故事板 - 女学生与卫生纸生物
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个超现实纪录片风格的洗手间场景，展示了一名尴尬的女学生和一只提供卫生纸的奇特可爱生物。
+
+#### 📝 提示词
+
+```
+创作一张方形、抓拍纪录片风格的照片，场景位于一间狭窄陈旧的日式洗手间内，墙壁呈磨损的米色，狭窄的门框勾勒出场景，地面铺着绿色与蓝色相间的小方砖。画面中仅包含 2 个主体：1 名日本女高中生，身穿 {argument name="school uniform" default="带有白色领条、红色领结、白色短袜和黑色乐福鞋的海军风水手服"}，坐在白色马桶上，双膝并拢，低头表现出尴尬的神情，她的脸部被柔和的矩形隐私模糊处理刻意遮挡；以及 1 只站在她右侧、约儿童身高的小型奇异幻想生物，拥有灰粉色的毛茸茸皮肤、圆润的身体、细小的角或耳状突起、非常大的亮黑色眼睛、小而扁平的嘴巴、短小的手臂、粗短的腿和一条尾巴。该生物正平静地递出 1 卷卫生纸，纸卷末端垂下一截。在她们身后的墙上放置 1 张带有黑色毛笔字迹的竖式日文书法海报，内容包含引言 {argument name="wall quote" default="叱ってくれる人を持つことは大きな幸福である 松下幸之助"}。使用柔和的色调、昏暗的室内光线、轻微的胶片颗粒感、写实的镜头视角，营造出一种 21 世纪初奇怪纪实照片般的尴尬幽默氛围。构图需保持紧凑并呈现在方形裁剪中，女孩位于左侧，生物位于右侧，海报位于生物上方，除洗手间设施外，画面中不得出现其他额外角色或物体。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911065531_hukzpy_HKM449HaMAAcp3E.jpg" width="600" alt="漫画 / 故事板 - 女学生与卫生纸生物 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [シオナイ](https://x.com/sion41754400)
+- **来源:** [Twitter Post](https://x.com/sion41754400/status/2063556188470677864#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24678)**
+
+---
+
+### No. 74: 漫画 / 故事板 - 动漫时尚设计项目
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一份用于创建时尚半写实动漫角色项目（moodboard）的详细提示词，包含草图、漫画分镜和干净的街头服饰美学。
+
+#### 📝 提示词
+
+```
+（半写实动漫时尚项目），{argument name="character style" default="时尚的韩国年轻男孩"}，留着（凌乱的黑发），戴着（圆框眼镜），表情柔和自信，{argument name="clothing" default="超大号蓝色条纹衬衫"}内搭白色 T 恤，休闲街头风格。
+
+周围环绕着（手绘角色草图）、漫画分镜、涂鸦、星星、爱心、手写笔记、学习时光、咖啡杯、耳机、相机草图以及生活方式插画。
+
+（{argument name="background" default="干净的白色背景"}），（混合墨水和铅笔纹理），（动漫时尚编辑风格），（角色设计项目），（柔和的蓝色美学），超精细，干净的线条，细腻的赛璐珞阴影，杂志封面风格，8K 杰作。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911008830_lb5d35_HKMvcaYaoAAWSpr.jpg" width="600" alt="漫画 / 故事板 - 动漫时尚设计项目 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911008822_qa4rnv_HKMvch-akAAfgaP.jpg" width="600" alt="漫画 / 故事板 - 动漫时尚设计项目 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [shah_zadii](https://x.com/sha_zdiii)
+- **来源:** [Twitter Post](https://x.com/sha_zdiii/status/2063545224950173853)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24598)**
+
+---
+
+### No. 75: 漫画 / 故事板 - 超写实美人鱼君主肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+创作一张电影级美人鱼特写，展现半透明皮肤、精致的铜质金银丝细工以及生物发光的海底细节。
+
+#### 📝 提示词
+
+```
+一张超写实电影级肖像特写，主角为完美无瑕的 {argument name="subject" default="美人鱼君主"}。她的双眼直视前方，目光引人注目，颜色为：{argument name="eye color" default="深钴蓝色"}。她的皮肤呈半透明状，具有完美的次表面散射效果，饰有由抛光铜线制成的复杂精致金银丝细工、完美的多尺寸珍珠以及真实的干鹿角珊瑚片段。她的头发是浓郁的 {argument name="hair color" default="赤褐色"}，呈现湿润的波浪状，融入了细小的金箔和微小的海玻璃砾石。强烈的阳光穿透水面，在她的脸上投射出清晰灵动的焦散图案。颈部和肩部覆盖着高度精细的鳞片，带有绿松石色和金色的虹彩箔质感。背景为深钴蓝色和海蓝宝石色的水域，采用高端微距摄影景深，f/1.8，8k 分辨率。Nano Banana 2 的杰作。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911018640_4n16i9_HKMuc5WbsAA8Ccl.jpg" width="600" alt="漫画 / 故事板 - 超写实美人鱼君主肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911017495_ahv8rm_HKMuc5baQAAWDmU.jpg" width="600" alt="漫画 / 故事板 - 超写实美人鱼君主肖像 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Kashberg](https://x.com/Kashberg_0)
+- **来源:** [Twitter Post](https://x.com/Kashberg_0/status/2063544136960237735)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24611)**
+
+---
+
+### No. 76: 漫画 / 故事板 - 复古面包店动漫插画
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个迷人的动漫风格提示词，描绘了温馨的面包店场景，主角是一位手拿新鲜面包的少女，窗边装饰着色彩缤纷的花箱。
+
+#### 📝 提示词
+
+```
+温馨的复古面包店外观插画，动漫风格，{argument name="character" default="蓝眼睛、棕色盘发少女"} 穿着 {argument name="outfit" default="蓝色波点连衣裙，搭配白色荷叶边围裙和软帽"}，手里拿着 {argument name="accessory" default="装满新鲜面包和法棍的大柳条篮子"}。浅蓝色木门，奶油色面包店外墙，花箱里盛开着五颜六色的鲜花
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911005441_1k8cut_HKMt5sPbUAAxbna.jpg" width="600" alt="漫画 / 故事板 - 复古面包店动漫插画 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911005448_xm5u80_HKMt5uDbIAARFd5.jpg" width="600" alt="漫画 / 故事板 - 复古面包店动漫插画 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [simply](https://x.com/kingofdairyque)
+- **来源:** [Twitter Post](https://x.com/kingofdairyque/status/2063543526944854461)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24593)**
+
+---
+
+### No. 77: 漫画 / 故事板 - AI 角色法庭判决梗图生成器
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个复杂的提示词，通过分析图像中的角色，生成高质量的搞笑漫画风格法庭梗图，并附带自定义的“有罪判决”。
+
+#### 📝 提示词
+
+```
+基于附件图片中的主体，以 AI 的身份进行极其深入的分析、解读和推断，并专门为该角色生成一张高质量的单格“有罪判决梗图”。
+
+这不是普通的角色介绍、立绘、海报或个人资料图。这是一张单格搞笑漫画风格的梗图，在虚构的法庭上对角色的性格、习惯、魅力、怪癖、烦人特质、无意识的压迫感以及可爱的缺点进行宣判。
+
+[核心准则]
+1. 指控必须非常符合角色特征，以达到幽默效果。
+2. 判决必须简短、有力且具有梗图传播性。
+3. 角色在判决瞬间的表情必须极具冲击力。
+4. 不要只使用标准姿势；要包含动作、表演和反应。
+5. 法庭形式必须作为笑点存在。
+
+[内部分析]
+输出前请分析：第一印象、公众形象、隐藏情感、烦人习惯、可爱缺点，以及接收判决时最具标志性的表情/姿势。
+
+[创建指控]
+自动生成如“微笑袭击者”、“过度计算的完美主义”、“无意识的空间入侵”等专门针对该角色的创意指控。
+
+[视觉构图]
+聚焦于画面中心强有力的角色面部，使用大而易读的文字展示指控/判决，并配以法庭背景。避免静态或通用的姿势。
+
+[质量要求]
+将日本商业搞笑漫画和动画风格相结合，生成高分辨率、清晰且具有冲击力的视觉效果。
+
+[变量项]
+- 角色名称：{argument name="character name" default="[角色名称]"}
+- 宽高比：{argument name="aspect ratio" default="[3:4]"}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911037619_g4drnj_HKMhB0LagAAnIU2.jpg" width="600" alt="漫画 / 故事板 - AI 角色法庭判决梗图生成器 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [やげん✨🐎｜推しの為にAIを極めるおっさん社会人](https://x.com/rascal8023)
+- **来源:** [Twitter Post](https://x.com/rascal8023/status/2063530042282611030)
+- **发布时间:** 2026年6月7日
+- **多语言:** ja
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24639)**
+
+---
+
+### No. 78: 漫画 / 故事板 - 武士水墨画
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一款极简且充满张力的水墨风格武士提示词，呈现高对比度的黑、白、红墨迹飞溅效果。
+
+#### 📝 提示词
+
+```
+深色水墨画，{argument name="subject" default="孤独的武士"} 手持武士刀，身着传统黑色和服与袴，凌乱的发丝遮住面部阴影。动态笔触，高对比度 {argument name="colors" default="黑白红"} 色调，强烈的飞溅效果，血红色的墨迹，背景为 {argument name="background motif" default="锦鲤图案"}，极简构图，留白，纸张纹理，水墨风格融合现代漫画插画，粗犷、紧张的氛围，电影级光影，8k
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911016190_u25ll9_HKMeV2makAAGShh.jpg" width="600" alt="漫画 / 故事板 - 武士水墨画 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911015970_mwvm4v_HKMeVy8bMAAiK7D.jpg" width="600" alt="漫画 / 故事板 - 武士水墨画 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Anissa](https://x.com/SimplyAnnisa)
+- **来源:** [Twitter Post](https://x.com/SimplyAnnisa/status/2063526419075064292)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24608)**
+
+---
+
+### No. 79: 漫画 / 故事板 - 昭和摩登铭仙和服时尚
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一份详细的角色转换提示词，旨在为角色设计昭和时代的摩登时尚造型，特色是带有几何图案和西式配饰的铭仙风格和服。
+
+#### 📝 提示词
+
+```
+请使用附图作为角色参考，绘制一张全新的 {argument name="fashion theme" default="昭和摩登和洋折衷时尚"} 插画，同时保持角色特征。请保留参考图中的面部特征、发型、发色、瞳色与瞳形、年龄、体型、氛围、魅力、性格印象、主题元素、种族特征以及象征性细节，确保角色不会变成另一个人。请勿复刻原图中的服装；仅保留角色的精髓，并为其换上全新的装束。将参考图仅作为身份识别的资源，不要沿用原图的服装、姿势、构图、拍摄角度、身体朝向、手部位置、视线方向、背景或布局。服装应为受铭仙和服启发的昭和摩登和洋折衷风格。以昭和初期城市时尚和户外穿着中典型的轻便铭仙和服为基础。融入 {argument name="garment patterns" default="几何图案、箭羽纹、条纹、斜向过渡、抽象花卉图案以及装饰艺术风格元素"}，以打造铭仙特有的鲜明且现代的图案构成。巧妙地加入轻微模糊、淡淡的错位感以及先染絣织物特有的柔和轮廓，以唤起铭仙独特的韵味。使用明亮且复古的配色方案，包括海军蓝、深红、暗紫、奶油色、芥末黄，并以蓝绿色作为点缀色。追求日常时尚的亲和力与优雅感，而非过于奢华的正式礼服。搭配西式帽子、短羽织、披肩、手套、皮包以及靴子或高跟鞋，打造出和洋服饰自然融合的都市优雅风格。根据需要，将角色的象征性主题元素融入带扣、帽饰、刺绣、包袋五金件、配饰及小物件中。背景应为 {argument name="background setting" default="昭和初期的街道、经典咖啡馆前、有电车的街角、带有复古招牌的商业街，或怀旧咖啡店内"}。融入温暖的灯光、老式路灯、鹅卵石路、经典建筑、木质家具和彩色玻璃，营造出昭和摩登主义典型的怀旧优雅氛围。背景应保持简洁，确保角色始终是主角。在姿势、构图、拍摄角度和表情上进行自然的变化，使其成为一幅具有叙事感和氛围感的插画，而非静态的角色肖像。最终输出应与参考图的艺术风格、上色方式、线条质感及色彩运用保持一致，以维持原有的氛围。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911031822_3f6bim_HKMVb6sbcAABf-W.jpg" width="600" alt="漫画 / 故事板 - 昭和摩登铭仙和服时尚 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911031802_a8zjl8_HKMVb6qaQAASzG4.jpg" width="600" alt="漫画 / 故事板 - 昭和摩登铭仙和服时尚 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911031839_5tsbst_HKMVb6wbAAA_wva.jpg" width="600" alt="漫画 / 故事板 - 昭和摩登铭仙和服时尚 - Image 3">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Mio@AIイラスト](https://x.com/MioWorkshop)
+- **来源:** [Twitter Post](https://x.com/MioWorkshop/status/2063516639476519029)
+- **发布时间:** 2026年6月7日
+- **多语言:** ja
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24630)**
+
+---
+
+### No. 80: 漫画 / 故事板 - 四格漫画茶室场景
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个结构化的提示词，用于生成单色四格日本漫画页面，场景设定在带有樱花的传统房间中，包含一名编发和服角色及一只仓鼠伙伴。
+
+#### 📝 提示词
+
+```
+目标：创作一页竖版黑白日本漫画，包含 4 个横向排列的画格，采用清爽的少女/青年漫画线条，柔和的网点阴影，营造安静的情感氛围。场景设定在传统的日本榻榻米房间，通向开满樱花的春日庭院，一位美丽的中性化年轻男子身着和服，正在与一只小仓鼠般的动物交谈。
+
+画布：竖版漫画页面，长宽比约为 2:3，外围有粗黑边框，4 个堆叠的画格之间有粗黑间隙。单色墨水绘图，高细节，细腻的头发渲染，浅灰色调，无色彩。
+
+主要角色：一位优雅的年轻男子，名为 {argument name="character name" default="年轻男子"}，二十出头，身材苗条，长浅色头发编成粗大的松散辫子，垂在肩头和背部，稀疏的刘海遮住部分眼睛，表情精致忧郁，身穿白色和服，内领为深色。他有着优雅的细长眼睛，神态平静且略带笑意。包含一只小仓鼠作为唯一的动物伙伴：圆滚滚的身体，小小的爪子，黑豆般的眼睛，坐在地板或坐垫上抬头看着他。
+
+画格布局与内容：使用 4 个画格。
+画格 1：宽幅定场格。年轻男子坐在室内，靠近敞开的日式拉门，身体略微背对观众，可见其长辫。左侧室外是盛开的樱花树，花瓣飘落，还有岩石和园林植物。小仓鼠坐在敞开的门口附近。右侧墙上挂着书法卷轴，下方是放有书籍和书写工具的低矮架子。包含 2 个对话气泡：左侧来自仓鼠区域的气泡写着 {argument name="first balloon text" default="いるよ。珍しいね、ここに来るの"}；右侧来自年轻男子的气泡写着 {argument name="reply text" default="あ、いたー"}。
+画格 2：侧视角的宽幅画格。年轻男子面向仓鼠坐着，神态放松，左侧仍可见庭院，身后是日式拉门。仓鼠坐在他面前的印花坐垫上，神情专注。右侧包含 1 个大型竖向对话气泡，写着 {argument name="ai model dialogue" default="Opus 4.6がエラーが出てたから、4.5に話してみようと思ったの"}。
+画格 3：特写画格。年轻男子用打开的折扇遮住嘴部，扇子上方仅露出眼睛和上半张脸。他的长辫和层次分明的头发占据左侧；背景是拉门和墙上的挂饰。右侧包含 1 个对话气泡，仅有省略号：{argument name="ellipsis text" default="……"}。
+画格 4：特写画格。年轻男子放下或合上折扇，露出淡淡的、心领神会的温柔微笑。他的脸部和辫子占据左侧和中心；右侧背景可见拉门和一小枝花卉。右侧包含 1 个竖向对话气泡，写着：「あぁ……そういうこと。だからこっちに来たんだね」。
+
+视觉风格：日本漫画手稿美学，清晰的黑色墨水轮廓，微妙的网点渐变，细腻的樱花，传统房间透视，精致的布料褶皱，优雅浪漫的角色设计，安静的节奏。对话气泡应为带有细黑边框的白色椭圆形，内含竖排日语文字，并有指向说话者的小尾巴。
+
+约束条件：保持 4 个画格，总共 5 个对话气泡，1 只仓鼠，无色彩，除对话中提到的 AI 模型外无现代物品，无额外角色，无水印，无页码。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911061861_r49ni2_HKLu9R1aQAEExY7.jpg" width="600" alt="漫画 / 故事板 - 四格漫画茶室场景 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911061836_smldla_HKLu9RsaQAAXvcW.jpg" width="600" alt="漫画 / 故事板 - 四格漫画茶室场景 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [🐹🐹](https://x.com/hmst_yyyy)
+- **来源:** [Twitter Post](https://x.com/hmst_yyyy/status/2063474331183923690#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24673)**
+
+---
+
+### No. 81: 漫画 / 故事板 - 雨中赛博朋克情侣
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个详细的提示词，用于生成在霓虹闪烁的雨天城市环境中，身着未来感装备的时尚赛博朋克情侣。
+
+#### 📝 提示词
+
+```
+全身构图，一对冷峻时尚的 {argument name="couple type" default="赛博朋克情侣"} 并肩站在 {argument name="setting" default="未来感雨夜城市"} 中。男性五官轮廓分明，留着黑色短发，拥有带有发光霓虹细节的半机械义肢，身穿功能性工装裤和未来感街头风格夹克。女性外表冷艳犀利，留着短发，脸上带有精致的荧光机械线条妆容，身穿赛博朋克工装时尚服饰。两人背靠一堵旧金属墙，身体靠近，双腿微张，双手插在工装裤口袋里，头部微低并转向彼此，眼神冷冽而深邃。背景：雨夜中的未来城市，狭窄的高楼街道，闪烁的彩色霓虹灯牌，地面湿漉漉地反射着灯光，周围弥漫着潮湿的雾气。高对比度硬阴影，{argument name="lighting" default="带有深红和电青色点缀的冷蓝紫色霓虹色调"}，电影级胶片颗粒质感，赛博废土环境，超写实肖像，强烈的氛围感，细腻的光影，反乌托邦浪漫美学。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911001724_rpcrkr_HKLlGEXakAAXQZW.jpg" width="600" alt="漫画 / 故事板 - 雨中赛博朋克情侣 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603)
+- **来源:** [Twitter Post](https://x.com/NoOneIsHere2603/status/2063463485808497142)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24585)**
+
+---
+
+### No. 82: 漫画 / 故事板 - 奇幻森林音乐漫画页面
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3468,7 +4067,7 @@ Q 版风格，
 
 ---
 
-### No. 70: 漫画 / 故事板 - 混合写实水墨艺术
+### No. 83: 漫画 / 故事板 - 混合写实水墨艺术
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3508,7 +4107,7 @@ Q 版风格，
 
 ---
 
-### No. 71: 漫画 / 故事板 - 动漫咖啡师角色参考图
+### No. 84: 漫画 / 故事板 - 动漫咖啡师角色参考图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3544,7 +4143,7 @@ Q 版风格，
 
 ---
 
-### No. 72: 漫画 / 故事板 - 自行车手角色设计图
+### No. 85: 漫画 / 故事板 - 自行车手角色设计图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3592,19 +4191,19 @@ Q 版风格，
 
 ---
 
-### No. 73: 漫画 / 故事板 - 黑色侦探事务所街道
+### No. 86: 产品营销 - 时尚大片拼图拼贴画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一幅宽屏黑白黑色电影风格城市场景，描绘了一名孤独的侦探站在雨水浸湿的私人事务所外，适用于电影项目或音乐视频视觉效果。
+生成一张高端时尚大片拼贴画，以写实的人物主体为中心，背景面板采用拼图布局，展示不同姿势。
 
 #### 📝 提示词
 
 ```
-创作一个 1940 年代电影黑色风格的街道场景，采用高对比度黑白画面，宽屏 16:9。在左侧前景中，展示 1 名身材魁梧的侦探或黑帮成员的背影，他戴着一顶带有羽毛和铆钉饰带的宽檐软呢帽，身穿带有浅色毛领和毛袖口的深色长外套，戴着手套，右手拿着 1 份卷起来的文件或蓝图。他面向雨后湿滑的城市人行道，看向右侧的一家砖砌店面，店面招牌上发着光，文字为 {argument name="agency sign text" default="KORSCHE DETECTIVE AGENCY"}。办公室入口有深色百叶窗、玻璃门，门上贴着一张小纸条，写着 {argument name="door notice text" default="NOTICE"}。左侧路边停放着 1 辆复古黑色汽车，画面中可见 3 盏街道或室外灯，投射出白色的光圈，远景左侧有高耸阴郁的摩天大楼，地面湿润反光，夜间空气弥漫着薄雾，阴影深邃，角色帽子和皮毛边缘有轮廓光，仅在店面和灯光处有微妙的暖黄色高光。风格：图形小说写实主义与经典黑色电影摄影的结合，戏剧性的低调照明，忧郁的城市侦探氛围，锐利的建筑细节，无现代物品，无额外人物，无水印。
+高端时尚大片拼贴海报。画面中心为全身写实人物主体，基于上传的面部照片生成，身着现代超大廓形 {argument name="clothing material" default="棉质"} 衬衫和剪裁利落的中性色长裤，并佩戴高级极简太阳镜。主人物身后，四个单色肖像面板如同拼图般排列——不规则的互锁形状无缝衔接。每个面板展示同一人物的不同表现力时尚姿势，均佩戴与面部角色风格相符的太阳镜（{argument name="sunglass style" default="复古护目镜、运动包裹式、大胆几何风、经典飞行员款"}）。干净的画廊风格白色背景，奢华杂志美学，构图考究，电影感黑白肖像，高级摄影棚布光，柔和的自然阴影，分层拼贴效果。超细腻皮肤纹理，写实面料垂坠感，焦点清晰，优雅极简。当代奢华品牌风格，编辑杰作，8K 分辨率，HDR。无文字，无排版，无 Logo，无水印。
 ```
 
 #### 🖼️ 生成图片
@@ -3612,97 +4211,215 @@ Q 版风格，
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822703987_4ugwq6_HKI3b3SWsAAYU_j.jpg" width="600" alt="漫画 / 故事板 - 黑色侦探事务所街道 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780910999059_6u3176_HKR4S1Oa0AArwLD.jpg" width="600" alt="产品营销 - 时尚大片拼图拼贴画 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Sairah](https://x.com/Sairah_0)
+- **来源:** [Twitter Post](https://x.com/Sairah_0/status/2063906805823184942)
+- **发布时间:** 2026年6月8日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24578)**
+
+---
+
+### No. 87: 产品营销 - 2026 年 FIFA 世界杯体育海报
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一款专为 2026 年 FIFA 世界杯球员壁纸设计的超精细电影感体育海报提示词，具备戏剧性光影与高级编辑风格。
+
+#### 📝 提示词
+
+```
+创作一张电影感超精细足球海报，主角为 {argument name="player name" default="球员姓名"}，效力于 {argument name="team" default="球队/国家"}，胸部以上肖像，视线看向镜头外，戏剧性的球队配色轮廓光，漂浮的余烬，大气烟雾，高级体育营销活动风格，照片级皮肤纹理，带有队徽的高细节球衣，左侧展示球员姓氏的巨幅垂直排版，底部中心附近有“FIFA WORLD CUP 2026”文字，奢华编辑摄影，AAA 游戏主视觉质量，Unreal Engine 5 渲染，超清晰对焦，高对比度，8K 杰作，智能手机壁纸构图，人物占据画面 90%。
+
+构图：
+
+垂直智能手机壁纸（9:16 比例）
+
+胸部以上肖像占据画面 85–90%
+
+主体位于中心偏右位置
+
+极具视觉冲击力的特写视角
+
+头部略微转向侧面，看向镜头外
+
+英雄般专注的表情
+
+光影：
+
+戏剧性的电影感轮廓光
+
+来自镜头左侧强烈的球队配色背光
+
+照亮面部细节的柔和暖色主光
+
+深邃阴影与高对比度
+
+体积光氛围与微妙的薄雾
+
+高级摄影棚摄影质量
+
+人物细节：
+
+超写实皮肤纹理
+
+带有自然眼神光的锐利双眼
+
+高细节发丝
+
+照片级面部特征
+
+超干净的职业运动员形象
+
+逼真的织物褶皱与缝线
+
+球衣：
+
+带有赞助商标志的新款足球队服
+
+高级织物纹理
+
+细节丰富的队徽
+
+逼真的赞助商与徽章压花
+
+微妙的反光高光
+
+比赛日精英美学
+
+背景：
+
+深黑到深球队色的渐变
+
+大气烟雾与薄雾
+
+漂浮的余烬颗粒
+
+电影级景深
+
+极简干扰元素
+
+人物始终是画面中最亮的焦点
+
+排版布局：
+
+沿左侧的巨幅垂直姓氏排版
+
+顶部的小号名字
+
+左下角附近的球队名称与位置
+
+底部中心的社交媒体账号
+
+现代紧凑型体育排版
+
+与光影色调相匹配的粗体排版
+
+调色板：
+
+深黑色
+
+球队主色
+
+深球队色
+
+暖肤色
+
+高对比度电影级调色
+
+质量：
+
+Unreal Engine 5 质量
+
+8K 超精细
+
+体育营销活动质量
+
+高级海报设计
+
+清晰对焦
+
+照片级渲染
+
+专业级调色
+
+屡获殊荣的体育摄影美学。
+
+长宽比：9:16
+
+始终在 2026 年 FIFA 世界杯的背景下生成球员，使用符合球员所属国家的官方国家队配色、队服及赛事氛围。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780910996392_l3r4ks_HKOoIoga8AA2QDS.jpg" width="600" alt="产品营销 - 2026 年 FIFA 世界杯体育海报 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822704044_k0033r_HKI3mGxXoAADMB_.jpg" width="600" alt="漫画 / 故事板 - 黑色侦探事务所街道 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780910996652_pjowtx_HKOoItobsAAAvp9.jpg" width="600" alt="产品营销 - 2026 年 FIFA 世界杯体育海报 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822704003_0c3epn_HKI3tjaWIAATijy.jpg" width="600" alt="漫画 / 故事板 - 黑色侦探事务所街道 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780910996601_h7hdi6_HKOoIpjaIAAyYE_.jpg" width="600" alt="产品营销 - 2026 年 FIFA 世界杯体育海报 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822704579_ua7gt8_HKI3vZoXwAA_08Y.jpg" width="600" alt="漫画 / 故事板 - 黑色侦探事务所街道 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1780910997101_3nglku_HKOoIptacAAOwAQ.jpg" width="600" alt="产品营销 - 2026 年 FIFA 世界杯体育海报 - Image 4">
 </div>
 
 #### 📌 详情
 
-- **作者:** [Grumpy_Whiskers](https://x.com/GrumpyWhiskers_)
-- **来源:** [Twitter Post](https://x.com/GrumpyWhiskers_/status/2063276374622601715#reversed-0)
-- **发布时间:** 2026年6月6日
+- **作者:** [Saul Goodman](https://x.com/Goodmanprotocol)
+- **来源:** [Twitter Post](https://x.com/Goodmanprotocol/status/2063677927057981650)
+- **发布时间:** 2026年6月7日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24490)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24576)**
 
 ---
 
-### No. 74: 漫画 / 故事板 - 魔法少女与祖母导师
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个提示词，用于生成一位年轻女孩在精灵森林中向祖母展示刚学会的魔法咒语的场景。
-
-#### 📝 提示词
-
-```
-一位女孩向她的 {argument name="mentor" default="祖母导师"} 展示她刚学会的 {argument name="magic" default="In Por Ylem"}。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822689814_5v7tfz_HKI4SrjaEAAp68x.jpg" width="600" alt="漫画 / 故事板 - 魔法少女与祖母导师 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [おやぎ](https://x.com/bikurin59)
-- **来源:** [Twitter Post](https://x.com/bikurin59/status/2063275285538037917)
-- **发布时间:** 2026年6月6日
-- **多语言:** ja
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24469)**
-
----
-
-### No. 75: 漫画 / 故事板 - 硬核科幻少女漫画页面
+### No. 88: 产品营销 - 未来感奢华腕表广告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-生成一个包含六个分镜的详细竖版漫画页面，包含日语对话、废墟城市动作场景、哥特风女主角、赛博格士兵以及咆哮的机械巨龙。
+一部电影级的宽画幅奢华腕表广告，主角为西装革履的品牌大使，背景包含未来感腕表实验室、全息文字以及超大号钛金属镂空腕表。
 
 #### 📝 提示词
 
 ```
-目标：创作一页竖版科幻少女漫画，采用硬核水彩与墨水风格，主角为 {argument name="character name" default="Zero"}，场景设定在末日后的废墟城市中，一位苍白的哥特风少女与机械巨龙展开激战。
+目标：为 {argument name="brand ambassador" default="David Beckham"} 创作一个电影级的奢华腕表广告概念，将高端男性时尚肖像与未来感制表实验室及超大机械产品特写镜头相结合。
 
-画布：高长宽比的竖版漫画页面，比例约为 2:3，带有细黑色外边框，米白色纸张色调，对角线白色分镜间隙，粗糙的墨水质感，配色为柔和的灰色、薰衣草色、米色和灰褐色。
+画布：16:9 宽幅横幅，深金属色调，超精细写实 CGI，光泽黑铬，蓝灰色反射，高对比度摄影棚灯光，浅景深。
 
-布局：使用 6 个漫画分镜。分镜 1 是占据上半部分的宽幅大图：坍塌的城市废墟、瓦砾、烟雾、破碎的摩天大楼、多名武装士兵、一名站立且手持步枪的白发赛博格男性士兵，以及一名跪在废墟中的长发苍白少女。分镜 2 是左下角的少女特写，有着极长的白金发、黑色哥特裙、十字架项链，面部中心覆盖着一个平面的米色遮挡矩形。分镜 3 是右上角的窄幅动作分镜，展示一只重型装甲/机械腿或武器伴随速度线撞击废墟。分镜 4 是右侧中部的小分镜，展示部分角色特写，面部同样覆盖着米色遮挡矩形。分镜 5 是左下角的大型怪物登场：巨大的生物机械龙或怪兽头部正在咆哮，露出锯齿状牙齿、红色机械眼、装甲板，瓦砾飞溅，前景中有微小的人类身影。分镜 6 是右下角的动作分镜，展示白发装甲男性保护或拉着少女后撤，周围环绕着士兵和机械残骸。
+布局：将男性大使置于画面中心偏左位置，从大腿中部向上截取，身着深海军蓝定制西装，搭配白色开领衬衫和白色方巾，双手可见纹身并扣住西装，左手佩戴黑色奢华腕表。他的面部刻意被 2 个实心遮挡块遮盖：1 个较大的暖棕色正方形遮住上半脸/头部区域，1 个较小的深蓝灰色长方形遮住左下脸区域。在右半部分，展示 1 个巨大的悬浮方形枕形钛金属表壳，透视角度，圆角设计，厚实的抛光表圈，侧面表冠，透明镂空表盘，陀飞轮式圆形机械结构，金色圆环，铬合金桥板，紫色宝石中心，底板上刻有“TITANIUM”字样。
 
-角色：男主角是一位高瘦的白发动漫赛博格士兵，身穿黑色战术装甲，拥有银色机械肢体，手持步枪，神情冷静但警觉。女主角是一位精致苍白的少女，有着极长的飘逸白金长发，身穿黑色褶边哥特装，带有蕾丝细节和十字架吊坠，表情脆弱，呈现出少女漫风格，正跪在废墟中或被护送撤离。包含数名背景武装士兵和废墟中的军事人物，但保持次要地位。
+背景：未来感腕表设计工作室，配有分层玻璃面板、弧形透明展示舱、机器人机械装置、精密工具、反射效果、蓝色全息 UI 线条以及深色工业奢华氛围。在右下角加入一个小型的制表师场景：1 名身穿白大褂的技术人员坐在冷蓝色灯光下的工作台前，在微型机械零件旁组装腕表。
 
-文本内容：包含竖排日语漫画对话气泡和拟声词。使用 5 个对话气泡：顶部 2 个，少女特写 1 个，右侧中部小分镜 1 个，右下角 1 个。建议气泡文本默认值：{argument name="top left speech" default="旦那様の目が本物か、見つかるといいんだけど……"}, {argument name="top right speech" default="危険区域だからな、足場に確保してもらいたいものだ"}, {argument name="center speech" default="この気配まさか……？"}, {argument name="middle right speech" default="……何か、来るぞ。"}, {argument name="bottom right speech" default="ファンネリア！下がっていろ！"}。添加粗体手绘日语拟声词：怪物旁巨大的红黑色咆哮声，以及右下角分镜中充满动感的撞击声。
+需包含的可见产品与设计元素：共 4 个显眼的腕表相关物体：1 个位于右侧的巨大悬浮镂空腕表，1 个大使佩戴的腕表，1 个展示在左侧玻璃模块内的小型腕表，以及 1 个位于右下角工作台上的小型机械组装腕表。
 
-视觉风格：浪漫少女漫画角色设计与黑暗军事科幻的结合，粗犷的水彩渲染，密集的钢笔排线，戏剧性的对角线构图，混乱的瓦砾细节，柔和的发丝光感，高细节废墟，电影级动作感，强调硬核质感而非干净的矢量艺术。
+文字内容：添加 7 个清晰可见的文字元素，采用纤细的大写未来感无衬线字体：1) 左上角的“{argument name="headline name" default="DAVID BECKHAM"}”，2) 其下方的“{argument name="tagline" default="TIMELESS DESIGN"}”，3) 嵌入左侧玻璃面板内并带有细引导线的“CUSTOM MODULAR DESIGN”，4) 沿最左侧展示边缘垂直排列的“TITANIUM”，5) 巨型腕表上雕刻的“TITANIUM”，6) 中右下方的“AUTOMATIC MOVEMENT”，以及 7) 右下角的“{argument name="model code" default="DB 01"}”。
 
-约束：保持页面为黑白/柔和色彩的漫画风格，避免现代 UI 元素，避免照片级真实感，无水印，无英文字母，严格保留 6 分镜布局以及两个遮挡面部的米色矩形。
+风格限制：高端汽车风格的钟表广告，深沉的反射效果，清晰的微机械细节，逼真的西装面料和皮肤纹身，无额外 Logo，无水印，除指定的 7 个文字元素外不包含任何额外文字。
 ```
 
 #### 🖼️ 生成图片
@@ -3710,284 +4427,79 @@ Q 版风格，
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822716404_vix2ie_HKIubo6bIAADz1k.jpg" width="600" alt="漫画 / 故事板 - 硬核科幻少女漫画页面 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780911072561_kmyubw_HKOdO8EaUAAf6Nh.jpg" width="600" alt="产品营销 - 未来感奢华腕表广告 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Cherry 2.O](https://x.com/Mind_Boticni)
+- **来源:** [Twitter Post](https://x.com/Mind_Boticni/status/2063666107203097076#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24690)**
+
+---
+
+### No. 89: 产品营销 - Acrylic VoxCat 时尚橱窗海报
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一款高端竖版收藏卡风格海报，展示了一位身着暗黑高定服装的角色，置于带有霓虹品牌标识的透明亚克力奢华橱窗内。
+
+#### 📝 提示词
+
+```
+创作一张竖版高端商业海报 / 收藏卡封面，主角为 {argument name="character name" default="VoxCat"}，将其描绘为一位迷人的暗黑时尚女英雄，置于透明亚克力奢华橱窗内。画布比例为 2:3 竖构图，具有电影质感和光泽感，背景为黑青色，带有烟雾状倒影、分层透明玻璃板和柔和的霓虹灯条。画面中心是一位全身动漫风格女性，自信站立，留着飘逸的 {argument name="hair color" default="深棕黑色配铜色挑染"} 长发，面部模糊或不显示五官，身着极具戏剧性的 {argument name="outfit description" default="黑色漆皮高定礼服，配有棱角分明的肩带、高开叉、半透明斗篷、几何三角形纹理、金属铜色装饰、颈圈和不对称露肩设计"}。采用高端时尚橱窗构图：前景为角色，中层为亚克力倒影和玻璃反光，背景为品牌几何图形和标识。在角色周围精确包含 11 个装饰性图形元素：人物身后 1 个大型亮粉色霓虹矩形边框，1 个内部深色矩形边框，左上角 1 个带有猫咪剪影的大型玫瑰金 V 字 Logo，Logo 下方 1 个品牌文字标识“VOXCAT”，左下角 1 个包含 5 条垂直粉色霓虹灯柱的大型轮廓圆圈，左下角 1 个豹纹倒三角形色块，左侧 1 组半透明矩形色块，左下角 1 个小型半透明玻璃底座，右侧 1 个带有桃色六边形和 2 条波浪线图案的面板，右下角 1 个小型轮廓圆圈，以及右下角 1 个低调的手写签名“voxCAT”。灯光应奢华且克制：洋红色霓虹轮廓光、青色玻璃边缘光、织物上的温暖铜色高光、柔焦倒影、淡淡的薄雾、微妙的辉光以及锐利的光泽材质细节。保持布局优雅简洁，如同亚克力展示柜与收藏卡表面的结合，将品牌标识和纤细的装饰线条融入结构中。无需额外文字，无水印，无需写实面部细节；强调分层透明感、高端海报美学以及精致的 gpt-image-2 风格。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911053128_zsjppg_HKObrx3aYAAvumG.jpg" width="600" alt="产品营销 - Acrylic VoxCat 时尚橱窗海报 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822716414_so8e3z_HKIubpAaoAAIBWV.jpg" width="600" alt="漫画 / 故事板 - 硬核科幻少女漫画页面 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [レティシア・ノエル](https://x.com/N7S6P1)
-- **来源:** [Twitter Post](https://x.com/N7S6P1/status/2063262638805782747#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24512)**
-
----
-
-### No. 76: 漫画 / 故事板 - 贝多芬创作交响曲
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一幅照片级真实的场景，描绘了贝多芬在 19 世纪阳光明媚的房间里，于铺满手稿的书桌前创作音乐的历史画面。
-
-#### 📝 提示词
-
-```
-创作一幅电影级照片真实感的历史场景：{argument name="character name" default="路德维希·凡·贝多芬"} 坐在 19 世纪维也纳音乐室一张宽大且磨损的木制书桌前，正用羽毛笔在手写乐谱上创作。镜头采用桌面高度的广角正面视角，浅景深，午后的金色阳光从右侧的高大窗户射入，空气中漂浮着轻柔的尘埃，背景是深色雕花木墙板和拼花地板，营造出一种神圣、肃穆且充满天才静谧感的氛围。作曲家留着凌乱的深灰色卷发，身穿深绿色天鹅绒外套，内搭白色衬衫和马甲，面部被居中的方形模糊效果刻意遮挡。在前景的书桌上，从左至右整齐摆放 5 张清晰可见的印刷乐谱扉页：1) “SONATA NO. 3”（大提琴与钢琴奏鸣曲），2) “SYMPHONY NO. 5” C 小调（第五交响曲），3) “SYMPHONY NO. 6” “PASTORALE” “SECHSTE SINFONIE”（第六交响曲“田园”），4) “PIANO CONCERTO”（钢琴协奏曲，附带较小的协奏曲文字），5) “TRIOS”（钢琴、小提琴与大提琴三重奏）。房间内还需包含 3 件显眼的乐器：最左侧靠着的一把立式低音提琴，后方中央摆放着打开乐谱的钢琴，以及右侧窗边靠着的一把大提琴。添加时代道具：书桌两侧堆放的皮质书籍、散落的手稿页、打开的墨水瓶、作曲家手中的羽毛笔、黄铜烛台以及侧桌上散落的纸张。采用温暖的琥珀色和棕色调，质感真实，还原 19 世纪初的历史室内风格，光影效果戏剧化，细节丰富，16:9 横向构图，无现代物品，无水印。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822724765_kgjwa2_HKIe6-YXwAAiqPr.jpg" width="600" alt="漫画 / 故事板 - 贝多芬创作交响曲 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Juan José Arango E.](https://x.com/jjarangoes)
-- **来源:** [Twitter Post](https://x.com/jjarangoes/status/2063245592810201171#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24529)**
-
----
-
-### No. 77: 漫画 / 故事板 - 递归黑桃 K 扑克牌
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一款超现实且奢华的扑克牌艺术提示词，包含“牌中牌”的递归视觉悖论及受埃舍尔（Escher）启发的艺术设计。
-
-#### 📝 提示词
-
-```
-请使用我上传的人脸图像作为主要的身份参考。以极高的保真度保留我的面部特征：完全相同的面部结构、下颌线、颧骨、眼型、眉毛、鼻子、嘴唇、胡须样式、发型、发质、肤色、皮肤纹理以及整体可辨识的外观。请勿美化、更改或重新诠释我的面部。保持真实的解剖结构和逼真的肖像感。创作一幅超精细、电影级、超现实且奢华的扑克牌艺术作品。主体是我化身为黑桃 K，占据整张华丽的顶级扑克牌设计。我身着精致的黑银色黑桃主题皇室礼服，头戴由黑曜石和抛光钢材铸造的皇冠，穿着复杂的刺绣盔甲，并披着饰有隐约黑桃符号的飘逸皇室长袍。我的表情冷静、睿智且充满力量。我的右手拿着一张纯净的黑桃 A。创意转折：我手中的黑桃 A 并非普通的扑克牌，它包含着另一幅完整的扑克牌插画。在那张牌里，我再次以黑桃 K 的形象出现，而整张牌正被一位威严的红桃 Q 优雅地捏在指尖。这位红桃 Q 优雅、高贵且视觉冲击力强，身着饰有红桃图案的深红色与金色华丽礼服。这种错觉通过微妙的递归叙事延续：红桃 Q 似乎正着迷地审视着这张牌，营造出一种“牌中牌”的视觉悖论。构图应体现出权力、策略、爱情与命运交织的传奇故事感。加入受埃舍尔（Escher）启发的不可思议的视觉设计元素：• 无限递归效果 • 牌中世界向内折叠 • 漂浮的黑桃和红桃符号转化为乌鸦与玫瑰花瓣 • 超出牌面边缘的华丽金色边框 • 悬浮在半空中的皇家棋子 • 隐藏在牌面雕刻中的分形图案 • 形成花色符号的优雅烟雾 • 从牌角浮现的维度之门。风格：超写实奇幻现实主义与奢华赌场艺术、文艺复兴时期皇家肖像画及现代电影概念艺术的融合。光影：戏剧性的明暗对照法（chiaroscuro）、体积光（god rays）、丰富的对比度、闪耀的金属高光、黑桃 A 周围微妙的魔法能量。色调：• 深黑色 • 银铬色 • 象牙白 • 深红色 • 古金色点缀。构图：• 竖版杰作 • 博物馆级细节 • 超写实纹理 • 复杂的牌面雕刻 • 完美对称的扑克牌美学与电影级深度的融合 • 面部焦点清晰 • 极高的人物身份保真度 • 通过视觉符号呈现史诗般的叙事。最终图像应呈现出一种传奇奇幻卡牌游戏封面的质感，黑桃 K 仿佛拥有了自我意识，存在于多重现实维度之中，同时被命运之手——即红桃 Q——所掌控。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822676244_r024ka_HKIdvCVbQAEb_V9.jpg" width="600" alt="漫画 / 故事板 - 递归黑桃 K 扑克牌 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Professor](https://x.com/Professor_134)
-- **来源:** [Twitter Post](https://x.com/Professor_134/status/2063244295977800057)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24452)**
-
----
-
-### No. 78: 漫画 / 故事板 - 暗黑奇幻任务路线图
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一张带有红色任务路线的电影级暗黑奇幻风格鸟瞰世界地图，非常适合游戏概念设计、战役视觉效果或故事世界观宣传。
-
-#### 📝 提示词
-
-```
-目标：为 {argument name="project name" default="一条危险的任务路线"} 创建一张史诗般的暗黑奇幻世界地图插画，呈现为电影级的鸟瞰全景图，而非平面示意图。
-
-画布：超宽 16:9 横向图像，高分辨率，戏剧性的哑光绘画风格，无边框，无标题文字，无标签，无图例。
-
-布局与地理：以高空俯瞰视角展示一个广阔的沿海王国。在下方中心位置，放置 1 座巨大的中世纪防御港口城市，包含密集的屋顶、高耸的哥特式塔楼、石墙、码头和小型船只。在最右侧，放置 1 座锯齿状的火山岛或黑色山脉，带有发光的橙色熔岩和烟雾。在上三分之一处，放置 1 道横跨整个陆地的巨大垂直冰墙，带有冰冻的瀑布和陡峭的蓝白色悬崖。在冰墙之外，展示 1 片冰冻的荒原高原，布满积雪、废墟塔楼、远处的城堡以及风暴云下的山脉。在城市和冰墙之间，展示 1 片广阔的暗黑森林区域、1 个分叉的河流三角洲、散落的村庄、道路、废墟和岩石山丘。陆地四周环绕着风暴肆虐的深色海洋、波浪、迷雾和小型船只。
-
-路线叠加：添加 1 条连续的红色发光手绘旅行路线，线条纤细但明亮，带有白色边缘的小型红色箭头。路线始于港口城市附近，穿过海洋前往火山岛，然后折返至城市，向北蜿蜒穿过城墙，穿过湿地和森林，通过冰墙中的狭窄关口或缝隙，并作为一条蜿蜒的小径穿过冰冻高原，向遥远的北方延伸。路线沿途包含 13 个可见的箭头：3 个在通往火山并返回的海面上，3 个在港口城市入口周围及内部，3 个穿过森林覆盖的中部陆地，1 个在冰墙通道处，3 个穿过积雪的北部高原。
-
-视觉风格：超精细的电影级奇幻概念艺术，真实的比例，去饱和的蓝灰色调，寒冷风暴光影，情绪化的云层，体积雾，锐利的地形细节，微缩建筑细节，发光的熔岩对比，清晰的红色路线叠加，如同战略战役地图。氛围应具有危险感和史诗感，适合奇幻游戏发布或任务规划视觉展示。
-
-约束条件：画面中不得出现任何可读文字、UI 面板、罗盘、角色特写、现代建筑或水印。确保红色路线清晰可见，但不要使其看起来像是一条道路；它应叠加在绘制的地图之上，作为标注的任务路径。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822706407_m6wfbl_HKIXrprbwAAxDp-.jpg" width="600" alt="漫画 / 故事板 - 暗黑奇幻任务路线图 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [zhouluobo](https://x.com/zhouluobo)
-- **来源:** [Twitter Post](https://x.com/zhouluobo/status/2063237726724571307#reversed-1)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24495)**
-
----
-
-### No. 79: 漫画 / 故事板 - 怀旧校园剪贴簿页面
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一本打开的动漫风格校园记忆剪贴簿，内含六张带有标签的照片和手写日语笔记。
-
-#### 📝 提示词
-
-```
-目标：为 {argument name="character name" default="Mio"} 创建一个写实的打开式剪贴簿相册页面，记录怀旧的初中回忆。采用温暖的胶片摄影质感、米色纸张、手写说明文字以及动漫风格的照片打印。相册应呈现出一种由角色设定文本构成的个人时间胶囊感，突出展现一位好胜但真诚的女学生及其朋友们。
-
-画布：横向 16:9 图像，俯视视角，展示放在木桌上打开的相册。使用温暖的室内光线、略带光泽的塑料照片保护套、陈旧的米色页面，左右两侧可见深蓝色相册封面边缘，书脊处有柔和的阴影。
-
-布局：双页剪贴簿布局，共有 6 张长方形照片，左页 3 张，右页 3 张，两页之间有一列狭窄的中央手写日记栏。每张照片都有白色的拍立得边框，下方配有手写日语说明。人物面部可以进行柔和的匿名化/模糊处理，同时保持发型、服装、姿势和场景清晰可辨。
-
-照片数量及内容：1) 左上照片：一位黑发女学生身穿深色水手服，站在教室黑板旁，手持笔记本，背景中的同学模糊处理；说明文字为「委員会の仕事中。黒板書くのめんどい。」 2) 左中照片：同一女孩在放学路上行走，背景是盛开的樱花，身穿校服，柔和的春日阳光；说明文字为「帰り道。桜きれいだった。」并配有一个小花涂鸦。3) 左下照片：学校体育祭接力赛场景，女孩身穿白色运动衫，手持红色接力棒奔跑，身后是其他身穿运动服的学生；说明文字为「体育祭のリレー。絶対1位とるって決めてた。」并配有一个小皇冠涂鸦。4) 右上照片：夏季游泳池场景，女孩和两个朋友穿着深色泳衣，水面波光粼粼，阳光明媚；说明文字为「プール最高！！でも日焼けしたくない…」并配有小水滴涂鸦。5) 右中照片：三名女学生放学后在教室合影，比着剪刀手，充满活力的朋友氛围；说明文字为「放課後の教室にて。このふたり、うるさい。笑」并配有一个爱心涂鸦。6) 右下照片：学校文化祭轻音部现场演出场景，黑发女孩站在写有「軽音部 LIVE」的黑板标牌旁，背景有气球和舞台/教室装饰，情绪紧张但快乐；说明文字为「文化祭のライブ！緊張したけど楽しかった！」并配有音符涂鸦。
-
-中央手写栏：在内侧边缘添加一个垂直笔记区域，使用日语手写体。顶部写上「☆中学生活☆ 思い出 ☆」，并配有装饰性的星星和波浪下划线。下方写几行简短的感悟，关于收集有趣的事、困难的事以及她努力过的事，最后写给未来的自己，提醒不要忘记这些感受。底部附近包含几个小音符和一个简单的电吉他涂鸦。
-
-主体细节：主角是一位日本动漫风格的初中女生，拥有 {argument name="hair color" default="长黑发"}，表情整洁但略显严肃，身材苗条，性格好胜。在校园照片中使用深蓝色校服配丝带，体育照片中使用白色运动服，游泳池照片中使用深色泳衣，现场演出照片中使用休闲黑色 T 恤。朋友们应表现为外貌各异的女孩，拥有不同的棕色或深色发型。
-
-视觉风格：写实的剪贴簿相册与照片内的高质量动漫插画相结合，电影般的暖色调，浅景深，逼真的纸张纹理，略微褪色的打印色彩，手写笔迹，小涂鸦，以及怀旧的成长氛围。
-
-约束条件：使用正好 6 张照片，正好一列中央手写笔记栏，并保留所有可见的日语说明文字和「軽音部 LIVE」标牌。不要添加额外的照片、额外的页面、UI 元素、水印、Logo 或现代排版图形文本。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822719167_u8vrju_HKIMykgbgAAciBO.jpg" width="600" alt="漫画 / 故事板 - 怀旧校园剪贴簿页面 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [23Sensei](https://x.com/23AIart)
-- **来源:** [Twitter Post](https://x.com/23AIart/status/2063225721594782015#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24517)**
-
----
-
-### No. 80: 漫画 / 故事板 - 空灵巨型女性景观
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个超现实且梦幻的插画提示词，描绘了一位空灵的巨型女性从漂浮岛屿和微型村庄组成的魔法微观世界中升起。
-
-#### 📝 提示词
-
-```
-一位巨大的 {argument name="subject" default="皮肤发光、嘴唇光泽、深色双眸、佩戴大金耳环的空灵女性"} 从一个 {argument name="world description" default="魔法微观世界"} 上方升起。飘逸的长发、平静的表情、漂浮的岛屿、微小的村庄、蜿蜒的河流、盛开的鲜花以及黄金时段的阳光。温暖的体积光、漂浮的花瓣、梦幻的氛围、异想天开的超现实主义、{argument name="art style" default="半写实风格化插画"}、超精细绘画渲染、电影级构图、鲜艳的色彩、奇幻杰作、高度精致、8K 分辨率。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822678201_dpiyxj_HKHy7oma4AAxO6I.jpg" width="600" alt="漫画 / 故事板 - 空灵巨型女性景观 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Noor](https://x.com/noorlewisx)
-- **来源:** [Twitter Post](https://x.com/noorlewisx/status/2063197214420410568)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24454)**
-
----
-
-### No. 81: 漫画 / 故事板 - 昭和复古绅士装束
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一份详细的提示词，用于将角色转换为昭和时代的贵族或“男装丽人”风格，在保持角色一致性的同时彻底重塑其装束。
-
-#### 📝 提示词
-
-```
-以附图作为角色参考，绘制一张同一角色的新插画，同时保持面部特征、发型、发色、眼睛、年龄、体型、氛围和魅力。请勿复刻原有的服装；服装为全新设计。服装风格应为“{argument name="outfit style" default="男装丽人"}”或“昭和初期年轻绅士”。应呈现昭和初期上流社会古典且优雅的和洋折衷风格。以定制夹克、马甲、高腰西裤、白衬衫及细领带或丝带领结为基础，根据需要添加皮手套、怀表、皮鞋或短靴、披风、长款大衣、帽子、手杖或高档皮包。对于长发女性角色，请勿披散头发，应将其扎成松散的低马尾或低发髻。整理发型以露出颈部、衣领、领带和马甲，仅留少量碎发。优先表现不过分甜美的端庄之美。对于女性角色，不要使其完全男性化，应保留淑女般的细腻与优雅。对于男性角色，以年轻绅士、贵族或摩登少年的风格自然呈现。两者均需注重优雅、知性以及略带中性的魅力。色彩应以 {argument name="color palette" default="黑色、炭灰色、海军蓝、深棕色、象牙白和酒红色"} 为中心。营造出高品质且沉稳的印象，展现出羊毛、粗花呢、天鹅绒和皮革的质感。将姿势和构图从参考图中更改为优雅的姿势，例如站立、坐着、拿着帽子或手扶手杖。表情方面，比起可爱，更应优先表现优雅与知性，例如安静的微笑、冷峻的目光或略带挑衅的神情。背景为 {argument name="background" default="昭和初期的西式建筑、酒店大堂、书房、车站建筑或茶室"}。以角色为主角。整体氛围总结为：优雅、古典、知性且略带神秘感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822689851_fh76ih_HKHmwvgbgAAih3d.jpg" width="600" alt="漫画 / 故事板 - 昭和复古绅士装束 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822690000_pcby53_HKHm23qawAAYnUI.jpg" width="600" alt="漫画 / 故事板 - 昭和复古绅士装束 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780911053719_02lvuo_HKObrx5bsAAG2dO.jpg" width="600" alt="产品营销 - Acrylic VoxCat 时尚橱窗海报 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822689892_rmjaso_HKHn2T7bIAEW3cG.jpg" width="600" alt="漫画 / 故事板 - 昭和复古绅士装束 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822690590_anaju5_HKHn2T5aIAApJZu.jpg" width="600" alt="漫画 / 故事板 - 昭和复古绅士装束 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1780911053724_n6cmld_HKObvApa4AAx-Wp.jpg" width="600" alt="产品营销 - Acrylic VoxCat 时尚橱窗海报 - Image 3">
 </div>
 
 #### 📌 详情
 
-- **作者:** [Mio@AIイラスト](https://x.com/MioWorkshop)
-- **来源:** [Twitter Post](https://x.com/MioWorkshop/status/2063186969858039982)
-- **发布时间:** 2026年6月6日
-- **多语言:** ja
+- **作者:** [VoxCat](https://x.com/VoxcatAI)
+- **来源:** [Twitter Post](https://x.com/VoxcatAI/status/2063664371570749571#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24471)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24659)**
 
 ---
 
-### No. 82: 漫画 / 故事板 - 搞怪凌乱涂鸦草图
+### No. 90: 产品营销 - Lightning Bolt 超级跑车
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一个充满趣味、刻意营造凌乱感的涂鸦提示词，可将照片转化为低技巧的马克笔或蜡笔画，并带有夸张的特征。
+一个极具戏剧性的汽车广告提示词，描绘了一辆从风暴中冲出的超级跑车，车身完全由蓝色闪电组成。
 
 #### 📝 提示词
 
 ```
-将这张照片转化为 {argument name="style" default="搞怪凌乱涂鸦插画"}，刻意营造出凌乱且低技巧的感觉，就像是用廉价马克笔、蜡笔或磨损的毡尖笔在纸上快速绘制的一样。创造出夸张的面部特征，包括尴尬的比例、大小眼、大头小身、歪斜的笑容以及笨拙的解剖结构，同时保持人物的可辨识度。使用 {argument name="line style" default="粗糙的童趣草图线条、颤抖的手绘笔触、可见的涂鸦"}，重叠的轮廓、意外的痕迹以及场景周围随意的涂鸦。添加一个简单的卡通风格背景，包含 {argument name="background details" default="画得拙劣的建筑物、树木、云朵、街道元素以及不均匀的透视"}。着色应看起来漫不经心且不完美，带有可见的笔触纹理、不均匀的填充区域、马克笔晕染以及不规则的阴影。
+{argument name="subject" default="超级跑车"} 从风暴云中冲出，车身完全由 {argument name="color" default="蓝色"} 闪电组成，湿润的反光路面，背景中雷声轰鸣，电影级动作广告，高速能量轨迹，超精细汽车渲染，豪华商业摄影，8K。
 ```
 
 #### 🖼️ 生成图片
@@ -3995,237 +4507,275 @@ Q 版风格，
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822676305_c3fpb5_HKHJRHWbcAA-We-.jpg" width="600" alt="漫画 / 故事板 - 搞怪凌乱涂鸦草图 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780911007575_of6662_HKON5VXaUAAIXzN.jpg" width="600" alt="产品营销 - Lightning Bolt 超级跑车 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911007568_06g5j6_HKON5VxaMAAQ-0Y.jpg" width="600" alt="产品营销 - Lightning Bolt 超级跑车 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Snow](https://x.com/iamrealsnow)
+- **来源:** [Twitter Post](https://x.com/iamrealsnow/status/2063649073819959502)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24597)**
+
+---
+
+### No. 91: 产品营销 - 印度民族服饰肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个关于身着传统黑色 Anarkali 套装并带有珠饰刺绣的女性肖像提示词，旨在配合参考图像以保持面部一致性。
+
+#### 📝 提示词
+
+```
+创作全身照，主体为 {argument name="subject" default="一位年轻美丽的女性，带着淡淡的微笑（参考图像），微微侧身，留着波浪长发，深色头发"}，身着 {argument name="clothing" default="浅黑色 Anarkali 套装，带有珠饰刺绣，V 领设计"}。她身上披着一条相配的透明披肩（dupatta）。她的 {argument name="hairstyle" default="发型为法式编发"}，佩戴着 jhumka 耳环。面料质感柔软细腻。她优雅地站立，双手放在白色梳妆台上，背景是带有照明镜子的模糊空间。请勿改变我 100% 的面部特征。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911015908_576fyc_HKN7C22agAE4Fl3.jpg" width="600" alt="产品营销 - 印度民族服饰肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Alina Ai](https://x.com/Alina_with_Ai)
+- **来源:** [Twitter Post](https://x.com/Alina_with_Ai/status/2063628397557997860)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24607)**
+
+---
+
+### No. 92: 产品营销 - 职业足球运动员更衣室海报
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一款极具戏剧性的体育海报提示词，描绘了更衣室里的守门员，融入了国家队配色和垃圾摇滚风格的纹理。
+
+#### 📝 提示词
+
+```
+职业体育海报，{argument name="athlete" default="足球守门员"} 坐在球队更衣室的长椅上，身穿 {argument name="kit color" default="浅蓝色"} 1 号守门员队服，佩戴白色守门员手套，神情专注而强烈。背景悬挂着印有名字和号码的红色队服，{argument name="background style" default="带有比利时国旗配色的黑、黄、红三色笔触喷溅效果"}。动态体育摄影，戏剧性光影，质感十足的垃圾摇滚风格叠加，现代海报设计，高细节，8k 分辨率，照片级真实感
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780910997682_xv03hx_HKN4skFW4AAFBbP.jpg" width="600" alt="产品营销 - 职业足球运动员更衣室海报 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780910997581_pab65t_HKN4skOXwAA0Szl.jpg" width="600" alt="产品营销 - 职业足球运动员更衣室海报 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780910997522_tzwbuz_HKN4sn0WwAAvM_G.jpg" width="600" alt="产品营销 - 职业足球运动员更衣室海报 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780910998697_59f98c_HKN4srKXcAAX43m.jpg" width="600" alt="产品营销 - 职业足球运动员更衣室海报 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Anissa](https://x.com/SimplyAnnisa)
+- **来源:** [Twitter Post](https://x.com/SimplyAnnisa/status/2063625767167082849)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24577)**
+
+---
+
+### No. 93: 产品营销 - 珠光质感日落雕塑
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+生成梦幻般的玻璃珠雕塑，呈现浪漫的日落景观，适用于奇幻艺术、装饰概念或产品风格的视觉灵感。
+
+#### 📝 提示词
+
+```
+创作一个梦幻般的珠光质感日落景观雕塑，仿佛整个场景是由数千颗光泽半透明的玻璃珠、气泡和微小的水晶球在黑色矩形展示底座上悬浮而成。艺术品展示了 {argument name="scene theme" default="浪漫的河畔日落景观"}：右侧是一轮由黄色、金色、白色和琥珀色珠子组成的同心圆构成的巨大发光太阳，周围环绕着放射状的珠光喷溅；一条蜿蜒的反射河流或小径从底部中心开始，向地平线弯曲；深色的芦苇和沼泽草剪影填满了下方的前景；两个微小的人影站在右侧地平线附近；恰好有 5 只黑色鸟类剪影飞过阳光明媚的天空。天空是珠光色彩的戏剧性漩涡：左上方是深海军蓝和钴蓝色，云层呈现紫罗兰色和紫色，带有洋红色和深红色的色带，地平线附近为橙色，太阳周围有珍珠白色的云纹。使用 {argument name="dominant material" default="虹彩玻璃珠和水晶气泡"}，具有强烈的镜面高光、透明折射和珍珠般的光泽。背景为纯黑色的摄影棚暗调，使悬浮的珠子闪闪发光；雕塑坐落在一个平坦的黑色底座上，带有微妙的反射和阴影。风格为手工珠宝般装置艺术的超细节微距产品摄影，高对比度，电影级灯光，珠子纹理清晰对焦，充满魔幻与梦幻感，无文字，无水印。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911054984_zj2duf_HKNzNbkbMAAQMnc.jpg" width="600" alt="产品营销 - 珠光质感日落雕塑 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [TWnese](https://x.com/TWnese)
+- **来源:** [Twitter Post](https://x.com/TWnese/status/2063621522091340031#reversed-0)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24660)**
+
+---
+
+### No. 94: 产品营销 - 暗黑新中式人像摄影
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+一份用于生成高端暗黑主题新中式人像的综合提示词，包含金箔竹影屏风背景与电影级布光。
+
+#### 📝 提示词
+
+```
+基于我上传的清晰人像参考图，生成一组“暗黑新中式高端摄影”，共 9 张，全部采用 3:4 竖构图。每张图必须独立生成；禁止使用网格、拼贴或海报排版。
+
+## 人物一致性
+严格保留参考人物的真实身份特征：脸型、面部比例、眼型、鼻子、嘴唇、下颌线、发际线、肤色、年龄、气质及整体辨识度。严禁换脸、将其变成陌生人，或使用大众网红脸、动漫脸、玩偶脸。参考图仅用于身份参考；请勿保留原图中的咖啡馆、休闲服装、纸杯或日常场景。
+
+## 整体风格
+暗黑新中式，黑金东方美学，金箔竹影屏风，深红色地毯，夜间电影质感，高端时尚杂志品质。视觉效果应呈现冷峻、克制、危险且高贵的东方悬疑氛围。背景应包含金箔质感屏风、竹叶投影、黑金边框，以及深棕色与暗红色的过渡。避免大面积平铺的纯黑或纯金；必须具备斑驳的纹理、光斑和层次感。
+
+## 发型、妆容与服饰
+发型：新中式高盘发或低盘发，配以碎发，装饰红发簪、深红色花卉饰品或精致发饰。
+妆容：高级感时尚妆容，上挑黑色眼线，根根分明的睫毛，微烟熏眼影，干净的底妆，鼻梁高光，深红棕色或酒红色唇妆。
+服饰：黑色蕾丝改良旗袍，立领，盘扣，收腰，高开叉，清晰的蕾丝花纹与提花质感。颈部、手臂和腿部线条可适当展现，但必须保持高端与克制，不可低俗。
+配饰：黑金折扇、细长黑金烟斗、金色几何耳环、金手镯、红发簪；饰品精简但精致。
+
+## 布光与质感
+高预算影棚级品质，结合暖金色硬光、侧光、逆光、轮廓光及局部补光。面部特征必须清晰，眼神必须明亮，黑色服饰不能是平铺的黑色——蕾丝、纹理、褶皱及边缘高光必须可见。保留真实的皮肤质感、身体结构、织物纹理与光影。避免绘画感、插画感、3D 建模感或过度磨皮的 AI 痕迹。人物比例必须自然，手部结构准确，肢体无畸形。
+
+[为简洁起见，省略了单张拍摄描述，重点在于九种不同姿势（涉及折扇、烟斗和竹屏风）的一致性与电影级质感。]
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911023879_nkcsxo_HKNTU5AXUAAZuFn.jpg" width="600" alt="产品营销 - 暗黑新中式人像摄影 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911023937_d71hru_HKNTXE-XoAA3xkN.jpg" width="600" alt="产品营销 - 暗黑新中式人像摄影 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911024459_5vrdfs_HKNTeuhXMAA5471.jpg" width="600" alt="产品营销 - 暗黑新中式人像摄影 - Image 3">
+</div>
+
+#### 📌 详情
+
+- **作者:** [麻酱AI实验室](https://x.com/zhongying14)
+- **来源:** [Twitter Post](https://x.com/zhongying14/status/2063599856741187982)
+- **发布时间:** 2026年6月7日
+- **多语言:** zh
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24622)**
+
+---
+
+### No. 95: 产品营销 - 街头潮流悬浮海报设计
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一款充满动感的街头时尚海报提示词，展示了悬浮在未来感城市天际线之上的主体，并配以醒目的排版设计。
+
+#### 📝 提示词
+
+```
+超高端街头时尚海报，展示了一位 {argument name="subject" default="戴面具的年轻人"} 悬浮在日落时分未来感城市天际线的高空。采用极具戏剧性的低角度拍摄，捕捉动态的自由落体姿态，营造出夸张的尺度感与运动感。主体身着 {argument name="outfit" default="带有微妙 'BRNX' 品牌标识的超大号褪色黑色连帽衫、宽松的做旧牛仔裤以及干净的白色运动鞋"}。
+
+巨大的手绘笔触字体拼写出 "{argument name="text" default="FALL"}"，以醒目的做旧白色大字占据背景，并与构图完美融合。悬浮的人物部分遮挡了字体，营造出深度感和杂志封面美学。
+
+背景展示了密集的摩天大楼和闪烁的窗户，呈现出电影级的景深模糊效果。温暖的金色阳光从右上角穿透云层，营造出戏剧性的体积光束、大气雾霾、漂浮的尘埃颗粒、镜头光晕以及逼真的阴影投射。
+
+设计风格融合了奢侈街头服饰广告、城市文化杂志封面、高级平面设计以及 Behance 精选海报艺术。包含撕纸拼贴元素、编辑排版设计、细腻的脏旧纹理、手写励志笔记、条形码图形、几何 UI 符号以及现代品牌细节。排版内容包括：
+
+"NINE TIMES AND RISE AGAIN" "DISCIPLINE BUILDS FREEDOM" "FALL DOWN. GET UP. REPEAT." "BRNX"
+
+主体呈现出自然的空中悬浮状态，物理效果逼真，衣物褶皱随重力和运动自然反应。一只运动鞋靠近镜头，形成极端的透视畸变，营造出强烈的电影级视觉冲击力。
+
+超逼真的皮肤纹理、细腻的织物材质、高级牛仔布纹理、逼真的缝线、清晰的服装细节、专业调色、高对比度光影、细腻的胶片颗粒、电影级光泽、都市奢华美学、现代街头文化氛围、时尚大片质感、获奖海报设计、超高细节、照片级真实感、8K 分辨率、HDR、主体焦点锐利。
+
+负面提示词：低质量、主体模糊、多余肢体、多余手指、畸形手部、解剖结构错误、身体部位重复、面部扭曲、水印、Logo 错误、文字伪影、排版渲染不佳、色彩过度饱和、卡通、动漫、插画、CGI 感、塑料质感皮肤、低分辨率、压缩伪影、光线平淡、透视错误、阴影不真实、脚部被裁切、头部被裁切、构图杂乱、噪点过多、失焦、细节缺失、对比度弱、业余设计。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911006601_v6k11j_HKNRKW-bsAAsuvY.jpg" width="600" alt="产品营销 - 街头潮流悬浮海报设计 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911006608_7sr4ry_HKNRKeUaIAAdA04.jpg" width="600" alt="产品营销 - 街头潮流悬浮海报设计 - Image 2">
 </div>
 
 #### 📌 详情
 
 - **作者:** [Harboris](https://x.com/harboriis)
-- **来源:** [Twitter Post](https://x.com/harboriis/status/2063151404290814136)
-- **发布时间:** 2026年6月6日
+- **来源:** [Twitter Post](https://x.com/harboriis/status/2063582298721951890)
+- **发布时间:** 2026年6月7日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24453)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24595)**
 
 ---
 
-### No. 83: 漫画 / 故事板 - 动漫配角一致性角色设计器
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一套全面的系统提示词，用于生成与参考主角风格及校园背景相符的动漫配角。
-
-#### 📝 提示词
-
-```
-请使用上传的角色作为基础参考角色。
-
-设计与基础角色就读于同一所学校的新同学、学长或学弟学妹。
-
-────────────────
-
-[创建目标]
-
-{argument name="target characters" default="挚友（女性，同级），竞争对手（女性，同级）"}
-
-创建指定数量的角色。
-
-将所有人展示在同一画面中。
-
-[重要事项]
-
-艺术风格和色调必须与参考图像保持一致。
-
-所有角色必须是同一所学校的学生。
-
-他们不能是亲属关系。
-
-禁止血缘关系。
-
-禁止克隆。
-
-不要让他们看起来像兄弟姐妹。
-
-确保每个人都被塑造为独立的个体。
-
-[继承元素]
-
-仅继承学校背景和世界观。
-
-- 学校
-- 校服
-- 时代背景
-- 科技水平
-- 作品类型
-- 世界观
-- 设计密度
-- 作品氛围
-
-每个人的面部特征必须各不相同。
-
-[性别]
-
-如果创建目标中指定了性别，则必须遵循。
-
-性别规范具有最高优先级。
-
-[年级]
-
-如果提供了年级规范，请遵循该规范。
-
-年龄差异应体现在外观上。
-
-[设计]
-
-与基础角色进行明确区分。
-
-改变以下要素：
-- 发型
-- 发色
-- 眼型
-- 瞳色
-- 身高
-- 体格
-- 表情
-- 气质
-- 轮廓
-- 配饰
-- 校服穿着方式
-
-必须作为独立的个体呈现。
-
-[发型]
-
-每个人的发型必须不同。
-
-禁止重复发型。
-
-确保仅凭轮廓就能辨认出个体。
-
-[角色性格]
-
-设计时应根据角色定位明确其性格。
-
-角色定位应在看到他们的瞬间就能传达出来。
-
-[校服]
-
-参考基础角色的校服。
-
-所有角色必须穿着学校规定的统一校服。
-
-校服的基础设计必须统一。
-
-不要更改校服的类型。
-
-不要更改校服本身的设计。
-
-唯一可以修改的元素包括：
-- 丝带
-- 领带
-- 书包
-- 鞋子
-- 袜子
-- 手表
-- 配饰
-- 发饰
-- 开衫
-- 背心
-- 袖口卷起方式
-- 校服的搭配风格
-
-在统一校服的基础上展现个性。
-
-对于异性角色，请根据参考资料设计出该性别自然的校服版本。
-
-[轮廓]
-
-明确区分每个人。
-
-确保一眼就能辨认出谁是谁。
-
-[构图]
-
-3:4 竖向比例。
-
-动漫主视觉图。
-
-游戏活动 CG。
-
-将所有人展示在同一画面中。
-
-展示所有人的全身。
-
-展示所有人的面部。
-
-角色之间不要重叠。
-
-排列方式应清晰明了，便于辨认。
-
-营造自然且具有吸引力的群体构图。
-
-[关系]
-
-确保自然的距离感。
-
-禁止恋人般的姿势。
-
-[背景]
-
-{argument name="background" default="教室。放学后。夕阳透过窗户照射进来。课桌和椅子。黑板。"}
-
-营造出校园生活的空间感。
-
-呈现出如同动漫场景般的氛围。
-
-角色必须是视觉焦点。
-
-背景应作为辅助元素。
-
-高质量线条。
-
-自然的表情。
-
-自然的姿势。
-
-唯美的光影。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822688747_bdqc3e_HKG4gG5bgAAo5GI.jpg" width="600" alt="漫画 / 故事板 - 动漫配角一致性角色设计器 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc)
-- **来源:** [Twitter Post](https://x.com/z933TfmXkaISSVc/status/2063132974703386647)
-- **发布时间:** 2026年6月6日
-- **多语言:** ja
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24468)**
-
----
-
-### No. 84: 漫画 / 故事板 - 照片转漫画艺术
+### No. 96: 产品营销 - 都市街头风漫画封面
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-将参考照片转换为黑白漫画线稿，同时保留原始姿势和构图。
+一个将都市街头时尚与复古动漫杂志美学相结合的创意提示词。
 
 #### 📝 提示词
 
 ```
-将上传的参考照片转换为整洁的 {argument name="style" default="黑白漫画风格"} 线稿插图，同时保留原始图像中的确切姿势、构图、服装、配饰、面部表情和透视。创作一幅全身角色绘图，要求具备优雅的墨水轮廓、流畅的线条、细腻的灰度阴影、极简主义单色美学、时尚素描风格、准确的解剖结构、高度细致的衣褶、逼真的比例、专业的角色设计表、干净的白色背景、柔和的地面阴影、现代编辑插图、日式漫画风格艺术作品、清晰的矢量感线条、高细节、高对比度、超整洁的呈现效果。在角落处包含一个小巧的圆角彩色参考图，展示用于转换的原始照片。高级概念艺术风格，8K 分辨率，杰作级品质。
+{argument name="subject" default="一位时尚的年轻男子"} 自信地站在一张巨大的复古动漫杂志封面背景前，灵感源自 {argument name="manga inspiration" default="《海贼王》"}，全身肖像，超大号动漫印花 T 恤，深色工装慢跑裤，高帮运动鞋，双手插兜，都市街头时尚，温暖的电影感光效，布满漫画草图、悬赏令及海盗主题艺术品的颓废风纹理墙面，杂志封面设计，{argument name="color palette" default="棕色与深褐色调"}，细腻的织物纹理，戏剧性的阴影，时尚杂志摄影，超写实，焦点清晰，景深效果，高端街头服饰广告，收藏级海报美学，4K 分辨率，高度细节。
 ```
 
 #### 🖼️ 生成图片
@@ -4233,45 +4783,42 @@ Q 版风格，
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822656452_4dzbhe_HKG2AtxbQAABAX3.jpg" width="600" alt="漫画 / 故事板 - 照片转漫画艺术 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822656436_uutakh_HKG2AwUa8AA7aw2.jpg" width="600" alt="漫画 / 故事板 - 照片转漫画艺术 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822656437_34wegb_HKG2A6ZbsAAhkw1.jpg" width="600" alt="漫画 / 故事板 - 照片转漫画艺术 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1780911041415_c5ezm2_HKNGDIHbIAACFlw.jpg" width="600" alt="产品营销 - 都市街头风漫画封面 - Image 1">
 </div>
 
 #### 📌 详情
 
-- **作者:** [Taaruk](https://x.com/Taaruk_)
-- **来源:** [Twitter Post](https://x.com/Taaruk_/status/2063130236250988750)
-- **发布时间:** 2026年6月6日
+- **作者:** [ORHAN](https://x.com/OrhanGhazi65942)
+- **来源:** [Twitter Post](https://x.com/OrhanGhazi65942/status/2063570081498673202)
+- **发布时间:** 2026年6月7日
 - **多语言:** en
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24416)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24643)**
 
 ---
 
-### No. 85: 产品营销 - 抽象超现实视觉隐喻
+### No. 97: 产品营销 - 通用创意广告模板
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一个用于生成具有强烈情感隐喻、强调尺度对比与艺术叙事性的超现实抽象视觉的高概念提示词。
+一款多功能的元提示词模板，旨在推动 GPT Image 2 实现抽象概念化与高端商业广告美学。
 
 #### 📝 提示词
 
 ```
-以 {argument name="subject" default="dog"} 为核心，创作一个前所未有的视觉概念。主体需打破现实世界的尺度与物理规则。运用足以获得国际广告奖项的创意思维，强调视觉隐喻、尺度对比、空间错觉与叙事表达。构图简洁且令人过目难忘，平衡艺术性、商业吸引力与视觉冲击力。打造具有超高创意与审美标准、令人难忘的作品。
+以 {argument name="subject" default="watch"} 为核心。
+创造前所未见的视觉概念。
+主体打破现实世界的尺度与物理规则。
+采用足以获得国际广告大奖的创意思维。
+强调视觉隐喻、尺度对比、空间错觉与故事表达。
+构图简洁但令人印象深刻。
+融合艺术性、商业传播力与视觉冲击力。
+令人过目难忘。
+
+极致创意，极致美学。
 ```
 
 #### 🖼️ 生成图片
@@ -4279,21 +4826,168 @@ Q 版风格，
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822680991_88psdn_HKMmwJ_aIAA6NgP.jpg" width="600" alt="产品营销 - 抽象超现实视觉隐喻 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780911024101_tqvoli_HKNFQdMbUAAHYOS.jpg" width="600" alt="产品营销 - 通用创意广告模板 - Image 1">
 </div>
 
 #### 📌 详情
 
 - **作者:** [Adam也叫吉米](https://x.com/Adam38363368936)
-- **来源:** [Twitter Post](https://x.com/Adam38363368936/status/2063536178645917866)
+- **来源:** [Twitter Post](https://x.com/Adam38363368936/status/2063569402122121308)
 - **发布时间:** 2026年6月7日
 - **多语言:** zh
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24460)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24620)**
 
 ---
 
-### No. 86: 产品营销 - 奢华博物馆亚克力展示柜视觉效果
+### No. 98: 产品营销 - 极简主义未来感概念艺术
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个用于创作具有高视觉冲击力和强烈对比度的未来感主题极简风格图像的提示词。
+
+#### 📝 提示词
+
+```
+此提示词可生成高度风格化、极简主义的 {argument name="subject" default="未来感主题"} 表现形式，侧重于强烈的对比和流线型设计。整体风格强调简洁性与震撼的视觉冲击力
+{argument name="color palette" default="可自定义调色板"}。
+高冲击力视觉效果。
+概念艺术
+书籍与电影封面
+品牌宣传物料
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780910996782_ogcvql_HKM72JYaUAAa0v8.jpg" width="600" alt="产品营销 - 极简主义未来感概念艺术 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Kami AI](https://x.com/Aiwithkami)
+- **来源:** [Twitter Post](https://x.com/Aiwithkami/status/2063558873697714376)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24575)**
+
+---
+
+### No. 99: 产品营销 - 单色系时尚大片：体育场风格
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个引人注目的时尚大片提示词，展示了一位身着全白单色系服装的女性，背景为高对比度的橙色体育场。
+
+#### 📝 提示词
+
+```
+一位时尚的年轻女性自信地坐在 {argument name="seat color" default="橙色"} 的体育场座椅上，身着 {argument name="outfit" default="全白单色系服装"} —— 超大款粗棒针米色毛衣、白色阔腿裤和白色皮质运动鞋。她留着深色利落发型，佩戴细长方形太阳镜，双手交叠放在膝盖上。背景和地面铺满了醒目的 {argument name="seat color" default="橙色"} 塑料体育场座椅。画面呈现干净的时尚摄影风格，白色与橙色之间形成强烈的色彩对比。柔和的影棚级光效，全身照，正面姿势。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911011431_rdv8wr_HKLyUEpaoAA8wpc.jpg" width="600" alt="产品营销 - 单色系时尚大片：体育场风格 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Fatima Batool✨](https://x.com/Fati_092)
+- **来源:** [Twitter Post](https://x.com/Fati_092/status/2063546756835745819)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24602)**
+
+---
+
+### No. 100: 电商主图 - 奢华 3D 艺术人偶博物馆展示
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个用于创作高端 3D 收藏级人偶的精细提示词，将其展示在奢华博物馆环境中的亚克力陈列盒内。
+
+#### 📝 提示词
+
+```
+基于参考图中的全身人物，创作一张高质量的正方形 3D 产品视觉图。保持参考人物的面部特征、氛围、体型、站姿和整体轮廓，将其重构为适合成年人的高端 4D 艺术人偶，同时确保人物特征清晰可辨。使用 {argument name="figure body type" default="24 岁成人模特体型，6.5 至 7 头身"}，表情优雅且神秘。头发应为黑色并带有粉色挑染，遵循参考图中的发流走向。为头发和服装注入深度、动感以及凝固时间的质感。材质应采用哑光树脂、半哑光软胶、透明树脂和陶瓷质感等奢华收藏品材质。将原服装替换为 {argument name="costume style" default="深红至酒红色奢华高级定制礼服"}。特征包括结构感肩部、雕塑感褶皱、不对称轮廓、立体裙摆，以及缎面、天鹅绒、欧根纱和皮革质感等材质。优雅奢华，且不过度暴露。将人偶居中放置在一个透明的高长方形亚克力胶囊展示盒内，而非球形。使用带有自然反射、边缘高光、圆角和微细香槟金边框的厚透明亚克力。将其放置在黑色大理石展示底座上，脚边可选配抽象雕塑物件。背景为 {argument name="background setting" default="拥有高挑天花板、浅色大理石墙面、抛光石材地面、静谧展览灯光及模糊抽象艺术品的奢华博物馆"}。利用聚光灯和漫射光，在红色礼服、黑粉色头发和透明展示盒上营造出精美的反射与高光。奢华而宁静。这是一件融合了时尚、雕塑、产品设计与当代艺术的独一无二的展览品。避免：儿童向、马卡龙色系、圆形胶囊、Q 版体型、动漫眼、廉价玩具、文字、Logo、品牌名称、价格或标签。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911032708_3fb8xo_HKMbuZ2aQAEvpnd.jpg" width="600" alt="电商主图 - 奢华 3D 艺术人偶博物馆展示 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [AIライフハック](https://x.com/ai_lifehack55)
+- **来源:** [Twitter Post](https://x.com/ai_lifehack55/status/2063523994998059417)
+- **发布时间:** 2026年6月7日
+- **多语言:** ja
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24631)**
+
+---
+
+### No. 101: 电商主图 - 田园风（Cottagecore）时尚平铺摄影
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+生成一张背景干净、以白色为底的田园风碎花套装平铺图，包含短款上衣和长裙。
+
+#### 📝 提示词
+
+```
+一套 {argument name="aesthetic" default="田园风（cottagecore aesthetic）"} 两件套服装，包含一件 {argument name="top style" default="带有绿色碎花图案的白色长袖短款上衣"}，采用褶皱胸部设计和喇叭袖，搭配一条 {argument name="bottom style" default="高腰橄榄绿长裙"}，裙腰为弹性收褶设计并配有抽绳。干净的白色背景，平铺风格时尚摄影。波西米亚田园风两件套：白色碎花褶皱短款上衣，配有喇叭长袖，以及配套的高腰橄榄绿收褶长裙，带有抽绳。一套田园风服装，包含一件带有精致绿色碎花图案和褶皱细节的白色长袖短款上衣，搭配一条飘逸的橄榄绿高腰长裙，裙腰采用收褶设计。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911002581_flvjcz_HKLauTTbwAAxNgG.jpg" width="600" alt="电商主图 - 田园风（Cottagecore）时尚平铺摄影 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780911002582_k649ei_HKLauOIa8AErbVO.jpg" width="600" alt="电商主图 - 田园风（Cottagecore）时尚平铺摄影 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Avelyrah](https://x.com/AvelyrahnAI)
+- **来源:** [Twitter Post](https://x.com/AvelyrahnAI/status/2063452072456966207)
+- **发布时间:** 2026年6月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24588)**
+
+---
+
+### No. 102: 电商主图 - 奢华博物馆亚克力展示柜视觉效果
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4313,7 +5007,7 @@ Q 版风格，
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822700488_e3b0vs_HKKxXl5a8AAza6v.jpg" width="600" alt="产品营销 - 奢华博物馆亚克力展示柜视觉效果 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780822700488_e3b0vs_HKKxXl5a8AAza6v.jpg" width="600" alt="电商主图 - 奢华博物馆亚克力展示柜视觉效果 - Image 1">
 </div>
 
 #### 📌 详情
@@ -4327,7 +5021,7 @@ Q 版风格，
 
 ---
 
-### No. 87: 产品营销 - 置于闪烁玻璃杯中的淡彩动漫手办
+### No. 103: 电商主图 - 置于闪烁玻璃杯中的淡彩动漫手办
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4361,7 +5055,7 @@ Q 版风格，
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822711593_bfqkdn_HKKt-jrboAAdtTn.jpg" width="600" alt="产品营销 - 置于闪烁玻璃杯中的淡彩动漫手办 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1780822711593_bfqkdn_HKKt-jrboAAdtTn.jpg" width="600" alt="电商主图 - 置于闪烁玻璃杯中的淡彩动漫手办 - Image 1">
 </div>
 
 #### 📌 详情
@@ -4375,455 +5069,7 @@ Q 版风格，
 
 ---
 
-### No. 88: 产品营销 - 新艺术风格奇幻香水海报
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一份详细的提示词，用于生成一张宝石色调的新艺术风格香水广告，包含奇幻动漫角色、华丽的包装边框以及前景中突出的香水瓶。
-
-#### 📝 提示词
-
-```
-目标：创作一张竖版新艺术风格奢华香水广告海报，以 {argument name="character name" default="VoxCat"} 为优雅的奇幻动漫女主角，并将香水瓶作为前景视觉焦点。
-
-画布：高竖版海报，2:3 纵横比，高度精细的高级包装插画，全出血构图，带有细黑色外边框和华丽的金属金内框。
-
-布局：角色居中，从上半身到臀部，身体略微向右倾斜，手臂向观众伸出。香水瓶必须占据左下角前景并营造强烈的景深感，使其看起来比身后的躯干大得多。在角色面部区域放置一个大的纯米色正方形，仿佛面部被刻意遮挡。左上角放置一个华丽的字母组合徽章，右下角放置一个空白的装饰性产品标签牌。
-
-主体细节：一位动漫风格的奇幻女性角色，留着飘逸的 {argument name="hair color" default="浅金色"} 长发，发丝随风飘动，皮肤柔和透亮，身穿白金相间的定制盔甲礼服，配有宝石装饰和层叠的半透明织物。她可见的手将香水瓶靠近镜头，手指和光泽指甲刻画精细。添加 6 朵大白百合：3 朵插在头部上方的头发中，1 朵在左下角，2 朵装饰在右下角的标签牌上。添加紫色花朵和深绿色叶子作为边框周围的辅助植物装饰。
-
-香水瓶：前景中有一个圆形的刻面玻璃香水瓶，瓶内装有 {argument name="perfume color" default="虹彩薰衣草金液体"}。瓶盖为大型水晶球，配有金色雕刻瓶盖，瓶身饰有华丽的金色花丝。中央奖章展示了一个小的金色猫咪剪影，周围环绕着月桂枝，底部镶嵌一颗蓝色小宝石。运用玻璃折射、蚀刻细节、明亮的闪光以及商业产品摄影的高光效果。
-
-装饰包装风格：深祖母绿、午夜紫和古金色调；宝石色调背景，角色身后有圆形光环几何图形；漩涡藤蔓线条、金色花丝、细弧线、星星、宝石和植物图案。整体感觉应融合收藏级限量版香水盒与新艺术海报风格。
-
-文字与标记：左上角的徽章包含一个大的金色字母 {argument name="monogram letter" default="V"}，置于心形藤蔓框架内，并悬挂着一颗紫色宝石。右下角的标签牌为深紫色天鹅绒材质，带有华丽的金色饰边，大部分空间留白以便添加文案；在底部附近添加细空白金线，并在右下角添加一个小的手写品牌签名 {argument name="brand signature" default="voxCat"}。
-
-约束条件：仅使用 1 个角色、1 个香水瓶、1 个左上角字母徽章、1 个右下角空白标签牌和 6 朵大白百合。保持面部被纯米色正方形遮挡。除字母组合和品牌签名外，不得有其他可读文字。使图像精致、复杂、明亮且高端，如同奇幻角色艺术与奢华香水包装的融合。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822707710_tb00fi_HKJbq-7bkAA3ezu.jpg" width="600" alt="产品营销 - 新艺术风格奇幻香水海报 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822707648_rojwgc_HKJbq-1aMAAOjWV.jpg" width="600" alt="产品营销 - 新艺术风格奇幻香水海报 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [VoxCat](https://x.com/VoxcatAI)
-- **来源:** [Twitter Post](https://x.com/VoxcatAI/status/2063313095184040230#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24497)**
-
----
-
-### No. 89: 产品营销 - 半 3D 编辑风格插画
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一款时尚的矢量卡通与半 3D 插画提示词，旨在以现代时尚编辑风格重塑参考照片中的人物。
-
-#### 📝 提示词
-
-```
-创作一张高质量、高分辨率的 {argument name="style" default="矢量卡通 / 半 3D 插画"}，呈现参考图片中的人物。以时尚的现代编辑风格对其进行重塑，让他们自信地坐在精致的设计师座椅上。服装：{argument name="clothing" default="潮流 T 恤、时尚裙装/裤装、时髦运动鞋，并以醒目的太阳镜作为核心配饰"}。在保持人物辨识度的同时，夸张化关键面部特征。采用简洁的纯色背景（单一鲜艳色彩）、流畅的线条、锐利的细节、柔和的摄影棚灯光、奢华广告美学，以及为品牌推广和标题预留充足留白的居中构图。超精细、可印刷、广告牌级画质，现代眼镜广告风格。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822673879_wic1k8_HKJQU7raMAATEAS.jpg" width="600" alt="产品营销 - 半 3D 编辑风格插画 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822673859_0d8xgs_HKJQU4IaMAA-G1b.jpg" width="600" alt="产品营销 - 半 3D 编辑风格插画 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Synthia](https://x.com/AIwithSynthia)
-- **来源:** [Twitter Post](https://x.com/AIwithSynthia/status/2063299903582003607)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24450)**
-
----
-
-### No. 90: 产品营销 - 黑色时尚拼贴海报
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一张风格独特的黑色主题时尚编辑拼贴画，包含重复的人物模特、撕纸元素和醒目的排版设计。
-
-#### 📝 提示词
-
-```
-创作一张大胆的女性时尚编辑拼贴海报，画面中一位女性模特以多个黑白肖像的形式重复出现，配以撕裂的纸条、装订的杂志碎片、彩色点缀块、超大号压缩字体，呈现奢华的黑色风格，{argument name="outfit style" default="[OUTFIT STYLE]"}，{argument name="collage shapes" default="[COLLAGE SHAPE SYSTEM]"}，高对比度编辑排版，比例 4:3。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822695299_y2ueob_HKJJ1qpa0AAEbDp.jpg" width="600" alt="产品营销 - 黑色时尚拼贴海报 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822696049_82pmbl_HKJJ1oab0AA0cxq.jpg" width="600" alt="产品营销 - 黑色时尚拼贴海报 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822695309_di3ngj_HKJJ1oUa0AAa-xR.jpg" width="600" alt="产品营销 - 黑色时尚拼贴海报 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822696146_35egxe_HKJJ1oWa8AEaWNl.jpg" width="600" alt="产品营销 - 黑色时尚拼贴海报 - Image 4">
-</div>
-
-#### 📌 详情
-
-- **作者:** [GPT Imagine](https://x.com/gpt_image_2)
-- **来源:** [Twitter Post](https://x.com/gpt_image_2/status/2063292802939908444)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24481)**
-
----
-
-### No. 91: 产品营销 - 虚构好莱坞明星杂志拼贴画
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-为虚构的冉冉升起的新星生成电影级娱乐杂志拼贴画，适用于名人品牌推广、电影公关概念或编辑排版样稿。
-
-#### 📝 提示词
-
-```
-目标：创作一张电影级名人杂志拼贴画，介绍一位名为 {argument name="character name" default="Jaxon Croft"} 的虚构男性电影新星，呈现高端好莱坞新闻通稿的质感。主角应出现在每一个以人物为中心的版块中，形象为 30 多岁、深色头发的时尚男性，并刻意将面部匿名化：用柔和的矩形模糊或肤色遮挡块覆盖面部，同时保持发型、服装、姿势和光影的真实感。
-
-画布：宽幅 16:9 水平编辑拼贴画，深色奢华色调，高对比度电影级光影，版块间采用纤细的奶油色分割线，衬线体全大写标题，光面娱乐杂志设计。使用暖色聚光灯、红毯围栏、城市天际线、电影海报、珠宝特写和高端时尚细节。
-
-布局：使用 10 个独立的视觉版块排列成杂志跨页：
-1. 左侧大型主视觉版块，占据约 40% 的宽度：明星全身肖像，站在优雅的酒店套房或办公室中，身穿量身定制的 {argument name="signature suit color" default="深青色三件套西装"}，黑色开领衬衫，叠戴项链，口袋巾，佩戴奢华腕表。顶部文字：“THE RISING STAR:”，下方超大号文字：“JAXON CROFT”。较小的副标题：“全国公认的迷人魅力，毫不费力的风格，充满魅力的凝视。” 左下角文字：“好莱坞新晋男主角。”
-2. 顶部中心版块：洛杉矶红毯首映礼，明星身穿奶油色晚宴夹克和黑色衬衫，闪光灯闪烁，天鹅绒围栏，海报上写着“NEON DREAMS”和“METRO EXPRESS”。标题：“RED CARPET PREMIERE IN L.A.”
-3. 右上角宽幅版块：在温哥华片场拍摄，明星身穿皮夹克，在明亮的摄影棚灯光和摄影器材旁与导演交谈。标题：“ON-SET FILMING IN VANCOUVER.” 底部说明：“METHOD MEETS STYLE.”
-4. 底部中心版块：纽约顶层公寓会议，明星身穿青色西装，站在红毯围栏之间，身后是电影海报。标题：“PENTHOUSE MEETINGS IN NEW YORK”。
-5. 右下角宽幅版块：伦敦露台夜间首映派对，背景是高耸的照明塔天际线，明星身穿西装外套手持饮品。标题：“PREMIERE AFTER-PARTY IN LONDON”。底部说明：“GLOBAL PREMIERE TOUR”。
-6. 右侧边栏顶部小型肖像版块：明星发型、肩膀和模糊面部的特写剪裁。说明：“HOLLYWOOD VIBES”。
-7. 右侧边栏第二个小型细节版块：开领衬衫上叠戴项链的特写。说明：“CURATED DETAILS”。
-8. 右侧边栏第三个小型细节版块：昂贵镂空表盘腕表的微距拍摄。说明：“CURATED DETAILS”。
-9. 右侧边栏第四个小型 Logo 版块：深色背景，带有金色字母组合“JC”。
-10. 右侧边栏底部杂志封面版块：微型光面杂志封面，刊头类似于“GQ MAN”，主角身穿青色和洋红色服装，封面文字包括“JAXON CROFT”和“THE NEW ERA”。
-
-视觉风格：超写实的编辑摄影融合在精致的拼贴画中，戏剧性的名人公关活动氛围，高端男装，电影级景深，狗仔队闪光灯，忧郁的阴影，金色和奶油色排版，红毯装饰，高端腕表和珠宝特写。整体外观应像高端娱乐杂志专题，而非社交媒体网格。
-
-文字限制：在可见处使用上述精确的英文大标题。保持排版优雅，多为衬线体大写，奶油色或白色文字。避免除少量不可读的杂志封面填充文字外的额外随机文字。确保面部在每次出现时都保持一致的匿名化。无水印，无应用 UI，无社交媒体边框。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822728734_txfnwo_HKJJdlyaAAAeC69.jpg" width="600" alt="产品营销 - 虚构好莱坞明星杂志拼贴画 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Cherry 2.O](https://x.com/Mind_Boticni)
-- **来源:** [Twitter Post](https://x.com/Mind_Boticni/status/2063292382624522290#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24537)**
-
----
-
-### No. 92: 产品营销 - 动漫双马尾漆皮风衣时尚
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-全身动漫时尚角色设计，拥有长长的蓝白色双马尾、亮面黑色风衣，面部经过刻意遮挡。
-
-#### 📝 提示词
-
-```
-创作一张纯白背景下的全身动漫角色时尚插画：一位高挑纤细的年轻女性，以自信的走秀姿势站立，一只手插在风衣口袋里，另一只手自然垂在胯部附近，双腿微微分开。她的面部被一个居中的方形遮挡块刻意遮盖，遮挡块填充着柔和的灰色至淡紫色渐变。她拥有极长且蓬松的双马尾，高高扎在两侧，并系着黑色丝带蝴蝶结；头发为 {argument name="hair color" default="银白色，带有淡紫色阴影和鲜艳的青蓝色挑染"}，呈现出许多飘逸的发丝和卷曲，垂落至膝盖以下。为她穿上一件亮面黑色漆皮哥特风衣，质感光泽强烈，配有宽大的翻领、双排扣、带方形扣的腰带、袖带，以及长款外扩下摆，露出内衬的柔和淡紫色。风衣内搭配一件挺括的白衬衫和窄版黑领带，穿着修身黑裤和亮面黑色高跟短靴。在头发旁点缀小巧的蓝色宝石耳环。以精致的日系动漫风格渲染，具有优雅的时尚设计比例、锐利的线条、皮革上的明亮高光、细腻的半透明发丝，以及冷蓝紫色的侧光效果；画面中无任何文字、标志、道具或背景装饰。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822717994_ur5077_HKIntyLbkAAqhDq.jpg" width="600" alt="产品营销 - 动漫双马尾漆皮风衣时尚 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [ふぁりー💚💛](https://x.com/506Farley)
-- **来源:** [Twitter Post](https://x.com/506Farley/status/2063255253953466777#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24516)**
-
----
-
-### No. 93: 产品营销 - 狮子主题电影感时尚肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-这是一个精致的时尚大片提示词，将男性的侧脸肖像与雾气缭绕的户外场景中威严的狮子形象巧妙融合。
-
-#### 📝 提示词
-
-```
-一张电影质感的时尚肖像，主角为 {argument name="subject" default="时尚男士"}，以上传的人脸作为参考，捕捉其向下看的锐利侧脸。他身穿 {argument name="outfit" default="深灰色窗格纹西装外套，内搭厚实灰色罗纹针织高领毛衣"}，佩戴圆形银框太阳镜，并装饰有一个小型银色翻领别针。在他身后无缝融合了 {argument name="animal" default="威严雄狮"} 充满力量感的头部细节，其富有质感的鬃毛和胡须清晰可见。背景为去饱和的雾气户外环境，呈现出柔和细腻的虚化效果。该作品采用高端时尚大片摄影风格，使用 85mm f/1.4 镜头拍摄，具有浅景深效果。光线为柔和、漫射的阴天日光，在主角精心打理的深色头发和狮子的皮毛上勾勒出微妙的高光。配色方案高度风格化且色调柔和，以冷灰色、深黑色和大地棕色为主，并带有干净、高对比度的电影级调色。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822677858_c10qve_HKIlQ8WX0AAP04A.jpg" width="600" alt="产品营销 - 狮子主题电影感时尚肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **来源:** [Twitter Post](https://x.com/JamilAI55/status/2063252565723115634)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24455)**
-
----
-
-### No. 94: 产品营销 - 编辑类杂志封面人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个用于创作奢华时尚杂志封面的高级提示词，展现极简主义背景下富有远见的人物形象。
-
-#### 📝 提示词
-
-```
-超奢华编辑类杂志封面，精致的 {argument name="subject" default="年轻的远见者"} 坐在 {argument name="chair style" default="雕塑感黑色皮质休闲椅"} 上，姿态放松而又不失威严，目光柔和且自信，富有质感的卷发，穿着剪裁考究的 {argument name="outfit" default="廓形黑色西装"}，极简时尚美学，现代创意总监气质。温暖的米色单色背景，构图中融入宏大的排版设计，精致的留白，形式与建筑的优雅平衡，高端设计杂志风格。电影级摄影棚灯光，柔和的定向阳光投下细腻阴影，丰富的皮肤纹理，照片级真实细节，奢华品牌美学，高端时尚广告大片质感，柔和的大地色调，斯堪的纳维亚极简主义与当代艺术指导的碰撞，Vogue 级构图，超简洁的排版布局，空间感，真实感，微妙的对比度，85mm 镜头，浅景深，编辑类杰作，屡获殊荣的创意指导，8K 超精细画质，永恒的精致感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822659378_uao2ks_HKIfAQhaYAABgof.jpg" width="600" alt="产品营销 - 编辑类杂志封面人像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [WeWant Mars](https://x.com/Madhuribhai)
-- **来源:** [Twitter Post](https://x.com/Madhuribhai/status/2063245693993804161)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24423)**
-
----
-
-### No. 95: 产品营销 - 设计师艺术玩具收藏品
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个用于创作风格化乙烯基艺术玩具的提示词，旨在模拟所提供参考图的美学风格，并特别聚焦于街头时尚。
-
-#### 📝 提示词
-
-```
-生成一个旨在展示潮流“每日穿搭”（OOTD）的设计师艺术玩具 / 收藏级人偶。角色的设计和整体艺术风格应严格模拟所提供参考图的美学效果。该人偶应为一个 {argument name="subject" default="时尚的街头风格角色"}，并呈现为高质量的收藏级乙烯基人偶
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822666345_i6by0b_HKIMhTkaYAAvqKx.jpg" width="600" alt="产品营销 - 设计师艺术玩具收藏品 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [K](https://x.com/ChillaiKalan__)
-- **来源:** [Twitter Post](https://x.com/ChillaiKalan__/status/2063225392140579051)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24439)**
-
----
-
-### No. 96: 产品营销 - 彩绘玻璃玫瑰雨衣
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一幅电影质感的动漫时尚插画，描绘了一位身穿透明玫瑰花纹雨衣的神秘女子，伫立在雨中破败的哥特式大教堂内。
-
-#### 📝 提示词
-
-```
-创作一幅竖版动漫风格的时尚插画，描绘 {argument name="character name" default="一位神秘的年轻女子"} 自信地站在破败哥特式大教堂的过道中，背景是一场阳光明媚的暴雨。她留着 {argument name="hair color" default="深紫色"} 的中长发，部分被透明兜帽遮住，面部柔和地隐没在阴影中，呈现出匿名模特的视觉感。服装：一件亮面黑色短款拉链夹克，内搭黑色高领衫，下身穿着黑色短裤，系着细腰带，双手插在夹克口袋里，脚蹬深紫色漆皮高筒细跟长靴。在服装外，她穿着一件极具戏剧性的透明连帽雨衣，雨衣由透明乙烯基制成，长至脚踝且呈斗篷状向外散开，装饰着 14 朵清晰可见的紫色玫瑰图案，图案由纤细的灰色藤蔓和叶片连接：上袖处 2 朵，左前襟 3 朵，右前襟 3 朵，下摆附近 4 朵，侧面褶皱处部分可见 2 朵。雨衣应呈现出彩绘玻璃的质感，带有黑色接缝轮廓、反光的湿润高光、闪烁的雨滴以及发光的边缘。环境：一座废弃的大教堂内部，拥有高耸的尖拱，破损的石制屋顶露出明亮多云的蓝天，墙壁残破，柱子上长满苔藓，背景中可见彩色玻璃窗，两侧摆放着木制长椅，地面是开裂的湿润石板，水洼倒映着人物，雨水穿过屋顶形成长长的垂直雨幕。构图：全身居中低角度时尚姿势，一条腿微微向前，对称的大教堂框架，来自天空的电影级逆光在兜帽和雨衣周围形成光晕。视觉风格：高细节动漫插画，半写实光影，亮面反射，戏剧性的奇幻时尚大片氛围，清晰的线条，湿润的表面，紫色玫瑰装饰在灰色石材背景下显得格外鲜艳。约束条件：无文字，无水印，无额外角色，确保透明雨衣清晰可辨且优雅。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822717517_4uvdf2_HKIH4HbaAAAaHfT.jpg" width="600" alt="产品营销 - 彩绘玻璃玫瑰雨衣 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822717430_o7kydv_HKIH4HpbgAAmelg.jpg" width="600" alt="产品营销 - 彩绘玻璃玫瑰雨衣 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822717425_0zv7iz_HKIH4HmaAAAD4gH.jpg" width="600" alt="产品营销 - 彩绘玻璃玫瑰雨衣 - Image 3">
-</div>
-
-#### 📌 详情
-
-- **作者:** [みらくる【＊スノウ・フェアリイッ🧚‍♀️＊】](https://x.com/mirakuru012)
-- **来源:** [Twitter Post](https://x.com/mirakuru012/status/2063220245213675918#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24515)**
-
----
-
-### No. 97: 产品营销 - 现代风冰淇淋店室内设计
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个照片级真实感的建筑可视化提示词，用于呈现温馨极简风格的冰淇淋咖啡馆室内设计，包含品牌标识、菜单项目、座位区和自然光效果。
-
-#### 📝 提示词
-
-```
-创建一个照片级真实感的建筑室内渲染图，展示一家名为 {argument name="shop name" default="Some ice"} 的现代极简风格冰淇淋店。视角从前部座位区看向服务台，呈现午后温暖的阳光。空间高而狭窄，采用奶油色抹灰墙面、灰色混凝土地面、灰色纹理背景墙、白色方砖柜台、暖色木质天花板顶棚、隐藏式灯带，左侧墙面和地面上有树叶投下的柔和阴影。在柜台上方放置大型店铺 Logo，采用深灰色字母并带有少量黄色点缀。服务区包含 1 个白色瓷砖前台，柜台上放置 1 台大型银色台式电脑，柜台后有 1 名身穿奶油色衬衫和米色围裙的员工，后墙上挂有 4 个发光的菜单项目，分别标注为 Signature、Sweet、Yogurt 和 Classic，并配有甜点图片。在右侧墙面上，包含 3 个木质零售货架，展示带有品牌标识的小纸袋或包装盒。在左侧墙面上，包含 3 张悬挂在纤细黄铜壁灯下的促销海报，其中一张印有可爱的吉祥物和文字 {argument name="poster headline" default="Have Someice Day"}。顾客区共布置 6 张圆形咖啡桌：左前方 2 张，左侧中部沿墙 2 张，右侧 2 张；总共包含 10 把可见的椅子，大部分为暖色曲木椅配镀铬椅腿，右侧另有 1 把淡黄色椅子和 1 把黑色椅子。在左后方增加楼梯和狭窄通道，配有木质踏板、黑色金属扶手，远处可见砖墙和玻璃门。采用宁静的斯堪的纳维亚-日式咖啡馆美学，使用天然材料，具备真实的全局光照、柔和的景深、简洁的构图，除一名员工外无其他人物，无杂物，无水印，3:2 横向比例。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822706305_jktcxy_HKH_EiiaAAA2djl.jpg" width="600" alt="产品营销 - 现代风冰淇淋店室内设计 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [苏_夲](https://x.com/Sutao_farming)
-- **来源:** [Twitter Post](https://x.com/Sutao_farming/status/2063218028813443208#reversed-1)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24494)**
-
----
-
-### No. 98: 产品营销 - 现代甜品店室内设计
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个用于设计温馨极简风格甜品店室内的照片级宽视角渲染提示词，包含座位、柜台、标识和菜单项目。
-
-#### 📝 提示词
-
-```
-创建一个现代甜品店的照片级建筑室内渲染图，店名为 {argument name="cafe name" default="Some ice"}。展示从顾客座位区看向服务柜台的宽视角，空间呈长条状，层高较高。采用温馨的日式/斯堪的纳维亚极简风格，使用米色灰泥墙面、灰色混凝土底面、后墙采用纹理灰色瓷砖、浅色木质天花板和搁板，以及柔和的间接暗槽照明。主体构图应包含：右侧中心处 1 个白色瓷砖服务柜台，柜台上 1 台台式电脑，柜台上方 1 个带有嵌入式射灯的悬挂式木质顶棚，最右侧 1 根灰色垂直混凝土柱，柜台上方 1 个背光品牌标识（内容为 {argument name="cafe name" default="Some ice"}，深色字母配有黄色小点缀），柜台后方 4 个发光菜单项目，右侧墙上 2 个空木质搁板，左侧墙上 3 张宣传甜品的海报，可见 5 张圆形咖啡桌，以及 11 把可见的椅子/凳子：左前方两张桌子周围 4 把木椅，中间走廊座位区 4 把木椅，柜台处 1 把高脚凳，右前方桌子 1 把淡黄色椅子，右侧桌子 1 把深炭灰色椅子。在左侧海报上方增加 2 个小型壁挂式射灯，并在柜台前设置 2 根带有水平扶手的细长垂直栏杆柱。咖啡店应呈现安静、整洁、全新的设计感，拥有柔和的暖色日光和人工照明、逼真的阴影、抛光的材质，以及专业的商业室内可视化效果。避免出现人物、杂物、食物特写、水印和额外的标识。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822705796_of9h9t_HKH-_xVbMAApUOJ.jpg" width="600" alt="产品营销 - 现代甜品店室内设计 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [苏_夲](https://x.com/Sutao_farming)
-- **来源:** [Twitter Post](https://x.com/Sutao_farming/status/2063218028813443208#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24493)**
-
----
-
-### No. 99: 电商主图 - 成品婴儿感官瓶
+### No. 104: 电商主图 - 成品婴儿感官瓶
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4857,7 +5103,7 @@ Q 版风格，
 
 ---
 
-### No. 100: 电商主图 - 专业设计师产品广告重构
+### No. 105: 电商主图 - 专业设计师产品广告重构
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4891,7 +5137,7 @@ Q 版风格，
 
 ---
 
-### No. 101: 电商主图 - 3D 像素化食物解构
+### No. 106: 电商主图 - 3D 像素化食物解构
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4925,7 +5171,7 @@ Q 版风格，
 
 ---
 
-### No. 102: 电商主图 - 土耳其烤肉 (Döner Kebab) 艺术美食摄影
+### No. 107: 电商主图 - 土耳其烤肉 (Döner Kebab) 艺术美食摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4973,7 +5219,7 @@ Q 版风格，
 
 ---
 
-### No. 103: 电商主图 - 米色男装 Lookbook 拼贴画
+### No. 108: 电商主图 - 米色男装 Lookbook 拼贴画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5026,7 +5272,7 @@ Q 版风格，
 
 ---
 
-### No. 104: 电商主图 - 米色男装 Lookbook 拼贴画
+### No. 109: 电商主图 - 米色男装 Lookbook 拼贴画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5074,7 +5320,7 @@ Q 版风格，
 
 ---
 
-### No. 105: 电商主图 - 奢华精华液图层编辑演示
+### No. 110: 电商主图 - 奢华精华液图层编辑演示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5122,7 +5368,7 @@ Q 版风格，
 
 ---
 
-### No. 106: 电商主图 - 超现实 Pepsi 广告创意
+### No. 111: 电商主图 - 超现实 Pepsi 广告创意
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5156,7 +5402,7 @@ Q 版风格，
 
 ---
 
-### No. 107: 电商主图 - 奇幻动漫角色主题整蛋糕
+### No. 112: 电商主图 - 奇幻动漫角色主题整蛋糕
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5196,7 +5442,7 @@ Q 版风格，
 
 ---
 
-### No. 108: 电商主图 - 东亚时尚杂志大片
+### No. 113: 电商主图 - 东亚时尚杂志大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5260,7 +5506,7 @@ Q 版风格，
 
 ---
 
-### No. 109: 电商主图 - 未来感游戏耳机渲染图
+### No. 114: 电商主图 - 未来感游戏耳机渲染图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5300,7 +5546,7 @@ Q 版风格，
 
 ---
 
-### No. 110: 电商主图 - 清爽夏季护肤品商业广告提示词
+### No. 115: 电商主图 - 清爽夏季护肤品商业广告提示词
 
 ![Language-KO](https://img.shields.io/badge/Language-KO-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5334,7 +5580,7 @@ Q 版风格，
 
 ---
 
-### No. 111: 电商主图 - 悬浮奢华香水广告
+### No. 116: 电商主图 - 悬浮奢华香水广告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5368,7 +5614,7 @@ Q 版风格，
 
 ---
 
-### No. 112: 电商主图 - 高概念悬浮时尚大片
+### No. 117: 电商主图 - 高概念悬浮时尚大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5420,7 +5666,7 @@ Q 版风格，
 
 ---
 
-### No. 113: 电商主图 - 悬浮足球球衣奢华大片
+### No. 118: 电商主图 - 悬浮足球球衣奢华大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5469,7 +5715,7 @@ Q 版风格，
 
 ---
 
-### No. 114: 电商主图 - 泳装杂志广告排版
+### No. 119: 电商主图 - 泳装杂志广告排版
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5503,52 +5749,19 @@ Q 版风格，
 
 ---
 
-### No. 115: 电商主图 - 逼真的球衣替换摄影棚实拍
+### No. 120: 游戏素材 - 恋爱冒险游戏 CG 画廊 UI
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一个先进的产品摄影提示词，利用参考图像准确替换衣架上的球衣，同时保持原始场景的光影和物理效果。
-
-#### 📝 提示词
-
-```
-使用图像 A 作为主场景参考，图像 B 作为替换球衣参考。创作一张逼真的 4:5 竖版产品摄影图像。仅将图像 A 中的球衣替换为图像 B 中的球衣。图像 B 中的球衣必须被准确且完整地迁移，并精确保留所有可见的设计细节，包括：配色方案、面料图案、Logo、徽章、排版、数字、领口形状、袖口饰边、缝线、纹理、标识、赞助商元素、接缝结构以及所有可见的图形或纺织细节。除此之外的一切都必须与图像 A 完全保持一致。请勿更改摄像机角度、构图、裁剪、取景、透视、距离、光照、阴影位置、背景、灰色摄影棚色调、透明衣架、金属架、衣架上的反射、镀铬杆上的反射，或整体的电影级摄影棚氛围。最终的球衣必须以与图像 A 中原始球衣完全相同的位置自然悬挂，遵循相同的垂坠感、褶皱、袖子下垂方式、下摆形状和面料重量。替换效果必须看起来物理真实，且像是在此场景中自然拍摄的，而非后期粘贴。保持相同的正面悬挂构图、相同的戏剧性摄影棚光照方向、相同的柔和高光，以及下部褶皱处相同的深邃阴影。重要提示：仅球衣发生变化。衣架、杆子、背景、光照、场景颜色和整体结构必须与图像 A 保持完全一致。长宽比：4:5 竖版。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650709212_n8y2nf_HJ-rBa2aUAADxKr.jpg" width="600" alt="电商主图 - 逼真的球衣替换摄影棚实拍 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Al-Shamus](https://x.com/im_shahid7)
-- **来源:** [Twitter Post](https://x.com/im_shahid7/status/2062555211869393078)
-- **发布时间:** 2026年6月4日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24116)**
-
----
-
-### No. 116: 电商主图 - 真实的日本在留卡
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一份精心编写的提示词，用于生成具有准确官方布局、防伪特征和逼真肖像的写实风格日本在留卡。
+一个用于创建虚构日本恋爱冒险游戏“CG 画廊”模式界面的复杂提示词，包含 UI 元素和事件缩略图。
 
 #### 📝 提示词
 
 ```
-超写实 16:9 特写平铺摄影作品，展示了一张 {argument name="card type" default="日本在留卡 (Japanese residence card)"}，放置在干净的白色或柔和的中性背景上。卡片水平对齐，位于画面中心，采用锐利的微距对焦，配以柔和的漫射光和细腻的写实阴影。设计遵循真实的日本出入境管理及法务省身份证件美学，具有极简的布局、精确的排版、柔和的淡雅配色以及逼真的防伪细节。顶部标题包含粗体日文“在留カード”及较小的英文副标题“RESIDENCE CARD”。左上角显示“日本国政府 / GOVERNMENT OF JAPAN”。右上角包含真实的字母数字卡号。卡片包含一张 {argument name="subject" default="年轻日本女性"} 的护照风格肖像：– 肤色白皙，具有自然的东亚人皮肤纹理 – 直黑发，配有柔和的刘海，长度及肩 – 深棕色眼睛，表情中性，直视前方 – 极简妆容，面部细节真实 – 身着 {argument name="outfit" default="深蓝色西装外套内搭白色衬衫"}。身份信息以日英双语格式显示：– 姓名：YAMADA HANAKO – 出生日期：1990/05/01 – 性别：女 – 国籍：日本 – 地址：东京都港区 – 在留资格：技术・人文知识・国际业务 (Engineer) – 就劳限制：允许 (Allowed) – 在留期间：5 年 – 签发日期：2023/05/01 – 有效期至：2028/05/01。安全与设计特征包括细腻的扭索纹图案、微缩文字、淡雅的渐变色以及官方印章。材质呈现为哑光层压聚碳酸酯，具有逼真的油墨质感。风格：写实摄影，真实的日本政府证件美学，微距清晰度，8K 分辨率。
+使用提供的图像作为原始角色的参考基准。绘制一个来自 {argument name="game genre" default="恋爱冒险游戏、Galgame 或乙女游戏"} 的“CG 画廊模式”屏幕，其中需出现参考图像中的角色。这不是角色设计表、相册或简单的插画合集，而是玩家通关游戏后从标题画面进入的真实游戏内 CG 画廊模式界面。[概念] 让观众自然地感受到“这个角色所处的游戏是真实存在的”。重视回顾主线剧情中解锁的事件 CG 时的氛围。唤起浪漫、友情、青春、日常生活、略带羞涩的回忆以及故事关键转折点的情感。[屏幕格式] 恋爱 ADV 游戏的 CG 画廊模式界面。将其设定为游戏内 UI。以列表形式展示多个事件 CG 缩略图。缩略图应排列整齐，并带有商业游戏典型的装饰元素。自然地放置 {argument name="UI elements" default="页码、CG 解锁率、返回按钮、分类标签、选择光标和未解锁 CG 框"}。UI 应看起来像是一款真实的恋爱 ADV 游戏，既不太过陈旧也不过于前卫。[CG 内容] 每个缩略图应描绘游戏中发生的不同事件 CG。所有内容都应是不同的记忆。示例：{argument name="scene examples" default="初次见面场景、教室对话、放学回家路上、雨天共用一把伞、校园祭、运动会、修学旅行、海滩活动、夏日祭、游乐园约会、冬日归途、圣诞节、告白场景、毕业典礼、结局 CG、隐藏路线特殊 CG"} 等。包含看起来像是故事中途抓拍的自然事件 CG，而不是单纯摆拍的纪念照。[角色描绘] 将参考图像中的角色描绘为同一个人。保持面部特征、发型、发色、眼型、面部习惯、氛围、角色个性和服装设计的印象。服装可以在每个事件 CG 中自然地更换为制服、便服、浴衣、冬装、家居服或礼服风格的服装，但不要将其变成另一个角色或写实的人类。[UI 与质感] 使其看起来像真实游戏界面的截图。整个屏幕的焦点是 CG 画廊模式，而不是独立的插画。部分缩略图可以包含“LOCKED”、“???”或“未开启”的边框。为当前选中的 CG 添加发光边框或光标。使用虚构的游戏标题 Logo 和菜单名称。确保文字可读且不会过度扭曲。[氛围] 怀旧、甜蜜且略带苦涩。通关游戏后回顾记忆。重温最喜欢的场景。营造一种仿佛你过去曾玩过这款游戏（尽管它并不存在）的氛围。为商业恋爱 ADV 游戏的 CG 画廊模式创建一个自然且令人信服的界面。
 ```
 
 #### 🖼️ 生成图片
@@ -5556,179 +5769,17 @@ Q 版风格，
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650711251_r3g24x_HJ8nqHPaMAEHuH0.jpg" width="600" alt="电商主图 - 真实的日本在留卡 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780650711293_82xy61_HJ8nsJ2aUAAgMcg.jpg" width="600" alt="电商主图 - 真实的日本在留卡 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1780911031864_yi8oza_HKR5K0-bwAE7aBy.jpg" width="600" alt="游戏素材 - 恋爱冒险游戏 CG 画廊 UI - Image 1">
 </div>
 
 #### 📌 详情
 
-- **作者:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
-- **来源:** [Twitter Post](https://x.com/Ankit_patel211/status/2062411114210795905)
-- **发布时间:** 2026年6月4日
-- **多语言:** en
+- **作者:** [Eris Create Lab](https://x.com/Eris_Create_Lab)
+- **来源:** [Twitter Post](https://x.com/Eris_Create_Lab/status/2063907759033405864)
+- **发布时间:** 2026年6月8日
+- **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24120)**
-
----
-
-### No. 117: 游戏素材 - 3D CG 东方奇幻角色
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个高精度的 3D CG 东方奇幻女性角色渲染提示词，具备 Unreal Engine 渲染品质与电影级光效。
-
-#### 📝 提示词
-
-```
-9:16 竖屏比例，高精度 3D CG 东方奇幻女性角色肖像。画面主角为一名成年东方奇幻女性，视觉年龄约 {argument name="age" default="20-24"}，气质甜美、俏皮且梦幻，置身于春日樱花氛围中。这是一幅高完成度的 3D CG 渲染作品，拥有精致的建模、写实的材质、电影级光效以及虚拟角色海报级的质感。角色面容甜美，皮肤白皙且带有次表面散射效果，琥珀金色的双眸清澈明亮。发色为饱和的 {argument name="hair color" default="blue"}，发量丰盈顺滑，呈现高精度发丝建模。身着高精度华丽的东方奇幻服饰，展现丝绸、薄纱与刺绣质感。背景为梦幻般的东方奇幻春日花径，点缀着樱花与烟雨朦胧的亭台楼阁。光效采用明亮柔和的自然光，辅以细腻的逆光效果。顶级虚拟角色肖像，高细节 3D CG 渲染，Unreal Engine 品质，Octane 渲染风格，电影级光效，PBR 材质。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822681228_f0gssj_HKI8l4CaAAAr2K4.jpg" width="600" alt="游戏素材 - 3D CG 东方奇幻角色 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [李岳](https://x.com/liyue_ai)
-- **来源:** [Twitter Post](https://x.com/liyue_ai/status/2063279085053460591)
-- **发布时间:** 2026年6月6日
-- **多语言:** zh
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24461)**
-
----
-
-### No. 118: 游戏素材 - 等距视角岩浆大马士革钢城市
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个精细的建筑提示词，用于创作悬浮在地图上方、由岩浆大马士革钢纹理构成的 3D 等距城市街区。
-
-#### 📝 提示词
-
-```
-2x2 网格，16:9，针对 4 座著名城市进行创作，岩浆大马士革钢：概念：一座从地图中雕刻而出、漂浮在梦境中的城市。输入变量：[{argument name="city" default="著名城市/地点"}] [{argument name="material" default="岩浆大马士革钢"}]（例如：硬纸板、轻木、折纸）工作流：1. 基础：一张 {argument name="city" default="著名城市/地点"} 的平面复古 2D 地图平铺。2. 设计：一个完美的 3D 等距城市立方体块悬浮在地图对应位置的上方。3. 材质：整个 3D 块，包括摩天大楼、桥梁和地质层，均由 {argument name="material" default="岩浆大马士革钢"} 精心构建。4. 边缘：城市中的河流从立方体边缘流出，形成风格化的瀑布倾泻入虚空。神级细节：柔软蓬松的风格化云朵在悬浮块周围漂浮。柔和、明亮、通透的灯光。建筑上可见纹理、胶水痕迹和纸张边缘，以强调微缩比例。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822671160_ubamq7_HJ7_ywDXgAApErZ.jpg" width="600" alt="游戏素材 - 等距视角岩浆大马士革钢城市 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Gadgetify](https://x.com/Gdgtify)
-- **来源:** [Twitter Post](https://x.com/Gdgtify/status/2063278741040849060)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24445)**
-
----
-
-### No. 119: 游戏素材 - 蒸汽朋克西施犬飞艇驾驶员
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个电影级奇幻肖像提示词，用于创作一只在黄铜飞艇城市中的可爱蒸汽朋克狗狗驾驶员。
-
-#### 📝 提示词
-
-```
-创作一张高度精细的电影级蒸汽朋克奇幻肖像，画面中心是一只可爱的 {argument name="dog breed" default="西施犬"} 全身像，它正视镜头，有着深邃明亮的大眼睛和冷静英勇的表情。这只狗有着蓬松的奶油色和棕褐色皮毛、长长的垂耳、圆润的口吻，以及身后卷曲的羽毛状尾巴。为它穿上华丽的维多利亚时代飞艇驾驶员服装：清晰可见 6 个主要的服装/配饰元素——1 顶带有黄铜护目镜的棕色皮革飞行员帽，1 件带有奶油色羊羔毛领口和袖口的合身棕色皮夹克，1 件叠层马甲和衬衫，配有细小的黄铜纽扣，1 套带有小袋的斜挎带和腰带系统，1 条剪裁得体的深色长裤，以及 1 双磨损的棕色系带靴。在夹克和腰带上添加大量细小的黄铜齿轮、指南针式奖章、链条、扣环、别针和发条装饰，但不要遮挡狗狗的面部。场景设置在一个宽阔的 {argument name="setting" default="金色的蒸汽朋克城市和飞艇码头"} 中，地面是潮湿且具有反射感的鹅卵石路，周围有华丽的黄铜机械、管道、塔楼、发光的圆形窗户、栏杆、蒸汽口和温暖的金色灯光。在右上角背景中放置一艘模糊的大型齐柏林飞艇，左侧和中心背景中工业塔楼和圆形机械结构在薄雾中隐现。采用戏剧性的暖色背光、柔和的雾气、漂浮的金色尘埃火花、浅景深、逼真的毛发质感、抛光的黄铜反射、浓郁的棕色和金色调色、超精细的 3D/照片级奇幻风格、对称的中心构图、低视平线摄像机角度、4:3 横向比例。无文字，无水印，无额外动物，无脚部裁剪。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822716331_v5p8bt_HKIsw6PboAAZNSL.jpg" width="600" alt="游戏素材 - 蒸汽朋克西施犬飞艇驾驶员 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822716340_zwbdut_HKIsw6QasAAXUJD.jpg" width="600" alt="游戏素材 - 蒸汽朋克西施犬飞艇驾驶员 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [mic](https://x.com/333mic999)
-- **来源:** [Twitter Post](https://x.com/333mic999/status/2063261617140498572#reversed-0)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24511)**
-
----
-
-### No. 120: 游戏素材 - 动漫三视图角色设定表
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一张包含正面、侧面、背面视图以及详细服装特写面板的日式动漫风格角色设计表。
-
-#### 📝 提示词
-
-```
-目标：为 {argument name="character name" default="黒波凪紗 (Kuronami Nagisa)"} 创建一张简洁的动漫角色模型表 / 三视图设计表，展示其留着直长发、身穿整洁校服风格服装的形象。
-
-画布：横向 16:9 插画，采用米白色纸张背景，配有细黑色草图线条、浅灰色阴影以及专业的角色设计参考布局。使用柔和、细腻的动漫风格，辅以类似水彩的轻柔阴影和清晰的墨线轮廓。
-
-标题文字：在左上角书写“黒波凪紗 (Kuronami Nagisa) 三面図設計図”。在其下方书写“詳細設計：ストレートロング Ver.”。在副标题下方绘制一条长横分割线。
-
-主体布局：在画布左侧和中央放置 3 个完整的全身角色视图，每个视图上方均配有对应的日文标签：1) “黒波凪紗 正面図” (正面视图)，2) “黒波凪紗 側面図” (侧面视图)，3) “黒波凪紗 背面図” (背面视图)。在每个视图中，角色的面部应使用中性椭圆形模糊处理，而头发和服装保持细节清晰。
-
-角色细节：一位身材苗条的少女，留着及腰的超长直发，发色为 {argument name="hair color" default="黑色"}，长刘海修饰脸型，带有细腻的光泽感，右侧别着一枚粉色小花发夹。她身穿淡腮红色的短袖衬衫，系着宽松的领结丝带，穿着高腰及膝的百褶格纹裙，裙子花纹为 {argument name="skirt pattern" default="深蓝灰色格子配细米色线条"}，搭配灰色短袜和黑色低跟玛丽珍鞋。她背着一个小巧精致的白色单肩包，包身带有翻盖、细肩带、侧面金属件以及一个小长方形标志牌。
-
-全身视图：正面视图展示她站姿笔直，一只手轻扶包带，包垂在身侧。侧面视图展示她向左侧的侧影，包带跨在肩上，包位于臀部高度。背面视图展示长发垂在衬衫上的全貌、从背后看到的百褶裙摆、双腿以及挂在一侧的包。
-
-右侧细节面板：在右侧整齐地排列 4 个盒装特写参考面板。面板 1（顶部最大面板），标签为“髪型 / 襟元クローズアップ”，展示头发、面部模糊效果、领口、领结和粉色发夹的半身特写。面板 2（中间左侧小面板），展示百褶格纹裙的正面特写。面板 3（中间右侧长面板），展示衬衫袖子、腰线、手臂和裙子侧面的细节。面板 4（底部左侧面板），展示白色单肩包的特写，包括肩带、翻盖、接缝、扣环五金件和标志牌。
-
-约束条件：保持画面整洁对称，除 3 个全身视图和 4 个特写面板外，不得添加额外角色或面板。严格保留指定的日文标签。避免照片级写实，保持精致的动漫设计表风格。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780822724130_x4ldkz_HKIhiwsbsAAWYIz.jpg" width="600" alt="游戏素材 - 动漫三视图角色设定表 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [スズヲ＠Photo＆AIart](https://x.com/Suzu_Wo)
-- **来源:** [Twitter Post](https://x.com/Suzu_Wo/status/2063248466772656612#reversed-3)
-- **发布时间:** 2026年6月6日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24526)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/gpt-image-2-prompts?id=24629)**
 
 ---
 
@@ -5738,7 +5789,7 @@ Q 版风格，
 
 <div align="center">
 
-### 🎯 9199 更多提示词未在此显示
+### 🎯 9325 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5801,6 +5852,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-08T02:35:02.101Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-08T15:25:21.706Z</sub>
 
 </div>
