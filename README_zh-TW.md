@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **13315** |
+| 📝 提示詞總數 | **13387** |
 | ⭐ 精選 | **6** |
-| 🔄 最後更新 | **2026年7月21日 星期二 凌晨1:27:43 [UTC]** |
+| 🔄 最後更新 | **2026年7月21日 星期二 下午1:13:41 [UTC]** |
 
 </div>
 
@@ -525,7 +525,278 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 按發布日期排序（最新優先）
 
-### No. 1: 個人檔案 / 頭像 - 夏日咖啡廳動漫狼少年
+### No. 1: 個人檔案 / 頭像 - 晨光與濕髮人像
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一份高細節的提示詞，用於生成一張寫實風格的直式人像，描繪一位身穿白色居家服、坐在陽光灑落的窗邊且頭髮微濕的女性。
+
+#### 📝 提示詞
+
+```
+主體：{argument name="subject" default="晨光下的濕髮"}
+
+主體：{argument name="person" default="一位身穿白色居家服的成年女性"} 坐在窗邊的地毯上，直式人像構圖。人物主體較大，位置略偏向畫面右側，取景範圍從頭頂至大腿。上半身約佔畫面三分之二，左側留有窗戶與柔和背景的留白空間。
+
+角色與表情：自然的黑色中長髮。髮絲細膩，帶有剛沐浴後的微濕感，貼合於臉頰與頸部，額前垂落著稀疏的瀏海。頭部微微向左上方傾斜，安靜地望向窗外。眼神放鬆，雙唇微啟，神情平靜且帶有剛睡醒的慵懶感。自然的肌膚質感，可見毛孔與細微汗毛，妝容為淡雅的米色與粉色系。
+
+服裝與姿勢：白色細肩帶蕾絲背心，搭配同款短褲。胸前有小鈕扣與柔和的褶皺設計，輕薄的布料隨重力自然垂墜。奶油色粗針織開襟衫從肩頭滑落，鬆垮地掛在手肘至前臂處。身體微微向左扭轉，單腿向前彎曲，呈現出肩膀高度略有落差的自然坐姿。
+
+背景與光影：左側有一扇大窗戶。窗外，陽光灑落在綠葉上，呈現出柔和的散景。窗邊的木桌上零星擺放著白色杯子、小型玻璃花瓶與細枝。主要光源為左上方窗戶射入的溫暖自然光。臉頰、鼻樑、鎖骨、肩膀、手臂與大腿處形成柔和的高光，而頭髮右側與房間後方則沉入柔和的陰影中。白色布料與地板反射出微弱的補光。
+
+構圖與攝影：2:3 比例。從略高角度俯拍的特寫鏡頭。採用三角形構圖，臉部位於頂部中央，胸部居中，彎曲的腿部位於左下方。窗戶側的留白空間強調了視線方向，背景經過高度模糊處理。等效 50mm 鏡頭，接近全開光圈的淺景深。對焦點位於眼睛與臉部，前景的腿部與背景的窗戶則呈現柔和的虛化效果。
+
+質感與風格：僅使用自然光拍攝的寫實室內人像。以明亮的象牙白與淺色木紋為基調，膚色與窗外的綠意作為細膩的點綴色。不過度平滑，精確描繪肌膚紋理、細微汗毛、濕髮的束感，以及蕾絲與針織品的纖維細節。低對比度，呈現如優雅底片攝影般的柔和漸層。
+
+負面提示詞：未成年人、不自然的臉部、不自然的眼神、不對稱的眼睛、多出的手指、缺失的手指、肢體融合、肩膀或關節斷裂、衣服勒入皮膚、布料不自然的透明感、違反重力的頭髮或衣物、與光源不一致的陰影、過度修飾的皮膚、塑膠感皮膚、文字、標誌、浮水印。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623698669_5v2zly_HNjNjQZaYAAEXVn.jpg" width="600" alt="個人檔案 / 頭像 - 晨光與濕髮人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
+- **來源:** [Twitter Post](https://x.com/CyberTotal2026/status/2079329000220983606)
+- **發布時間:** 2026年7月20日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29279)**
+
+---
+
+### No. 2: 個人檔案 / 頭像 - 城市鏡面自拍人像
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一份用於生成寫實風格鏡面自拍的詳細提示詞，場景設定為深灰色瓷磚的城市浴室，重點在於呈現自然光影與材質細節。
+
+#### 📝 提示詞
+
+```
+主題：鏡前準備
+
+主體：一位虛構的成年女性，在鋪設統一深灰色瓷磚的城市浴室中，對著鏡子手持智慧型手機。畫面為 3:4 直式構圖，人物佔據畫面中左側大部分空間，呈現從頭頂到大腿中部的範圍。手持手機的手位於右上角，支撐在洗手台上的手位於左下角，突顯她倚靠的身體曲線以及透過鏡子投射的視線。
+
+人物/表情：一位散發沉穩成熟氣質且體態健康勻稱的女性。{argument name="hair style" default="深棕色長直髮"} 自然垂落在胸前，中分髮絲輕柔地落在臉頰兩側。日系自然妝容：柔和的平眉、精緻的睫毛、淡米棕色眼影、淺玫瑰色腮紅，以及帶有水潤感的粉米色唇彩。她的臉部微微向右轉，正低頭看著手機螢幕，表情安靜且自然。
+
+服裝/姿勢：{argument name="top" default="灰色短版運動背心"}。細肩帶設計，彈性羅紋材質，長度精簡至胸下緣。下身為 {argument name="bottom" default="象牙白高腰運動短褲"}，展現柔軟的彈性材質，並隨著臀部與腿部動作呈現自然的布料張力與細微皺褶。她向鏡子方向前傾，臀部輕微向右偏移。右手彎曲將手機垂直舉在臉龐旁，左手支撐在洗手台上。
+
+背景/光影：日本城市公寓中精緻小巧的浴室。牆面為霧面炭灰色大尺寸瓷磚，地板為細緻的灰色磁磚。來自左上方的暖白色燈光在她的頭髮、鎖骨與腹部勾勒出高光。
+
+構圖/相機：直式 3:4，透過鏡子拍攝的近距離時尚快照。視線水平的相機角度，帶有輕微的廣角感。
+
+質感/風格：如同智慧型手機拍攝的寫實室內照片。細膩描繪皮膚紋理、細髮，以及羅紋布料與彈性布料之間的質感差異。
+
+負面提示詞：稚嫩臉龐、不自然的視線、手部混亂、多餘的手指、變形的手機、鏡像矛盾、塑膠感皮膚、浮水印。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623710241_bam7jc_HNjYkc6awAARt5-.jpg" width="600" alt="個人檔案 / 頭像 - 城市鏡面自拍人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
+- **來源:** [Twitter Post](https://x.com/CyberTotal2026/status/2079162905799557430)
+- **發布時間:** 2026年7月20日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29293)**
+
+---
+
+### No. 3: 個人檔案 / 頭像 - 柔軟童話風兔子擁抱頭像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+將參考肖像轉換為溫暖、充滿童趣的粉彩插畫風格頭像，呈現主角擁抱白色兔子的模樣。
+
+#### 📝 提示詞
+
+```
+以 REFERENCE_0 作為角色基礎，將人物轉換為柔軟、充滿童趣的繪本插畫風格頭像。保留可辨識的髮型、海軍藍西裝、白襯衫與紅領帶，但將臉部調整得圓潤柔和，呈現閉眼、紅潤臉頰與平靜微笑的表情。調整姿勢，讓角色溫暖地擁抱一隻垂耳小白兔。移除講台、麥克風與現實背景。將簡化後的角色置於溫暖的金黃色紋理背景中央，背景帶有細緻的紙張紋理與幾點微小的星光。運用柔和的粉彩、模糊的蠟筆/粉筆質感，搭配圓潤的造型、低細節處理、發光邊緣，營造出純真且奇幻的童書氛圍。方形構圖，無文字，無浮水印。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623749269_2ibtju_HNqO5y9asAAO_Xj.jpg" width="600" alt="個人檔案 / 頭像 - 柔軟童話風兔子擁抱頭像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623749231_x2lc5b_HNqO6mAa8AACIyh.jpg" width="600" alt="個人檔案 / 頭像 - 柔軟童話風兔子擁抱頭像 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [小小东](https://x.com/xiaoxiaodong01)
+- **來源:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2079131775322960232#reversed-1)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29345)**
+
+---
+
+### No. 4: 個人檔案 / 頭像 - 黑白魅力帽飾人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一張時尚的黑白攝影棚魅力人像，局部點綴紅色唇彩，非常適合用於創作優雅的休閒時尚攝影作品。
+
+#### 📝 提示詞
+
+```
+創作一張高對比度的黑白魅力人像，主角為一位 {argument name="subject identity" default="東亞女性"}，坐在黑色皮革扶手椅上，背景為深邃的黑色攝影棚。她留著俐落的黑色短鮑伯頭，擁有白皙光滑的肌膚、明亮且富有表情的雙眼，並平靜地直視鏡頭。使用局部色彩技術，讓整張照片呈現黑白效果，唯獨 {argument name="lip color" default="紅色"} 唇膏保持鮮豔色彩。她戴著一頂寬邊淺色毛氈帽，身穿一件寬鬆的 {argument name="shirt color" default="白色"} 襯衫，設計為休閒迷你襯衫裙風格，領口微開，搭配精緻的墜飾項鍊與細手環。姿勢設定為身體前傾，雙膝併攏，一隻手靠在椅把上，另一隻手輕觸帽緣。構圖為垂直的三分之四身坐姿人像（從頭部到膝蓋），採用柔和的攝影棚燈光，臉部與衣物上有明亮的高光，呈現細膩的皮革反光與平滑的肌膚修飾，營造優雅的時尚攝影氛圍，具備淺景深效果，且畫面中不包含任何文字或浮水印。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623745218_v7slsm_HNqG55NasAAWvyt.jpg" width="600" alt="個人檔案 / 頭像 - 黑白魅力帽飾人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [vevrier90333](https://x.com/vevrier9033833)
+- **來源:** [Twitter Post](https://x.com/vevrier9033833/status/2079122545803157611#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29343)**
+
+---
+
+### No. 5: 個人檔案 / 頭像 - 蜘蛛人服裝俯拍肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一個專業的俯拍提示詞，用於拍攝穿著蜘蛛人運動服的主體，呈現逼真的質感與大理石地板。
+
+#### 📝 提示詞
+
+```
+超逼真俯拍肖像攝影，從正上方拍攝。一位留著波浪長黑髮的人，面部特徵與參考圖像一致，置身於 {argument name="flooring" default="優雅的灰色大理石地板"} 上，自信且自然地直視鏡頭。他們穿著細節豐富的 {argument name="top" default="紅藍配色蜘蛛人質感運動上衣"}、休閒灰色運動褲、乾淨的白色運動鞋，並背著一個黑色背包。右手隨意地拿著蜘蛛人面具，另一隻手自然地插在口袋裡。專業攝影，俯視視角，真實比例，真實皮膚細節，自然光，淺景深，柔和背景，電影級構圖，頂級 DSLR 相機，50mm 鏡頭質感，高動態範圍，真實布料質感，陰影，雜誌級肖像品質，照片級真實感，超細節，8K。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623697338_ng8zhv_HNqCFQybkAAuUae.jpg" width="600" alt="個人檔案 / 頭像 - 蜘蛛人服裝俯拍肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Sairah](https://x.com/Sairah_0)
+- **來源:** [Twitter Post](https://x.com/Sairah_0/status/2079117214628905283)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29276)**
+
+---
+
+### No. 6: 個人檔案 / 頭像 - 明暗對照法電影感肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個用於生成高對比度、戲劇性明暗對照法肖像的提示詞，主角身穿黑色西裝並配戴奢華飾品。
+
+#### 📝 提示詞
+
+```
+創作一張超寫實 8K 電影感肖像，主角為 {argument name="subject" default="上傳的人物"}，採用戲劇性的明暗對照法風格。主角以四分之三側面坐姿，身體微微前傾，姿勢放鬆且充滿氣勢。臉部稍微偏離鏡頭，未直視鏡頭，臉部一側被強光照亮，另一側則隱沒於深邃、如天鵝絨般的黑色陰影中。表情沉思。雙手自然且精準地置於胸前，手指輕柔且正確地交扣。手腕清晰可見一款奢華的 {argument name="accessory" default="黑色計時腕錶"}，配有精緻的金屬鍊帶，其中一隻手指戴著一枚低調的銀戒指。身穿 {argument name="clothing" default="剪裁俐落的黑色西裝外套內搭白色襯衫"}，領口上方扣子解開，展現出精緻的布料紋理與自然的皺褶。背景為純色無縫黑。使用強烈的定向攝影棚燈光，呈現豐富的對比度、乾淨的陰影過渡以及真實的皮膚紋理。強調細節，如髮絲、鬍渣（若有）、眼部濕潤感、臉部紋理、錶面、金屬錶帶的反光以及銀戒指。以 85mm 肖像鏡頭視角拍攝，淺景深，頂級商業攝影質感，超銳利對焦，平滑自然的皮膚過渡，電影級對比度，無人工塑膠感皮膚，無多餘手指，無變形手部，無混亂的解剖結構。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623699363_5ausl6_HNpQt7SbcAAxghc.jpg" width="600" alt="個人檔案 / 頭像 - 明暗對照法電影感肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Aijaz](https://x.com/iamsofiaijaz)
+- **來源:** [Twitter Post](https://x.com/iamsofiaijaz/status/2079062934907703687)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29281)**
+
+---
+
+### No. 7: 個人檔案 / 頭像 - 藍色月光紗麗肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+生成一張電影感冷色調夜間肖像，描繪一位身穿紗麗的女性，背景為發光的滿月。
+
+#### 📝 提示詞
+
+```
+創作一張低調的夜間垂直肖像，主角為 {argument name="character description" default="一位年輕的南亞女性"}，構圖範圍從上半身到頭部，置於畫面中上部略下方，頭部正後方有一個巨大的發光滿月，宛如光環。她留著長而鬆散的波浪狀 {argument name="hair color" default="黑色秀髮"}，中分偏側，表情平靜且內斂，完整露出臉龐，雙眼向下並略微看向左側，嘴唇柔和，鼻翼戴著小鼻環。採用單色冷藍色月光調色，搭配深海軍藍陰影，頭髮與肩膀處有細緻的輪廓光，皮膚質感平滑且真實。她身穿一件斜披在單肩上的深海軍藍紗麗，搭配同色系寬領短袖上衣。包含精確的三處可見紋身：左右鎖骨上各有一處對稱的黑色葉枝紋身，胸口正中央有一處小型文字紋身，內容為 {argument name="chest tattoo text" default="FEEL ME"}。背景幾乎全黑，帶有微弱的星點與留白，巨大的月亮細節柔和，呈現隕石坑與藍色光暈。氛圍應安靜、具電影感、神秘且浪漫，採用淺景深、高對比度、柔和的月光霧氣，畫面中無其他人，除紋身外無額外文字，無浮水印，呈現精緻的編輯肖像風格。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623722849_x2ej6v_HNpQIqea4AAPuSH.jpg" width="600" alt="個人檔案 / 頭像 - 藍色月光紗麗肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Arina Ai](https://x.com/Arina_hoqe)
+- **來源:** [Twitter Post](https://x.com/Arina_hoqe/status/2079062329199911126#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29310)**
+
+---
+
+### No. 8: 個人檔案 / 頭像 - 夏日咖啡廳動漫狼少年
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -565,7 +836,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 2: 個人檔案 / 頭像 - 陽光市集街道上的狐耳少女
+### No. 9: 個人檔案 / 頭像 - 陽光市集街道上的狐耳少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -599,7 +870,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 3: 個人檔案 / 頭像 - 哥德式月光貴族
+### No. 10: 個人檔案 / 頭像 - 哥德式月光貴族
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -633,7 +904,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 4: 個人檔案 / 頭像 - 印尼女性公園攝影
+### No. 11: 個人檔案 / 頭像 - 印尼女性公園攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -685,7 +956,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 5: 個人檔案 / 頭像 - 電影感地鐵人臉重構
+### No. 12: 個人檔案 / 頭像 - 電影感地鐵人臉重構
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -743,7 +1014,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 6: 個人檔案 / 頭像 - 高對比輪廓光人像
+### No. 13: 個人檔案 / 頭像 - 高對比輪廓光人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -785,7 +1056,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 7: 個人檔案 / 頭像 - 火車上的抓拍人像
+### No. 14: 個人檔案 / 頭像 - 火車上的抓拍人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -831,7 +1102,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 8: 個人檔案 / 頭像 - 超寫實韓系智慧型手機自拍
+### No. 15: 個人檔案 / 頭像 - 超寫實韓系智慧型手機自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -876,7 +1147,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 9: 個人檔案 / 頭像 - 訓練鏡面自拍時尚人像
+### No. 16: 個人檔案 / 頭像 - 訓練鏡面自拍時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -916,7 +1187,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 10: 個人檔案 / 頭像 - 高角度金髮自拍人像
+### No. 17: 個人檔案 / 頭像 - 高角度金髮自拍人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -950,7 +1221,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 11: 個人檔案 / 頭像 - 柔和辦公室肖像
+### No. 18: 個人檔案 / 頭像 - 柔和辦公室肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -990,7 +1261,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 12: 個人檔案 / 頭像 - 一致的時尚拼貼肖像
+### No. 19: 個人檔案 / 頭像 - 一致的時尚拼貼肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1101,7 +1372,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 13: 個人檔案 / 頭像 - 黃金時刻遊艇時尚人像
+### No. 20: 個人檔案 / 頭像 - 黃金時刻遊艇時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1135,19 +1406,19 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 14: 個人檔案 / 頭像 - 逼真東亞女性肖像
+### No. 21: 社群媒體貼文 - 寫實風格智慧型手機餐廳人像
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一份詳細的提示詞，用於創作一張逼真的東亞女性室內肖像，重點在於特定的服裝、姿勢和光影，以模擬智慧型手機拍攝的效果。
+生成一張寫實的、手持智慧型手機風格的女性餐廳照片，運用廣角鏡頭效果與自然光線，以減少 AI 生成的痕跡。
 
 #### 📝 提示詞
 
 ```
-創作一張 3:4 的逼真全身肖像，主角是一位極其美麗的成年 {argument name="ethnicity" default="東亞"} 女性，年齡約 20 多歲，站在安靜的現代走廊中，背景為溫暖的米色牆壁、簡約的木製扶手和柔和的吸頂燈。她擁有精緻可愛的日韓系外貌：柔和的圓潤鵝蛋臉、深褐色的大杏眼、細緻的眼線、紅潤的臉頰、小巧精緻的鼻子和水潤的粉色嘴唇。她的表情甜美、俏皮且帶有一絲羞澀，嘴角帶著溫柔的閉口微笑。她留著 {argument name="hair style" default="栗棕色短鮑伯頭"}，長度及下顎，配有輕盈的直瀏海，兩側有較長的髮絲修飾臉型。她擁有非常迷人的沙漏型身材，胸部豐滿、腰肢纖細、臀部圓潤寬闊，大腿線條豐滿勻稱，同時保持真實的成年女性生理結構。她穿著一件合身的 {argument name="clothing" default="白色羅紋掛脖迷你連身裙"}，領口高且有褶皺設計，無袖剪裁，不透明的彈性布料自然貼合她的身形。加上精緻的銀色手鍊和淺色美甲。精確重現以下姿勢：她面向鏡頭站立，臀部明顯向一側傾斜，雙膝併攏，上半身微微傾斜。一隻手臂水平橫跨腰間，支撐著另一側的手肘。抬起的手指輕輕點在臉頰上。她直視鏡頭，帶著甜美溫柔的微笑。休閒室內智慧型手機攝影風格，略低的正面拍攝角度，全身可見（從頭部到大腿中部），自然的皮膚紋理，溫暖的漫射光，帶有手機鏡頭特有的輕微柔焦感，真實的布料褶皺與身體比例。禁止動漫風格、CGI、塑膠感皮膚、變形的手部、多餘的手指，且畫面中不得出現任何文字、標誌或浮水印。
+垂直智慧型手機拍攝的餐廳隨拍人像，主角為一位 {argument name="age" default="年輕東亞女性"}，身材纖細勻稱，膚色呈現溫暖自然的白皙感，擁有精緻的鵝蛋臉、深褐色杏仁眼、柔和的自然眉型、清晰但不厚重的眼線、纖長睫毛，以及小巧筆挺的鼻子。淡珊瑚紅色的雙唇微微上揚，帶著放鬆自然的微笑。留著黑色長髮，部分髮絲垂落在肩上。配戴小巧耳環，身穿一件 {argument name="top" default="銀色亮片白色掛頸式迷你連身裙上衣"}，綴有細緻亮片，並戴著一條極細的銀色項鍊。坐在燈光溫暖的燒烤店內，靠在深褐色皮質卡座上，面向鏡頭並微微前傾，左手肘靠在桌上，左手掌輕托臉頰，右前臂靠在桌緣，直視鏡頭，表情柔和放鬆。雙腿自然地從桌下延伸向攝影師，雙腳交疊並放在攝影師的膝蓋上（穿著深灰色長褲）。腳趾放鬆，塗著 {argument name="nail art" default="Hello Kitty 圖案"} 的腳趾甲油，呈現輕微磨損與邊緣不均的質感。桌上擺放著一大盤蘑菇、數個黑色陶瓷碗、深色沾醬、木筷、小杯子以及一盤肉片。背景為深褐色皮質卡座、木質餐桌、粗糙的灰色水泥質感牆面、黑色天花板，以及數根垂直的銅色燒烤排煙管。主體位於畫面中央，頭部位於上方三分之一處，餐桌橫跨畫面中部。從桌下的雙腳延伸至底部攝影師膝蓋處的長焦透視感。3:4 比例，使用智慧型手機主鏡頭拍攝的特寫鏡頭，位置略低於視線水平並向下傾斜。24–28mm 等效廣角鏡頭，使前景的雙腳與膝蓋顯得較大，上半身較小，模擬真實的智慧型手機透視感。線條帶有輕微的廣角變形。中等深度的自然景深；臉部、餐具與前景的雙腳清晰，遠處的卡座與排煙管則略顯柔和。無人像模式的邊緣裁切或誇張的散景。混合溫暖白光聚光燈與吊燈的光線；臉部由前方頂部的柔和暖光照亮。額頭、鼻子、臉頰與肩膀上有高光。背景與桌下區域較暗。銅管與油亮的木桌上有暖色反光。中等對比度。色調為暖棕色、銅色、黑灰色、珍珠白、暖膚色與鮮綠色。自動白平衡略偏暖。呈現真實的毛孔、輕微的膚色不均、手臂關節紋理、自然的足部質感，以及木材、皮革、金屬、陶瓷與生菜的質感。具備標準 Android 旗艦機或 iPhone 主鏡頭的畫質。手持拍攝，運算攝影自動曝光，多幀夜景模式合成。輕微的自動 HDR 降低了高光眩光並提升了桌下陰影細節。動態範圍有限，陰影處帶有細微的高 ISO 雜訊。降噪處理帶來細微的紋理塗抹感。臉部與餐具邊緣有節制的數位銳化。前景銳利，遠處細節略顯柔和。帶有輕微的 JPEG 壓縮痕跡。自然的構圖偏差。無皮膚平滑處理、無美顏濾鏡、無商業修圖、無攝影棚燈光，不追求 8K 超銳利度。真實的智慧型手機照片，去除 AI 生成感，比例 4:5。
 ```
 
 #### 🖼️ 生成圖片
@@ -1155,234 +1426,55 @@ HDR，8K 解析度，高度細節化。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450512875_lihn6t_HNg06stXAAAhmfs.jpg" width="600" alt="個人檔案 / 頭像 - 逼真東亞女性肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784623708025_e52h1z_HNuGj7HboAEcXQe.jpg" width="600" alt="社群媒體貼文 - 寫實風格智慧型手機餐廳人像 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [John](https://x.com/johnAGI168)
-- **來源:** [Twitter Post](https://x.com/johnAGI168/status/2078469472008945840)
-- **發布時間:** 2026年7月18日
-- **多語言:** en
+- **作者:** [AiPic-Dressup Faceswap PhotoRestoe](https://x.com/AiPic_AiWaifu)
+- **來源:** [Twitter Post](https://x.com/AiPic_AiWaifu/status/2079413177310224780)
+- **發布時間:** 2026年7月21日
+- **多語言:** zh
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29079)**
-
----
-
-### No. 15: 個人檔案 / 頭像 - 四連拍攝影棚人像網格
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一套高端攝影棚人像組合，以紅色背景為襯托，呈現一位年輕女性四種不同姿勢的 2x2 網格排列。
-
-#### 📝 提示詞
-
-```
-一張高端攝影棚人像，主角為 {argument name="subject" default="同一位留著深色波浪長髮、平瀏海、擁有明亮藍眼睛的迷人年輕女性"}，身穿 {argument name="clothing" default="白色圖案 T 恤、銀色項鍊和手錶"}。她在 {argument name="background" default="平滑的純紅色背景"} 前拍攝了四種不同的姿勢：雙手捧臉表現驚訝、手指放在唇上做出「噓」的安靜手勢、雙手托腮呈現沉思表情，以及平靜地凝視並輕撫頭髮。影像以整齊的 2×2 網格排列，構圖置中，採用柔和的專業攝影棚燈光、85mm 人像鏡頭、淺景深、栩栩如生的皮膚細節、照片級真實感、超高細節、奢華編輯美學以及 8K 解析度。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450503305_lpwrhr_HNgxwETb0AA706k.jpg" width="600" alt="個人檔案 / 頭像 - 四連拍攝影棚人像網格 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450503028_23ebrd_HNgxwjpawAAMt-f.jpg" width="600" alt="個人檔案 / 頭像 - 四連拍攝影棚人像網格 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [WasifAI](https://x.com/doctorwasif)
-- **來源:** [Twitter Post](https://x.com/doctorwasif/status/2078465949045502046)
-- **發布時間:** 2026年7月18日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29063)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29292)**
 
 ---
 
-### No. 16: 個人檔案 / 頭像 - 藍調時刻陽台自拍人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一張真實的藍調時刻陽台自拍人像，具備自然的皮膚紋理與極簡風格的編輯文字疊加。
-
-#### 📝 提示詞
-
-```
-創作一張 4:5 比例的寫實風格手機自拍人像，場景設定在藍調時刻的戶外陽台。一位年輕的東亞女性，留著 {argument name="hair color and style" default="及肩深棕色凌亂髮型，搭配修飾臉型的柔和瀏海"}，採用廣角前鏡頭視角，呈現胸部以上的構圖，她的右手向鏡頭延伸，使袖口在前景顯得較大。她看向觀眾的右側，表情平靜且帶有一絲惆悵，雙唇水潤，妝容自然，皮膚紋理清晰可見，臉頰有細緻的高光，毛孔真實。她身穿 {argument name="outfit" default="米色羅紋露肩長袖針織衫"}，佩戴精緻的細項鍊與深綠色小圓圈耳環。光影：背景為深藍色的暮光天空與雲層，以及深色的樹影與陽台/建築燈光，但她的臉部與上半身由近距離柔和的手機補光/HDR 閃光燈照亮，保留了自然的膚色，鼻尖、嘴唇、臉頰與鎖骨處有細膩的反射高光，冷色調環境與暖色調前景形成鮮明對比。構圖：主體稍微偏右，頭部靠近上方三分之一處，肩膀呈對角線，陽台欄杆與深色屋頂向後延伸，具備淺景深與輕微的手機鏡頭畸變，高動態範圍，細節清晰真實，無美顏濾鏡的塑膠感。在左下方添加極簡風格的編輯文字疊加：精確顯示 2 行文字，內容為“{argument name="main label" default="WILDCORE / VOL.01"}”與“{argument name="caption line" default="TEST 02 / V01 / BLUE-HOUR FILL / NATURAL SKIN"}”；包含 2 個圖形元素：一條橫跨下方的細白色水平線，以及第一行文字下方左側的一個短橘色短橫線。使用簡潔、小字體的白色無襯線大寫字母，呈現電影感的生活攝影風格，自然色彩分級，無浮水印，無額外文字。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450568261_dph0m8_HNgr14caoAAuToy.jpg" width="600" alt="個人檔案 / 頭像 - 藍調時刻陽台自拍人像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [WILDCORE](https://x.com/wildcore_stuido)
-- **來源:** [Twitter Post](https://x.com/wildcore_stuido/status/2078459903241576944#reversed-0)
-- **發布時間:** 2026年7月18日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29154)**
-
----
-
-### No. 17: 個人檔案 / 頭像 - 黑白拍貼機聯絡表
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一張 16 格的黑白拍貼機聯絡表，同時嚴格保持參考照片中的人物特徵一致性。
-
-#### 📝 提示詞
-
-```
-使用上傳的人物照片作為嚴格的身分參考，建立一張 4x4 的方形黑白拍貼機聯絡表。在所有 16 張肖像中，精確保留其臉部特徵、可辨識的五官及髮型。統一設定為 {argument name="outfit" default="黑色 T 恤"}、{argument name="background" default="灰色背景"}，採用正面閃光燈、緊湊的頭肩構圖、自然的膚質、銳利的眼神、高對比度、細膩的類比顆粒感以及細白邊框。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450515524_uk9qt0_HNggCFBW0AA9PGN.jpg" width="600" alt="個人檔案 / 頭像 - 黑白拍貼機聯絡表 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450515538_e1u3e9_HNggCE1WgAAPSai.jpg" width="600" alt="個人檔案 / 頭像 - 黑白拍貼機聯絡表 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [H A J R A](https://x.com/codewithhajra)
-- **來源:** [Twitter Post](https://x.com/codewithhajra/status/2078446454029345158)
-- **發布時間:** 2026年7月18日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29082)**
-
----
-
-### No. 18: 個人檔案 / 頭像 - 半寫實時尚攝影棚封面
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張垂直的編輯雜誌封面風格圖像，呈現半寫實動漫風格的泳裝模特兒，置身於戲劇性的攝影棚陽光中。
-
-#### 📝 提示詞
-
-```
-創作一張垂直的時尚編輯封面圖像，主角是一位半寫實動漫風格的年輕女性，在陽光充足的攝影棚中擺出姿勢。她擁有 {argument name="hair color" default="黑色長捲髮"}、蒼白透亮的肌膚、精緻的五官、柔軟且有光澤的雙唇，以及冷靜而性感的表情。她穿著一件極簡風格的 {argument name="swimsuit color" default="黑色"} 高衩連身泳裝，配有細肩帶。她的姿勢為全身且優雅：赤腳站在白色的垂墜布料上，一膝向前彎曲，一隻手放在大腿上，另一隻手放在腰部/臀部，軀幹微微傾斜，頭部向觀看者傾斜。使用精緻的半寫實 AI 插畫渲染，結合時尚攝影燈光、平滑的肌膚高光、細膩的解剖結構風格化，以及精緻的漫畫美學。背景為溫暖的米色攝影棚牆面，帶有大型對角矩形陽光和強烈的窗框陰影；在右側牆面上加入她清晰的投影，並在地面上呈現白色布料的柔軟褶皺。在光線中加入細小的漂浮灰塵/閃光微粒。構圖仿照雜誌封面，在最上方使用大型白色高對比襯線字體作為刊頭，文字為 {argument name="studio name" default="CHIYF STUDIO"}。在刊頭下方，加入一條細水平線和小型大寫副標題文字：{argument name="tagline text" default="SEMI-REALISTIC AI VISUALS    EDITORIAL PORTRAITS • EST. 2026"}。將模特兒置於畫面中央，裁切範圍從頭部上方標題區域下方開始，至腳部結束，使用溫暖的中性色調，呈現高級編輯海報設計，不含額外標誌、浮水印或附加文字。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450562517_p33gim_HNgJPuJaEAA1_xa.jpg" width="600" alt="個人檔案 / 頭像 - 半寫實時尚攝影棚封面 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [千叶照相馆](https://x.com/Chiyeaiart)
-- **來源:** [Twitter Post](https://x.com/Chiyeaiart/status/2078421592409837809#reversed-0)
-- **發布時間:** 2026年7月18日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29148)**
-
----
-
-### No. 19: 個人檔案 / 頭像 - 動漫風 1500 慶祝草莓蛋糕
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張溫馨的動漫風格慶祝人像，描繪一位微笑的女孩展示著標有 1500 字樣的草莓蛋糕，非常適合作為粉絲里程碑的感謝視覺圖。
-
-#### 📝 提示詞
-
-```
-創作一張溫馨、電影感的動漫風格慶祝人像：一位美麗的年輕女性，擁有 {argument name="hair color" default="長波浪栗棕色頭髮"} 和金色雙眼，身體前傾靠在一塊巨大的圓形草莓鮮奶油蛋糕後方，溫柔地微笑並雙手張開向觀眾展示蛋糕。蛋糕覆蓋著鮮奶油、擠花裝飾和許多光澤飽滿的草莓；頂部用小紅草莓拼出巨大的數字 {argument name="cake number" default="1500"}，頂部邊緣圍繞著一圈草莓，側面則以切片草莓裝飾。她穿著露肩象牙白蕾絲洋裝，搭配精緻的花卉紋理、垂墜耳環和一條小金項鍊。場景設定在室內舒適的派對桌旁，鋪著蕾絲桌布，背景有琥珀色的光斑、柔和的漂浮閃光以及溫暖的背光。在左上方背景處，加入金屬古銅色氣球，上面有清晰可見的慶祝文字：{argument name="balloon text" default="1500 Thank you!!"}。在左上角加入小巧且半透明的浮水印文字 {argument name="watermark text" default="CapCut AI"}。採用 3:4 直式構圖、特寫視角、淺景深、豐富的金色高光、高度細緻的半寫實動漫渲染，營造浪漫的慶祝氛圍，且畫面中不包含其他角色。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450547843_k4sn30_HNgBFraasAAvZNS.jpg" width="600" alt="個人檔案 / 頭像 - 動漫風 1500 慶祝草莓蛋糕 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki)
-- **來源:** [Twitter Post](https://x.com/HarunagaMutsuki/status/2078412651630342343#reversed-0)
-- **發布時間:** 2026年7月18日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29125)**
-
----
-
-### No. 20: 個人檔案 / 頭像 - 日式房間裡的晨間肖像
+### No. 22: 社群媒體貼文 - 日式庭園時尚人像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-這是一份詳細的攝影提示詞，用於拍攝女性躺在日式床墊上的特寫肖像，捕捉晨光與障子門陰影交織的氛圍。
+一份詳盡的專業時尚攝影提示詞，以日式庭園中的女性為主題，重點呈現質感、光影與構圖。
 
 #### 📝 提示詞
 
 ```
-主題：
-晨光映照
-
 主體：
-垂直 4:5 比例。一位年輕女性仰躺在白色日式床墊上的特寫肖像，取景範圍從胸部到頭部。人物位於畫面中央，臉部約佔總面積的三分之一，肩膀與手臂自然向下延伸。頭部上方留有白色枕頭與榻榻米的邊緣。
+{argument name="theme" default="白色布結"}
 
-人物/表情：
-擁有年輕且自然面容的女性。圓潤的臉頰、精緻的鼻樑、柔和的下顎線，以及半透明的棕色雙眼。淡珊瑚色腮紅、淺米棕色眼妝，以及霧面粉米色唇彩。嘴唇微張，以放鬆平靜的表情直視鏡頭。髮型為肩長鮑伯頭，髮色為 {argument name="hair color" default="深棕色"} 近乎黑色。髮尾微微向內外捲曲，稀疏的空氣瀏海自然垂落在額頭上。
+主要對象：
+一張寫實的 3:4 直式時尚人像，捕捉一名成年女性的背影，她正站在 {argument name="garden" default="鬱鬱蔥蔥的日式庭園"} 的池塘邊。主體佔據畫面中右側的大部分區域，取景範圍從頭頂至大腿。她背對鏡頭，上半身微微向右扭轉，透過右肩露出精緻的側臉。
 
-服裝/姿勢：
-穿著 {argument name="clothing" default="帶有精緻米色蕾絲的細肩帶背心"}，外罩一件白色薄紗開襟衫。身體線條呈現健康成熟女性的自然曲線，不過度誇張。雙臂向鏡頭方向延伸，營造出如同自拍般的距離感。肩膀略顯不對稱，衣物布料隨著手臂動作產生細微皺褶。
+人物與表情：
+一位散發自然平靜氣質的成年女性。她的頭髮是具光澤的 {argument name="hair color" default="深棕色"} 短層次鮑伯頭，長度從下顎延伸至頸後。髮尾微微外翹，留有薄瀏海，臉頰兩側有細碎的髮絲。淡粉棕色眼妝、纖細自然的睫毛、柔和的眉毛以及細緻的玫瑰米色唇色。她的臉微微向下傾斜，眼神安靜地投向右下方，表情沉思，嘴唇放鬆。
 
-背景/光影：
-一個安靜的 {argument name="room type" default="日式房間"}，鋪設榻榻米並裝有木框障子門。白色日式床墊與枕頭佔據畫面大部分空間，右上角為障子門，左上角為沉穩的土牆。晨光透過障子門的縫隙斜射而入，在額頭、單眼、臉頰、頸部與胸口形成細長的條狀光影。光線帶有暖意，柔和的陰影向左下方延伸。白色寢具反射出的微光提亮了臉部的陰影側。
+服裝與姿勢：
+一件由層疊的輕薄象牙白雪紡製成的長裙。設計特色為從肩膀處大露背；半透明的外層面料內襯優雅的膚色不透明內裡，在自然遮蓋必要部位的同時，隱約勾勒出身體輪廓。兩側的面料在背部中央、腰部上方一點的位置打成一個厚實的結，長長的布尾向下垂落。她的右手臂自然垂在身側，右手輕捏裙擺。左手臂收在身側的布料中。重心落在左腿，造成肩膀高度的些微差異。
 
-構圖/攝影：
-垂直構圖，從略高處俯拍。相當於 85mm 鏡頭的自然壓縮感，精準對焦於臉部與雙眼。胸部以下區域輕微模糊，確保頭部上方與兩側留有空間。構圖並非完全對稱，光影條紋垂直劃分了畫面中心。背景透過淺景深進行了細膩的模糊處理。
+背景與光影：
+畫面左側是倒映著樹影的平靜池塘，右側是覆滿青苔的天然石塊與古老木造建築的緣側。背景可見障子門、柱子與深綠色的樹木，構成寧靜的日式庭園。溫暖的晨光從左上方照射，柔和地照亮髮絲輪廓、頸後、肩膀與上背部。陰影處加入了來自池塘的淡淡藍綠色反射光，陽光透過樹葉在岩石與緣側上形成斑駁的光點。
 
-質感/風格：
-寫實的日式生活攝影。細膩描繪自然的肌膚紋理、細微的汗毛、根根分明的髮絲、薄紗與蕾絲的透光感，以及白色日式床墊的柔軟纖維。低對比度、溫暖的高光與淡淡的底片顆粒感。避免過度的磨皮或塑膠感，呈現出靜謐雜誌肖像的質感。
+構圖與攝影：
+3:4 直式構圖。人物臉部位於中上方偏右，背部與布結位於中心。左側大面積留白呈現明亮的水面，右側緣側與石造建築的對角線營造出空間深度。相機位置在人物後方偏右，約莫肩膀高度。等效 85mm 中長焦鏡頭，淺景深。焦點對準臉部、髮絲輪廓、肩膀與布結，池塘與建築則呈現柔和的模糊效果。
+
+質感與風格：
+優雅的日式時尚攝影。保留細膩的皮膚紋理，避免過度的磨皮修飾。精準描繪雪紡透光感、重疊布料的陰影、細微皺褶、布結的厚度以及髮絲的自然光澤。以白色與淺膚色為中心，結合深綠色背景、深棕色木材與藍綠色水面。柔和的對比度、自然的立體感，呈現出雜誌等級的寧靜質感。
+
+負面提示詞（Negative）：
+未成年外貌、過度暴露、露骨裸露、不自然的臉部、不自然的視線、多指、缺指、肢體融合、關節斷裂、布料與身體接觸不良、不自然的結、漂浮的布料、肩膀不對稱、透視錯誤、光影不一致、過度磨皮、塑膠感皮膚、亂碼文字、標誌、浮水印。
 ```
 
 #### 🖼️ 生成圖片
@@ -1390,95 +1482,431 @@ HDR，8K 解析度，高度細節化。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450525500_6o1gzm_HNfTgZDa4AA-Jec.jpg" width="600" alt="個人檔案 / 頭像 - 日式房間裡的晨間肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [lovimg_com](https://x.com/lovimg_com)
-- **來源:** [Twitter Post](https://x.com/lovimg_com/status/2078362315544764888)
-- **發布時間:** 2026年7月18日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29095)**
-
----
-
-### No. 21: 社群媒體貼文 - 低角度屋頂時尚攝影
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一個詳細的時尚攝影提示詞，描繪了一位身著優雅服飾的女性在屋頂露台上的場景，採用低角度廣角視角，呈現出乾淨的夏季美學。
-
-#### 📝 提示詞
-
-```
-主題：雙腿向天空延伸。
-
-主體：一張 9:16 的垂直時尚攝影照片，描繪了一位 {argument name="character" default="虛構的成年女性"} 在光亮的屋頂露台上低姿蹲伏，背景為晴朗的天空。主體主要位於畫面中心偏右側，佔據約 80% 的構圖。一條腿向前伸展並穿著黑色高跟鞋，呈現得最為突出，視線流向另一條彎曲的腿、上半身及藍天。
-
-人物/表情：一位自然、優雅的成年女性。她擁有成熟的女性立體身材、纖細的腰身、修長的雙腿和柔和的身體線條。深棕色頭髮鬆散地低綁，臉頰旁留有細碎的髮絲。淡珊瑚色腮紅、精緻的眼妝，以及自然光澤的粉米色嘴唇。她的臉朝向畫面左下方，安靜地注視著自己的雙腳。嘴角帶著一抹極其細微的微笑。
-
-服裝/姿勢：{argument name="clothing" default="一件象牙白細羅紋深 V 領長袖交叉上衣"}。領口自然敞開以展現女性線條，具有清晰的布料重疊感和細微皺褶。黑色高腰短褲，亮面黑色尖頭高跟鞋。頭戴一頂無標誌的圓頂報童帽。左手手指張開放在地板上，右手輕觸後腦勺。一側膝蓋靠近胸部抬起，另一條腿向內彎曲，以臀部和放在地板上的手支撐體重。自然呈現腳底與地板、指尖與地板的接觸感。
-
-背景/光影：背景為 {argument name="sky condition" default="鮮豔的鈷藍色天空與白色積雲"}，沒有建築物或招牌。地板為淺灰色拋光大理石風格板材，隱約反射出天空、人物的手部、鞋子和腿部。陽光從左上方的高處照射，在肩膀、鎖骨、手臂和腿部前方形成強烈的白色高光。人物的陰影向右下方延伸，鞋子的漆皮表面反射出藍天與白光的狹長光影。空氣乾燥且透明，營造出強烈的仲夏陽光感。
-
-構圖/相機：9:16 垂直構圖。從貼近地板的極低位置向上拍攝的低角度鏡頭，具有相當於 24-28mm 的廣角感。透視效果使前景的高跟鞋和腿部顯得較大，臉部和上半身略小。頭頂上方保留約 20% 的藍天留白，確保鞋尖不會在底部邊緣被裁切。焦點精確對準臉部和上半身，同時保持前景鞋子的輪廓清晰可見。背景雲層略微柔化。
-
-質感/風格：一張明亮、乾淨且寫實的照片，讓人聯想到夏季時尚雜誌。精確描繪自然的皮膚紋理、鎖骨與膝蓋的立體感、細微的汗毛、羅紋針織衣物、地板反射及漆皮光澤。以白色、黑色和藍色為基調，保持高透明度和適度的對比度。避免過度的皮膚修圖或人工光澤，呈現出真實戶外攝影特有的質感。
-
-負面提示詞：未成年人、不自然的臉部、多餘的手指、手指缺失、手腳融合、關節斷裂、腿部扭曲、鞋子與腳部接觸不良、漂浮、不自然的重力、透視錯誤、陰影與光源矛盾、過度皮膚修正、塑膠感皮膚、文字、標誌、浮水印。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537327767_er8aka_HNjJl3kaYAAYShS.jpg" width="600" alt="社群媒體貼文 - 低角度屋頂時尚攝影 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784623717249_8l7981_HNjQDqabwAA26Kp.jpg" width="600" alt="社群媒體貼文 - 日式庭園時尚人像 - Image 1">
 </div>
 
 #### 📌 詳情
 
 - **作者:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **來源:** [Twitter Post](https://x.com/CyberTotal2026/status/2079011407383712218)
+- **來源:** [Twitter Post](https://x.com/CyberTotal2026/status/2079375808519680166)
+- **發布時間:** 2026年7月21日
+- **多語言:** ja
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29305)**
+
+---
+
+### No. 23: 社群媒體貼文 - 六角恐龍 Kigurumi 時尚海報
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+創作一張粉嫩色系的日本街頭時尚雜誌海報，展示可愛的六角恐龍主題 Kigurumi 穿搭，並附帶風格標註說明。
+
+#### 📝 提示詞
+
+```
+目標：創作一張直式日本 Kawaii 風格時尚雜誌海報，展示一名年輕女性在柔焦的住宅區人行道上，穿著六角恐龍靈感的「Kigurumi 日常穿搭」全身照。
+
+畫布：直式 2:3 構圖，輕盈的粉嫩色系編輯風格，明亮的自然日光，淺景深，背景為帶有植物與公寓牆面的柔和米色城市街道。將主體置於稍微偏右的位置，從頭套到鞋子全身可見。
+
+主體細節：一位可愛的年輕女性，留著飄逸的深棕色長髮與瀏海，皮膚白皙，妝容柔和，表情溫柔，邊轉圈邊微微抬頭看向側方。她戴著粉色六角恐龍頭套，頭套上有黑色鈕扣般的眼睛與六片毛茸茸的鰓狀裝飾；身穿淺粉色短版水手風上衣，配有海軍藍水手領與蝴蝶結、寬大的蓬蓬袖；下著海軍藍百褶迷你裙，裙擺有粉色荷葉邊與細小的星星細節；穿著白色過膝襪，配有粉色吊帶蝴蝶結；腳踩厚底黑色瑪莉珍鞋，鞋上裝飾著小巧的粉色花朵吊飾。在她的臀部側邊，掛著一個圓形的粉色六角恐龍肩背包，包上有笑臉圖案，並附有一個長長的彎曲尾巴造型小包。
+
+時尚標註說明：在右側加入精確的 5 個箭頭標註，分別指向以下項目：1) 六角恐龍頭套，2) 蓬鬆水手風上衣，3) 海軍藍與粉色荷葉邊裙，4) 尾巴造型包，5) 厚底鞋。使用細緻的手繪粉色箭頭與圓潤的日文註解文字。
+
+文字內容：左側為大型直式日文標題 {argument name="main vertical title" default="着ぐるみさんの日常"}。最左側為一個圓潤的直式側邊標籤 {argument name="sidebar slogan" default="私は毎日フワッとスタイル"}。左下角為精緻虛線框內的直式說明文字 {argument name="bottom caption" default="ふわふわ可愛い着ぐるみで、今日もごきげんにおでかけ♪ ピンクとネイビーの魔法で、"}。右側標註文字應為 {argument name="callout labels" default="ウーパールーパーフード｜ふわっとセーラートップス｜ネイビー×ピンクのフリルスカート｜しっぽつきバッグ｜厚底シューズ"}。在標題區域周圍加入白色閃亮塗鴉、虛線圈與小花圖示。
+
+視覺風格：照片級寫實的時尚編輯風格，融合可愛的日本雜誌平面設計，粉嫩色與海軍藍配色，柔和光暈，乾淨的排版，細膩的裝飾筆觸，高細節的布料質感，展現奇幻感但保持時尚，而非過於誇張的戲服感。
+
+限制：僅限一位模特兒，僅限一個六角恐龍頭套，僅限一個圓形六角恐龍包，僅限一個尾巴造型小包，精確 5 個標註箭頭。畫面中不得出現其他人、浮水印、標誌，海報內不得出現任何英文字母。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623724909_0o6b8o_HNtCT8tbwAEjofd.jpg" width="600" alt="社群媒體貼文 - 六角恐龍 Kigurumi 時尚海報 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [iX｜AIART/AIMOVIE【2nd】](https://x.com/iX00AI2)
+- **來源:** [Twitter Post](https://x.com/iX00AI2/status/2079328569592037874#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29314)**
+
+---
+
+### No. 24: 社群媒體貼文 - 古村落中的超寫實東亞時尚人像
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一份精細的電影感提示詞，用於生成一位東亞女性在江南水鄉古鎮的頂級時尚人像，展現精緻的蕾絲質感與自然光影。
+
+#### 📝 提示詞
+
+```
+超寫實垂直全身戶外時尚人像。一位 {argument name="subject" default="時尚的年輕東亞女性"} 站在 {argument name="background scene" default="狹窄的歷史古村落巷弄"} 中央，面向鏡頭。畫面從頭頂到小腿中部——褲子下擺延伸至螢幕邊緣之外。頭部位於螢幕中上方，軀幹沿著中央垂直軸線，周圍保留足夠的建築環境以建立場景感。姿勢放鬆，一側臀部微傾，雙臂自然下垂，雙手靠近大腿上部。頭部輕微向右肩傾斜，直視鏡頭，帶著溫暖自然的微笑。主體：身材纖細優雅，膚色溫潤白皙，五官精緻，杏仁狀深褐色雙眸，柔和的拱形眉毛，鼻樑挺拔，唇色為自然的玫瑰紅。表情親切、寧靜且平易近人——非刻意擺拍。極簡妝容：透亮的自然膚質，淺桃色腮紅，細棕色眼線，柔軟睫毛，中性色眼影，亮珊瑚粉唇色。真實皮膚紋理，細微毛孔，精緻的面部高光，平滑且逼真的色彩過渡。髮型：極長且濃密的深棕黑色秀髮延伸至腰部以下——鬆散的自然波浪捲，中分，頭頂具備柔和的蓬鬆感。大部分頭髮垂落在左肩並沿著軀幹前側流動；另一束長髮流向右臂後方。額頭與臉頰周圍的細碎髮絲暗示著戶外的微風。柔和的邊緣光突顯出單根髮絲，且無人工光澤。服裝：合身的 {argument name="clothing color" default="裸米色"} 蕾絲吊帶背心——極細肩帶，柔和的扇形領口，精緻的全蕾絲花卉圖案，包含細緻的藤蔓交織、圓圈與刺繡花朵。同色系膚色米色內襯——精緻的同色調效果，無透視感。貼合身形，長度至自然腰線，具備真實的張力、細小褶皺與可見的蕾絲浮雕感。高腰象牙白或暖奶油色寬褲——腰頭位於背心下方，優雅的前褶開口形成寬鬆的垂直褶皺，褲管寬大，垂墜感流暢。色調為微暖的灰白色而非純白；細緻的編織紋理，褶皺處有柔和陰影，腰部與臀部有自然的皺褶。配飾：小巧閃亮的金色吊墜項鍊——細鍊上掛著圓形抽象吊墜，位於胸部上方。精緻低調的耳釘。每隻手腕各戴一條細金手鍊，其中一側手腕附近另有一條極細手鍊。指甲修剪整齊，塗抹淺中性色指甲油。雙手解剖結構準確：手指放鬆，關節真實，間距自然。場景：寧靜的江南水鄉或歷史古村落巷弄。一條古老的長方形灰石板路從前景下方延伸至遠處——路面不平且飽經風霜，縫隙不規則，帶有淡淡青苔與細小裂紋，呈現低調的米灰色變化。石板路作為強烈的引導線，將視線引向巷弄深處。左側：靠近鏡頭的高大淺色粉刷牆面——帶有細微污漬、變色與老化痕跡。女性左肩後方：精緻傳統廊屋下的深色木門，帶有雕刻結構細節。左邊緣處，粗糙的凸起石花盆中種植著茂盛的綠色灌木。右側：帶有深色瓦片的白色粉刷建築，嵌入式門框，石基座，狹窄的懸挑屋簷——建築向中央背景延伸，形成柔和模糊的廊道。背景上方，幾棵成熟的綠樹高出屋頂——低調的橄欖綠與鼠尾草綠自然地融入奶油色牆面與灰色屋頂中。淺景深：女性清晰銳利，近處的建築邊緣保留部分紋理，遠處的門框、屋頂與植被轉化為奶油般的散景光斑。保留足夠可辨識的建築結構，以傳達真實的歷史古村落氛圍。光影：來自左上方與前方的柔和漫射晨光，透過薄雲過濾——在額頭、臉頰、鼻樑、鎖骨、肩膀、蕾絲上衣與前臂上形成精緻的高光。髮絲邊緣有內斂的暖色輪廓光。下顎、頭髮與褲褶下方有柔和的開放式陰影。無強烈直射陽光或濃重的投影。色調：奶油白、裸米色、淺石灰、風化炭灰、低調綠、柔棕、內斂金。透亮的暖膚色，無橘色飽和度。柔和的電影感色調，平滑的高光過渡，背景色彩略微低調，對比度通透優雅。相機：腰部至胸部高度，全片幅 85mm，f/2–f/2.8，淺景深，焦點精準對焦於雙眼與蕾絲紋理，背景分離感平滑。頂級生活時尚或精緻旅遊攝影品質——自然、優雅、浪漫、精緻。負面提示：無文字，無標誌，無浮水印，無額外人物，無現代車輛，無街道標誌，無雜亂電線，無誇張的濃妝，無塑膠感皮膚，無畸形手指，無重複肢體，無畸形建築，無過度飽和色彩，無人工 HDR，無強烈攝影棚燈光。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623713498_mbeuza_HNsjVp2XkAAWtSw.jpg" width="600" alt="社群媒體貼文 - 古村落中的超寫實東亞時尚人像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623713480_n6gfc9_HNsjVpwXUAAR7uv.jpg" width="600" alt="社群媒體貼文 - 古村落中的超寫實東亞時尚人像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623713473_a7uzii_HNsjVprX0AArOvF.jpg" width="600" alt="社群媒體貼文 - 古村落中的超寫實東亞時尚人像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623714974_3p2ajr_HNsjVqnWYAAjCn8.jpg" width="600" alt="社群媒體貼文 - 古村落中的超寫實東亞時尚人像 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [ToroJushiAi](https://x.com/ToroJushiAi)
+- **來源:** [Twitter Post](https://x.com/ToroJushiAi/status/2079325485708763543)
+- **發布時間:** 2026年7月20日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29300)**
+
+---
+
+### No. 25: 社群媒體貼文 - 黑白烘焙坊街頭人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一張寫實的 35mm 單色街頭攝影作品，捕捉了一位女子在反光的烘焙坊櫥窗旁查看手機的瞬間。
+
+#### 📝 提示詞
+
+```
+創作一張黑白 35mm 紀實風格的街頭攝影作品，拍攝一位安靜的年輕東亞女性，她正站在繁忙城市中的烘焙坊櫥窗旁。她留著 {argument name="hair color" default="黑色長髮"}，戴著圓形深色墨鏡，身穿寬鬆的白色襯衫並捲起袖子，搭配高腰深色牛仔褲、黑色皮帶和一只小型手錶。她雙手拿著智慧型手機，低頭平靜地注視著，表情內斂而沉思。烘焙坊的櫥窗沿著畫面左側呈對角線延伸，玻璃後方的托盤裡擺滿了各式糕點與甜甜圈；玻璃映照出女子、街道以及窗外模糊行人的層疊倒影。構圖採用 2:3 垂直比例，從頭部到臀部的中景全身剪裁，將女子置於畫面偏右側，糕點櫃佔據左側三分之一。運用淺景深、柔和的自然窗光、明顯的底片顆粒感、高對比的單色調、寫實的反射效果、柔和的散景，營造出自然隨性的城市街拍氛圍。城市背景應呈現出喧鬧擁擠的感覺但保持失焦，而她本人則顯得靜謐安詳。畫面中不含文字、標誌、浮水印，亦不使用人工美化光效。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623735867_6vxtz5_HNsCOXkawAAO8cR.jpg" width="600" alt="社群媒體貼文 - 黑白烘焙坊街頭人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [小森映像](https://x.com/komorimedia)
+- **來源:** [Twitter Post](https://x.com/komorimedia/status/2079258189338656981#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29328)**
+
+---
+
+### No. 26: 社群媒體貼文 - 超廣角貓咪亂入自拍
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個充滿趣味與創意的提示詞，能生成一張爆笑的廣角自拍。畫面捕捉了一個人正在大笑，而一隻橘貓調皮地將臉貼在鏡頭上，場景設定在溫馨的咖啡廳中。
+
+#### 📝 提示詞
+
+```
+一張爆笑的 0.5 倍超廣角低角度自拍，被一隻 {argument name="pet" default="寵物"} 亂入。一隻巨大的 {argument name="pet description" default="毛茸茸的橘貓"} 將牠巨大的粉紅色鼻子和鬍鬚直接貼在鏡頭上，佔據了畫面大部分區域，呈現出柔和模糊的細節。在貓咪身後，一位 {argument name="person description" default="留著及肩黑髮的開朗年輕女性"} 穿著舒適的米色針織毛衣，正無奈地大笑。他們坐在一家溫馨且充滿美感的咖啡廳裡，周圍有木質家具、懸掛的植物、糕點以及柔和的午後金黃色光線。彎曲的透視感、休閒的生活切片、不經意的瞬間、高 ISO 手機攝影、自然的瑕疵。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623716834_56nqyj_HNr2WUIWUAAdqyO.jpg" width="600" alt="社群媒體貼文 - 超廣角貓咪亂入自拍 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623716881_804aqb_HNr2W0VWsAA8-5F.jpg" width="600" alt="社群媒體貼文 - 超廣角貓咪亂入自拍 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Simply Ray](https://x.com/kingofdairyque)
+- **來源:** [Twitter Post](https://x.com/kingofdairyque/status/2079245059502026812)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29303)**
+
+---
+
+### No. 27: 社群媒體貼文 - 黑白街頭時尚快照
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一份詳盡的紀錄片風格提示詞，用於創作高對比度的黑白街頭攝影作品，捕捉城市麵包店櫥窗前的時尚女性，強調寫實質感與底片顆粒感。
+
+#### 📝 提示詞
+
+```
+一張寫實的黑白街頭時尚快照，比例 2:3 直式。一位 {argument name="subject" default="時尚年輕女性"} 站在 {argument name="setting" default="小型城市麵包店"} 內或櫥窗旁。取景範圍從大腿中部到頭部上方。主體佔據畫面右側三分之二，左側三分之一為麵包展示櫃，營造出層次豐富的環境人像。近景，自然的平視視角，身體略微向左傾斜，與玻璃櫃檯平行。主體：黑色長直髮中分，自然垂落在肩膀至胸部以下。髮質柔順但不刻意造型，臉頰周圍有幾縷散落的髮絲。圓形深色墨鏡，配有細金屬鏡框——鏡片上隱約反射出麵包店內部與窗外光線。視線微微向下注視手中的智慧型手機。表情冷靜、專注且帶有一絲滿足——嘴唇放鬆，隱約帶著微笑。服裝：一件 {argument name="outfit" default="淺色寬鬆襯衫"}，採用柔軟的棉質或亞麻布料——尖領，可見胸前口袋，布料略帶皺褶，袖子隨意捲至手肘下方。自然垂墜，在肩膀、手肘、腰部及紮入處呈現真實的褶皺。深色高腰牛仔褲或長褲，配有深色皮帶及簡約的矩形金屬扣。左手腕佩戴一款優雅的復古類比手錶，配有細金屬鍊帶。所有配飾均走極簡風格。智慧型手機：雙手持於腰部高度，橫向略微向上傾斜，呈現正在打字或閱讀的姿勢。精準的手部細節：真實的手指間距、自然的關節、短指甲，無解剖結構扭曲。展示櫃：大型玻璃糕點櫃從左下角前景斜向延伸至左上角背景。金屬托盤上擺放著甜甜圈、糕點、貝果及糖霜烘焙品。近處的糕點清晰可辨但略帶柔焦——反光的糖霜、不規則的手工表面、撒上的糖粉以及偶爾出現的紙襯。玻璃上有反光、指紋、淡淡的條紋及層疊的內部形狀。背景：女性身後及透過反光玻璃可見密集的城市街道——模糊的行人、店面、招牌、燈光與建築輪廓。所有背景人物皆為匿名且呈現強烈的散景效果。左上角與中上角背景有明亮的圓形散景亮點與漫射反光。充滿活力的都會感；無可辨識的品牌名稱或地點。構圖：經典紀錄片風格——女性在忙碌且模糊的背景中顯得格外突出。展示櫃作為強烈的對角線引導線，從左下角延伸至她的手部與臉部。頭部位於右上象限；智慧型手機作為底部中央附近的次要焦點。略顯不對稱，自然的快照式取景，非刻意的姿勢。黑白影調：豐富且寬廣的灰階範圍——頭髮、墨鏡、長褲與陰影處呈現深黑色；襯衫與皮膚亮部呈現明亮的淺灰色；玻璃、糕點與城市反光處呈現層次分明的中間灰。強烈且受控的對比度，細膩的陰影細節，柔和的亮部過渡，以及輕微粗糙的類比底片顆粒質感。光線：透過店面櫥窗的漫射日光——前左方柔光照射在額頭、顴骨、鼻樑、嘴唇、襯衫領口、手部與手錶上。頭髮與身體右側有較深的陰影。無強烈閃光燈或美顏光效。窗戶與玻璃反光疊加在主體部分，但不遮擋臉部。相機：經典 35mm 黑白底片質感，約 50mm 全片幅鏡頭，中等光圈，淺至中等景深。臉部、墨鏡、手部、襯衫與手機清晰銳利；前景糕點與遠處街道逐漸模糊。細膩的銀鹽顆粒質感，亮部散景周圍有輕微光暈，細微暗角，真實的玻璃反光，以及柔和的邊緣處理。氛圍：擁擠城市中的親密都市孤獨感，時尚且不費力，安靜的專注，懷舊的紀錄片真實感，以及精緻的街頭攝影風格。負面提示：無色彩，無文字，無可讀招牌，無浮水印，無標誌，無額外清晰對焦的人物，無攝影棚背景，無誇張笑容，無濃妝，無塑膠感皮膚，無扭曲的眼鏡，無畸形手部，無多餘手指，無重複的糕點，無過度模糊主體，無人工 HDR 效果。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623715283_a799m6_HNl-ZL6XEAApOjV.jpg" width="600" alt="社群媒體貼文 - 黑白街頭時尚快照 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623715172_xj4m13_HNl-ZMDWsAAQKUx.jpg" width="600" alt="社群媒體貼文 - 黑白街頭時尚快照 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623715192_79i1vy_HNl-ZMAWEAAaSUS.jpg" width="600" alt="社群媒體貼文 - 黑白街頭時尚快照 - Image 3">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [ToroJushiAi](https://x.com/ToroJushiAi)
+- **來源:** [Twitter Post](https://x.com/ToroJushiAi/status/2079234885492085097)
+- **發布時間:** 2026年7月20日
+- **多語言:** zh
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29301)**
+
+---
+
+### No. 28: 社群媒體貼文 - 頑皮的小怪獸手足
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一幅充滿奇趣的水彩拼貼插畫，描繪兩位幼兒手足化身為快樂的小怪獸，周圍環繞著夏季玩具與混亂的家庭生活元素。
+
+#### 📝 提示詞
+
+```
+創作一幅垂直構圖的奇趣家庭生活插畫，採用半透明水彩與剪紙拼貼風格，呈現兩名幼童化身為深鈷藍色剪影的頑皮小怪獸。年長的孩子約 {argument name="older child age" default="3 歲"}，位於畫面中左側，體型較大，赤腳，穿著短袖上衣與短褲，一隻膝蓋高高抬起，彷彿正在跺腳或跳舞，嘴巴張開作咆哮狀，雙手如爪子般舉起，頭上有兩隻白色小惡魔角，一條長長的捲曲怪獸尾巴向左延伸。年幼的孩子約 {argument name="younger child age" default="快 1 歲"}，位於右下方，體型較小，赤腳，穿著荷葉邊連身衣，雙手舉起，仰望著年長的孩子，頭上同樣有兩隻白色小角。背景使用明亮的背光白至水藍色漸層，充滿活力的藍色潑墨、氣泡、顏料滴、鋸齒狀漫畫爆破圖形，以及邊緣處的熱帶葉片剪影。畫面中需包含精確 8 個鮮明的趣味周邊物件：右上側附近 1 個紅色尖刺卡通怪獸、右上角 1 個帶有長光芒的黃色太陽、右側 1 把藍橘色水槍、中右側 1 個黃色幽靈怪獸、左下中心 1 個紅色海星、左下角 1 雙淺藍色幼兒鞋、左下角 1 片西瓜，以及底部中心附近 1 個深藍色尖刺怪獸頭。在左上、右上、右側邊緣及左下角加入深藍色葉片陰影，營造夏季戶外氛圍。孩子們保持剪影風格，但需帶有柔和的邊緣光與清晰的輪廓；整體氛圍要呈現混亂、歡樂、溫馨且懷舊的感覺。在右下角加入小巧的手寫藝術家簽名與日期 {argument name="date text" default="2026 年 7 月 20 日"}。除此之外不要有任何文字、不要寫實風格、不要粗硬的輪廓線，也不要增加其他兒童。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623743965_r9ekyg_HNrkn1bbMAA5AmU.jpg" width="600" alt="社群媒體貼文 - 頑皮的小怪獸手足 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [おやぎ](https://x.com/bikurin59)
+- **來源:** [Twitter Post](https://x.com/bikurin59/status/2079225558836371480#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29342)**
+
+---
+
+### No. 29: 社群媒體貼文 - 動漫海灘角色重繪
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+將參考的動漫海灘角色轉化為更具動態感、光澤感的夏季插畫，呈現俏皮姿勢與戲劇性的展開雙翼。
+
+#### 📝 提示詞
+
+```
+以提供的參考圖像作為角色基礎，將同一位動漫海灘角色重新繪製為精緻的高解析度插畫，並採用更近距離、更具動態感的正面構圖。保留其核心特徵：雙色鮑伯頭、紅眼、圓框眼鏡、黑色翅膀、黑金配色泳裝以及金色涼鞋，但將人體結構與服裝優化為更具戲劇性的光澤感動漫風格。
+
+姿勢與構圖：調整姿勢，讓角色向前傾身面對觀者，並露出開朗的露齒微笑。一隻手輕觸或調整臉旁的眼鏡，另一隻手臂向側邊伸展以保持平衡，一條腿向後抬起，呈現俏皮的海灘姿態。將翅膀放大，使其在畫面中完全展開，幾乎延伸至邊緣。
+
+場景與細節：保留熱帶海灘背景，但將海洋調整為更鮮豔的綠松石色，天空則為更深邃的亮藍色，並配上大朵蓬鬆的白雲。從左上方加入更強烈的陽光，呈現可見的鏡頭光暈、閃爍的水面高光、漂浮的水滴與氣泡，並在底部沙灘附近加入小水花。在地平線兩側加入遠處的綠色島嶼或海岸線。
+
+風格：創作一幅充滿活力、具光澤感且細節豐富的動漫插畫，具備清晰的線條、飽和的色彩、電影級光影、柔和的肌膚陰影、細緻的羽毛紋理以及閃耀的夏季氛圍。避免出現文字、標誌、邊框或浮水印。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623738415_w7ma6o_HNri3nya0AAX4_b.jpg" width="600" alt="社群媒體貼文 - 動漫海灘角色重繪 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [86 - yum 🐟🐈 ねこ担当 (Chief Tuna Officer)](https://x.com/86_yum_neko)
+- **來源:** [Twitter Post](https://x.com/86_yum_neko/status/2079224049142755765#reversed-1)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29333)**
+
+---
+
+### No. 30: 社群媒體貼文 - 提示詞：
+
+用戶上傳的人像作為唯一人物身份參考，生成一張獨立豎版音樂海報。成年女性，長黑髮，佩戴藍色
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+null
+
+#### 📝 提示詞
+
+```
+用戶上傳的人像作為唯一人物身份參考，生成一張獨立豎版音樂海報。成年女性，長黑髮，佩戴藍色小花髮夾，穿淺藍色針織開衫與白色蕾絲連衣裙，手中拿著一把白色或冰藍色電吉他。保留人物自然真實的五官與皮膚質感，表情溫柔、夢幻、略帶情緒感，動作舒展自然，不僵硬、不刻意挑逗。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623720869_no1303_HNre7Udb0AAdS-S.jpg" width="600" alt="社群媒體貼文 - 提示詞：
+
+用戶上傳的人像作為唯一人物身份參考，生成一張獨立豎版音樂海報。成年女性，長黑髮，佩戴藍色 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623720892_qu3f1n_HNre7USbMAATibV.jpg" width="600" alt="社群媒體貼文 - 提示詞：
+
+用戶上傳的人像作為唯一人物身份參考，生成一張獨立豎版音樂海報。成年女性，長黑髮，佩戴藍色 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623720905_m073m9_HNre7UTagAMw478.jpg" width="600" alt="社群媒體貼文 - 提示詞：
+
+用戶上傳的人像作為唯一人物身份參考，生成一張獨立豎版音樂海報。成年女性，長黑髮，佩戴藍色 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623721948_iuxdd3_HNre7UsbwAANsol.jpg" width="600" alt="社群媒體貼文 - 提示詞：
+
+用戶上傳的人像作為唯一人物身份參考，生成一張獨立豎版音樂海報。成年女性，長黑髮，佩戴藍色 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [serein ｜买美股上币安](https://x.com/you1873118)
+- **來源:** [Twitter Post](https://x.com/you1873118/status/2079219302998401195)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29308)**
+
+---
+
+### No. 31: 社群媒體貼文 - 極致美感特寫唇部人像
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個極其細緻的 GPT Image 2 提示詞，用於拍攝極致臉部特寫，重點呈現皮膚紋理、雙眼以及女性輕咬下唇的細節。
+
+#### 📝 提示詞
+
+```
+主體：凝視唇部的目光
+
+主要對象：一張寫實的 3:4 直式美感人像。一位 20 多歲女性的極致臉部特寫，裁切範圍從額頭頂部到下巴下方。臉部佔據畫面大部分，清晰呈現雙眼、鼻子、嘴唇與下顎線。不露出頸部或衣物，完全聚焦於表情、皮膚、雙眼與唇部紋理。
+
+人物/表情：光滑的肌膚，呈現明亮的象牙米色調與自然的粉嫩光澤。修長的鵝蛋臉。頭部微微傾斜，眼皮微垂，直視鏡頭。雙眼中有細小清晰的眼神光。嘴唇微張，上排前牙輕咬下唇內側，營造出自然的壓痕與光澤。展現優雅性感的瞬間。
+
+背景/光影：暖灰褐色至淺棕色的純色攝影棚背景，具有淺景深效果。左上方的大面積柔和漫射光，在額頭、鼻子與嘴唇上形成細膩的高光。
+
+構圖/攝影：直式 3:4，超近距離特寫，臉部佔據畫面 90%。使用 85-105mm 中焦距微距鏡頭拍攝以避免變形。對焦於雙眼與嘴唇。
+
+紋理/風格：{argument name="hair color" default="明亮奶茶灰棕色"} 髮色，搭配空氣瀏海。優雅的日系娃娃妝容。嘴唇帶有 {argument name="lip gloss" default="透亮粉米色"} 唇蜜。高畫質美妝廣告風格，保留細緻毛孔與臉部細毛。
+
+負面提示：未成年外觀、不自然的臉部、不對稱的雙眼、扭曲的嘴部、塑膠感皮膚、過度修圖、浮水印。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623711958_3pd09g_HNjZDFebYAAsKYV.jpg" width="600" alt="社群媒體貼文 - 極致美感特寫唇部人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
+- **來源:** [Twitter Post](https://x.com/CyberTotal2026/status/2079194111387828499)
 - **發布時間:** 2026年7月20日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29206)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29296)**
 
 ---
 
-### No. 22: 社群媒體貼文 - 復古臥室晨間肖像
+### No. 32: 社群媒體貼文 - 後台 VHS 風格時尚人像
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-這是一個高度細緻的提示詞，用於創作一幅具有柔和自然光與植物元素的復古風格臥室肖像。
+生成一張在昏暗現場音樂場地中，帶有俱樂部燈光與 VHS 時間戳記的電影感類比風格後台時尚照片。
 
 #### 📝 提示詞
 
 ```
-主題：綠蔭下的晨光綻放
-
-主體：2:3 垂直室內肖像。一位 {argument name="gender" default="成年女性"} 倚靠在 {argument name="bedroom style" default="復古風格臥室"} 的床鋪中左側，周圍環繞著植物。人物佔據畫面約 70%，頭部略高於中心，雙腿向右下方延伸。
-
-人物/表情：一位氣質自然沉靜的成年女性。{argument name="hair color" default="淺棕色"} 中長髮低位鬆散紮起，留著輕薄的透視瀏海，臉頰兩側有幾縷碎髮。淺珊瑚色腮紅，精緻的棕色眼妝，以及自然光澤的玫瑰米色雙唇。臉部向畫面左上方傾斜，雙眼望向窗光。嘴唇微張，表情寧靜，彷彿正在安靜地呼吸。
-
-服裝/姿勢：象牙白蕾絲細肩帶背心與短褲，配有相襯的精緻荷葉邊。胸前採用優雅的 3D 立體剪裁，軀幹裝飾著透視刺繡蕾絲。左手置於身後床鋪以支撐上半身。右臂向右下方斜向延伸，右手手指輕觸彎曲的腳尖。一條腿深彎並交叉於身前，另一條腿從床緣向右下方延伸。脊椎微拱，肩膀與鎖骨自然舒展。
-
-背景/光影：帶有舊木框的大窗戶、米白色蕾絲窗簾、花卉床單、白色荷葉邊枕頭，以及玻璃花瓶中的淡粉色花朵。從窗邊到床邊豐富地佈置了各種大小的觀葉植物，透過前景、中景與背景的葉片層次營造出深度。強烈的晨間自然光從窗戶左上方射入，在肩膀、胸口、大腿與小腿上投射出帶有葉影的光斑。右側有綠色反射光，地板上有一灘溫暖的陽光。背景花園化為圓形散景。
-
-構圖/相機：接近全身的三分之二身位肖像。相機位於視線水平，與床鋪高度大致相同，相當於 50mm 鏡頭。人物置於中心偏左，為右側的植物與延伸的腿部線條留出空間。頂部有大面積的窗戶與綠植留白，下方前景有模糊的鐵製床架。焦點集中在臉部與上半身，背景因淺景深而柔和模糊。
-
-質感/風格：運用自然光的日系肖像攝影。保留白皙皮膚的細膩紋理，避免過度修圖。以象牙白、淡粉色、深綠色與木框棕色為基調，低對比度且高光柔和。細緻描繪蕾絲、植物葉片與花卉布料的質感，並添加少量底片顆粒與細膩的光暈效果。
-
-負面提示詞：未成年外觀、不自然的臉部、不自然的視線、多指、缺指、肢體融合、關節斷裂、腳趾畸形、手腳接觸不良、不自然的重力、透視錯誤、光影不一致、過度曝光、文字、標誌、浮水印、過度皮膚修圖、塑膠感皮膚。
+創作一張寫實的電影感演唱會後台照片，主角為 {argument name="subject" default="一位迷人的年輕東亞女性"}，她跪在黑暗且光亮的舞台地板上，身體側向並向前拱起，前臂靠在左側一個大型黑色巡演航空箱上。她直視鏡頭，表情慵懶冷靜，長長的深色波浪捲髮垂在肩上，身穿緊身淺灰色細肩帶迷你裙，搭配金屬銀色繫帶高跟涼鞋與腳踝綁帶。環境為地下 Live House 或音樂場地後台：黑色布幕、堆疊的設備航空箱、電纜、佈滿雨滴的窗戶、放在箱子上的飲料瓶罐，以及一個標示著「UNDERGROUND LIVE HOUSE LONDON」的大型後方航空箱。在左前方的箱子上加上數字「13」。使用情緒化的低調俱樂部燈光，頭髮與身體後方有洋紅色邊緣光，窗戶透出青藍色高光，深邃陰影，地板反射光澤，並帶有細微的紅/青色色差。構圖為 16:9 水平類比攝影機靜態畫面，腰部視角，主體位於中左側，全身從頭到腳可見。在左下角加入 VHS 時間戳記疊加層，內容為 {argument name="timestamp text" default="PM 12:27\nOCT. 26 2024"}，白色塊狀數位文字，帶有輕微發光與掃描線偽影。風格應為照片級寫實、時尚編輯風格、粗獷的音樂錄影帶後台氛圍、輕微底片顆粒、柔和鏡頭光暈、高細節，無額外人物，無浮水印。
 ```
 
 #### 🖼️ 生成圖片
@@ -1486,33 +1914,123 @@ HDR，8K 解析度，高度細節化。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537324338_8gd7iv_HNjFH-8acAA_lYD.jpg" width="600" alt="社群媒體貼文 - 復古臥室晨間肖像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784623740147_gvi4h9_HNrDVjdbEAALy-P.jpg" width="600" alt="社群媒體貼文 - 後台 VHS 風格時尚人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Nailai7981](https://x.com/VIBEQUIRKLABS)
+- **來源:** [Twitter Post](https://x.com/VIBEQUIRKLABS/status/2079189019158802591#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29335)**
+
+---
+
+### No. 33: 社群媒體貼文 - 復古房間裡的深褐色調鋼琴家
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一份詳盡的深褐色調漫畫風格插畫提示詞，旨在創作一個優雅的深夜鋼琴家場景，呈現復古室內裝潢與專輯封面的氛圍。
+
+#### 📝 提示詞
+
+```
+創作一張直式深褐色調動漫風格的專輯封面插畫，畫面中 {argument name="character name" default="一位氣質儒雅的年輕男鋼琴家"} 於深夜坐在復古房間的直立式鋼琴前。角色呈現四分之三背影，身形纖細優雅，穿著合身的黑色西裝、黑色手套與擦得發亮的黑色皮鞋；他留著 {argument name="hair color" default="淺金色的長髮"}，綁成低馬尾，幾縷凌亂的瀏海垂落在臉龐。一隻小 {argument name="pet animal" default="倉鼠"} 坐在他的右肩上。他一隻手彈奏著鋼琴，另一隻手正在翻動或拿著一張散落的樂譜；鋼琴架上放著一本打開的樂譜，上面寫滿了手寫的五線譜。椅背上披著一件淺色外套，垂落至幾乎觸及地面。房間鋪設深色木地板，牆面裝飾著厚重的鑲板，左側有高大的玻璃窗或滑門，透出窗外陰影籠罩的花園。畫面中僅設置兩處暖色光源：一盞放在椅子旁小木櫃上的發光油燈，以及透過窗戶可見的一盞微弱暖色戶外燈籠。整體氛圍應呈現安靜、憂鬱、貴族氣息與私密感，宛如一場深夜的私人演奏。採用細膩的墨水線條、交叉排線、紋理紙張質感、柔和的深褐色與黑褐色調、戲劇性的低調照明，並精細描繪鋼琴琴鍵與木紋、精緻的五官，以及優雅的漫畫插畫品質。禁止出現現代物品，除抽象的樂譜符號外不得有任何可見文字，無浮水印，無鮮豔色彩。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623727524_v8jnhl_HNqlfz8bMAAAcfF.jpg" width="600" alt="社群媒體貼文 - 復古房間裡的深褐色調鋼琴家 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [🐹🐹](https://x.com/hmst_yyyy)
+- **來源:** [Twitter Post](https://x.com/hmst_yyyy/status/2079156149027516888#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29317)**
+
+---
+
+### No. 34: 社群媒體貼文 - 日落海灘倒影人像
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一份詳盡的提示詞，用於創作一張寧靜的日落人像，描繪一位站在海灘上、帶有水面倒影的女性，並採用中長焦鏡頭風格。
+
+#### 📝 提示詞
+
+```
+主題：水鏡前的回眸
+
+主體：一張 2:3 的直式照片，描繪一位成年女性站在黃昏時分的淺灘上。人物位於畫面偏左，呈現大腿以上部位。這是一張安靜的人像，她背對鏡頭，上半身回眸看向相機，背景為平靜的海面與廣闊的天空。
+
+人物/表情：一位擁有自然透明感的女性。{argument name="hair color" default="近乎黑色的深褐色長髮"} 在海風中飄動。微微收下巴，直視鏡頭。淡粉色的雙唇微張。粉米色腮紅與精緻的棕色眼妝。
+
+服裝/姿勢：白色細肩帶背心，外搭 {argument name="shirt" default="一件透視雪紡罩衫"}。下身為 {argument name="skirt" default="一件帶有細緻垂直縫線與輕盈荷葉邊的白色短裙"}。頭髮與雪紡布料在風中飄逸。
+
+背景/光影：日落前的淺海。前景是沙灘，覆蓋著一層薄薄的水面，倒映著天空與雲彩。太陽位於右側低處，將頭髮與肩膀染成金色。水面反射出柔和的藍色光澤，使臉部細節清晰可見。
+
+構圖/相機：直式 2:3，中長鏡頭。從胸部高度拍攝的平視視角，等效 85mm 鏡頭，具有自然的壓縮感。精確對焦於臉部與雙眼。
+
+質感/風格：精緻的時尚人像攝影。保留自然的皮膚紋理，並細膩呈現白色雪紡的輕薄感與縫線。低飽和度的色調，包含天藍色、白色與蜜桃金。
+
+負面提示詞：未成年外觀、不自然的臉部、手部融合、不自然的透明感、扭曲的地平線、矛盾的陰影、浮水印。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623712167_yuo3m2_HNjNT7UbEAA1Tog.jpg" width="600" alt="社群媒體貼文 - 日落海灘倒影人像 - Image 1">
 </div>
 
 #### 📌 詳情
 
 - **作者:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **來源:** [Twitter Post](https://x.com/CyberTotal2026/status/2078981963243737317)
-- **發布時間:** 2026年7月19日
+- **來源:** [Twitter Post](https://x.com/CyberTotal2026/status/2079135223283867884)
+- **發布時間:** 2026年7月20日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29200)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29297)**
 
 ---
 
-### No. 23: 社群媒體貼文 - 電影感時尚沙發人像
+### No. 35: 社群媒體貼文 - 草地陽光動態人像
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-這是一個詳細的提示詞，用於創作一張情緒化、具電影感的時尚人像，描繪一名女性斜倚在皮沙發上的場景。畫面強調精緻的光影效果與逼真的布料質感。
+這是一個電影感、抓拍風格的提示詞，描繪一位女性在草地中對暴風雨後破雲而出的陽光做出反應，並帶有刻意的動態模糊效果。
 
 #### 📝 提示詞
 
 ```
-電影級超寫實時尚人像。一位年輕女性，留著蓬鬆的長髮，髮色為 {argument name="hair color" default="黑色"}，斜倚在現代簡約室內的大型霧面黑色皮革轉角沙發上。人物位於畫面中右側，沙發橫跨畫面下半部。肌膚光滑白皙，五官精緻，深色杏眼，眉型柔和，畫著淡淡的貓眼眼線，自然玫瑰紅唇色，妝容細膩。表情冷靜、疏離且若有所思，頭部轉向畫面右側，視線看向鏡頭外；軀幹略微朝向觀眾。手臂與飾品：左手臂隨意搭在左側隆起的靠背上，手肘彎曲，手腕放鬆，手指自然垂落在深色皮革上。手腕上戴著 {argument name="accessory" default="深藍色串珠手鍊"}，搭配幾枚精緻的戒指、一條小巧的吊墜項鍊以及細緻的耳環。右手放鬆地置於臀部與大腿上方，因姿勢關係部分被遮擋。服裝：{argument name="top" default="一件寬鬆的深海軍藍美式足球運動衫"}，帶有細微的同色系紋理。胸前上方有一個白色弧形運動品牌標誌。中央垂直幾何裝飾面板：由紅色、淺藍色與淺灰色縫線交織而成，形成細長的菱形與十字準星圖案。運動衫自然垂墜，呈現出逼真的皺褶、布料質感與略顯寬鬆的袖口。運動衫下方隱約可見黑色修身短褲。腿部與鞋履：優雅的人像姿勢，一側膝蓋在畫面中右側隆起，另一條腿交叉於下方，向右下方延伸。符合人體比例，皮膚紋理自然，膝蓋與腳踝輪廓細膩，腿部有柔和的高光。極簡黑色露趾穆勒涼鞋，細帶與細低跟設計。其中一隻鞋清晰可見於畫面中下部，延伸的腳部指向右下方。沙發：大型、低矮、現代風格，採用光滑的炭黑色皮革，配有大型靠墊、圓潤的軟墊扶手、明顯的縫線，並帶有冷色調的微弱反光。身體下方的靠墊有輕微的下陷感。前景中寬闊的沙發座墊營造出深度與親密的氛圍。沙發與延伸的腳部下方為深炭灰色磁磚地板，帶有細微的線性縫隙與略帶紋理的霧面質感。背景：上半部為大面積窗戶，掛著落地透明白色薄紗窗簾，呈現柔和的垂直褶皺，底部略顯隨意堆疊。明亮的陰天日光穿透窗簾，營造出淡藍灰色的光暈。窗外景色經過高度模糊處理，呈現出遠處建築或模糊的冬季景觀。沙發後方有一道水平延伸的深色石材或木質窗台。色調與光影：冷色調、低飽和度的藍灰色系，深黑色、海軍藍色調、淺色肌膚高光，以及運動衫上節制的紅色點綴。來自窗戶上方與後方的柔和擴散光，為髮絲勾勒出細膩的輪廓光，並在臉部、肩膀與腿部投下精緻的光影。沙發與前景下方有深邃但細節豐富的陰影。氛圍情緒化、奢華且寧靜，非商業化的明亮風格。相機：略微高角度俯拍，全片幅 50mm 鏡頭，淺至中等景深，女性與近處沙發細節清晰銳利，窗簾與外部景觀則柔和模糊。呈現真實皮膚質感、單根髮絲、精確的手腳結構、真實的布料皺褶、純正的皮革紋理、優雅的人像構圖、高對比度、豐富的色調層次、精緻的電影級寫實感，帶有輕微的底片顆粒感。負面提示詞：無強烈閃光燈、無誇張的修圖美顏、無文字、無浮水印、無額外人物、無變形肢體、無重複手指、無變形鞋履、無雜亂元素。
+請使用提供的參考圖片。嚴格鎖定臉部與身分：請精確保留參考照片中女性的外貌。請勿以任何方式更改她的五官、臉部比例、皮膚紋理、髮色、髮型或整體身分。呈現具有自然底片顆粒感的電影級影像。
+
+捕捉動態中自發、自然的瞬間。這位女性正 {argument name="pose" default="坐在高聳的綠草中"}，位於 {argument name="location" default="廣闊的開闊草地"} 上，頭頂是佈滿厚重烏雲的戲劇性天空，雲層間透出幾抹藍天，一縷稍縱即逝的陽光灑落。她的身體微微向右轉，頭部迅速轉向光線方向，臉上帶著放鬆、細微且愉悅的表情，彷彿剛感受到陽光穿透風暴帶來的溫暖。由於快速轉頭，她的臉部與被風吹動的頭髮呈現強烈的動態模糊，身體亦有輕微的動態模糊，營造出偶然捕捉到的真實、未經安排的瞬間感。她的頭髮在風中自然飄動並帶有逼真的動態模糊，儘管有動作，她的臉部依然清晰可辨。
+
+她穿著一件 {argument name="clothing" default="深炭灰色貼身短版背心，配有細肩帶"}，露出肩膀與腰部，搭配與背心色調完全一致的深炭灰色寬鬆長褲，形成單色系穿搭。長褲自然產生皺褶，並部分被周圍的草叢遮掩。她的右手放在草地上，輕輕捏著一片細長的草葉，左手臂舒適地彎曲在抬起的膝蓋旁，姿勢放鬆。
+
+低角度的金色陽光創造出長長的陰影，並精美地突顯了草地、皮膚與織物的紋理，增加了深度、體積感與細節。溫暖的陽光與冷色調的烏雲形成強烈對比，增強了電影般的氛圍。背景中，廣闊的開闊原野向地平線延伸，孤獨的灌木或樹木剪影強化了空間感、孤獨感與自由感。
+
+溫暖的黃綠色調與冷灰色調相互融合，創造出極具照片真實感、帶有電影底片顆粒感，且皮膚與草地紋理極其細膩的影像。垂直構圖，9:16 比例。乳白色杏仁型美甲，乾淨、均勻且修整整齊。
 ```
 
 #### 🖼️ 生成圖片
@@ -1520,265 +2038,65 @@ HDR，8K 解析度，高度細節化。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537330789_85z81z_HNl0U1SWoAAXQ40.jpg" width="600" alt="社群媒體貼文 - 電影感時尚沙發人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784623699807_42zavo_HNp2P_HXwAARYRv.jpg" width="600" alt="社群媒體貼文 - 草地陽光動態人像 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537329694_0l9xy4_HNl0U1SWUAAUjlq.jpg" width="600" alt="社群媒體貼文 - 電影感時尚沙發人像 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1784623699863_6nhgya_HNp2jH_WkAAxIla.jpg" width="600" alt="社群媒體貼文 - 草地陽光動態人像 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537329707_ignzd1_HNl0U1SXsAE6dUV.jpg" width="600" alt="社群媒體貼文 - 電影感時尚沙發人像 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **來源:** [Twitter Post](https://x.com/ToroJushiAi/status/2078963095871934961)
-- **發布時間:** 2026年7月19日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29211)**
-
----
-
-### No. 24: 社群媒體貼文 - 夏季偶像貓娘祭
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個生動的動漫提示詞，用於生成在擁擠的夏季戶外音樂節上表演的粉髮貓娘偶像。
-
-#### 📝 提示詞
-
-```
-創作一張充滿活力的直式動漫插畫，描繪一位開朗的貓娘偶像在大型戶外夏季音樂節上表演。主角為 {argument name="character name" default="一位粉色頭髮的貓娘偶像"}，以低角度四分之三視角呈現於前景，紅色的雙眼對著觀眾燦爛微笑，留著蓬鬆的短 {argument name="hair color" default="粉色"} 髮，戴著內側為淺色的黑色貓耳、一個黃色小星星髮夾，身後有一條捲曲的黑色貓尾。她穿著日式水手服風格的校園偶像裝：白色短版襯衫搭配深海軍藍水手領與袖邊、橘色領帶、深色百褶迷你裙，以及黑色露指手套。她的右手在臉旁比出 V 字勝利手勢，右側放著一支黑色舞台麥克風架。背景是揮舞著螢光棒的龐大音樂節人群、空中飄散的彩色紙花、棕櫚樹、帶有明亮燈光的舞台桁架，以及寫著 {argument name="festival text" default="SUMMER IDOL FESTIVAL"} 的橫幅，還有寫著「IDOL!」的直式旗幟。使用耀眼的夏季正午天空，搭配飽和的藍色、蓬鬆的雲朵、鏡頭光暈、閃爍的高光、動態感、鮮豔的彩虹音樂節色彩、光澤感的高細節動漫渲染、戲劇性的背光、銳利的面部細節，以及充滿活力的偶像演唱會氛圍。直式 9:16 構圖，精緻的 Pixiv 風格插畫，無浮水印，前景無多餘角色。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537349063_545dud_HNnNCgwa8AAK0ZX.jpg" width="600" alt="社群媒體貼文 - 夏季偶像貓娘祭 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [よった~公儀介錯人やぶにらみ黙示録~子貸し腕貸し仕る/天の裁きは待ってはおれぬ/必殺必中万屋稼業](https://x.com/9YGMEQ63135ka5O)
-- **來源:** [Twitter Post](https://x.com/9YGMEQ63135ka5O/status/2078918357798338794#reversed-0)
-- **發布時間:** 2026年7月19日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29234)**
-
----
-
-### No. 25: 社群媒體貼文 - 超寫實玻璃肌時尚人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-專為高端時尚街拍設計的提示詞，聚焦於透亮的韓系玻璃肌與精緻妝容，同時確保維持參考圖中的臉部特徵。
-
-#### 📝 提示詞
-
-```
-一張超寫實的時尚編輯街拍照片，主角為 {argument name="character" default="[PRIMARY_CHARACTER]"}，請 100% 採用參考圖中的臉部特徵，切勿改變臉部辨識度。呈現瓷感玻璃肌與韓系粉嫩光澤妝容，膚質細膩透亮，臉頰帶有柔和的粉色腮紅，雙唇呈現自然光澤，散發年輕的玻璃肌光采。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537327958_54hgz7_HNmunvIXMAA6dU9.jpg" width="600" alt="社群媒體貼文 - 超寫實玻璃肌時尚人像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Sadie 🕊🖼️](https://x.com/poetrynthings)
-- **來源:** [Twitter Post](https://x.com/poetrynthings/status/2078884703155671198)
-- **發布時間:** 2026年7月19日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29207)**
-
----
-
-### No. 26: 社群媒體貼文 - 日文價格比較縮圖
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一張極具衝擊力的日文社群媒體縮圖，對比被劃掉的高額訂閱價格與更便宜的月費方案。
-
-#### 📝 提示詞
-
-```
-目標：製作一張大膽的日文 YouTube/X 縮圖，強調訂閱費用過高，透過劃掉的高額月費與更便宜的月費進行戲劇性對比。
-
-畫布：垂直 3:4 縮圖，768×1024 風格，針對行動裝置閱讀進行優化。使用深海軍藍到深紫色的漸層背景，人物後方帶有細微的聚光燈效果。將所有主要文字保持在安全邊界內，並使其極大、高對比且清晰易讀。
-
-版面配置：在最上方放置 2 個由細線懸掛的價格標籤：左側標籤為紅色，略微傾斜，文字為 {argument name="old price text" default="月15,000円"}，使用粗體白色字體並加上粗白色對角刪除線；右側標籤為螢光綠色，略微傾斜且帶有發光效果，文字為 {argument name="new price text" default="月3,000円"}，使用粗體白色字體。標籤下方置中放置一個巨大的白色標題，並帶有黑色陰影：{argument name="headline text" default="その課金、まだ早い"}。在標題下方，加入一個幾乎橫跨全寬的亮黃色長方形橫幅，並使用粗體黑色文字：{argument name="subheadline text" default="月3,000円で足りる21の使い方"}。
-
-主體細節：在下半部，展示一張寫實的攝影棚剪影肖像，主角為一名留著黑色長髮與瀏海、身穿米色針織毛衣的年輕日本女性。她面向鏡頭，左手向觀眾做出清晰的「停止/等等」手勢，右手拿著一張金色信用卡。使用自然的膚色、乾淨的美容燈光以及清晰的剪裁邊緣。
-
-裝飾元素：加入 3 個小型漂浮的金色日圓硬幣，上面刻有日圓符號：一個位於左上方中間區域，一個位於左下邊緣附近，另一個位於右側中間區域。加入 2 個帶有三個黑點的白色對話氣泡：一個位於左側舉起的手附近，另一個位於右側標題/肩膀區域附近。請勿添加額外的硬幣、氣泡、圖示、標誌或浮水印。
-
-視覺風格：極具衝擊力的日文社群媒體縮圖，具備光澤感的 3D 裝飾、強烈的陰影、綠色標籤的螢光效果、乾淨的合成、銳利的排版、飽和的色彩以及專業的病毒式封面設計。確保文字準確且無亂碼。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537359199_gjegyi_HNmIoKIaYAA-WF3.jpg" width="600" alt="社群媒體貼文 - 日文價格比較縮圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [ラーテル](https://x.com/HoneyBadger_Min)
-- **來源:** [Twitter Post](https://x.com/HoneyBadger_Min/status/2078847841267753386#reversed-0)
-- **發布時間:** 2026年7月19日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29248)**
-
----
-
-### No. 27: 社群媒體貼文 - 街頭風格時尚人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一個詳細的提示詞，用於拍攝一張自然、陽光充足的街頭攝影作品，主角為穿著休閒時尚的女性，非常適合實現具有特定服裝與配件的寫實 DSLR 攝影效果。
-
-#### 📝 提示詞
-
-```
-一張自然的全景街頭風格照片，主角是 {argument name="subject" default="面帶微笑的年輕女性"}，正自信地走在陽光普照的停車場中。她留著深色頭髮，紮成高髮髻，戴著窄框黑色橢圓形太陽眼鏡。她身穿 {argument name="top style" default="合身的黑色掛頸抹胸上衣，印有戴著黑色太陽眼鏡的白貓大圖案"}，搭配高腰黑色細條紋寬管長褲。肩上背著一個小巧的 {argument name="accessory" default="帶有金屬鍊條的銀色單肩包"}。她的一隻手臂下夾著一個扁平的紙板披薩盒，另一隻手拿著一副太陽眼鏡和一個黑色小鑰匙扣。她的手臂上有精緻的紋身，手腕上戴著智慧手錶，表情明亮且愉悅。背景可見停放的汽車、綠樹，以及在午後晴朗陽光下的路邊店面。自然光線、真實色彩、休閒時尚攝影、平視視角、銳利對焦、高細節、照片級真實感、DSLR 品質、35mm 鏡頭、淺景深。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537308952_tu5k61_HNmIceQWUAAwuf2.jpg" width="600" alt="社群媒體貼文 - 街頭風格時尚人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537308576_d9mhxq_HNmIgZvXIAAOF8h.jpg" width="600" alt="社群媒體貼文 - 街頭風格時尚人像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537308565_mfctwt_HNmIh9tXUAAcAAa.jpg" width="600" alt="社群媒體貼文 - 街頭風格時尚人像 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1784623699806_2w3s0f_HNp2kdKWwAAaB9O.jpg" width="600" alt="社群媒體貼文 - 草地陽光動態人像 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537309212_2neiyw_HNmIj6WWoAAYfsz.jpg" width="600" alt="社群媒體貼文 - 街頭風格時尚人像 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1784623700806_ou39ui_HNp2mR9XwAAB5bg.jpg" width="600" alt="社群媒體貼文 - 草地陽光動態人像 - Image 4">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [Aaliya](https://x.com/aaliya_va)
-- **來源:** [Twitter Post](https://x.com/aaliya_va/status/2078843157975019650)
-- **發布時間:** 2026年7月19日
+- **作者:** [Anissa](https://x.com/SimplyAnnisa)
+- **來源:** [Twitter Post](https://x.com/SimplyAnnisa/status/2079104625211507100)
+- **發布時間:** 2026年7月20日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29182)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29282)**
 
 ---
 
-### No. 28: 社群媒體貼文 - 復古火車通勤人像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-這是一個電影感的提示詞，捕捉了一位女性在復古火車內，伴隨著寫實光影與風吹效果的懷舊夏季旅行瞬間。
-
-#### 📝 提示詞
-
-```
-創作一張寫實的直式生活時尚人像，主角為一名 21 歲以上的東亞成年女性，站在陽光明媚的復古通勤火車或老式巴士內，靠在一扇敞開的大窗戶旁。構圖範圍從她的大腿上部到頭部，位置略微偏右。她的軀幹面向鏡頭，臀部微微轉向窗戶，形成放鬆的 S 型曲線。她輕輕倚靠在窗下米色的內牆上，雙臂伸展——一隻手放在左側的金屬窗台上，另一隻手放在右側的窗框上。她的肩膀放鬆，直視鏡頭，表情溫暖自信，帶著細膩自然的微笑。她留著深棕色的長髮，帶有柔和的層次感和微微的側分。一陣強風從敞開的窗戶吹入，戲劇性地將她的頭髮吹向畫面右側。在陽光下，幾縷髮絲隨風飄動時閃閃發光；細碎的髮絲輕柔地散落在她的額頭、臉頰和肩膀上，長髮隨風輕輕搖曳。她的妝容精緻自然：白皙透亮的肌膚、柔和的蜜桃色腮紅、輪廓分明的眉毛、淺棕色眼線、纖長捲翹的睫毛、細緻的修容以及柔和的玫瑰粉色唇蜜。她穿著一件淺象牙色的短版上衣，材質為薄而半透明的布料，上面點綴著細小的蜜桃色或珊瑚色圓點。上衣採用短泡泡袖設計，袖口有柔軟的鬆緊帶，深 V 領交叉設計，褶皺縫線，前襟打結，露出了恰到好處的腰部肌膚。搭配修身深靛藍色牛仔短褲，採用高腰設計、捲邊褲腳、金色對比縫線、皮帶環、金屬鈕扣、前口袋以及口袋附近的小刺繡細節。牛仔布應呈現出寫實的褪色感、縫線、紋理以及臀部周圍輕微的皺褶。場景應模擬舊火車車廂或復古大眾運輸工具的內部，例如米色的金屬壁板、外露的螺絲與接縫、帶有拉絲鋁飾邊的大型長方形滑動窗，以及右下角可見的深海軍藍色乙烯基長椅。透過敞開的窗戶，可以看到陽光明媚的郊區街道景色：淺色建築、茂密的綠植、路邊風景以及柔和色調的車輛，所有景物均以淺景深呈現，並帶有輕微的定向動態模糊，以暗示車輛正在行駛中。強烈的自然光從左上方和主體後方射入。她的頭髮和肩膀周圍形成了柔和的輪廓光，顴骨、手臂、腰部、襯衫和牛仔褲上都有明亮的高光，並由淺色內飾板反射的柔和光線補光。下巴下方、腰部周圍以及衣物褶皺處保留了細膩的陰影，以增強深度感。整體氛圍應清新、涼爽且充滿夏日氣息，自然中帶有一絲懷舊感，就像一張在日間旅行中拍攝的精緻旅遊攝影作品。相機與構圖：直式 2:3，平視或略微低角度，約 50mm 鏡頭，淺景深，主體清晰對焦，背景柔和模糊，頭髮與背景帶有細微動態，寫實的透視感，構圖平衡，大窗戶在她周圍形成一個明亮的長方形框架。保持自然的人體解剖結構、寫實的手部與手指、精確的布料紋理、細膩的皮膚質感，並使用溫暖的象牙色、陽光米色、深靛藍色、柔和綠色與淡蜜桃色進行電影級調色。風格：寫實旅遊攝影、成人模特、涼爽火車窗邊人像、明亮自然陽光、風吹髮絲、白色前打結短版上衣、深色牛仔短褲、復古地鐵內裝、自然夏日氛圍、寫實皮膚與布料紋理、高細節、乾淨構圖、無文字、無浮水印、無標誌、無其他人、無畸變的解剖結構、無重複肢體、無人工塑膠感皮膚、無卡通或插畫風格、無強烈閃光、無過度模糊、無露骨裸露。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537313785_xyjtr3_HNldzthWYAAaeNU.jpg" width="600" alt="社群媒體貼文 - 復古火車通勤人像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **來源:** [Twitter Post](https://x.com/ToroJushiAi/status/2078842293511962632)
-- **發布時間:** 2026年7月19日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29189)**
-
----
-
-### No. 29: 社群媒體貼文 - 豪華飯店休息室緞面禮服人像
+### No. 36: 社群媒體貼文 - 夏日陽光與巷弄肖像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-這是一個為高檔飯店休息室時尚人像攝影設計的精緻提示詞，主角身穿香檳色緞面禮服，並搭配溫暖的環境光。
+這是一份詳細的提示詞，用於生成一張電影感夏日肖像，描繪一名女子坐在日本住宅區巷弄的混凝土牆邊。
 
 #### 📝 提示詞
 
 ```
-主題：{argument name="theme" default="燈光下的愜意時光"}
+主體：{argument name="subject" default="膝蓋上的夏日陽光"}
 
-主體：
-一張 3:4 的直式人像，拍攝一位成年女性側坐在高檔城市飯店休息室的米色沙發上。人物佔據畫面中右側大部分空間，取景範圍從頭部到膝蓋附近。她將上半身轉向鏡頭，雙腿交疊，呈現出一種冷靜、成熟的時尚人像風格。
+主體：一位 {argument name="person" default="坐在地上、背靠寧靜住宅區狹窄巷弄混凝土牆的成年女性"}，採用垂直構圖。人物佔據畫面中央至右側的大部分空間，雙膝併攏靠近胸前，雙臂環抱雙腿。這是一張捕捉全身的特寫肖像，同時強烈強調上半身與腿部。
 
-角色與表情：
-一位擁有健康、成熟輪廓的優雅女性。深棕色長髮搭配空氣瀏海，幾縷髮絲自然垂落。玫瑰米色眼妝、精緻睫毛、自然的臥蠶，以及光澤感的粉米色嘴唇。她微微收下巴面對鏡頭，以寧靜溫柔的眼神注視著鏡頭。
+人物與表情：一位自然且寫實的女性，擁有冷靜的成年人氣質與柔和感。身材不過於纖瘦，具有適度的成熟美，肩膀、鎖骨、手臂與大腿線條展現出女性的圓潤感。深棕色中長髮，帶有輕盈的層次與稀疏的空氣瀏海。臉龐周圍細碎的髮絲在光線下呈現半透明感。她微微歪著頭，一側臉頰輕靠在膝蓋上，直視鏡頭。表情安靜、溫柔且略帶慵懶。妝容為自然的日系風格，擁有柔和的棕色雙眸、淡珊瑚色腮紅與粉米色雙唇。耳朵上戴著小巧的耳環。
 
-服裝與姿勢：
-一件 {argument name="outfit" default="淡香檳象牙白緞面迷你細肩帶連身裙"}。特色為細肩帶、簡約 V 領、露背設計，以及下擺處精緻的象牙白蕾絲。裙長及大腿上部，緞面材質在光線下呈現出平滑的褶皺與自然的紋理。
-她的身體與沙發呈一定角度。腰部朝向左側，胸部與肩膀向鏡頭扭轉。右前臂靠在幾何圖案的靠墊上，右手自然地放在右下角。左手放在靠墊上方。左腿向前，膝蓋朝向右下角，右腿則收在下方。布料貼合著臀部與大腿的曲線。
+服裝與姿勢：一件 {argument name="outfit" default="象牙白無袖連身裙"}。細肩帶設計，肩部有簡約的荷葉邊，胸口至腰部有精緻的刺繡與鏤空蕾絲，腰部輕微收腰，材質為輕薄柔軟的棉質。裙長較短，在坐姿下自然展現大腿線條。雙腿向左前方斜向延伸，雙膝高抬，雙臂在身前交叉。手指自然地放在腳踝附近，沒有緊繃感。腳上穿著白色細帶平底涼鞋。手腕上戴著一條精緻的銀色手鍊。
 
-背景與燈光：
-一個 {argument name="location" default="日本市區的豪華飯店休息室"}。前景為米色布藝沙發，中景有棕色/幾何圖案靠墊，主角後方有一盞大型玻璃底座檯燈。背景包含深色木桌、皮革椅以及模糊的休息區座位。
-來自檯燈的溫暖燈光從後方照亮她的頭髮、肩膀與緞面邊緣，而來自左前方的柔和中性光則襯托出她的臉龐與鎖骨。陰影柔和地向右下方延伸。色調以米色、香檳色與棕色為主，與深色背景形成柔和的對比。
+背景與光線：背景是具有日本住宅區生活感的巷弄。右側為淺灰色混凝土牆，後方有黑色排水管、木門，以及模糊的盆栽或小型綠植。時間是陽光明媚的午後。主要光源是從左上方射入的強烈自然光，在髮絲輪廓、肩膀、臉頰、手臂、膝蓋與腿部上方形成明亮的高光。斑駁的陽光陰影灑落在地面上，牆面的反射光柔和地提亮了臉部的陰影側。空氣乾燥明亮，充滿夏日的靜謐感。
 
-構圖與相機：
-直式 3:4。主體佔據約 75% 的畫面。臉部位於頂部中央，腰部在中央偏左，雙腿在下半部呈對角線排列。頭部上方留白較少，包含燈罩。以略高於視平線的角度拍攝，等效 50mm 鏡頭，呈現自然視角。焦點精確對準眼睛與臉部，背景呈現柔和虛化。
+構圖與攝影：垂直 4:5 肖像構圖。相機從近距離的低角度拍攝，將雙腳置於左下方，臉部置於上方中央。人物身體偏向右側，留出巷弄的深度與左側斑駁陽光的留白。視線直視鏡頭，焦點清晰地落在臉部與前方的膝蓋上。背景採用淺景深進行柔焦處理，以突顯人物。自然的透視感確保了腿部的延伸與環抱姿勢看起來優美動人。
 
-質感與風格：
-寫實的豪華飯店時尚攝影。保留自然的皮膚紋理與色彩，避免過度修圖。精準呈現緞面的光澤、細緻的蕾絲纖維、沙發編織紋理以及玻璃燈具的反射。冷靜的暖色調調色、細膩的對比度，以及乾淨的雜誌拍攝美學。
+質感與風格：寫實攝影風格。如同時尚雜誌中夏日快照般透明自然的肖像。皮膚不過度平滑，保留了自然的紋理。細碎的髮絲、棉質蕾絲精緻的鏤空圖案、混凝土牆的粗糙感以及涼鞋的細帶，皆被細膩地描繪出來。配色優雅柔和，以象牙白、米色與灰色為中心，並以背景中少許的綠色作為點綴。對比度適中，沒有過度曝光，呈現出冷靜且高級的質感。
 
-負面提示詞：
-未成年臉孔、不自然的臉部、不自然的眼神、多餘的手指、手指缺失、肢體融合、關節斷裂、腿部重疊矛盾、衣服穿模、過度曝光、光影不一致、塑膠感皮膚、過度修圖的皮膚、文字、標誌、浮水印。
+負面提示詞：不自然的臉部、不自然的視線、幼態身材、多餘的手指、手指缺失、肢體融合、關節斷裂、手臂或腿部扭曲、不自然的重力、涼鞋接觸不良、陰影與光源不一致、過度磨皮、塑膠感皮膚、亂碼文字、標誌、浮水印。
 ```
 
 #### 🖼️ 生成圖片
@@ -1786,33 +2104,33 @@ HDR，8K 解析度，高度細節化。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537324199_o2l43v_HNjX8rha8AAoR_y.jpg" width="600" alt="社群媒體貼文 - 豪華飯店休息室緞面禮服人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784623698726_028haf_HNjOvdpbcAATUZ3.jpg" width="600" alt="社群媒體貼文 - 夏日陽光與巷弄肖像 - Image 1">
 </div>
 
 #### 📌 詳情
 
 - **作者:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **來源:** [Twitter Post](https://x.com/CyberTotal2026/status/2078830968094495131)
-- **發布時間:** 2026年7月19日
+- **來源:** [Twitter Post](https://x.com/CyberTotal2026/status/2079102759714853294)
+- **發布時間:** 2026年7月20日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29201)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29280)**
 
 ---
 
-### No. 30: 社群媒體貼文 - 粉彩動漫偶像演唱會終場
+### No. 37: 資訊圖表 / 教育視覺化內容 - 吉卜力工作室風格視覺參考表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一張夢幻的直式動漫插畫，描繪了一位害羞的偶像站在灑滿紙花的演唱會舞台上，手持發光的擴音器。
+生成一張乾淨、受吉卜力啟發的視覺參考表，適用於角色或物品設計，具備賽璐珞陰影與極簡背景。
 
 #### 📝 提示詞
 
 ```
-創作一張直式全身動漫演唱會插畫，主角為 {argument name="character name" default="Halo"}，一位精緻的少女偶像站在舞台中央面向觀眾，雙手將一個大型未來感白色擴音器抱在胸前，擴音器帶有半透明的青色與粉色發光裝飾。她留著輕盈的短鮑伯頭，髮色為 {argument name="hair color" default="近乎白色並帶有柔和的粉色與藍色挑染"}，留著直瀏海，頭頂有一根小呆毛，左側別著一個草莓髮夾，皮膚白皙，擁有閃爍的藍粉色大眼、紅潤的臉頰以及溫柔害羞的微笑。她身穿一件寬鬆的白色 T 恤，衣褶自然，搭配極寬的淺藍色牛仔褲、厚底白色運動鞋，腰間繫著一件淺藍白格紋襯衫，袖子垂在前方。場景為夢幻的夏季演唱會終場：背景是歡呼的人群，揮舞著無數青色、藍色、粉色與紫色的螢光棒；明亮的舞台聚光燈與金屬桁架結構在她身後閃耀；舞台左下角與右下角各放置一個黑色楔形監聽喇叭。空中飄落著紙花，顏色僅限四種：粉色、青色、淺藍色與白色，並點綴著細小的閃爍光點。採用柔和的粉彩水彩動漫風格，線條細膩乾淨，具備發光暈染效果、背光、柔和霧氣、高調曝光，舞台地板呈現濕潤的反光質感，營造出感性且魔幻的氛圍。構圖需置中且對稱，呈現從頭到腳的全身視角，採用中低角度拍攝，直式 2:3 比例，無文字、無標誌、無浮水印。
+動漫視覺參考表，{argument name="art style" default="Studio Ghibli"} 藝術風格，乾淨的奶油白背景。粗獷清晰的輪廓線，賽璐珞陰影，純 2D 動漫插畫。標題：{argument name="subject" default="CROISSANT"} — 視覺參考表 — {argument name="art style" default="Studio Ghibli"} 風格。成分面板：{argument name="details" default="Raw dough ball"}
 ```
 
 #### 🖼️ 生成圖片
@@ -1820,49 +2138,45 @@ HDR，8K 解析度，高度細節化。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537353548_hdbh0v_HNl7yEWaAAANqdo.jpg" width="600" alt="社群媒體貼文 - 粉彩動漫偶像演唱會終場 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784623720532_2038cn_HNrPse2XoAARtUb.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 吉卜力工作室風格視覺參考表 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [美桜-mio-｜AIart](https://x.com/AI_mio_AI)
-- **來源:** [Twitter Post](https://x.com/AI_mio_AI/status/2078828945756377296#reversed-0)
-- **發布時間:** 2026年7月19日
+- **作者:** [TechieSA](https://x.com/TechieBySA)
+- **來源:** [Twitter Post](https://x.com/TechieBySA/status/2079202546288115744)
+- **發布時間:** 2026年7月20日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29239)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29307)**
 
 ---
 
-### No. 31: 社群媒體貼文 - Felt GPT Image 2 Apple Design 橫幅
+### No. 38: 資訊圖表 / 教育視覺化內容 - 鈦金屬智慧型手機三聯圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一個手工毛氈風格的頁首橫幅，用於介紹 GPT Image 2 與 apple-design UI 動畫實驗的文章。
+製作一張頂級編輯風格的比較圖，展示三款旗艦鈦金屬智慧型手機，包含品牌標籤與戲劇性的重點照明。
 
 #### 📝 提示詞
 
 ```
-目標：創作一個寬版文章頁首橫幅，採用柔和的手工毛氈與布藝風格，介紹 {argument name="headline text" default="GPT Image 2 × apple-design"} 以及 6 個動態 UI 範例。
+目標：製作一張頂級編輯風格的比較三聯圖，將三款旗艦鈦金屬智慧型手機並排展示，以奢華科技雜誌廣告的視角，從背面以一致的三分之四角度拍攝。
 
-畫布：橫向 2:1 橫幅，溫暖的奶油色布料背景，柔和的攝影棚燈光，細緻的陰影，觸感真實的縫線材質，毛氈貼花文字與毛絨物件。
+畫布：寬螢幕 16:9 水準構圖，深炭色至黑色的漸層攝影棚背景，帶有細微的煙霧質感，底部設有光澤反射地板線，具備戲劇性的邊緣照明與柔和光暈。
 
-版面：左半部為醒目的文字排版；中央展示兩個智慧型手機 UI 模型，附帶動畫與比較註解；右側有一隻可愛的毛絨貓咪 Agent 角色，手持設計審閱道具。
+佈局：在頂部中央放置一個巨大的細體大寫標題，內容為 {argument name="headline text" default="TITANIUM"}。在其正下方，添加副標題 {argument name="subtitle text" default="Three brands. One metal. Zero agreement."}。在右上角放置一個小型黑色圓角矩形徽章，內含粗體白色文字 {argument name="badge text" default="GPT"}。將三支手機置於下方三分之二處，保持等距與相同的視覺比例。
 
-文字內容：左側大型堆疊標題，深青色毛氈拼貼「GPT」，紅色毛氈拼貼「Image 2」，中間是一個小的深青色「×」，下方為紅色毛氈拼貼的「apple-design」。下方加入一條縫線分隔線，接著是日文副標題：{argument name="subheading text" default="6つの動くUIを作ってみた"}。左下角加入一個深青色圓角縫線標籤，內含奶油色文字：{argument name="bottom label text" default="Image Gen から実装・比較・修正まで"}。
+主體細節：精確展示 3 支智慧型手機。左側手機：iPhone 16 Pro（原色鈦金屬），暖香檳金機身，背面有 Apple 標誌，方形相機模組內有三顆大鏡頭，邊緣帶有暖金色重點照明。中央手機：Samsung Galaxy S24 Ultra（鈦灰），深灰色矩形機身，邊角方正，背面有 Samsung 標誌，五個獨立的後置相機/感測器圓圈，右側邊緣帶有電光藍色邊緣光。右側手機：Google Pixel 9 Pro（曜石黑），背面有 Google G 標誌，橫向黑色相機列包含鏡頭與閃光燈，側面帶有綠色重點邊緣光。
 
-中央 UI 模型：展示 2 個細長的圓角智慧型手機卡片。每支手機頂部有一個圓形 apple 圖示，下方有三列堆疊的列表行，以及一個底部圓角按鈕區。列表行使用 3 個圖示：櫻桃、愛心與齒輪，每個圖示旁皆有灰色預留文字行。左側手機看起來較不精緻且色彩較淡；右側手機看起來精緻、明亮且乾淨。
+可見標籤：在手機附近包含 3 組精確的產品標籤。左側標籤第一行顯示「Apple iPhone 16 Pro」，第二行顯示「Natural Titanium」。中央標籤第一行顯示「SAMSUNG」，第二行顯示「Galaxy S24 Ultra」，第三行顯示「Titanium Gray」。右側標籤第一行顯示「Google」，第二行顯示「Pixel 9 Pro」，第三行顯示「Obsidian」。在底部中央添加一個小型創作者帳號，內容為 {argument name="creator handle" default="@TechWithYami"}。
 
-註解元素：在手機之間與周圍，展示 4 個比較與測量標註：1 個頂部虛線膠囊框顯示對齊與間距，並附帶紅色測量線；1 個中央虛線框寫著「44 px」；1 個底部轉換標註，以紅色 X 箭頭指向綠色勾選符號；以及 1 個圍繞在右側精緻手機底部按鈕的虛線框。包含 2 個紅色 X 徽章與 2 個綠色勾選徽章。使用青色虛線導引線將標註連接至 UI 區域。
+視覺風格：超寫實 3D 產品渲染，頂級編輯照明，金屬表面，柔和反射，清晰的鏡頭玻璃，淺層攝影棚霧氣，高對比度，電影級色彩點綴：左側金色、中央藍色、右側綠色。
 
-右側角色：加入一隻米色毛氈毛絨貓咪吉祥物，帶有縫線細節、紅色圓框眼鏡、大大的藍色眼睛、細小的鬍鬚與捲曲的尾巴。牠手持 2 個道具：一隻爪子拿著黑色放大鏡，另一隻拿著頂端有覆盆子狀毛球的紅色魔法棒。角色情緒表現為開朗、聰明且具教學感。
-
-視覺風格：將 Apple 風格的簡潔 UI 構圖轉化為柔軟的毛氈工藝，繡花邊緣，立體布料文字，圓角設計，溫馨的手工質感，淺景深，奶油色/紅色/深青色調，搭配青色註解線與灰色 UI 預留位置。
-
-限制：保持橫幅簡潔、易讀且置中。保留所有指定的日文文字。不使用浮水印，不使用照片級真實感的金屬或玻璃材質，且除了 2 支手機外，不增加額外的 UI 卡片。
+限制：精確使用三支手機與三組產品標籤；保持所有文字乾淨、易讀且簡潔；不得出現額外的裝置、手部、人物、圖表或雜亂元素。
 ```
 
 #### 🖼️ 生成圖片
@@ -1870,412 +2184,21 @@ HDR，8K 解析度，高度細節化。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537360267_qc7cit_HNl4wFjaYAArxbT.jpg" width="600" alt="社群媒體貼文 - Felt GPT Image 2 Apple Design 橫幅 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784623724076_65d6mr_HNoVzgDXIAEPaVa.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 鈦金屬智慧型手機三聯圖 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [Maki@Sunwood AI Labs.](https://x.com/hAru_mAki_ch)
-- **來源:** [Twitter Post](https://x.com/hAru_mAki_ch/status/2078825475502473339#reversed-0)
-- **發布時間:** 2026年7月19日
+- **作者:** [M!tch3ll👨🏾‍💻](https://x.com/Techwithyami)
+- **來源:** [Twitter Post](https://x.com/Techwithyami/status/2078998199935938833#reversed-0)
+- **發布時間:** 2026年7月20日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29250)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29313)**
 
 ---
 
-### No. 32: 社群媒體貼文 - 東京夏季窗邊人像
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一個精緻的提示詞，旨在創作出具備時尚攝影風格的人像作品，描繪一位年輕女性坐在高層建築窗邊，背景為柔和的東京城市景觀。
-
-#### 📝 提示詞
-
-```
-主體：夏季窗邊。
-
-主要對象：一位 20 多歲的女性，側身坐在放置於高層公寓落地窗旁的 {argument name="furniture" default="淺灰色沙發"} 上。人物位於畫面中心偏右，上半身至大腿佔據畫面約 65%。她的左手自然地放在一本打開的攝影集上，緩緩回頭看向鏡頭。窗外，{argument name="scenery" default="東京夏季典型的城市景觀"} 廣闊地延展開來，背景呈現柔和的模糊效果。
-
-人物與表情：肌膚白皙透亮，帶有自然的紅潤感。雙眼明亮清澈，臥蠶精緻，搭配自然的棕色眼妝，唇色透著淡淡的玫瑰色。表情平靜，帶有一絲慵懶感。髮型為 {argument name="hairstyle" default="深棕色長層次髮型，帶有自然波浪，融合韓式與日式風格"}。瀏海為輕薄的空氣瀏海。非盤髮，而是從肩部自然垂落至背部的可愛日式髮型。整體氛圍結合了 20 多歲的清新感與成熟的沉穩氣質。
-
-服裝與姿勢：肩上輕披一件夏季象牙白透視針織衫，內搭白色羅紋 V 領細肩帶背心。下身為淺色雪紡迷你裙或透視圍裹裙，展現優雅的透明感，同時不過度暴露。穿著細帶涼鞋。佩戴精緻的金色手鍊、戒指與小巧耳環。身體朝向窗戶，腰部微微扭轉，回眸的姿勢顯得自然。雙腿放鬆交疊，展現優美的女性曲線，同時保持放鬆的姿態。
-
-背景與光影：日式高層住宅。落地大玻璃窗。窗外是東京夏季的街道，藍天與輕微的薄霧交織在城市中。室內設計為極簡現代風格。自然光從左上方柔和地灑入，在頭髮、肩膀與雙腿上形成細膩的高光。白色透視材質在光線下呈現優雅的半透明感。整體色調為明亮且清涼的藍白色系。
-
-構圖與相機：9:16 直式構圖。{argument name="lens" default="85mm 人像鏡頭"}。平視角度拍攝。淺景深。背景高度模糊的構圖，將視覺焦點集中在人物身上。為窗戶留出充足的空間，以營造都市的開闊感。呈現出如雜誌專題般精緻的時尚攝影質感。
-
-質感與風格：超高畫質的寫實攝影。自然的肌膚紋理、柔軟透視布料的通透感、每一根髮絲的細節以及優雅的光澤。如電影場景般的透明感。高端時尚雜誌專題風格，色調沉穩，氛圍細膩，陰影自然，展現日本女性的真實之美。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537331510_y3ey0p_HNlzO_aa4AAOgFQ.jpg" width="600" alt="社群媒體貼文 - 東京夏季窗邊人像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [lovimg_com](https://x.com/lovimg_com)
-- **來源:** [Twitter Post](https://x.com/lovimg_com/status/2078819414150119508)
-- **發布時間:** 2026年7月19日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29212)**
-
----
-
-### No. 33: 社群媒體貼文 - 衛城電影感時尚人像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一張優雅的寬螢幕時尚人像，以帕德嫩神廟為背景，呈現地中海陽光與亞麻質感。
-
-#### 📝 提示詞
-
-```
-電影感寫實時尚人像，雅典衛城，16:9 寬螢幕。一位時尚的年輕女性，位置略偏右，取景範圍從大腿中部到頭頂。放鬆的三分之二側身姿勢——軀幹輕微向左傾斜，臉部微微向上朝向鏡頭右側。雙眼微閉——營造出寧靜、被陽光親吻且沉思的氛圍。雙唇微張，表情冷靜而自信。角色：短而蓬鬆的下巴長度深棕色波浪捲髮，髮絲輕盈，額頭與臉頰周圍有幾縷細髮隨微風自然飄動。溫暖柔和的膚色。低調優雅的妝容：自然的皮膚紋理、柔和的眉型、細緻的玫瑰紅唇色、精緻的眼線、柔和的暖色調眼影。珠寶：小巧的雕塑感金質垂墜耳環、一條極細的金項鍊搭配一個微小墜飾，以及上方另一條精緻的細鍊。服裝：輕盈的象牙白亞麻襯衫——柔軟且帶有輕微皺褶質感，寬鬆透氣，袖子隨意捲至手肘下方。上方鈕扣解開形成放鬆的 V 領。襯衫下擺在右側腰間打了一個柔軟的結，布料自然褶皺垂墜。高腰寬管奶油色長褲——精緻的前褶、結構感腰頭、皮帶環，以及帶有細緻金屬扣的同色系腰帶。一隻手隨意插在口袋裡，另一隻手臂自然垂在身側。整體造型維持優雅的單色調：暖白、象牙白、燕麥色與淺米色。場景：帕德嫩神廟佔據了左側與中央的大部分背景——風化的淺色石柱、柱頂楣飾與部分損毀的山牆，略微失焦但清晰可辨。漂白的大理石塊、不平整的考古石材表面、斷裂的石柱與散落的廢墟延伸至背景中。遠處有一兩個模糊的遊客作為比例參考。光線：明亮的自然地中海日光，時間為上午晚些時候或下午，陽光來自左上方/左前方。顴骨、鼻樑、髮絲、襯衫褶皺與肩膀上有著發光的亮部；下顎線與布料褶皺處有柔和的暖色陰影。略帶朦朧的淡藍灰色天空，乾燥且陽光充足的氛圍。石材背景呈現低調的粉筆白、淺沙色、風化米色與冷灰色。皮膚與金質珠寶提供了內斂的溫暖感。相機與調色：全片幅 85mm 人像鏡頭，f/2–f/2.8，淺景深，平滑奶油般的散景，輕微的背景壓縮，臉部、頭髮、珠寶與上半身服裝對焦清晰。真實的皮膚毛孔、獨立的髮絲、天然亞麻纖維、真實的衣物褶皺、準確的手部細節、真實的古老石材紋理。柔和的底片色調：暖色亮部、略帶冷色的中性陰影、中低飽和度、輕微細膩顆粒感、內斂的對比度、通透的高調質感。優雅、寧靜、感性但不挑逗，視覺平衡——天空與建築向左延伸，人物錨定在右側中心位置。負面提示：無強烈人工照明、無過度修圖、無塑膠感皮膚、無過度飽和的橘色調、無現代標誌、無人群、無干擾性配件、無文字、無浮水印、無扭曲的石柱、無扭曲的手部、無重複的肢體、主體無過度模糊。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537313753_dvuko4_HNldVZ8WoAEdG_l.png" width="600" alt="社群媒體貼文 - 衛城電影感時尚人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537313732_7f0j3w_HNldVaGWUAA1IKH.png" width="600" alt="社群媒體貼文 - 衛城電影感時尚人像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537313749_ytours_HNldVZ8WUAA5jXV.png" width="600" alt="社群媒體貼文 - 衛城電影感時尚人像 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537314600_70c755_HNldVaEWQAAE6Ml.png" width="600" alt="社群媒體貼文 - 衛城電影感時尚人像 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **來源:** [Twitter Post](https://x.com/ToroJushiAi/status/2078812097614340149)
-- **發布時間:** 2026年7月19日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29191)**
-
----
-
-### No. 34: 社群媒體貼文 - 飯店浴室鏡面自拍
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一個高度詳細的提示詞，用於生成女性在豪華飯店浴室中拍攝的寫實鏡面自拍，強調質感、光影以及現代智慧型手機的視覺美感。
-
-#### 📝 提示詞
-
-```
-主體：展示背部的鏡面自拍。
-
-主要對象：一位成年女性側身坐在類似高檔城市飯店浴室的洗手台邊緣，透過鏡子進行自拍。人物佔據了從中心到左側的大部分空間，以 9:16 的垂直比例捕捉從頭部到大腿中部的畫面。她右手拿著 {argument name="smartphone" default="最新一代沙漠金色的三鏡頭智慧型手機"}，對準畫面右側的鏡子。
-
-人物與表情：一位擁有自然透明感且神情冷靜成熟的女性。她的髮型是 {argument name="hairstyle" default="下顎線長度的光澤深巧克力棕色鮑伯頭"}。髮尾微微內彎，搭配稀疏的瀏海和臉頰旁細緻的髮絲，柔和地修飾臉型。她畫著淡粉米色的腮紅、精緻的棕色眼妝、自然的臥蠶，以及光澤感的玫瑰米色唇彩。她的頭部微微向右下方傾斜，視線注視著手機螢幕，表情寧靜平和。
-
-服裝與姿勢：{argument name="outfit" default="一件由細緻象牙白羅紋材質製成的夏季迷你連身裙，自然貼合身體曲線"}。領口為簡約的 V 領，背部則從肩胛骨處向下延伸至腰部呈現深 V 剪裁。背部中心沒有任何布料或裝飾，清晰地展現出平滑的線條。她將左肩向鏡子方向拉伸，上半身微微扭轉。腰部穩固地靠在檯面上，雙腿併攏向右側延伸。右肘彎曲將手機保持在臉部高度，手指自然地握住裝置邊緣。
-
-背景與光線：乾淨的浴室，鋪設米色大理石瓷磚，設有玻璃淋浴間、灰褐色梳妝台收納櫃和白色陶瓷洗手盆。背景中心設有小型壁掛式洗手台和鍍鉻管線。天花板上的暖色調筒燈與鏡面周圍的燈光作為主要光源。這些光線柔和地照亮了人物的臉部、肩膀和上背部，在腰部左側和檯面下方投下柔和的陰影。瓷磚和智慧型手機的金屬表面上可以看到柔和的反射光。
-
-構圖與相機：9:16 垂直構圖，從腰部到大腿的近距離鏡面肖像。頭頂上方留有少量空間，腰部和臀部線條位於畫面下半部。相機位於視線高度，大約與鏡子齊平。採用相當於 50mm 的自然透視感，聚焦於臉部和智慧型手機。背景經過輕微柔焦處理，同時保持浴室設施的可辨識度。
-
-質感與風格：實景時尚攝影。細膩呈現自然的皮膚紋理、細羅紋布料的彈性與皺褶、髮絲的光澤，以及拋光大理石與金屬表面的反射。色調精緻且具有飯店氛圍，以低飽和度的暖象牙色和米色為主。避免過度銳化或皮膚修圖，以維持如同使用智慧型手機拍攝般的真實感。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537329930_80i80f_HNjNc3Pa8AAJDxL.jpg" width="600" alt="社群媒體貼文 - 飯店浴室鏡面自拍 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **來源:** [Twitter Post](https://x.com/CyberTotal2026/status/2078799510873296961)
-- **發布時間:** 2026年7月19日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29209)**
-
----
-
-### No. 35: 社群媒體貼文 - 陽光海濱情侶肖像
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個描繪情侶在晴朗湛藍天空下、正午陽光灑落海邊的風景提示詞。
-
-#### 📝 提示詞
-
-```
-{argument name="time of day" default="正午前夕"}，陽光從晴朗的藍天傾瀉而下，{argument name="subject" default="海邊的一對情侶"}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537318715_42plyf_HNldJ39acAAfNnw.jpg" width="600" alt="社群媒體貼文 - 陽光海濱情侶肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [春永睦月　Harunaga Mutsuki](https://x.com/HarunagaMutsuki)
-- **來源:** [Twitter Post](https://x.com/HarunagaMutsuki/status/2078795891088261233)
-- **發布時間:** 2026年7月19日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29196)**
-
----
-
-### No. 36: 社群媒體貼文 - 雨中女學生照片日記拼貼
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成一張 12 格夢幻雨天手機拼貼肖像，包含隨性的校服姿勢與手寫日記筆記。
-
-#### 📝 提示詞
-
-```
-建立一張 2:3 的直式柔和電影感照片拼貼，主角為 {argument name="character name" default="一位年輕的東亞女學生"}，置身於夏季大雨中。畫面由 12 張獨立的隨性手機風格照片組成，精確排列為 3 欄 4 列的網格，並帶有細緻的無縫邊框。主角留著濕漉漉的黑色長髮，瀏海貼在臉上，皮膚白皙，妝容自然，眼神生動，身穿 {argument name="outfit" default="一件濕透的白色短袖校園 Polo 衫，搭配淺藍色領子、深藍色裙子與黑色背包肩帶"}。採用夢幻的 Y2K 一次性相機風格：朦朧鏡頭光暈、低對比度、冷藍灰色調、雨霧、柔焦、動態模糊、鏡頭上的水滴、略微過曝的高光，營造出懷舊的青春夏季氛圍，避免使用完美的攝影棚燈光。
-
-版面與格數：精確 12 格。第 1 列：第 1 格為她開懷大笑的近距離自拍，瀏海被雨水浸濕；第 2 格為她在濕漉漉的道路上張開雙臂的廣角自拍，仰頭微笑，背景為樹木與雨景；第 3 格為她仰頭望向雨中、閉眼且微張嘴的側面特寫。第 2 列：第 4 格顯示她走在白色牆壁旁，牆上有部分英文標示，一隻手拿著小物品；第 5 格為她濕髮的強烈近距離自拍，直視鏡頭，髮絲遮住一隻眼睛；第 6 格為她手持透明雨傘把手或瓶狀物時的傾斜肖像，濕髮垂在臉上。第 3 列：第 7 格為大眼睛與微嘟嘴的極致特寫，頭髮遮住額頭；第 8 格為高角度自拍，她雙臂向鏡頭伸展，笑容燦爛；第 9 格為她在雨中林蔭大道上轉頭仰望的側面/背面視角，髮絲飛揚。第 4 列：第 10 格顯示她在雨中蹲下或向前傾，伸手向鏡頭，前景的手部模糊；第 11 格為她仰望陰天的柔和側面，可見上半身，襯衫濕透；第 12 格為一張平靜、置中的近距離自拍，帶著淡淡的微笑與濕潤的瀏海。
-
-僅在少數幾格中加入細小的白色手寫日記風格塗鴉，如同類比照片的筆記，包括在第 10 格左下角附近加入 {argument name="handwritten phrase one" default="steal my soul"}，以及在第 9 格附近加入 {argument name="handwritten phrase two" default="overnight > not alone"}，並在其他地方加上一些細小的草寫筆跡。文字需保持細膩、不完美且手繪感，而非印刷字體。背景應為雨中街道、樹木、灰色人行道與白色牆壁，皆需模糊且具氛圍感。整體感覺親密、俏皮、憂鬱且浪漫，如同雨天的成長照片日記。避免出現其他人物、標誌、銳利的時尚攝影燈光、乾淨的攝影棚背景或額外的格數。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537342803_gls07u_HNlL9OYa4AAatK5.jpg" width="600" alt="社群媒體貼文 - 雨中女學生照片日記拼貼 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537342859_iscuc9_HNlL9Oba4AA_VeH.jpg" width="600" alt="社群媒體貼文 - 雨中女學生照片日記拼貼 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ](https://x.com/94vanAI)
-- **來源:** [Twitter Post](https://x.com/94vanAI/status/2078776227377332690#reversed-0)
-- **發布時間:** 2026年7月19日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29225)**
-
----
-
-### No. 37: 社群媒體貼文 - 真實感薰衣草色調自拍
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一個用於生成逼真智慧型手機自拍的提示詞，主角是一位在夢幻薰衣草主題臥室中，背景裝飾著花卉牆飾的女性。
-
-#### 📝 提示詞
-
-```
-超逼真的智慧型手機自拍，看起來就像是用旗艦手機前鏡頭隨手拍攝的，而非單眼相機或 AI 渲染圖。
-
-一位 {argument name="subject description" default="令人驚豔的可愛 20 歲印尼女性，留著長而柔順的波浪狀紫色秀髮"}，長度及胸。她擁有柔和的印尼人面部特徵、溫暖的中等膚色、深邃且富有表情的深褐色大眼睛、自然光澤的粉色嘴唇、精緻的韓系妝容、蓬鬆的眉毛，以及帶著俏皮眨眼的可愛青春笑容。
-
-她身處於一間溫馨且充滿美感的臥室中，房間完全採用 {argument name="room theme" default="薰衣草與粉紫色主題"} 裝飾。牆壁、寢具、枕頭、窗簾、裝飾品、LED 燈光和配件皆遵循和諧的紫色色調。房間氛圍溫暖、柔美、夢幻且奢華。
-
-牆上掛著巨大的裝飾性文字「{argument name="wall text" default="rhodezio"}」，完全由新鮮的紫色花朵組成，花朵字母間交織著微小的溫暖仙女燈。這項花藝裝置是房間的視覺焦點。
-
-房間的其他細節包括紫色蝴蝶裝飾、美學掛畫、絨毛玩具、紫色化妝角落、玻璃花瓶中的薰衣草、柔和的環境 LED 燈條、舒適的毯子，以及營造誘人氛圍的細緻仙女燈。
-
-她穿著一件舒適的薰衣草色寬鬆針織開襟衫，一側肩膀微微滑落，內搭一件可愛的白紫色碎花細肩帶背心，邊緣飾有精緻蕾絲和細小的紫色緞帶細節。她全身的穿搭都與紫色美學完美呼應。
-
-她正用一隻手臂舉著手機自拍。另一隻手在臉頰旁比出完美的「手指愛心」（韓式愛心手勢）。**畫面中僅有兩隻手臂和兩隻手。** 解剖結構正確的手指。沒有多餘的肢體。沒有多餘的手指。沒有第三隻手。
-
-從略高的手持角度拍攝的上半身近距離自拍。自然的智慧型手機 HDR 效果、真實的皮膚紋理、室內自然光與溫暖的紫色環境光混合、細微的感光元件雜訊、真實的白平衡、輕微的手持不完美感、自然的曝光，沒有美顏濾鏡，沒有 AI 過度銳化，沒有浮水印，除了花卉「rhodezio」牆面裝飾外，沒有任何文字。
-
-長寬比：3:4
-
-風格：超逼真攝影、真實智慧型手機自拍、溫馨實況主臥室美學、夢幻紫色主題、Pinterest 美學、可愛房間裝飾、真實光影、旗艦手機相機畫質、8K。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537315048_f1sohn_HNk9zqQbwAALnkt.jpg" width="600" alt="社群媒體貼文 - 真實感薰衣草色調自拍 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537315116_ynq7fg_HNk90ObaIAAIuz8.jpg" width="600" alt="社群媒體貼文 - 真實感薰衣草色調自拍 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537315147_4m6iad_HNk90s6bcAAXwkr.jpg" width="600" alt="社群媒體貼文 - 真實感薰衣草色調自拍 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537315863_jj4a1g_HNk94VFaIAAoODd.jpg" width="600" alt="社群媒體貼文 - 真實感薰衣草色調自拍 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [By](https://x.com/rhodezio_ai)
-- **來源:** [Twitter Post](https://x.com/rhodezio_ai/status/2078760749506449609)
-- **發布時間:** 2026年7月19日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29192)**
-
----
-
-### No. 38: 社群媒體貼文 - 夏季高層建築窗邊人像
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張精緻的時尚雜誌風格人像，描繪了一位坐在高層住宅窗邊的女性，背景為東京城市景觀。
-
-#### 📝 提示詞
-
-```
-主題：夏季窗邊
-
-主角：一位 {argument name="age" default="20 多歲的女性"} 側身坐在放置於 {argument name="background" default="高層公寓大窗旁"} 的淺灰色沙發上。人物位於畫面中心偏右，上半身與大腿約佔畫面 65%。她左手自然地拿著一本翻開的寫真書，緩緩回頭看向鏡頭。窗外延伸著 {argument name="background scene" default="典型的夏季東京城市景觀"}，背景呈現柔和的虛化效果。
-
-人物/表情：肌膚白皙透亮，散發自然健康的紅潤光澤。擁有明亮的大眼睛、精緻的臥蠶、自然的棕色系眼妝，以及淡淡的玫瑰色雙唇。表情平靜且帶有一絲慵懶。深棕色的長層次髮型，帶有柔和的波浪，融合了韓系與日系的自然捲度。留著輕薄的空氣瀏海。可愛的日系髮型自然地從肩部垂落至背後，並非盤髮。整體氛圍結合了 20 多歲的清新感與成熟的從容。
-
-服裝/姿勢：{argument name="clothing" default="肩上輕披一件夏季感的象牙白透視針織開衫，內搭白色羅紋 V 領細肩帶背心"}。下身為淺色雪紡迷你裙或透視感圍裹裙，展現優雅的透明感，同時保持適度的保守。搭配細帶涼鞋。佩戴纖細的金色手鍊、戒指與小巧耳環。身體朝向窗戶，腰部微微扭轉，呈現回眸的自然姿勢。雙腿放鬆交疊，姿態優雅，展現女性柔美的曲線。
-
-背景/光影：日式高層住宅。擁有大型落地玻璃窗。窗外是夏季的東京城市景觀，藍天與輕微的薄霧交織在城市上空。室內為極簡現代風格。自然光從左上方柔和地灑入，在髮絲、肩膀與腿部勾勒出細膩的高光。白色的透視材質顯得優雅且具有通透感，恰到好處地捕捉光線。整體色調為明亮且清冷的藍白色系。
-
-構圖/攝影：9:16 直式構圖。使用 85mm 人像鏡頭。視線水平拍攝。淺景深。背景大幅虛化，將視覺焦點集中在人物身上。保留寬闊的窗景以營造都市的開闊感。呈現如時尚雜誌寫真般的精緻質感。
-
-質感/風格：超高畫質寫實攝影。自然的肌膚紋理、透視材質的柔軟透明感、真實的髮絲細節以及優雅的光澤。具備電影場景般的通透感。高階時尚雜誌編輯風格，色調沉穩，氛圍細膩，陰影自然，展現真實日本女性之美。
-
-負面提示：低畫質、低解析度、不自然的面部、不自然的眼睛、多指、缺指、肢體殘缺、關節異常、服裝錯誤、不自然的透明度、過度暴露、過度修圖、文字、標誌、浮水印、雜訊、模糊、背景扭曲、透視錯誤。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537326773_r6os0g_HNi8fF-bQAEn-vd.jpg" width="600" alt="社群媒體貼文 - 夏季高層建築窗邊人像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **來源:** [Twitter Post](https://x.com/CyberTotal2026/status/2078757987175244077)
-- **發布時間:** 2026年7月19日
-- **多語言:** ja
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29205)**
-
----
-
-### No. 39: 社群媒體貼文 - 沙漠時尚平口上衣人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一個針對沙漠景觀中女性的高對比度時尚提示詞，強調真實的底片顆粒感與正午陽光照明。
-
-#### 📝 提示詞
-
-```
-一位 {argument name="ethnicity" default="年輕韓國女性"} 穿著 {argument name="swimsuit style" default="駝色平口泳裝"}，身後拖曳著白色紗布，背景為 {argument name="setting" default="龜裂的沙漠地面"}。正午陽光直射頭頂，產生強烈的對比與極少的柔和陰影。中特寫鏡頭，略微低角度，她的視線看向鏡頭外，沙漠稜線隱約可見但呈現高度失焦。垂直人像構圖，2:3 比例。以攝影寫實風格渲染：陰影區域帶有細微的 ISO 400 底片顆粒感，避免過度平滑的 CG 紋理。皮膚：具備次表面散射與微紋理。頭髮：呈現細膩的自然不完美感。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537304544_kzo7li_HNgqxS_X0AAokwN.jpg" width="600" alt="社群媒體貼文 - 沙漠時尚平口上衣人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537305980_q8xlgb_HNgqxS1WUAAWJdt.jpg" width="600" alt="社群媒體貼文 - 沙漠時尚平口上衣人像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537305972_toszbr_HNgqxUTWUAAFK7t.jpg" width="600" alt="社群媒體貼文 - 沙漠時尚平口上衣人像 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537305290_92hlsa_HNgqxSzXYAA9Pdh.jpg" width="600" alt="社群媒體貼文 - 沙漠時尚平口上衣人像 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **來源:** [Twitter Post](https://x.com/ToroJushiAi/status/2078751700136202512)
-- **發布時間:** 2026年7月19日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29176)**
-
----
-
-### No. 40: 資訊圖表 / 教育視覺化內容 - 三步擁有幸福人生資訊圖表
+### No. 39: 資訊圖表 / 教育視覺化內容 - 三步擁有幸福人生資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2325,7 +2248,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 41: 資訊圖表 / 教育視覺化內容 - 教育漫畫生成提示詞
+### No. 40: 資訊圖表 / 教育視覺化內容 - 教育漫畫生成提示詞
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2388,7 +2311,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 42: 資訊圖表 / 教育視覺化內容 - Apple Design Skill 影響矩陣
+### No. 41: 資訊圖表 / 教育視覺化內容 - Apple Design Skill 影響矩陣
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2438,7 +2361,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 43: 資訊圖表 / 教育視覺化內容 - 粉紅兔兔 Kigurumi 雜誌封面
+### No. 42: 資訊圖表 / 教育視覺化內容 - 粉紅兔兔 Kigurumi 雜誌封面
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2486,7 +2409,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 44: 資訊圖表 / 教育視覺化內容 - SenseNova U1 Pro 功能頁面
+### No. 43: 資訊圖表 / 教育視覺化內容 - SenseNova U1 Pro 功能頁面
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2532,7 +2455,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 45: 資訊圖表 / 教育視覺化內容 - 三國演義立體書場景
+### No. 44: 資訊圖表 / 教育視覺化內容 - 三國演義立體書場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2600,7 +2523,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 46: 資訊圖表 / 教育視覺化內容 - 哥德風少女角色三視圖設定集
+### No. 45: 資訊圖表 / 教育視覺化內容 - 哥德風少女角色三視圖設定集
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2646,7 +2569,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 47: 資訊圖表 / 教育視覺化內容 - 極簡排隊插畫
+### No. 46: 資訊圖表 / 教育視覺化內容 - 極簡排隊插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2680,7 +2603,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 48: 資訊圖表 / 教育視覺化內容 - 凱爾經 (Book of Kells) 修復對比
+### No. 47: 資訊圖表 / 教育視覺化內容 - 凱爾經 (Book of Kells) 修復對比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2729,7 +2652,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 49: 資訊圖表 / 教育視覺化內容 - 日式面部診斷報告
+### No. 48: 資訊圖表 / 教育視覺化內容 - 日式面部診斷報告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2785,7 +2708,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 50: 資訊圖表 / 教育視覺化內容 - 日本超級跑車藍圖海報
+### No. 49: 資訊圖表 / 教育視覺化內容 - 日本超級跑車藍圖海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2833,7 +2756,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 51: 資訊圖表 / 教育視覺化內容 - 行星齒輪組藍圖
+### No. 50: 資訊圖表 / 教育視覺化內容 - 行星齒輪組藍圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2879,7 +2802,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 52: 資訊圖表 / 教育視覺化內容 - 可愛的黑色玩具貴賓犬拼貼畫
+### No. 51: 資訊圖表 / 教育視覺化內容 - 可愛的黑色玩具貴賓犬拼貼畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2927,7 +2850,7 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 53: 資訊圖表 / 教育視覺化內容 - 90 年代遊戲攻略指南頁面
+### No. 52: 資訊圖表 / 教育視覺化內容 - 90 年代遊戲攻略指南頁面
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2961,31 +2884,29 @@ HDR，8K 解析度，高度細節化。
 
 ---
 
-### No. 54: 資訊圖表 / 教育視覺化內容 - 韓語資訊圖表工作紙批次
+### No. 53: YouTube 縮圖 - 日文價格比較縮圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-建立一張寬版聯絡表預覽，包含 12 份用於課堂閱讀理解教材的韓語教育資訊圖表工作紙。
+生成一張極具衝擊力的日文社群媒體縮圖，對比被劃掉的高額訂閱價格與更便宜的月費方案。
 
 #### 📝 提示詞
 
 ```
-目標：建立一張寬版聯絡表預覽，精確展示 12 份由英文考試文章生成的韓語課堂資訊圖表工作紙，並以縮圖形式排列，方便比較與批次審閱。
+目標：製作一張大膽的日文 YouTube/X 縮圖，強調訂閱費用過高，透過劃掉的高額月費與更便宜的月費進行戲劇性對比。
 
-畫布：寬版 16:9 橫向圖像，背景為淺灰色，並留有寬裕的邊距。將 12 份直式 A4 風格的頁面縮圖以整潔的網格排列：上下兩排各 6 頁。每頁均有白色紙張邊框、細緻的陰影效果，並在下方中央標註從 1 到 12 的黑色數字。
+畫布：垂直 3:4 縮圖，768×1024 風格，針對行動裝置閱讀進行優化。使用深海軍藍到深紫色的漸層背景，人物後方帶有細微的聚光燈效果。將所有主要文字保持在安全邊界內，並使其極大、高對比且清晰易讀。
 
-版面配置：每張縮圖均為色彩豐富的韓語教育資訊圖表頁面，專為高中英文閱讀理解設計。採用一致的工作紙風格：頂部標題橫幅、左上角的小型來源標籤、帶有編號步驟的區塊、卡通學生/教師、簡單圖示、迷你圖表、示意圖、箭頭、對話框以及底部的小型摘要框。頁面在放大時應呈現清晰的韓語教育海報質感，但在聯絡表中則保持縮圖大小。
+版面配置：在最上方放置 2 個由細線懸掛的價格標籤：左側標籤為紅色，略微傾斜，文字為 {argument name="old price text" default="月15,000円"}，使用粗體白色字體並加上粗白色對角刪除線；右側標籤為螢光綠色，略微傾斜且帶有發光效果，文字為 {argument name="new price text" default="月3,000円"}，使用粗體白色字體。標籤下方置中放置一個巨大的白色標題，並帶有黑色陰影：{argument name="headline text" default="その課金、まだ早い"}。在標題下方，加入一個幾乎橫跨全寬的亮黃色長方形橫幅，並使用粗體黑色文字：{argument name="subheadline text" default="月3,000円で足りる21の使い方"}。
 
-頁面：包含 12 份不同的資訊圖表頁面，編號與標題如下：1. 「사회사의 핵심 구성」（社會史的核心構成）；2. 「낯선 숲에서 커지는 불안」（在陌生森林中增長的焦慮）；3. 「좋은 글은 많은 해석을 낳는다」（好文章會產生多種詮釋）；4. 「진화와 생태계의 조화」（演化與生態系統的平衡）；5. 「공정 중간 정보와 전략 변화」（製程中間資訊與策略變更）；6. 「빛의 만남: 그림 물자의 에너지 영향」（光的相遇：繪畫材料的能量影響）；7. 「미디어 변화와 맞춤형 광고」（媒體變遷與個人化廣告）；8. 「나라별 삶의 만족도 차이」（各國生活滿意度差異）；9. 「시련을 넘어 다시 도전한 선수」（克服考驗再次挑戰的選手）；10. 「작은 돌이 행성으로 모이는 과정」（小岩石聚集成行星的過程）；11. 「서비스 가격은 왜 자주 바뀌는가」（為什麼服務價格經常變動）；12. 「단순 노출 효과」（單純曝光效應）。
+主體細節：在下半部，展示一張寫實的攝影棚剪影肖像，主角為一名留著黑色長髮與瀏海、身穿米色針織毛衣的年輕日本女性。她面向鏡頭，左手向觀眾做出清晰的「停止/等等」手勢，右手拿著一張金色信用卡。使用自然的膚色、乾淨的美容燈光以及清晰的剪裁邊緣。
 
-視覺風格：明亮的韓語教科書資訊圖表設計，柔和的粉彩色背景，海軍藍與青色的標題欄，圓角內容卡片，親切的卡通角色，小型裝飾性學術圖示，簡潔的向量插圖，以及細緻的彩色分隔線。採用精緻的課堂講義美學，而非照片寫實風格。確保頁面在顏色與圖表類型上有所變化，同時保持批次視覺的一致性。
+裝飾元素：加入 3 個小型漂浮的金色日圓硬幣，上面刻有日圓符號：一個位於左上方中間區域，一個位於左下邊緣附近，另一個位於右側中間區域。加入 2 個帶有三個黑點的白色對話氣泡：一個位於左側舉起的手附近，另一個位於右側標題/肩膀區域附近。請勿添加額外的硬幣、氣泡、圖示、標誌或浮水印。
 
-文字內容：工作紙縮圖中請全程使用韓文。主標題應清晰可辨；較小的內文可能較為密集，但應呈現真實的韓語教育教材質感。請使用可自訂的整體主題集 {argument name="topic set" default="Korean English exam passage infographic worksheets"}，並根據 {argument name="language" default="Korean"} 設定頁面標題風格。
-
-限制：請勿顯示人物手持頁面。請勿建立單一放大的工作紙；圖像必須是包含 12 個直式縮圖以及下方對應 12 個數字的批次聯絡表。避免出現浮水印、應用程式介面、瀏覽器視窗或頁碼以外的額外說明文字。
+視覺風格：極具衝擊力的日文社群媒體縮圖，具備光澤感的 3D 裝飾、強烈的陰影、綠色標籤的螢光效果、乾淨的合成、銳利的排版、飽和的色彩以及專業的病毒式封面設計。確保文字準確且無亂碼。
 ```
 
 #### 🖼️ 生成圖片
@@ -2993,96 +2914,21 @@ HDR，8K 解析度，高度細節化。
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784104951327_8au5ug_HNMLEOMa0AAuEzp.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 韓語資訊圖表工作紙批次 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784537359199_gjegyi_HNmIoKIaYAA-WF3.jpg" width="600" alt="YouTube 縮圖 - 日文價格比較縮圖 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [flowedu](https://x.com/flow_edu_)
-- **來源:** [Twitter Post](https://x.com/flow_edu_/status/2077017066453024908#reversed-0)
-- **發布時間:** 2026年7月14日
+- **作者:** [ラーテル](https://x.com/HoneyBadger_Min)
+- **來源:** [Twitter Post](https://x.com/HoneyBadger_Min/status/2078847841267753386#reversed-0)
+- **發布時間:** 2026年7月19日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=28771)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29248)**
 
 ---
 
-### No. 55: 資訊圖表 / 教育視覺化內容 - 頂級產品腳本資訊圖表
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一款簡潔、極簡風格的腳本排版，適用於 ASMR 開箱影片，呈現專業攝影與創意代理商的設計風格。
-
-#### 📝 提示詞
-
-```
-建立一份簡潔、頂級的產品 ASMR 開箱影片腳本資訊圖表。
-
-背景：
-白色背景，搭配現代極簡排版。
-
-標題：
-STORYBOARD
-
-產品：
-{argument name="product name" default="HAN RIVER WET & DRY 2 IN 1 STEAM IRON"}
-
-副標題：
-ASMR UNBOXING (POV HAND)
-
-建立一個 12 格腳本，以 4×3 網格排列，分為：
-
-第一部分 (0–10 秒)
-第二部分 (10–20 秒)
-第三部分 (20–30 秒)
-
-每個分鏡格應包含：
-• 編號與時間戳記
-• 真實的電影感影像
-• 手寫塗鴉文字
-• 視覺畫面
-• 動作
-• 塗鴉
-• 音訊
-
-使用頂級商業攝影風格，搭配溫暖的攝影棚燈光、淺景深以及僅露出 POV 手部特寫。
-
-資訊圖表結尾應包含：
-
-• 包裝內容物
-• 關鍵特色
-• 保固資訊
-• 適用對象
-• 中繼資料區塊
-
-字體排版應呈現專業創意代理商的腳本風格，具備乾淨的間距、深藍色點綴以及細灰色網格線。
-
-（接著列出所有 12 個場景的詳細拍攝清單。）
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784104903748_auwjhe_HNLHlBkaEAAfiad.jpg" width="600" alt="資訊圖表 / 教育視覺化內容 - 頂級產品腳本資訊圖表 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Harris](https://x.com/HarrisDecodes)
-- **來源:** [Twitter Post](https://x.com/HarrisDecodes/status/2076942151959588906)
-- **發布時間:** 2026年7月14日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=28700)**
-
----
-
-### No. 56: YouTube 縮圖 - 日文 AI 字幕縮圖
+### No. 54: YouTube 縮圖 - 日文 AI 字幕縮圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3132,7 +2978,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 57: YouTube 縮圖 - 社群媒體封面製作 Agent 技能
+### No. 55: YouTube 縮圖 - 社群媒體封面製作 Agent 技能
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3183,7 +3029,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 58: YouTube 縮圖 - 復古 2.5D 動漫 CRT 少女
+### No. 56: YouTube 縮圖 - 復古 2.5D 動漫 CRT 少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3217,7 +3063,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 59: YouTube 縮圖 - 可愛旅遊 Vlog 縮圖
+### No. 57: YouTube 縮圖 - 可愛旅遊 Vlog 縮圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3275,7 +3121,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 60: YouTube 縮圖 - Roblox 積木塔縮圖
+### No. 58: YouTube 縮圖 - Roblox 積木塔縮圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3327,7 +3173,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 61: YouTube 縮圖 - 低成本 AI 影片縮圖
+### No. 59: YouTube 縮圖 - 低成本 AI 影片縮圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3375,7 +3221,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 62: YouTube 縮圖 - 電影感底片人像轉換
+### No. 60: YouTube 縮圖 - 電影感底片人像轉換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3409,7 +3255,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 63: YouTube 縮圖 - 流行偶像排版封面藝術
+### No. 61: YouTube 縮圖 - 流行偶像排版封面藝術
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3497,7 +3343,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 64: YouTube 縮圖 - 《演算法霧城》電影海報
+### No. 62: YouTube 縮圖 - 《演算法霧城》電影海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3531,7 +3377,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 65: YouTube 縮圖 - 奢華生活風格別墅攝影
+### No. 63: YouTube 縮圖 - 奢華生活風格別墅攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3570,7 +3416,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 66: YouTube 縮圖 - 動漫 VTuber 遊戲影片縮圖
+### No. 64: YouTube 縮圖 - 動漫 VTuber 遊戲影片縮圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3612,7 +3458,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 67: YouTube 縮圖 - 英雄貓 RPG 必殺技過場橫幅
+### No. 65: YouTube 縮圖 - 英雄貓 RPG 必殺技過場橫幅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3652,7 +3498,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 68: YouTube 縮圖 - Gabriel Fauré 安魂曲文章縮圖
+### No. 66: YouTube 縮圖 - Gabriel Fauré 安魂曲文章縮圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3686,7 +3532,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 69: YouTube 縮圖 - 身披鎧甲的女戰士與黑豹
+### No. 67: YouTube 縮圖 - 身披鎧甲的女戰士與黑豹
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3720,7 +3566,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 70: YouTube 縮圖 - 震驚的龍打開散壽司
+### No. 68: YouTube 縮圖 - 震驚的龍打開散壽司
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3760,7 +3606,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 71: YouTube 縮圖 - 吸睛的 AI 外觀諮詢銷售橫幅
+### No. 69: YouTube 縮圖 - 吸睛的 AI 外觀諮詢銷售橫幅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3812,7 +3658,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 72: YouTube 縮圖 - 電影感郊區追逐場景
+### No. 70: YouTube 縮圖 - 電影感郊區追逐場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3846,7 +3692,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 73: YouTube 縮圖 - 日系開發者評論橫幅
+### No. 71: YouTube 縮圖 - 日系開發者評論橫幅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3880,7 +3726,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 74: YouTube 縮圖 - Netflix 原創影集電影感海報
+### No. 72: YouTube 縮圖 - Netflix 原創影集電影感海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3920,7 +3766,502 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 75: 漫畫 / 分鏡腳本 - Q 版海灘馬尾漫畫
+### No. 73: 漫畫 / 分鏡腳本 - 奇幻塗鴉插畫轉換器
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個將現有圖像轉換為充滿童趣、色彩鮮豔且帶有手繪輪廓的平面插畫的提示詞。
+
+#### 📝 提示詞
+
+```
+將此圖像重構成一張平面插畫，並融入 {argument name="elements" default="俏皮、童趣的塗鴉元素"}。使用 {argument name="color palette" default="大膽、鮮豔且奇幻的配色方案"}，將所有細節簡化為乾淨的平面形狀。加入略顯不完美的手繪輪廓以營造手工質感，創造出 {argument name="aesthetic" default="迷人且富有想像力的美學風格"}，就像是在白紙上繪製的一樣。整體風格應顯得可愛、生動且充滿奇幻趣味。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623713529_wbceau_HNu1ey9bwAA4Txh.jpg" width="600" alt="漫畫 / 分鏡腳本 - 奇幻塗鴉插畫轉換器 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Oogie](https://x.com/oggii_0)
+- **來源:** [Twitter Post](https://x.com/oggii_0/status/2079455201896075492)
+- **發布時間:** 2026年7月21日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29299)**
+
+---
+
+### No. 74: 漫畫 / 分鏡腳本 - 鬧鬼電腦零件店漫畫頁
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+生成一頁詳細的四格日式漫畫，場景設定在復古電腦零件店，描述一台掃地機器人召喚出藍色網路精靈吉祥物的故事。
+
+#### 📝 提示詞
+
+```
+目標：創作一頁日式漫畫場景，描述一家鬧鬼的電腦零件店，一台掃地機器人召喚出可愛的 AI 吉祥物並引發混亂。
+
+畫布：直式漫畫頁，3 層堆疊，具有粗黑邊框和白色頁邊，高細節彩色動漫風格。左上角添加一個小型標題行，內容為 {argument name="series title" default="電脳妖精らきもたん〜ロボット掃除機は夢を見ない〜"}，右上角標註頁碼「1/1」。
+
+版面配置：使用精確的 4 格漫畫。第 1 格橫跨頂部全寬。第 2 格位於中間層的左下半部。第 3 格位於中間層的右下半部。第 4 格橫跨底部全寬。保持乾淨的漫畫邊框和易讀的直式日文對話氣泡。
+
+主要場景：一家雜亂的復古電腦維修/零件店，堆滿了舊 CRT 顯示器、PC-98 電腦、線纜、電路板、工具、架子、抽屜和電子零件。氛圍為喜劇、超自然且混亂。包含日文店招，包括「ジャンクショップ スルポ」和紙板標示「ジャンクショップ スルポ」。其中一台顯示器應顯示「PC-98 起動中…」。
+
+角色：包含精確的 3 個常駐角色：1) 中年父親/店主，放鬆且友善，棕色亂髮，輕微鬍渣，穿著花卉夏威夷衫，戴著灰色工作手套，手持螺絲起子；2) 他的青少年/年輕成年兒子，身材瘦削，棕色亂髮，黑色連帽衫內搭灰色襯衫，表情豐富且持懷疑態度；3) 一個微小的漂浮網路精靈/機器人女僕吉祥物，名為 {argument name="mascot name" default="らきもー！"}，藍色雙馬尾，亮藍色眼睛，藍白相間的女僕裝配黃色蝴蝶結，帶有數位像素光芒，圍裙上有紅色「R」字樣，胸前有一個小型黑色顯示器。
+
+分鏡細節與文字：第 1 格：店內廣角全景。父親站在左側，在木製工作檯旁拿著螺絲起子冷靜地工作，旁邊放著一台白色圓形掃地機器人。兒子站在右側，雙手交叉，懷疑地看著那個圓盤。包含 2 個對話氣泡：父親說「下取りだ。床が拭けるらしい」；兒子說「親父、なにその円盤」。第 2 格：兒子在黃色速度線背景下驚恐後退的特寫/反應，雙手向前推，嘴巴張開。包含 2 個對話氣泡：鋸齒狀大氣泡「うわっ出た！触るな触るな!!」；小氣泡「妖精さんも掃除がしたいんだろ」。第 3 格：藍色吉祥物在白色掃地機器人上方伴隨發光的藍色像素和閃光現身，姿勢活潑，一隻手伸出。旁邊展示一台舊 CRT 塔式顯示器。包含粉紅色手寫音效文字「らきもー！」和一個對話氣泡：「ぴかぴかの円盤さん発見なのです!」。第 4 格：店內全寬混亂場景。掃地機器人的頂部變形成一個發光的藍色旋轉傳送門或藍屏圓盤，帶有微小的白色文字，形成一個吸入線纜、電腦零件、鍵盤、磁碟、電路板和工具的漩渦。兒子在左側，驚恐地向後踉蹌，雙手舉起。吉祥物在右側，眼睛變成暈眩的螺旋狀，依然可愛但受到驚嚇。包含戲劇性的紅色音效「ブオオオ!!」。包含精確的 3 個對話氣泡：左側鋸齒狀氣泡「だから言ったのに!!」；右上氣泡「なでなでするだけなのです〜」；右下氣泡「…仕様です!」。
+
+視覺風格：細緻的現代動漫漫畫上色，清晰的墨線，戲劇性的速度線，誇張的表情，密集的背景機械細節，明亮的超自然藍光與溫暖塵土飛揚的店內色調形成對比。日文文字應在適當的對話氣泡中以手寫體垂直排列。
+
+限制：使用精確的 4 格，精確的 3 個主要角色，精確列出的對話氣泡和音效，無額外分鏡，無浮水印，圖像內的日文文字不得替換為英文。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623743504_jsbqjr_HNtJrfHaIAA2sYt.jpg" width="600" alt="漫畫 / 分鏡腳本 - 鬧鬼電腦零件店漫畫頁 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [さ🥺](https://x.com/_sagyoai)
+- **來源:** [Twitter Post](https://x.com/_sagyoai/status/2079336668612677735#reversed-1)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29341)**
+
+---
+
+### No. 75: 漫畫 / 分鏡腳本 - 女性兔子機械人概念設計
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一個全身動漫機甲角色提示詞，用於生成外型流暢、配備武器、帶有斑點裝甲且呈現簡潔概念藝術風格的女性兔子機器人。
+
+#### 📝 提示詞
+
+```
+創作一張全身角色概念插圖，主角為 {argument name="character type" default="female rabbit mechanoid"}，以自信的正面姿勢站立在純淨的暖白色攝影棚背景中。角色身材高挑且健美，擁有流暢的黑色生物機械軀幹、纖細的腰部、修長的機械腿以及一對高聳的兔子耳朵；頭部是一個平滑的淺色兔型面具，配有細長的橙色眼睛，額頭上有一個紅色的蝴蝶結狀符號。採用啞光黑色機械組件、奶油白色裝甲板以及鮮豔紅色標記的醒目配色方案。裝甲具有三個主要的奶油白色斑點區域：雙前臂覆蓋著紅色圓形斑點、雙小腿護甲覆蓋著紅色斑點，以及大型圓形髖部/大腿裝甲板，上面帶有黑色插槽狀孔洞，其中一側有一個大膽的紅色數字狀標記。全身包含外露關節、活塞、螺絲、圓形接口、電纜、分層裝甲板以及不對稱的機械細節。角色雙手垂直向下握著一把超大型未來主義步槍，位於雙腿之間，步槍由黑色金屬製成，配有紅色裝飾圖案和面板。腳部為兔型機械爪，帶有爪狀腳趾。以高細節動漫機甲概念藝術風格渲染，邊緣線條銳利，帶有細膩的賽璐珞陰影，留白簡潔，無文字，無標誌，無環境背景，無肢體裁切，從耳朵到腳部全身可見，採用垂直 {argument name="aspect ratio" default="2:3"} 構圖。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623721758_u0q4d2_HNtGA4UWgAAammx.jpg" width="600" alt="漫畫 / 分鏡腳本 - 女性兔子機械人概念設計 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623721853_yx6lop_HNtGBxfWgAAiDoq.jpg" width="600" alt="漫畫 / 分鏡腳本 - 女性兔子機械人概念設計 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Kōda](https://x.com/aimikoda)
+- **來源:** [Twitter Post](https://x.com/aimikoda/status/2079332886910513426#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29309)**
+
+---
+
+### No. 76: 漫畫 / 分鏡腳本 - Q 版監獄用餐漫畫
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一幅兩格 Q 版動漫風格的監獄漫畫，描繪了牢房內自私的用餐場景，以及兩名觀察者在走廊上的評論。
+
+#### 📝 提示詞
+
+```
+目標：創作一幅兩格 Q 版動漫風格的監獄漫畫場景，內容為一名女孩自私地享用監獄餐點，另一名女孩在哭泣，同時有另外兩名女孩在走廊上進行評論。
+
+畫布：寬幅 16:9 水平插圖，透過監獄欄杆與牆壁分割，精確分為 2 個垂直畫格。使用充滿氛圍的灰色石牆監獄背景，搭配柔和的動漫陰影，細節豐富但不追求寫實。
+
+佈局：左側畫格顯示小型牢房內部；右側畫格顯示牢房外的走廊。構圖需保持對稱，使左側畫格呈現封閉空間感，右側畫格呈現觀察者站在欄杆外的感覺。
+
+左側畫格細節：牢房內顯示 2 名 Q 版女孩。女孩 1，{argument name="greedy eater name" default="Anis"}，坐在左側的小型方形金屬桌旁，戴著深色軍風貝雷帽，身穿黑橘色服裝，雙眼因得意的喜悅而瞇起，臉頰沾滿米飯與醬汁，將食物緊貼嘴邊，獨佔了整份餐點。女孩 2，{argument name="crying prisoner name" default="Miranda"}，坐在桌子右側的地板上，戴著帶有徽章的海軍風警帽，身穿深色制服、雙馬尾、穿著靴子；她看起來淚眼汪汪且飢餓，雙手抱膝。牢房內需顯示 7 個清晰可見的餐點物品或盤子：桌上 1 個大型米飯配褐色燉菜盤、桌上 1 個金屬小杯或碗、桌上 1 個湯碗、哭泣女孩附近地板上 1 個空盤、左下角欄杆外 1 個帶有少量米飯的盤子、左下角 1 個裝有褐色食物的盤子，以及左下角地板上 1 個小碗。在桌子周圍添加碎屑、灑落的米飯與細小的食物殘渣。背景石牆靠著一張雙層床，遠處左側牆上有一個小水槽與水龍頭，牆面有裂痕、污漬、鏽跡與髒亂的混凝土地板。
+
+右側畫格細節：顯示 2 名 Q 版女孩站在欄杆外的走廊上。女孩 3，{argument name="red beret observer name" default="Rapi"}，站在走廊左側，身穿帶有紅色裝飾的深色軍裝與紅星貝雷帽，金髮，表情中立且不以為然，看向牢房。女孩 4，{argument name="white uniform observer name" default="Neon"}，站在右側，身穿白色水手風制服，戴著帶有翅膀徽章的白帽、眼鏡，淡紫色鮑伯頭，白色過膝長靴，表情冷靜。走廊左側有高大的黑色鐵欄杆，背景為深邃的走廊、染色的混凝土牆與灰色地磚。
+
+對話氣泡：在右側畫格中添加 2 個帶有黑色日文文字的白色對話氣泡。紅貝雷帽觀察者上方的左側氣泡文字為 {argument name="left speech bubble" default="アイドルよね？"}。白制服觀察者上方的右側氣泡文字為 {argument name="right speech bubble" default="元アイドルですね。"}。使用乾淨的漫畫字體、黑色文字，並加上指向說話者的簡單尾巴。
+
+視覺風格：可愛的 Q 版比例，大頭小身，表情生動，柔和的賽璐珞陰影，低飽和度的監獄色調，細微的污垢感，服裝與道具細節豐富，氛圍幽默但略顯淒涼。所有角色在可見範圍內均保持全身或近全身呈現。
+
+限制：精確使用 4 個角色、2 個畫格、2 個對話氣泡以及 7 個清晰可見的餐點物品。請勿添加額外角色、額外對話、現代 UI 元素、浮水印或對話氣泡以外的說明文字。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623731210_bunz0u_HNrlHJ6aEAAkTv8.jpg" width="600" alt="漫畫 / 分鏡腳本 - Q 版監獄用餐漫畫 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623731346_1p86fc_HNrlHyQbcAAtiHV.jpg" width="600" alt="漫畫 / 分鏡腳本 - Q 版監獄用餐漫畫 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623731751_5cir6i_HNrlIVfbgAAWzqU.jpg" width="600" alt="漫畫 / 分鏡腳本 - Q 版監獄用餐漫畫 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623732367_jz8juw_HNrlI0maAAAdt78.jpg" width="600" alt="漫畫 / 分鏡腳本 - Q 版監獄用餐漫畫 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [まるるん＠Nikke好き](https://x.com/TachMaru)
+- **來源:** [Twitter Post](https://x.com/TachMaru/status/2079226257523548376#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29324)**
+
+---
+
+### No. 77: 漫畫 / 分鏡腳本 - 三場景動漫教師肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+生成一張電影級動漫角色設定插畫，在溫馨的教室兼書房內，展示同一位成熟教師角色的三種協調姿勢。
+
+#### 📝 提示詞
+
+```
+在 16:9 的寬畫布上創作一張電影級動漫插畫，於溫暖且陽光充足的室內場景中，展示同一位優雅成年女性的三種版本。角色為 {argument name="character name" default="一位未具名的成熟女教師"}，擁有 {argument name="hair color" default="帶有柔和紫羅蘭色挑染的深棕色長髮"}、精緻的五官、平靜的大眼睛、溫柔而略帶憂鬱的表情，以及優雅知性的氣質。將最大的人物版本置於中央前景，讓她穿著淺色羅紋針織上衣和米色軟裙，坐在靠近觀者的位置，長髮自然垂落在肩上，一隻手輕觸秀髮，以安靜且親密的表情直視觀者。在左側，展示同一位女性作為教師站在黑板旁，戴著細框眼鏡，身穿合身的深藍色西裝外套和窄裙，內搭白色襯衫，一手拿著打開的書，另一手拿著粉筆或筆。在右側，展示同一位女性坐在明亮窗邊的沙發上，頭髮隨意地向後紮起，穿著淺色長袖針織上衣和米色裙子，手持深色馬克杯，膝上放著一本打開的書。畫面中必須包含精確的三個角色實體：中央坐姿肖像、左側黑板旁的教師，以及右側沙發上放鬆閱讀的形象。房間應融合教室與舒適書房的風格：明亮的大窗戶、寫有模糊日式筆記的黑板、背景下方的書架或書籍、柔軟的沙發、遠處右側隱約可見的廚房或溫馨居家內飾，以及右下角模糊的花朵。使用 {argument name="lighting mood" default="帶有柔和霧氣與漂浮塵埃的金色午後逆光"}，頭髮與肩膀處有明亮的邊緣光，淺景深，繪畫風格的高細節動漫渲染，精緻的線條，真實的布料褶皺，優雅的比例，細膩的腮紅，水潤的雙眼，以及浪漫的生活氣息。色調應為溫暖的奶油色、紫紅色、薰衣草紫陰影、柔和棕色與沉穩的深藍色。避免文字疊加、標誌、浮水印、額外角色、扭曲的手部，或在三種姿勢間改變角色身份。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623739490_yorpoi_HNrAJ8tbkAACQOA.jpg" width="600" alt="漫畫 / 分鏡腳本 - 三場景動漫教師肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623738740_cjsumv_HNrAKc9aMAA8Wuc.jpg" width="600" alt="漫畫 / 分鏡腳本 - 三場景動漫教師肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623738778_tl9x71_HNrAK2BaoAAgtEg.jpg" width="600" alt="漫畫 / 分鏡腳本 - 三場景動漫教師肖像 - Image 3">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [ポポルフィア](https://x.com/popolphia)
+- **來源:** [Twitter Post](https://x.com/popolphia/status/2079185477354344817#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29334)**
+
+---
+
+### No. 78: 漫畫 / 分鏡腳本 - 頂級冰淇淋商業廣告專案
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一份用於生成 9 場景豪華食品廣告詳細專案的綜合提示詞。它採用專業的瑞士編輯網格，展示帶有動作與視覺描述的電影級場景。
+
+#### 📝 提示詞
+
+```
+標題：{argument name="product name" default="頂級冰淇淋"} 商業廣告 格式：• 頂級甜點商業廣告專案 • 單頁直式佈局 • 高端奢華編輯呈現 • 9 個電影級專案場景 • 瑞士編輯網格 • 客戶提案品質 • 專為 {argument name="duration" default="10 秒"} 廣告設計 頁首：• 俏皮優雅的標題 • 手寫創意筆記 • 甜點主題裝飾元素 • 資訊卡：- 時長：10 秒 - 風格：頂級甜點商業廣告 - 受眾：{argument name="target audience" default="兒童與成人"} - 音訊：快樂的夏日音樂 - 創意目標：渴望與歡樂 網格結構：• 3 × 3 專案佈局 • 圓角頂級卡片 • 大型電影級預覽 • 場景編號 • 時間戳記 • 視覺 / 動作 / 對話 場景流程：1. 冰淇淋主視覺包裝鏡頭 (0:00–0:01) 2. 手部自然拆開冰淇淋包裝 (0:01–0:02) 3. 巧克力外殼特寫，呈現真實質感 (0:02–0:03) 4. 第一口慢動作咬下，巧克力自然碎裂 (0:03–0:04) 5. 展現奶油香草內餡 (0:04–0:05) 6. 冰淇淋在溫暖陽光下融化 (0:05–0:06) 7. 享受美食的快樂時刻，表情自然 (0:06–0:08) 8. 產品美感鏡頭，伴隨飛舞的巧克力碎片 (0:08–0:09) 9. 帶有 Logo 與標語的頂級主視覺包裝鏡頭 (0:09–0:10) 視覺風格：寫實食品廣告、自然日光、黃金時刻照明、超細緻巧克力質感、真實奶油香草、頂級食品攝影、商業級電影攝影、自然手部動作、照片級真實構圖 圖形元素：小愛心、閃光、極簡塗鴉、乾淨頂級佈局 頁尾：10 秒 9:16 直式頂級甜點專案 整體美學：Magnum 廣告、Häagen-Dazs 行銷活動、奢華食品廣告、電影級寫實感、Behance 精選、可印刷、超乾淨編輯佈局、照片級真實感、8K。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623717163_dfye45_HNqrueIaMAAbFg3.jpg" width="600" alt="漫畫 / 分鏡腳本 - 頂級冰淇淋商業廣告專案 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [𝐌](https://x.com/Strength04_X)
+- **來源:** [Twitter Post](https://x.com/Strength04_X/status/2079163007326933088)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29304)**
+
+---
+
+### No. 79: 漫畫 / 分鏡腳本 - 星光飛機咖啡館
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一幅細節豐富的動漫奇幻場景，描繪了隱藏在舊飛機機翼下的維多利亞風格懸疑咖啡館，非常適合用於奇幻故事插畫。
+
+#### 📝 提示詞
+
+```
+創作一幅細節高度精緻、比例為 4:5 的垂直動漫奇幻插畫，場景為一家建在舊式螺旋槳飛機機翼內及下方的夢幻夜間旅行咖啡館。畫面溫暖、具有電影感且充滿童話色彩：左側是巨大的復古飛機機頭與螺旋槳，背景是繁星點點的藍紫色天空與銀河；右側則是一個舒適的露天咖啡吧台，覆蓋著藤蔓、白花、奶油色薄紗窗簾，並掛著黃銅燈具與發光的星星裝飾。畫面中需精確包含 3 位人類角色與 1 隻貓：一位戴著獵鹿帽、身穿棕色斗篷，靈感來自福爾摩斯的年輕偵探，正坐在小木桌旁，一邊思考一邊觸摸嘴唇，並在筆記本上書寫，身旁放著一張展開的地圖；一位留著淺金色編髮、穿著奶油色圍裙的溫柔咖啡館女服務生，正在吧台後方沖泡手沖咖啡；以及一位站在右側、身穿棕色維多利亞三件式西裝的華生式紳士，他正微笑著從一隻站立且背著小書包的橘色虎斑貓手中接過一顆發光的星星。貓咪應將星星舉向紳士的手，使此處成為情感焦點。在一個懸掛的專案上，精確包含 5 個清晰可讀的黑板菜單項目：「Drip Coffee 600」、「Cafe au lait 650」、「Starry Latte 700」、「Moon Cookie 300」以及「Star Cookie 300」。在左下角加入第二個黑板招牌，上面寫著「Café Starlight」，並配有裝飾性小星星以及「Coffee」、「Sweets」和「Starlight」字樣。在右側加入一個標示為「Orion」的星座專案。前景填滿木箱、舊書、燈籠、咖啡罐、星星形狀的餅乾、野花、薰衣草、木板和黃銅咖啡器具，但需保持構圖清晰。運用溫暖的琥珀色咖啡館燈光對比冷色調的宇宙藍，結合細膩的線條、繪畫質感、精緻的飛機機械細節、豐富的植物細節，以及吉卜力風格與維多利亞懸疑氛圍交織的懷舊感。自定義咖啡館名稱為 {argument name="café name" default="Café Starlight"}，偵探角色為 {argument name="detective character" default="靈感來自福爾摩斯的年輕偵探"}，同伴角色為 {argument name="companion character" default="華生式紳士"}，貓咪顏色為 {argument name="cat color" default="橘色虎斑"}，以及菜單主題為 {argument name="menu theme" default="星光特調"}。禁止出現現代物品，禁止寫實風格，禁止浮水印，禁止額外角色，並保持夢幻且不可思議的夜晚氛圍。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623730250_oefze3_HNqq-YHbUAA277f.jpg" width="600" alt="漫畫 / 分鏡腳本 - 星光飛機咖啡館 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [もしもし@Aiart](https://x.com/moshimoshi_ai)
+- **來源:** [Twitter Post](https://x.com/moshimoshi_ai/status/2079162279631917477#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29321)**
+
+---
+
+### No. 80: 漫畫 / 分鏡腳本 - 可愛的 AI 漫畫教學頁面
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+生成一個三格粉彩風格的動漫漫畫頁面，描繪兩位可愛的角色計劃使用 AI 創作漫畫。
+
+#### 📝 提示詞
+
+```
+目標：創作一個精緻的直式動漫漫畫頁面，講述兩位女孩一起開始 AI 漫畫專案的故事，採用溫暖的粉彩光影、可愛的肉球圖案以及乾淨專業的線條。
+
+畫布：直式漫畫頁面，2:3 比例，全彩，黑色分鏡框。頁面包含 3 個分鏡：左側為兩個上下堆疊的小分鏡，右側為一個全高的長分鏡。在右側長分鏡中使用動態漫畫速度線。
+
+版面配置：左欄包含上方的分鏡 1 與下方的分鏡 2，中間以黑色邊框分隔。右欄為一個橫跨全高的長分鏡。對話框需保持大且易讀，並使用直式日文文字。
+
+角色：展示 2 位固定的動漫女孩。女孩 1 是位看起來昏昏欲睡、留著凌亂短鮑伯頭的淡紫色頭髮女孩，擁有金色眼睛、白皙皮膚，穿著帶有細緻肉球細節的淡紫色寬鬆連帽衫；她抱著一隻棕色泰迪熊，髮夾是小熊造型。女孩 2 是位充滿活力的貓耳女孩，留著淺棕色側馬尾，紫色眼睛，有著棕色毛茸茸的貓耳與尾巴，穿著白色短版連帽衫（紫色肉球抽繩）、破洞牛仔短褲、條紋襪、紫色鞋帶的白色球鞋，脖子上掛著手機袋，腰間繫著一個棕色肉球小腰包，並戴著三角形髮夾。使用 {argument name="lavender girl mood" default="昏昏欲睡且猶豫不決"} 與 {argument name="cat girl mood" default="開朗、興奮且充滿鼓勵"}。
+
+分鏡細節：分鏡 1（左上）：在溫馨的淡紫色臥室內（早晨或下午），淡紫色頭髮的女孩坐在床上抱著泰迪熊，看起來疲憊且退縮。背景包含紫色窗簾、溫暖陽光、新月與星星牆面裝飾，以及柔軟的寢具。分鏡 2（左下）：在同一個可愛房間的小書桌旁，貓耳女孩坐在淡紫色頭髮女孩身邊，興奮地打開一台帶有肉球標誌的紫色筆記型電腦。包含 5 個清晰可見的桌面或背景物品：一個貓臉紫色馬克杯、一本帶有小熊圖案的閉合筆記本、一個紫色小絨毛玩偶、一張牆面檢查清單海報，以及一個小型熊圖案相框。在貓耳女孩周圍加入閃亮特效。分鏡 3（右側）：貓耳女孩衝進陽光普照的房間，一隻手扶著門，另一隻手向前伸展，笑容燦爛，彷彿在邀請觀眾。展示她的全身、毛茸茸的尾巴、球鞋與充滿活力的姿勢。背景有木地板、書架、小型盆栽、下層架上的泰迪熊，以及一個帶有肉球圖案的圓形紫色坐墊。
+
+文字內容：使用 2 個對話框。在右側的大分鏡中，於右上角放置一個長橢圓形對話框，文字為 {argument name="main speech bubble" default="ねむー！AIで漫画つくろー！"}。在左下方的分鏡中，於左側放置一個對話框，文字為 {argument name="reply speech bubble" default="急だね…"}。日文字體需保持粗體、黑色、直式且清晰易讀。
+
+視覺風格：現代高品質動漫漫畫插圖、柔和賽璐璐上色、精緻高光、淡紫色與暖米色調、表情豐富的眼睛、可愛萌系角色設計、溫馨臥室氛圍、清晰的墨線勾勒、細緻的網點質感、精緻的網路漫畫風格。
+
+限制：嚴格 3 個分鏡、嚴格 2 位角色、嚴格 2 個對話框、無額外對話、無浮水印、除肉球圖案外無任何標誌，並保持角色在各分鏡中的設計一致性。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623735008_kwn8gs_HNqBLxaakAAiQfN.jpg" width="600" alt="漫畫 / 分鏡腳本 - 可愛的 AI 漫畫教學頁面 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623733646_445jav_HNqBNxSaoAAm1P2.jpg" width="600" alt="漫畫 / 分鏡腳本 - 可愛的 AI 漫畫教學頁面 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623733853_kwfieq_HNqBQBmbcAAYHx-.jpg" width="600" alt="漫畫 / 分鏡腳本 - 可愛的 AI 漫畫教學頁面 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623735089_k7xffp_HNqBSNNbIAEp0N3.jpg" width="600" alt="漫畫 / 分鏡腳本 - 可愛的 AI 漫畫教學頁面 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [しば｜AIで遊んで本を作る犬](https://x.com/yoya4848)
+- **來源:** [Twitter Post](https://x.com/yoya4848/status/2079116494882115845#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29329)**
+
+---
+
+### No. 81: 漫畫 / 分鏡腳本 - 超現實幾何詩意插畫
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一個用於創作夢幻藝術的詩意插畫提示詞，結合了風格化的比例與幾何解剖結構，並強調紋理與氛圍光影。
+
+#### 📝 提示詞
+
+```
+超現實詩意插畫，描繪 {argument name="subject" default="[HUMAN]"} 穿著 {argument name="clothing" default="[CLOTHING]"}，並伴隨 {argument name="animal" default="[ANIMAL]"}，場景設定於 [SCENERY]。使用 [COLOR PALETTE]、細長風格化的比例、長窄臉型、小杏眼、極簡嘴部、簡化的幾何解剖結構、柔和雕塑般的灌木造型、霧面絲絨質感、細膩顆粒感、柔和的低調光影、深青色氛圍背景、居中構圖、乾淨的留白、寧靜的夢幻氛圍，以及手工繪本藝術風格的質感。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623697352_qjhbs1_HNpNqc_bQAAxIEy.jpg" width="600" alt="漫畫 / 分鏡腳本 - 超現實幾何詩意插畫 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623697164_dx4zww_HNpNrZ6bAAAumc-.jpg" width="600" alt="漫畫 / 分鏡腳本 - 超現實幾何詩意插畫 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623697260_x5q48i_HNpNsgkawAAxQpk.jpg" width="600" alt="漫畫 / 分鏡腳本 - 超現實幾何詩意插畫 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623698020_7k1nsa_HNpNtw0bcAAhL2_.jpg" width="600" alt="漫畫 / 分鏡腳本 - 超現實幾何詩意插畫 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Anissa](https://x.com/SimplyAnnisa)
+- **來源:** [Twitter Post](https://x.com/SimplyAnnisa/status/2079059648301195323)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29278)**
+
+---
+
+### No. 82: 漫畫 / 分鏡腳本 - 瓶中向日葵仙子世界
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+生成一幅充滿奇幻色彩的插畫，描繪一個封存在軟木塞玻璃瓶中的微型發光向日葵仙子王國。
+
+#### 📝 提示詞
+
+```
+創作一幅細節豐富的奇幻插畫，描繪一個封存在大型透明玻璃藥瓶中的微型魔法世界，瓶口塞著軟木塞，放置在昏暗魔法書房的一張舊木桌上。瓶內是一個夜晚發光的童話向日葵王國：一位嬌小的向日葵仙子，擁有長長的波浪金髮、半透明翅膀，身穿由橙色、黃色、粉色和紫色組成的花瓣層疊裙，站在一座橫跨閃爍運河的小型拱形石橋上，手中拿著或被向日葵環繞。在她身後，展示一個密集的微型村莊，前景有三個主要的村舍群，窗戶透出溫暖的光芒，配有紅粉色的瓦片屋頂、燈籠、藤蔓和花朵，並向一座擁有許多細長塔樓和粉色屋頂的發光山頂城堡延伸。加入新月、星光熠熠的深藍色天空、微小的發光粒子、彩旗、華麗的街燈、水中的倒影，以及橋樑和房屋周圍豐富的向日葵與粉色花朵。玻璃瓶應佔據畫面主體，呈現真實的弧形高光、折射、厚瓶緣、圓潤的瓶肩以及頂部清晰可見的軟木塞。瓶外背景保持柔和模糊，帶有溫暖的散景效果：左側有一盞燈籠，右側是深色的書架與書籍，營造出舒適的琥珀藍色魔法光影。採用超細節的動漫奇幻故事書風格、電影級景深、寶石般的色彩、溫暖的金色窗光與冷色調月光形成對比、精緻的建築結構、浪漫奇幻的氛圍，垂直構圖，無文字，無浮水印。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623727800_15b68l_HNpGumoa0AAI_uM.jpg" width="600" alt="漫畫 / 分鏡腳本 - 瓶中向日葵仙子世界 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [まい🍀](https://x.com/citron5mai)
+- **來源:** [Twitter Post](https://x.com/citron5mai/status/2079054901641085356#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29318)**
+
+---
+
+### No. 83: 漫畫 / 分鏡腳本 - 動漫風格踢腿動作轉換
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+將簡單的人體模型踢腿姿勢參考，轉換為適合角色概念藝術的電影感霓虹動漫動作場景。
+
+#### 📝 提示詞
+
+```
+以 REFERENCE_0 作為姿勢與鏡頭構圖的指引，將普通的人體模型轉換為充滿張力的動漫動作角色，同時保留核心動作：低角度的近距離視角，一隻穿著靴子的腳向鏡頭踢出，身體向前扭轉，一側膝蓋抬起，雙臂保持平衡或防禦姿勢。將人體模型替換為 {argument name="character type" default="一位黑髮動漫哥德蘿莉戰士"}，穿著 {argument name="outfit style" default="一件帶有蕾絲袖口、金色裝飾的深藍黑色荷葉邊洋裝，以及黑色高筒靴"}。加入強烈的面部表情與動態的頭髮飄動感。
+
+創造一個參考圖中不存在的電影感夜間場景：一條狹窄且下著雨的城市小巷，地面濕潤並帶有倒影，上方掛著電線，兩側有店面、發光的招牌以及藍色與粉色的霓虹燈光。透過動態模糊、前景鞋子周圍的煙霧或能量光束、強烈的輪廓光、深邃的陰影以及戲劇性的透視縮短效果，來強調速度感與衝擊力。採用細節豐富的現代動漫插畫風格，呈現電影般的對比度、飽和的霓虹倒影以及垂直的海報構圖。避免使用空白的攝影棚背景，避免呈現白色人體模型的樣貌，並確保動作姿勢盡可能貼近參考圖。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623731227_zgk5dz_HNo3Yc_bEAABIg3.jpg" width="600" alt="漫畫 / 分鏡腳本 - 動漫風格踢腿動作轉換 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623731342_3kp3dp_HNo3YcwacAA6aIa.jpg" width="600" alt="漫畫 / 分鏡腳本 - 動漫風格踢腿動作轉換 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [角煮星丸](https://x.com/_3912657840)
+- **來源:** [Twitter Post](https://x.com/_3912657840/status/2079035076915155181#reversed-1)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29323)**
+
+---
+
+### No. 84: 漫畫 / 分鏡腳本 - Q 版海灘馬尾漫畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3972,7 +4313,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 76: 漫畫 / 分鏡腳本 - 機械人分鏡草圖
+### No. 85: 漫畫 / 分鏡腳本 - 機械人分鏡草圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4006,7 +4347,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 77: 漫畫 / 分鏡腳本 - 粉色童趣足球插畫
+### No. 86: 漫畫 / 分鏡腳本 - 粉色童趣足球插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4048,7 +4389,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 78: 漫畫 / 分鏡腳本 - 日式浴衣服裝參考圖
+### No. 87: 漫畫 / 分鏡腳本 - 日式浴衣服裝參考圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4098,7 +4439,7 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 79: 漫畫 / 分鏡腳本 - 角色四格視圖參考圖
+### No. 88: 漫畫 / 分鏡腳本 - 角色四格視圖參考圖
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4132,31 +4473,19 @@ ASMR UNBOXING (POV HAND)
 
 ---
 
-### No. 80: 漫畫 / 分鏡腳本 - AI Bloom Sisters 動漫風格主視覺圖
+### No. 89: 產品行銷 - 電影感運動後彎人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一份詳細的提示詞，用於生成一張夢幻粉彩動漫宣傳主視覺圖，描繪三位花卉主題的姐妹在閃耀的溫室中。
+這是一個高階時尚運動攝影提示詞，描繪了一位運動型女性做出戲劇性的後彎動作，背景為氛圍感十足的攝影棚，並搭配專業燈光。
 
 #### 📝 提示詞
 
 ```
-目標：為名為 {argument name="title text" default="AI Bloom Sisters"} 的奇幻偶像/公主企劃創作一張華麗的橫向動漫主視覺圖，畫面中需精確呈現 3 位花卉主題的姐妹，場景設於充滿花朵且閃耀的玻璃溫室中。
-
-畫布：16:9 寬螢幕插畫，高度細緻，採用粉紅、薰衣草紫與金色的調色盤，柔和的綻放光影，閃爍的亮點，營造出華麗的維多利亞童話氛圍。在整張圖片周圍使用細緻的金色裝飾花絲邊框，並在角落加上捲曲的裝飾。
-
-場景：陽光普照的溫室或水晶花園宮殿，配有拱形玻璃天花板、金色金屬框架、懸掛的吊燈、茂密的花牆、玫瑰、羽扇豆、紫藤類花卉、飄落的花瓣、閃光粒子，以及從頂部中心射入的溫暖背光。
-
-主體：包含精確 3 位動漫少女，採用半身至全身裙裝構圖，分別排列於左、中、右側，皆對著觀眾溫暖微笑。1) 左側少女：標記為 Iris，留著飄逸的金色長髮，金色雙眼，穿著粉色花朵/精靈風格連身裙，配有蕾絲袖、超大粉色蝴蝶結裝飾，以及半透明花瓣狀髮飾，一隻手向觀眾伸出。2) 中央少女：標記為 Lupinus，高挑的中心人物，留著極長的銀薰衣草色長髮，藍色雙眼，穿著優雅的白色與淡薰衣草色蕾絲禮服，配有花卉髮飾與頸部蝴蝶結，雙手輕輕與兩側少女相牽，位置略高於兩側少女。3) 右側少女：標記為 Fions，粉色長髮，紫色雙眼，穿著粉丁香色荷葉邊連身裙，配有花卉頭飾，手持精確 1 隻帶有紫色蝴蝶結的米色泰迪熊。
-
-文字內容：包含精確 5 個可見文字元素：左側名稱標籤，上方為日文，下方為“Iris”，使用 {argument name="left name label" default="アイリス\nIris"}；中央名稱標籤，上方為日文，下方為“Lupinus”，使用 {argument name="center name label" default="ルピナス\nLupinus"}；右側名稱標籤，上方為日文，下方為“Fions”，使用 {argument name="right name label" default="フィオナ\nFions"}；下方中央橫跨的大型華麗發光襯線標題，文字為 {argument name="title text" default="AI Bloom Sisters"}；以及標題下方居中的小型日文標語 {argument name="tagline" default="願いから咲いた、私たちの物語。"}。標題風格設計為發光的珍珠白與金色字體，帶有閃光與裝飾性花紋。
-
-視覺風格：極致精緻的日本動漫插畫，細膩的線條，光澤感的雙眼，複雜的蕾絲，層疊的半透明荷葉邊，珍珠，緞帶，花卉刺繡，魔法少女的優雅感，高細節渲染，類似於高級視覺小說封面或偶像團體宣傳海報。
-
-限制：保持精確 3 位少女與精確 1 隻泰迪熊。請勿添加額外角色、標誌、浮水印或額外可讀文字。構圖需呈現慶典感、浪漫且明亮，標題應佔據畫面下方三分之一處，但不得遮擋角色的臉部。
+電影感編輯人像，主角為 {argument name="subject" default="運動型黑人女性"}，正在進行極致的站立後彎，雙手觸碰攝影棚地板，身體形成戲劇性的倒拱形狀。她穿著合身的現代運動服，配色為 {argument name="outfit colors" default="深藍與黑色調"}，編織髮辮自然垂向地面。背景為 {argument name="background color" default="氛圍感焦紅色"} 的攝影棚背景，後方有柔和的紅色聚光燈，戲劇性的側光，豐富的陰影，溫暖的皮膚高光，強而有力的雕塑感輪廓，現代芭蕾與柔韌度訓練廣告，高階時尚運動攝影，強烈對比，極簡場景設計，真實解剖結構，照片級真實感，50mm 鏡頭，細膩底片顆粒感，無文字，無標誌，無浮水印。長寬比：3:5 直式
 ```
 
 #### 🖼️ 生成圖片
@@ -4164,43 +4493,33 @@ ASMR UNBOXING (POV HAND)
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537355200_tc4l3d_HNkgoJFbQAAk_ow.jpg" width="600" alt="漫畫 / 分鏡腳本 - AI Bloom Sisters 動漫風格主視覺圖 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784623702172_u2fcqd_HNq-Y3EbAAArJWd.jpg" width="600" alt="產品行銷 - 電影感運動後彎人像 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [✰⋆｡:ﾟ𝓛𝓾𝓹𝓲𝓷𝓾𝓼𝓡𝓸𝓼𝓼𝓮𝓽𝓽𝓲*☽:ﾟ･⋆｡✰](https://x.com/irisfionaAIBS)
-- **來源:** [Twitter Post](https://x.com/irisfionaAIBS/status/2078728788716982612#reversed-0)
-- **發布時間:** 2026年7月19日
+- **作者:** [BMX](https://x.com/bmx_ai13)
+- **來源:** [Twitter Post](https://x.com/bmx_ai13/status/2079335291232583820)
+- **發布時間:** 2026年7月20日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29241)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29284)**
 
 ---
 
-### No. 81: 漫畫 / 分鏡腳本 - 奇幻騎士圖書館讀書場景
+### No. 90: 產品行銷 - 多元運動員時尚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-將參考的動漫騎士角色轉換為電影級哥德式圖書館場景，以實現一致的角色到場景生成。
+這是一組針對多元運動員團體肖像的高細節電影感提示詞，適用於風格化的攝影棚場景，非常適合街頭服飾時尚廣告。
 
 #### 📝 提示詞
 
 ```
-以 REFERENCE_0 作為角色基礎，重新生成具有相同身分、動漫插畫風格、面部特徵、髮型、盔甲、斗篷和整體色調的角色，但將她置於一個新的室內書房場景中，而非水晶森林。
-
-目標：創造一個電影級的奇幻圖書館場景，讓 {argument name="character name" default="粉色頭髮的年輕騎士"} 坐在木桌前，平靜地研讀一本魔法書。
-
-姿勢與動作：將全身站立持劍的姿勢改為坐在桌前的四分之三側面視角。她的左手應舉起或拿著一頁半透明的發光書頁，右手則放在打開的書本上。移除畫面中的劍。
-
-新環境：將戶外森林與水晶替換為昏暗的哥德式圖書館或檔案室。請加入以下明確的場景元素：前景設有 1 張大型木桌、左側放置 1 盞綠色燈罩的黃銅檯燈、1 本打開且帶有發光藍色圖表的超大魔法書、1 張高背綠色軟墊椅，背景為深色書架、石柱，以及右後方 3 扇高大的哥德式拱窗。
-
-光影：使用來自左側的溫暖燈光與來自拱窗的冷藍色月光，並加上魔法書發出的柔和青色光芒，照亮她的雙手與盔甲。保持戲劇性的陰影與安靜、沉思的氛圍。
-
-風格限制：保留參考圖像中乾淨的動漫線條、繪畫風格的陰影、柔和的邊緣光、奇幻氛圍以及角色一致性。構圖採用水平寬螢幕，{argument name="aspect ratio" default="16:9"}，適合作為影片參考幀。避免添加文字、浮水印、額外角色，或更改角色的服裝設計。
+頂級電影感團體肖像，描繪 {argument name="athlete count" default="五位"} 多元背景的年輕運動員，站在溫暖的 {argument name="studio color" default="焦橙色"} 攝影棚內，呈鬆散的水平隊形。每個人都展現出獨特的時尚運動風格與自信的個人姿勢：一人穿著寬鬆的藍色運動球衣搭配寬管長褲；一人身穿黑色背心，搭配深色休閒褲與太陽眼鏡；一位女性運動員穿著黑色短版運動裝，留著編髮；一位女性穿著溫暖的紅色訓練夾克，搭配亮色緊身褲與條紋襪；還有一人穿著寬鬆的深色羽絨外套，內搭淺色運動層次服裝。全身構圖，主體間距自然，站姿與方向有細微變化，現代多元文化健身社群，編輯級街頭時尚與機能時尚的結合，戲劇性的溫暖聚光燈，深邃的地板陰影，柔和的 {argument name="background color" default="紅橙色"} 漸層背景，電影級時尚廣告攝影，真實的皮膚紋理，內斂的表情，中片幅相機美學，豐富的底片顆粒感，無文字，無標誌，無浮水印。
 ```
 
 #### 🖼️ 生成圖片
@@ -4208,109 +4527,418 @@ ASMR UNBOXING (POV HAND)
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537356626_3k5imx_HNj1z3ibUAAVfOU.jpg" width="600" alt="漫畫 / 分鏡腳本 - 奇幻騎士圖書館讀書場景 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784623702200_zjzm5v_HNq-AZmb0AADca3.jpg" width="600" alt="產品行銷 - 多元運動員時尚肖像 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [てばさき](https://x.com/tebasaki3D)
-- **來源:** [Twitter Post](https://x.com/tebasaki3D/status/2078681507288526862#reversed-3)
-- **發布時間:** 2026年7月19日
+- **作者:** [BMX](https://x.com/bmx_ai13)
+- **來源:** [Twitter Post](https://x.com/bmx_ai13/status/2079303834149515452)
+- **發布時間:** 2026年7月20日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29244)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29283)**
 
 ---
 
-### No. 82: 漫畫 / 分鏡腳本 - 動漫角色設計設定集
+### No. 91: 產品行銷 - 未來感冷卻斗篷街頭時尚
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一張寫實的時尚編輯風格照片，描繪一位年輕女性在陽光明媚的城市人行道上，穿著一件亮面連帽冷卻斗篷。
+
+#### 📝 提示詞
+
+```
+創作一張寫實的全身時尚編輯風格街頭肖像，描繪一位年輕女性在陽光明媚的城市人行道上，穿著一套未來感冷卻斗篷。模特兒為 {argument name="model description" default="一位高挑的年輕金髮女性，留著隨風飄逸的長髮，皮膚白皙，擁有藍色眼睛，表情冷靜自信"}，正邁開步伐朝鏡頭走來。她穿著 {argument name="poncho color and material" default="一件由輕量化科技布料製成的亮面半透明白色連帽斗篷"}，斗篷呈現寬鬆的披風感，正面有高領拉鍊，下方隱約露出白色短褲，並搭配白色繫帶高跟涼鞋。斗篷需具備 6 個清晰可見的技術細節：透明結構化連帽/遮陽板、中央深色拉鍊、兩條垂直側邊拉鍊縫線、兩側下方各有一個深色長方形網狀通風面板，以及暗示內建冷卻風扇或氣流通道的小型藍灰色飾邊。這套服裝應呈現出時尚夏季防曬冷卻衣物的質感，既通風又具保護性，同時展現腿部線條。場景設定在 {argument name="location" default="一條現代化城市購物街，左側為玻璃店面，右側有綠意盎然的樹木與植栽，遠處行人呈現柔和模糊效果"}。運用明亮的午間陽光，強調亮面布料上的銳利高光，人行道上呈現斑駁的樹影，微風吹動髮絲與斗篷下擺，採用淺景深、自然膚色、真實鏡頭透視，呈現高端時尚攝影質感，垂直 4:5 構圖，全身置中，無文字、無標誌、無浮水印。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623731851_r5tgdv_HNrvPQebIAAGCfs.jpg" width="600" alt="產品行銷 - 未來感冷卻斗篷街頭時尚 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [カーブミラー](https://x.com/kabumira862571)
+- **來源:** [Twitter Post](https://x.com/kabumira862571/status/2079237231353679875#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29322)**
+
+---
+
+### No. 92: 產品行銷 - 專業零食包裝模型
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一個用於製作高解析度包裝模型的專業提示詞，讓您能在真實的袋裝或盒裝材質上，透過攝影棚燈光效果預覽標籤與 Logo 的設計。
+
+#### 📝 提示詞
+
+```
+請為我的 {argument name="product type" default="零食產品"} 設計一個專業的包裝模型，並使用上傳的 {argument name="branding" default="標籤/Logo"}，呈現真實的 {argument name="container material" default="袋裝或盒裝材質"} 紋理、攝影棚燈光效果、純色背景，以及高解析度畫質。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623715616_zrhri0_HNrXX5PXUAAI6Ao.jpg" width="600" alt="產品行銷 - 專業零食包裝模型 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **來源:** [Twitter Post](https://x.com/abs_uiux/status/2079211001132573098)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29302)**
+
+---
+
+### No. 93: 產品行銷 - 奢華深紅時尚雜誌人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一個超高級時尚人像提示詞，描繪了一位身穿液態緞面高級訂製禮服的超級名模，場景設定在單色深紅攝影棚中，並運用專業美妝燈光。
+
+#### 📝 提示詞
+
+```
+創作一張超高級奢華時尚雜誌人像，主角為一位令人驚豔的 {argument name="model" default="東亞超級名模"}，擁有無瑕的自然美、透亮肌膚、立體的五官、光澤柔順的波浪捲髮，以及自信的高級時尚表情。她優雅地坐在一個極簡主義的霧面黑色方塊上，一條腿優雅地交疊在另一條腿上，突顯修長優雅的雙腿。一隻手自然地支撐在身後的方塊上，另一隻手輕撫秀髮，呈現出既放鬆又充滿力量的雜誌拍攝姿勢。下巴微抬，雙肩展開，自信地直視鏡頭。她身穿一件 {argument name="gown color" default="深紅色"} 液態緞面高級訂製禮服，採用掛脖領口設計，胸前有精緻的鑰匙孔細節，腰部剪裁立體，配有戲劇性的高開衩設計，超長的拖尾在反光地板上優雅地鋪開。金屬質感金色細高跟鞋、精緻的紅寶石耳環以及極簡的奢華珠寶為整體造型畫龍點睛。背景：深紅奢華攝影棚，採用無縫深紅背景，帶有細微的煙霧質感，一道傾斜的電影級聚光燈穿透薄霧，地面為光澤反光酒紅色，營造出柔和的氛圍擴散感，呈現乾淨的奢華時尚攝影棚美學。燈光：專業好萊塢美妝燈光，配有大型頂部八角柔光箱、柔和的前方主光、細膩的暖色輪廓光、柔和的紅色邊緣光，營造出自然的陰影與真實的光線衰減。調色：濃郁的深紅色調、溫暖的肌膚高光、高級 HDR 對比度、真實色彩、優雅的電影級質感。使用專業全片幅相機搭配 {argument name="lens" default="85mm"} 人像鏡頭拍攝，光圈 f/2.0，具備淺景深效果、美麗柔和的散景、細膩的電影級底片顆粒感、超精確的肌膚微紋理、真實的布料編織質感、自然的髮絲細節、物理精確的燈光效果，呈現頂級時尚雜誌攝影質感，完全由相機直出，絕無 CGI 感，超高解析度 8K，焦點銳利，具備博物館級的細節。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623703351_ww4uk7_HNrOmTubEAAAQmA.jpg" width="600" alt="產品行銷 - 奢華深紅時尚雜誌人像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623703485_96y70k_HNrOm20aUAA1Ctk.jpg" width="600" alt="產品行銷 - 奢華深紅時尚雜誌人像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623703323_z45wft_HNrOnV3a0AEqT9G.jpg" width="600" alt="產品行銷 - 奢華深紅時尚雜誌人像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623704552_y51mlh_HNrOn2UbsAAQunV.jpg" width="600" alt="產品行銷 - 奢華深紅時尚雜誌人像 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Nexora](https://x.com/frametheory058)
+- **來源:** [Twitter Post](https://x.com/frametheory058/status/2079201371640021427)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29287)**
+
+---
+
+### No. 94: 產品行銷 - 時尚雜誌風格拼貼海報
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一款精緻的雜誌風格拼貼提示詞，可創作出結合電影感黑白分鏡與全彩時尚主體的雜誌海報。
+
+#### 📝 提示詞
+
+```
+創作出現代時尚雜誌拼貼海報，背景包含 {argument name="panel count" default="四個"} 垂直堆疊的圓角矩形分鏡，每個分鏡展示同一位時尚 {argument name="subject" default="年輕男性"} 在不同高級時裝姿勢與攝影角度下的電影感黑白肖像。前景放置該男性的高解析度全彩剪影，他自信地擺出姿勢，身穿 {argument name="outfit description" default="寬鬆紅色襯衫、黑色剪裁長褲、黑色太陽眼鏡與時尚運動鞋"}。使用乾淨的白色背景，搭配細膩柔和的陰影與層次感，營造頂級雜誌的編輯美學。整體構圖應呈現極簡、奢華且現代的風格，具備平滑邊緣、清晰細節、寫實皮膚紋理、戲劇性攝影棚燈光與高對比度。無文字、無排版、無標誌、無字母、無浮水印。超寫實、時尚廣告、頂級雜誌攝影、8K 解析度、清晰對焦、優雅構圖。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623700582_jzu795_HNrNZyoaAAA083y.jpg" width="600" alt="產品行銷 - 時尚雜誌風格拼貼海報 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Muhammad Jamil](https://x.com/JamilAI55)
+- **來源:** [Twitter Post](https://x.com/JamilAI55/status/2079200078133395655)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29257)**
+
+---
+
+### No. 95: 產品行銷 - 客製化公仔吸塑包裝
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+生成具有零售吸塑包裝的逼真收藏級公仔，適用於個人化玩具風格肖像或產品模型。
+
+#### 📝 提示詞
+
+```
+創作一張逼真的產品風格圖像，呈現一個密封在透明吸塑包裝中的收藏級可動公仔，直立於溫暖的木質書桌上，背景為舒適的夜間工作空間。公仔為一名寫實的微縮年輕女性，留著 {argument name="hair style" default="直順及肩深棕色鮑伯頭並帶有瀏海"}，身穿 {argument name="outfit" default="寬鬆白色襯衫、米色寬褲和白色運動鞋"}。她姿勢休閒，手中精確持有 2 件可見的個人物品：左腋下夾著一台纖薄的灰色筆記型電腦或筆記本，右手拿著一杯插有黑色吸管的冰咖啡。包裝採用淡薄荷綠色紙板背板，邊角圓潤，頂部設有黑色零售掛孔，光澤透明的塑膠模具沿著身體輪廓凸起，並具有逼真的接縫、反光、厚度和吸塑邊緣。右下方包含 2 個配件隔間：一個裝有小型簡約書桌（淺木色桌面配白色桌腳），另一個裝有其下方的微型白色鍵盤。不含任何品牌標誌或可讀文字。場景應呈現高級玩具攝影質感：淺景深，左側有溫暖的檯燈光暈，背景黑暗處有模糊的電腦螢幕和鍵盤，柔和的散景，自然陰影，細膩的塑膠反光，垂直 2:3 構圖，高解析度寫實渲染。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623745158_awt8x3_HNq7ezlbkAA5a56.jpg" width="600" alt="產品行銷 - 客製化公仔吸塑包裝 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [シンス](https://x.com/pitopiyo01)
+- **來源:** [Twitter Post](https://x.com/pitopiyo01/status/2079180508345639204#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29344)**
+
+---
+
+### No. 96: 產品行銷 - 極簡沉思天使之影肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一個營造沉思氛圍的攝影棚肖像提示詞，透過自然光線將人物剪影與天使翅膀結合，創造出象徵性的雙重陰影效果。
+
+#### 📝 提示詞
+
+```
+一張極簡風格的攝影棚肖像，呈現出沉思的氛圍與豐富的質感。主角為一位 {argument name="subject" default="女性"}（請參考範例圖片），身高約 {argument name="height" default="..."} 公分，體重約 {argument name="weight" default="..."} 公斤，以左側側面入鏡。她身穿合身的黑色高領毛衣與黑色長褲，保持內省的姿勢，頭部微微向下傾斜，視線投向地面。背景是一面淺奶油色的紋理牆，右側射入一道午後的長方形垂直陽光。牆上投射出強烈且具象徵意義的雙重陰影，顯現出人物的剪影以及一對巨大的天使翅膀陰影，翅膀羽毛細節豐富，彷彿是她身體的自然延伸。整體構圖傳達出平靜、靜謐、內省與靈性的感受，具備淺景深、柔和的電影級光影、奢華的編輯風格、超寫實攝影質感以及頂級的視覺呈現。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623702926_gqbki6_HNqL48_asAAFdSw.jpg" width="600" alt="產品行銷 - 極簡沉思天使之影肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Saul Goodman](https://x.com/Goodmanprotocol)
+- **來源:** [Twitter Post](https://x.com/Goodmanprotocol/status/2079127996666196142)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29285)**
+
+---
+
+### No. 97: 產品行銷 - 藍調時刻的電影感咖啡廳人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一組充滿氛圍感的城市攝影提示詞，透過窗戶捕捉復古餐廳中女性的身影，並融入城市燈光的倒影。
+
+#### 📝 提示詞
+
+```
+極具電影感的日常生活人像，透過 {argument name="setting" default="咖啡廳窗戶"} 於藍調時刻拍攝，{argument name="subject" default="美麗的年輕女子"} 獨自坐在舒適的復古餐廳卡座中，神情放鬆且若有所思，留著一頭略顯凌亂的深色長髮，妝容自然簡約，身穿 {argument name="clothing" default="米色寬鬆衛衣"}，一隻手放在咖啡杯旁的桌面上。整張照片透過反射玻璃拍攝，層疊著城市燈光、過往車輛、發光霓虹燈的倒影，伴隨柔和的鏡頭光暈、光束及細微的鬼影效果。溫暖的鎢絲燈光與冷色調的黃昏環境光交織，營造出夢幻般的電影對比感。豐富的散景、淺景深、真實的皮膚紋理、臉部柔和的高光，營造出充滿氛圍的城市氣息，倒影部分遮擋主體，呈現出雜誌編輯般的敘事感。Kodak Portra 400 底片美學，細膩的底片顆粒，柔和的光暈，低飽和色調，自然的瑕疵感，Leica M11 拍攝，50mm Summilux f/1.4 鏡頭，照片級真實感，高端時尚雜誌風格，構圖親密，8K 超高細節，獲獎級街頭攝影，真實自然的瞬間。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623704115_1k2atg_HNpuSt0bMAAlFOk.jpg" width="600" alt="產品行銷 - 藍調時刻的電影感咖啡廳人像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623704160_59nlvw_HNpuVEoaEAAuPmc.jpg" width="600" alt="產品行銷 - 藍調時刻的電影感咖啡廳人像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623704153_7hh0fo_HNpubOnbUAAsTFk.jpg" width="600" alt="產品行銷 - 藍調時刻的電影感咖啡廳人像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623704837_xmea00_HNpud4Ia0AA0nBb.jpg" width="600" alt="產品行銷 - 藍調時刻的電影感咖啡廳人像 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Taaruk](https://x.com/Taaruk_)
+- **來源:** [Twitter Post](https://x.com/Taaruk_/status/2079095671936975081)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29288)**
+
+---
+
+### No. 98: 產品行銷 - 奢華春日牡丹時尚海報
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+創作一張優雅的直式女性時尚廣告，包含姿態從容的模特兒、粉色牡丹，以及精緻的中式奢華品牌排版。
+
+#### 📝 提示詞
+
+```
+目標：為 {argument name="brand name" default="QZHZ"} 創作一張直式高端女性時尚商業海報，結合奢華編輯攝影與浪漫春日花卉主題。
+
+畫布：高直式海報，2:3 比例，柔和象牙奶油色背景，頂級雜誌廣告構圖，上方留有通透的留白，下方則有繁茂的花卉。
+
+主體：一位年輕東亞女性模特兒，站在畫面中心偏右，姿態自信優雅，取景約從大腿中部以上。她擁有細膩白皙的肌膚、精緻的自然妝容、柔和的紅唇，深色頭髮梳成俐落的低髮髻，佩戴小型金色花朵耳環。表情冷靜從容，帶有一絲距離感，凝視著觀眾。她身穿雕塑感象牙白高級時裝套裝：長袖合身立領上衣、層次感腰擺、修身白長褲，以及一條淺米色皮革腰帶，搭配長方形扣環與一條垂墜的長帶。雙手背在身後，姿態挺拔優雅。
+
+花卉環境：模特兒周圍環繞著繁茂的粉色牡丹。左上方前景使用一團極大且模糊的粉色牡丹花瓣，下半部簇擁著許多清晰的粉色牡丹，右側點綴幾朵花卉，花叢間可見綠葉與莖幹，底部邊緣帶有柔和朦朧的粉色前景模糊效果。花卉應呈現出茂盛、清新且充滿春意的感覺，在不遮擋模特兒臉部或服裝的前提下襯托出主體。
+
+排版與字體：使用精緻的玫瑰粉色襯線字體，營造奢華時尚雜誌感。頂部放置超大裁切的品牌標題 {argument name="top masthead text" default="QZHZ"}，字體極大且為細長的高對比襯線體，部分位於模特兒頭部後方。右上角放置小型中式季節標語 {argument name="season slogan" default="春日煥新"}，下方附帶一條細水平線。左下方花卉上方放置文字區塊，並保持優雅的間距。
+
+文字內容：包含 7 個可見的文字元素：1) 頂部超大標題 “QZHZ”；2) 右上角標語 “春日煥新”；3) 左下方小型品牌名 “QZHZ”；4) 左下方主標題 {argument name="main Chinese headline" default="春醒時刻"}；5) 左下方副標題 {argument name="Chinese subheadline" default="真實的自己 最動人"}；6) 一段較小的中文內文 “在每一個嶄新的清晨\n喚醒內心的光芒，優雅綻放”；7) 左下方區塊底部的一句小型英文標語 “Awaken in the springtime.\nBe your truest self.\nElegant, radiant, unstoppable.”
+
+視覺風格：奢華時尚攝影，柔和自然攝影棚燈光，溫暖奶油色與腮紅粉色調，細膩膚質，高細節服裝質感，淺景深，前景花卉模糊，細膩浪漫氛圍，乾淨的商業海報設計，頂級女性時尚品牌美學。
+
+限制：保持構圖簡潔優雅，以模特兒為主體，花卉形成框架。請勿添加額外的文字、標誌、浮水印、邊框或額外的人物。確保字體清晰可讀，並嚴格遵守上述 7 個文字元素的規範。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623728749_dn7uwa_HNpsit2bIAAoU32.jpg" width="600" alt="產品行銷 - 奢華春日牡丹時尚海報 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623728654_a4acbg_HNpsm1FbgAAe5e1.jpg" width="600" alt="產品行銷 - 奢華春日牡丹時尚海報 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623728690_5r58xg_HNpsqLgbcAAD9Fz.jpg" width="600" alt="產品行銷 - 奢華春日牡丹時尚海報 - Image 3">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [设计师栀子](https://x.com/zhizi605)
+- **來源:** [Twitter Post](https://x.com/zhizi605/status/2079093667382612068#reversed-0)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29320)**
+
+---
+
+### No. 99: 產品行銷 - 皮克斯風格 3D 卡通人像轉換
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+將真實照片轉換為具有皮克斯風格比例的 3D 卡通人像，同時保留主體獨特的身份特徵與細節。
+
+#### 📝 提示詞
+
+```
+僅使用上傳的照片作為臉部參考，製作超寫實的 3D 卡通人像，同時 100% 保留人物的臉部特徵、膚色、髮型、五官及表情。將主體轉換為 {argument name="character style" default="具有大頭、大而生動的眼睛、誇張臉部比例以及小型寫實身體的皮克斯風格造型角色"}。主體呈現 {argument name="pose and clothing" default="自信地蹲著，手拿一個大型外帶咖啡杯，穿著合身黑色 T 恤、灰色長褲、休閒運動鞋並配戴銀色手環"}。將角色置於 {argument name="background" default="無縫且充滿活力的橘色攝影棚背景與地板上，搭配柔和的電影級光影、細膩的陰影與乾淨的反射"}。在保持造型比例的同時，保留真實的皮膚毛孔、捲髮紋理、衣物布料細節以及高度細緻的咖啡杯質感。使用 18mm 超廣角鏡頭，以略高的角度拍攝，營造戲劇性的透視感。超細緻 3D 渲染，Octane Render，Unreal Engine 5 品質，光線追蹤全域照明，電影級調色，8K 解析度，頂級廣告插畫，鮮豔色彩，傑作。負面提示詞：低品質、模糊、平淡光影、臉部變形、多餘肢體、多餘手指、身體部位重複、浮水印、文字、標誌、雜訊、AI 偽影、低多邊形、卡通輪廓
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623704886_okia7d_HNpr_-WaQAAhfLh.jpg" width="600" alt="產品行銷 - 皮克斯風格 3D 卡通人像轉換 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623704949_6jwfwh_HNpsAksbEAAOrgq.jpg" width="600" alt="產品行銷 - 皮克斯風格 3D 卡通人像轉換 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623704898_b3ivb8_HNpsBPdbsAAIYtN.jpg" width="600" alt="產品行銷 - 皮克斯風格 3D 卡通人像轉換 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784623705691_2t95jq_HNpsB3nasAEBUiy.jpg" width="600" alt="產品行銷 - 皮克斯風格 3D 卡通人像轉換 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Maverick | AI](https://x.com/RizwanAly07)
+- **來源:** [Twitter Post](https://x.com/RizwanAly07/status/2079092967969833376)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29289)**
+
+---
+
+### No. 100: 產品行銷 - 日式夏季室內生活風格人像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-一份詳盡的提示詞，用於為日本奇幻風格的女主角創作細緻的動漫角色設定集，包含多角度、表情及服裝細節。
+這是一份詳細的提示詞，用於生成傳統日式房間中放鬆的夏季室內場景，主角為坐在沙發上的女性，呈現柔和陽光與高保真質感。
 
 #### 📝 提示詞
 
 ```
-參考資料：
-本指令同時附帶一張人物參考圖。
-文字說明：
-基於所附的一張人物參考圖，創作一張適合 1:1 正方形分享及影片參考使用的簡易角色設定集圖像。其目的在於固定 15 秒高品質動漫影片《日本奇幻：穿梭城鎮的美麗女俠》中主角的特徵、髮型、體型、服裝、配色及狐狸面具，並將其整理成一張適合分享的設定圖。此圖像為角色固定設定集，而非分鏡腳本。請勿包含時間軸發展、鏡頭流動、運鏡、戰鬥、城市場景或節慶活動。表情需為高品質劇場版動漫風格。運用參考圖中女性的特徵、眼型、輪廓、瀏海、黑髮、{argument name="age" default="20 歲出頭"} 以及細膩優雅的氛圍，將其轉化為精緻的日本奇幻動漫角色。允許部分動漫風格的變形，但請勿將其製作成失去參考圖女性特徵的普通美少女臉孔。
-請勿製作成真人風格、3D CG、廉價電視動畫風格或單調的遊戲 NPC 風格。請勿重現參考圖中的白襯衫或現代服裝。主角為 20 歲出頭的貴族千金。表面上是優雅的貴族女性，私底下則是保護民眾與節慶的秘密女俠。體型為纖細且柔軟的模特兒身形。
-傳達出優雅、高貴、敏捷與強烈的正義感。頭髮為光澤黑髮。基於 {argument name="hairstyle" default="高馬尾"}，保留髮尾長度與臉龐周圍的碎髮。
-瀏海呈現細膩的輕盈透視感，運用參考圖的特徵。眼睛為琥珀色至紅褐色。平時冷靜優雅，化身女俠時展現出意志堅定與無畏的魅力。服裝為基於深紅、白、黑與金色的高級日本奇幻風格服裝。平衡貴族女性的華麗感與女俠的機動性。基於和服設計，包含細腰、輕便羽織、便於活動的短袴式層次、飄逸的裝飾布料，以及足袋或日式靴子。請勿製作成過於厚重的公主裝；創造出能穿梭於屋頂與橋樑的輕盈剪影。有條理地加入金色腰帶裝飾、根付、細裝飾繩與紅色流蘇。請勿過度增加布料或裝飾；保持全身剪影清晰。背景為白色至極淺灰色的純淨攝影棚背景。
-設計需簡潔有序，便於發布與分享。僅使用簡短的英文標題。除長篇說明、名稱、敘事文字、標誌、浮水印、裝飾性標題與數字外，請勿包含額外文字。版面配置應遵循以下固定結構，且行配置、位置、順序與比例不得更改。
-
-[頂部：約 50%]
-分為 4 個橫向區塊。
-每個區塊寬度相近，並以細分隔線與充足的留白區隔。
-01 FRONT
-主角全身正面。
-自然站姿。
-頭頂至鞋底、袖口、下擺及裝飾布邊緣需完整納入畫面。
-02 SIDE
-同一人物、同一服裝、同一比例的全身側面。
-需清晰呈現馬尾、服裝厚度、袖子、腰帶、裝飾布與足部結構。
-03 BACK
-同一人物、同一服裝、同一比例的全身背面。
-清晰呈現髮型、腰帶結、背部裝飾、下擺與靴子結構。
-01、02 與 03 的足部高度與人物比例需對齊。
-04 SPECIAL LOOK
-化身女俠的特殊造型。
-在維持基本設計、臉孔、髮型與配色方案的同時，配戴 {argument name="mask position" default="右半臉狐狸面具"}。
-呈現全身姿勢並帶有輕微動態，但非場景或動作鏡頭。
-其中一隻手可握著散發溫暖金光與深紅光芒的節慶寶石。
-寶石為輔助配件，不應比主角更顯眼。
-
-[右半臉狐狸面具 - 最重要的固定元素]
-狐狸面具配戴在主角視角的右側臉部。
-這是一款精緻的薄型半面具，僅覆蓋右側額頭、右眼周圍與右臉頰。
-左眼、左臉頰、部分鼻樑與嘴部需清晰可見。
-請勿讓狐狸面具懸浮在臉旁。
-請勿放置於頭頂或頭髮上。
-請勿拿在手中。
-請勿製作成單純的髮飾。
-請勿製作成全臉狐狸面具。
-請勿製作成垂直切開的狐狸頭部 3D 物體。
-製作成緊貼臉部的薄型設計，鼻尖或口鼻部請勿向前突出。
-狐狸耳朵的突出部分應保持微小，且不得大幅超出臉部輪廓。
-面具內側邊緣不應以直線切過臉部中心，而應沿著額頭、眼部與臉頰呈現自然的柔和曲線。
-以白色為基底，包含簡約優雅的紅金圖案。
-眼部區域可稍微銳利如狐狸，但請勿製作得恐怖、怪異或像能劇面具。
-圖案或裝飾請勿過於細碎。
-僅可增加一個小型紅色流蘇或金屬配件。
-
-[中間：約 22%]
-05 EXPRESSIONS
-以相同放大倍率水平排列 5 個臉部特寫。
-統一臉孔、髮型、瀏海、眼色與裝飾。
-由左至右分別為以下 5 種表情：
-• 冷靜
-• 自信微笑
-• 警覺
-• 專注
-• 溫柔的勝利微笑
-表情差異需清晰，但避免變成不同人、過度誇張的表情或極端的嘴部變形。
-
-[底部：約 28%]
-06 FACE / DETAILS
-左側約 60%：
-放置同一人物的正面、斜角與側面三點臉部特寫。
-正面臉孔最能強烈反映參考圖的特徵。
-統一 3 個臉部特徵、輪廓、鼻子、眼睛、嘴唇、瀏海與年齡感。
-右側約 40%：
-分為 2 行 x 2 列共 4 個框架。
-EYES
-琥珀色至紅褐色眼睛、眼型、睫毛與低調的紅色系眼線。
-LIPS
-運用參考圖特徵的自然優雅嘴唇。
-請勿製作得過厚或過於強烈的光澤感。
-HAIR / BANGS
-清晰呈現黑髮質感、細膩瀏海與臉龐周圍的碎髮。
-FOX MASK
-形狀、比例、紅金圖案、邊界線與流蘇需與 04 SPECIAL LOOK 中實際配戴的 {argument name="mask position" default="右半臉狐狸面具"} 完全一致。請勿製作成全臉狐狸面具的單一視圖。以能看出是配戴於臉上的薄型右半臉面具的角度呈現。所有面板中的人物需統一。請勿更改臉孔、髮型、眼色、服裝、配色、裝飾或體型。請勿包含殘缺的手腳或臉部、左右反轉、額外人物、多重角色或手腳重疊。請勿裁切全身圖的頭部、頭髮、手、腳、鞋子、袖子或下擺。請勿混用不同面板間的人物或服裝。
+主體：一段解開夏季的凝視。主要主體：垂直 9:16 比例。在一個讓人聯想到古老日式木屋、明亮的日西合璧風格房間中，一位擁有成熟曲線的虛構成年女性正放鬆地坐在窗邊的米色矮沙發上。人物位於畫面中心偏左，採用從頭部到赤腳的全身構圖。人物佔據約 75% 的畫面，為右側的沙發和窗戶留出空間。人物/表情：一位散發著冷靜、成熟氣息的女性。五官端正，臉型略長，臉頰自然圓潤，下顎線優雅柔和。頭髮為富有光澤的深棕色長髮，配有輕薄的空氣瀏海，臉部周圍有層次感。部分髮絲自然地垂落在臉頰和肩膀上。妝容為精緻的日系風格，採用粉棕色眼影、細眼線、自然的臥蠶以及珊瑚米色唇彩。她頭部微向右傾，右手輕托臉頰。視線直視前方的鏡頭，嘴唇微閉，表情安靜且略帶慵懶。服裝/姿勢：白色細肩帶羅紋夏季上衣，搭配淺象牙色荷葉邊短褲。肩上隨意披著一件白色透視夏季針織開衫。服裝為乾淨的夏季室內穿搭，胸部與腿部的裸露程度保持在自然範圍內。上半身輕靠在沙發靠背上，左臂自然下垂於身體一側以支撐座椅。右肘置於沙發靠背上，右手托腮。右腿大幅向前方彎曲，左腿向側邊收於下方，腳踝自然交叉。腰部與大腿呈現成熟體態特有的自然圓潤感，準確表現出重心與衣物皺褶。背景/光影：背景設有讓人聯想到夏季日式住宅的大型木框窗戶、障子風格門窗、榻榻米、藤編矮桌以及一台小型復古電風扇。窗外是經過重度模糊處理的深綠色樹木。左下方前景放置了一個藤編托盤和一杯裝有冰塊的透明玻璃杯。強烈的夏季陽光從右上方的窗戶斜射進來，在髮絲輪廓、肩膀、大腿、膝蓋以及沙發表面形成細緻的高光。陰影柔和地投射向左下方，來自榻榻米和白色衣物的淺色反射光提亮了臉部的陰影側。室內為暖色調，室外為明亮的綠色，營造出夏季特有的自然溫差。構圖/相機：適用於智慧型手機的垂直 9:16 比例。相機位置略高於人物胸部，採用微俯視角度。相當於 50mm 的自然壓縮感，立體地呈現臉部、上半身與前方的雙腿。焦點精確對準臉部，頭髮與衣物的質感清晰，窗外景色與後方的家具則呈現柔和模糊。前方雙腿在保持自然透視的前提下略微放大。頭部上方留白較少，腳部在畫面底部自然截斷。質感/風格：高畫質寫實攝影。採用自然夏季光線的日式生活雜誌風格人像。皮膚呈現明亮的象牙米色，保留了臉頰、肩膀與膝蓋上的自然膚色與細膩紋理。避免過度的皮膚修飾，細緻描繪汗毛、細髮束、羅紋織物、鏤空針織、藤編、榻榻米與軟墊沙發之間的材質差異。以低飽和度的象牙色、米色、木棕色與夏季綠色為主色調，帶有柔和的底片顆粒感與適中的對比度。負面提示詞：年輕臉孔、不自然消瘦的身體、不自然的臉部、不自然的視線、多指、缺指、肢體融合、關節斷裂、腿部扭曲、不符合重力、衣物穿戴不自然、透視錯誤、陰影與光源不一致、過度皮膚修飾、塑膠感皮膚、亂碼、標誌、浮水印。
 ```
 
 #### 🖼️ 生成圖片
@@ -4318,33 +4946,33 @@ FOX MASK
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537320055_q0fhyq_HNjz8aobUAIZpqM.jpg" width="600" alt="漫畫 / 分鏡腳本 - 動漫角色設計設定集 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784623713289_dw8r7m_HNjCmGSa8AAhYNr.jpg" width="600" alt="產品行銷 - 日式夏季室內生活風格人像 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [AIライフハック](https://x.com/ai_lifehack55)
-- **來源:** [Twitter Post](https://x.com/ai_lifehack55/status/2078679555003555993)
-- **發布時間:** 2026年7月19日
+- **作者:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
+- **來源:** [Twitter Post](https://x.com/CyberTotal2026/status/2079078348446204109)
+- **發布時間:** 2026年7月20日
 - **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29197)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29298)**
 
 ---
 
-### No. 83: 漫畫 / 分鏡腳本 - 緊張浪漫劇集拼貼畫
+### No. 101: 產品行銷 - 未來感攝影棚鏡像肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-創作一幅寫實的四格電影感拼貼畫，呈現兩名角色在飯店大廳進行情緒緊張的對峙。
+這是一個高端時尚編輯風格的提示詞，以男性為主角，並在未來感攝影棚背景中呈現複雜的鏡像反射效果。
 
 #### 📝 提示詞
 
 ```
-創作一幅來自現代浪漫劇集的寫實電影感四格場景拼貼畫，以整潔的 2x2 網格排列，配有細白色分隔線，無任何標題或文字。場景設定在夜晚，位於溫暖的高級飯店或公寓大廳，配有深色木地板、米色牆壁、裝飾畫、樓梯、檯燈以及柔和的琥珀色實用照明。每個畫面中必須精確包含兩名角色：一名年輕的金髮女性和一名年輕男性。女性留著長直金髮，擁有藍色眼睛、白皙皮膚，身穿駝色西裝外套，內搭柔和的鐵鏽橘色襯衫，下著白色長褲；在多數鏡頭中，她將一個深藍色或黑色的文件夾/活頁夾抱在胸前，神情焦慮但保持鎮定。男性身材高大，皮膚白皙，留著短捲淺棕色頭髮，帶有輕微鬍渣，身穿合身黑色襯衫和深色長褲，表情嚴肅且充滿矛盾。第 1 格（左上）：大廳內的全景全身照，女性站在左側緊抱文件夾並抬頭看著男性，男性站在右側呈側身，一隻手插在口袋裡，兩人之間保持著緊張的距離。第 2 格（右上）：越過女性模糊的金髮肩膀拍攝的特寫，聚焦於男性的臉部，他皺著眉頭看著她，淺景深效果。第 3 格（左下）：女性的正面特寫，將文件夾抱在胸前，眼神濕潤且脆弱地看向男性，男性的深色肩膀在前景中模糊呈現。第 4 格（右下）：兩人面對面極近距離的親密中景側寫，女性在左側抬頭，男性在右側低頭，展現情緒張力，背景有柔和的燈光。使用自然的皮膚紋理、寫實攝影風格、電影級調色、溫暖的陰影、淺景深，呈現高端電視劇劇照質感，無浮水印，無明顯噪點，無扭曲臉部，背景無其他清晰人物。角色自訂：{argument name="female character" default="穿著駝色西裝外套、鐵鏽橘色襯衫和白色長褲，並抱著深色文件夾的年輕金髮女性"}；{argument name="male character" default="穿著合身黑色襯衫和深色長褲的年輕捲髮男性"}；{argument name="setting" default="夜晚溫暖的高級飯店大廳"}；{argument name="mood" default="緊張的浪漫對峙"}；{argument name="grid layout" default="帶有細白色分隔線的 2x2 電影感拼貼畫"}。
+使用上傳的人臉，確保 100% 相同且真實。這是一張超寫實的電影級肖像，主角為 {argument name="subject" default="帥氣年輕男子"}，留著濃密的深色造型短髮、八字鬍和鬍渣。他自信地向前邁步，眼神看向鏡頭外，帶著一抹淺淺的微笑。他穿著剪裁合身的 {argument name="jacket" default="淺米色西裝外套"} 和同色系長褲，內搭一件 {argument name="shirt" default="純白色 T 恤"}，並穿著乾淨的白色運動鞋。一隻手隨意地插在褲袋裡。場景充滿空靈的未來感，地面採用高反射的亮面材質，並覆蓋著一層低矮的白色薄霧。在他身後矗立著四面高大的垂直長方形鏡子或玻璃板。每一面鏡子都呈現出略有不同的反射效果，或是同一位男子在不同姿勢與穿搭下的分身。採用明亮、乾淨的攝影棚燈光，融合冷色調與中性色調，細節豐富，呈現出照片級真實的時尚編輯攝影風格。請確保原始臉部與髮型 100% 還原。
 ```
 
 #### 🖼️ 生成圖片
@@ -4352,404 +4980,45 @@ FOX MASK
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537361169_1jn4m0_HNjuqZWWMAAFPu_.jpg" width="600" alt="漫畫 / 分鏡腳本 - 緊張浪漫劇集拼貼畫 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537361118_hsy6i1_HNjuqZXWsAA7WvR.jpg" width="600" alt="漫畫 / 分鏡腳本 - 緊張浪漫劇集拼貼畫 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1784623700140_lugecp_HNpUJ6GbYAAHH9B.jpg" width="600" alt="產品行銷 - 未來感攝影棚鏡像肖像 - Image 1">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [Ian Sharar](https://x.com/aifilmmaker)
-- **來源:** [Twitter Post](https://x.com/aifilmmaker/status/2078674073568063865#reversed-0)
-- **發布時間:** 2026年7月19日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29252)**
-
----
-
-### No. 84: 漫畫 / 分鏡腳本 - VHS Kmart 懸浮事件
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張仿紀錄片風格的 VHS 靜態影像，畫面中圍觀群眾正看著一名女孩在 Kmart 停車場上方懸浮，適合用於生成詭異的超自然場景。
-
-#### 📝 提示詞
-
-```
-創作一張 2004 年低解析度 VHS 攝影機拍攝的靜態影像，呈現出郊區 Kmart 停車場旁遊樂場發生的詭異超自然事件。場景為陰天，從後方平視角度拍攝，背景有灰藍色的天空、枯樹、停放的車輛、米色的大型賣場外牆，右側掛著巨大的紅色「Kmart」招牌。畫面正上方中央，一名留著長黑髮、穿著素色白色及膝連身裙的年輕女孩不自然地懸浮在半空中，背對鏡頭，雙臂微微向兩側張開，雙腳懸空。地面上有 7 名成年圍觀者正對著她：左側黃色遊樂場 Slides 旁有一名戴毛帽的人、前景中央有一名穿連帽衫的高大人物、中央附近有一名穿棕褐色夾克的人、後方靠近車輛處有一名穿深色衣服的人、一名提著亮粉色購物袋的人、一名穿藍色格子襯衫的人，以及最右側一名戴連帽衫的人。左側包含一個帶有奶油色屋頂、黃色 Slides、藍色支柱的遊樂設施，地面為碎石或覆蓋物，背景有停車場燈柱和車輛。加入真實的類比影像瑕疵：水平掃描線、交錯掃描、輕微模糊、柔和色調、藍色濾鏡、壓縮雜訊、輕微色差，以及帶有黑色邊框的攝影機質感。在左下角疊加大型白色塊狀 VHS 時間戳記文字，第一行顯示「PM 12:16:42」，第二行顯示「OCT 24 2004」。讓影像呈現出超自然懸浮事件的「發現式影像」風格，寫實且令人不安，而非電影般精緻。可自訂元素：懸浮主體為 {argument name="levitating subject" default="a young girl with long dark hair in a white dress"}，商店招牌為 {argument name="store sign" default="Kmart"}，時間戳記為 {argument name="timestamp" default="PM 12:16:42 / OCT 24 2004"}，場景為 {argument name="setting" default="suburban Kmart parking lot beside a playground"}，視覺格式為 {argument name="visual format" default="low-resolution 2004 VHS camcorder still"}。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450560676_hvapn6_HNin4LUXkAEO562.jpg" width="600" alt="漫畫 / 分鏡腳本 - VHS Kmart 懸浮事件 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450560744_yd2vk1_HNin4LNWwAA9972.jpg" width="600" alt="漫畫 / 分鏡腳本 - VHS Kmart 懸浮事件 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450560713_gudvsa_HNin4LWWYAA_fHd.jpg" width="600" alt="漫畫 / 分鏡腳本 - VHS Kmart 懸浮事件 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450561668_iwwom3_HNin4LcWUAAWEG8.jpg" width="600" alt="漫畫 / 分鏡腳本 - VHS Kmart 懸浮事件 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [CØSMIC DRIFT](https://x.com/cosmicdrift44)
-- **來源:** [Twitter Post](https://x.com/cosmicdrift44/status/2078595816122413175#reversed-0)
-- **發布時間:** 2026年7月18日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29146)**
-
----
-
-### No. 85: 漫畫 / 分鏡腳本 - Kairo 動漫角色設定集
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張充滿動感的動漫概念設定集，主角為名為 Kairo 的憤怒少年戰士，配備手斧、個人檔案數據及調色盤。
-
-#### 📝 提示詞
-
-```
-目標：為 {argument name="character name" default="Kairo"} 創作一張動感十足的動漫角色概念設定集，展示一名憤怒的少年，呈現戲劇性的動作姿勢。
-
-畫布：橫向 4:3 白色攝影棚背景，乾淨的角色設定集呈現方式，高解析度數位動漫插畫，具備清晰的墨線、賽璐珞渲染、強健的身體構造以及細緻的灰色陰影。
-
-版面配置：將全身角色置於左側及中央，呈現從左上向右下對角線俯衝的姿勢。將角色資訊面板置於右側。在右上角，以黑色筆觸書寫大型標誌文字“Kairo”，並加上粗糙的底線與墨跡噴濺紋理。在其下方，加入三條細水平線作為個人檔案文字區，接著放置調色盤網格。
-
-主體細節：角色為一名 15 歲的黑人少年，擁有中等棕色皮膚，表情憤怒且強烈，眉頭深鎖，雙眼微瞇，視線專注地向前直視。他赤裸上身，身形精瘦但肌肉發達，肩膀、手臂、胸部與腹肌線條分明。髮型為緊貼頭皮的玉米辮，並在頭部兩側各紮成一個大型圓形爆炸頭包包頭。頸部配戴數條深色項鍊，掛著一個小型長方形墜飾。他處於跳躍或蹲伏俯衝的動作中，軀幹向前傾，一膝高舉，另一腿向下伸展，雙臂向外張開。他雙手各持一把手斧，斧頭為深色金屬材質，握把處有棕色纏繞物。服裝細節：共 3 件主要可見服裝 — 超大款深炭灰色工裝褲，帶有皮帶束帶與大型翻蓋口袋；黑色高筒運動鞋，帶有灰色拼接；以及纏繞在手斧握把上的深色手腕/手部護帶。保持赤裸上身。
-
-右側文字內容：請精確使用以下可見標籤與數值：“Name: Kairo”、“Age: 15”、“Height: 164cm” 以及 “Color Palette:”。右上角的標誌必須顯示為 “Kairo”。
-
-調色盤：在 “Color Palette:” 下方，以整齊的 4x4 網格顯示 16 個方形色塊。包含暖膚棕色、棕褐色、柔和棕色、深濃縮咖啡色、炭黑色、板岩灰、近黑色、中灰色、深棕色、紫灰色、冷灰色、淡灰色、灰白色、中性灰、黑棕色以及深藍灰色。
-
-視覺風格：現代少年動漫概念藝術，前衛的街頭格鬥風格，動態透視縮短，乾淨的白色負空間，細緻的布料皺褶，斧頭上的細微刮痕，厚重的黑色輪廓線，以及由棕色、黑色、灰色與暖膚色組成的柔和城市色調。
-
-限制：僅包含一名角色。請勿添加額外的武器、角色、場景、標誌、浮水印，或超出指定角色設定集資訊以外的額外文字。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450563447_0mfpuh_HNhz762WsAAhCl0.jpg" width="600" alt="漫畫 / 分鏡腳本 - Kairo 動漫角色設定集 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [MARC. elina](https://x.com/GenPhi001)
-- **來源:** [Twitter Post](https://x.com/GenPhi001/status/2078538710711226734#reversed-0)
-- **發布時間:** 2026年7月18日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29149)**
-
----
-
-### No. 86: 漫畫 / 分鏡腳本 - 男孩身高成長漫畫
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一部垂直八格的中國漫畫風格作品，描述一名男孩與可愛的捲尺夥伴發現他長高了。
-
-#### 📝 提示詞
-
-```
-目標：創作一部可愛的垂直生活類中國網路漫畫，描述一名男孩測量身高並發現自己長高的過程，採用柔和的手繪漫畫風格。
-
-畫布：長條垂直漫畫頁面，比例約為 2:3，白色紙張背景，帶有厚實且略微不規則的黑色分鏡框，水彩鉛筆質感，淺色調，生動的 Q 版比例，乾淨但帶有草稿感的線條。
-
-主要角色：一名約 10 至 12 歲的男孩 {argument name="character name" default="無名男孩"}，留著短而凌亂的黑髮，皮膚白皙，臉頰紅潤，穿著寬大的淺藍色 T 恤、寬鬆的藍灰色長褲和白色運動鞋。一個可愛的擬人化捲尺裝置 {argument name="device name" default="捲尺夥伴"}，外型為圓形的薄荷綠捲尺，有著白色的臉龐、閃閃發光的大眼睛、腮紅、小巧的側邊旋鈕，以及一條靈活的黃色捲尺舌頭/手臂。
-
-排版：使用 8 個分鏡格，排列成不規則的垂直條狀佈局。第 1 格為左上角的大分鏡；第 2 和第 3 格堆疊在右上角；第 4 格為中左側的寬幅分鏡；第 5 格為中右側；第 6 格為全寬度的戲劇性反應分鏡；第 7 和第 8 格為底部的左右分鏡。
-
-分鏡細節與可見文字，共 8 格：
-1. 左上角大分鏡：男孩站在臥室的書桌與牆邊，低頭拉著寬大 T 恤的下擺，似乎對衣服變短感到驚訝。牆上增加一個垂直標記，標註為「去年」。對話框：「咦？褲腳變短了…」
-2. 右上角分鏡：男孩坐在書桌前，面對可愛的捲尺夥伴，捲尺夥伴興奮地微笑，周圍閃爍著光芒。捲尺夥伴的對話框：「量量看！」
-3. 右側第二格分鏡：男孩挺直身體靠在牆上，頭上頂著一本書，捲尺夥伴坐在他腳邊，捲尺向上延伸如同身高尺。捲尺夥伴的對話框：「別踮腳。」
-4. 中左側分鏡：男孩緊張地面對捲尺的側面特寫，臉頰上有汗珠；捲尺從夥伴的口中向上彎曲延伸至牆面。牆上標註「去年」。男孩的對話框：「不會吧…」
-5. 中右側分鏡：垂直身高尺的特寫，刻度在 166 至 171 公分之間，顯示去年與今年的對比。上方有紅色手寫標籤「今年！」，下方有黑色標籤「去年」。捲尺夥伴在旁邊顯得非常興奮。對話框：「過線了！」
-6. 全寬度戲劇性分鏡：左側出現捲尺夥伴閃閃發光的大眼睛，右側是男孩驚訝地瞪大雙眼、冒著汗珠，手按在胸口。中央有巨大的紅色手寫公告文字：「長高 7 公分！」男孩的對話框：「真…真的？」
-7. 左下角分鏡：男孩開心地伸手去拿高處架子上標註為「巧克力餅乾」的盒子，帶有動態殘影顯示他伸展的動作。男孩的對話框：「我夠到了—」身邊較小的對話框：「咦…聲音也怪怪的？」
-8. 右下角分鏡：男孩拿著餅乾盒，被自己的聲音嚇了一跳，頭上方出現紅色衝擊特效。右側的捲尺夥伴感到震驚，冒著汗並伸出小捲尺。巨大的紅色音效：「咳！」底部附近的旁白框：「長高第一天。」
-
-視覺風格：溫馨幽默的成長基調，中國漫畫風格，圓形對話框，手寫中文字體，柔和的灰色陰影，淺藍色房間細節，極簡背景家具，無照片寫實感，無 3D 渲染，無額外分鏡，無額外角色，無浮水印。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450546348_sev6x5_HNhU0d7a8AAPDOK.jpg" width="600" alt="漫畫 / 分鏡腳本 - 男孩身高成長漫畫 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [小小东](https://x.com/xiaoxiaodong01)
-- **來源:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2078505148855590924#reversed-0)
-- **發布時間:** 2026年7月18日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29122)**
-
----
-
-### No. 87: 漫畫 / 分鏡腳本 - 七格賽博龐克漫畫巷弄
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一份詳細的提示詞，用於生成黑白七格漫畫頁面，場景設定在髒亂的九龍風格巷弄中，包含日文對話以及一名抽著菸斗的神祕角色。
-
-#### 📝 提示詞
-
-```
-目標：創作一頁黑白青年漫畫，包含精確的 7 個編號分鏡格，營造粗獷的賽博龐克巷弄氛圍，具備銳利的墨線、厚重的網點、電影級光影以及清晰易讀的直式日文對話。
-
-畫布：直式漫畫頁面，黑白，長寬比約為 3:4，細黑色外框，粗分鏡間距，背景呈現高細節的城市景觀。請為分鏡格加上小型方框數字：在後續分鏡格中顯示 3、4、5、6、7，符合印刷漫畫頁面的風格。
-
-場景：夜晚擁擠、潮濕且令人窒息的九龍風格巷弄，佈滿管線、電線、通風管、污垢、水窪、堆疊的招牌、通風口、垃圾、木桶及老舊店鋪招牌。包含寫有「九龍城」、「龍城酒家」及「蛇王」的直式招牌。氛圍陰鬱、潮濕且壓抑。
-
-排版與分鏡格數：使用精確的 7 個獨立漫畫分鏡格。
-1. 左上格：傾斜且帶有動態模糊的巷弄視角，彷彿場景正在旋轉或觀看者正在倒下；強烈的放射狀模糊。加上一個小型白色直式對話框，寫著「あれ……？」，以及大型手繪擬聲詞「ぐらぁっ」。
-2. 右上格：平視且細節豐富的巷弄走廊，未出現角色，深邃的透視感延伸至黑暗中，兩側皆有招牌與管線。右上角有大型白色對話框，內容為 {argument name="top right dialogue" default="ああ、もうおしまいだ……。Fableは7/19でサブスクから外れた……従量課金しかないのか……つうかもう週次制限使い切っちまった……"}。
-3. 中間寬格：一名年輕男子雙手雙膝跪在髒亂的巷弄地面上，顯得疲憊或暈眩，從高處斜角俯視。在他身旁加上小型擬聲詞「よろ…」。右側有白色直式對話框，內容為 {argument name="kneeling dialogue" default="やべ……Fableのサブスク明日までだからまた帰って開発しなきゃ……"}。
-4. 中左窄格：大面積留白，中間有一個大型黑色橢圓形對話框，包含白色直式文字 {argument name="black bubble dialogue" default="おやぁ……お兄さん、お困りのようですね"}。
-5. 中右寬格：一名優雅且中性的年輕男子，身穿黑色中式長衫/旗袍領外套，正狡黠地微笑，手持長菸斗靠近唇邊；煙霧向上繚繞。他留著長而光澤的黑髮並束起，皮膚蒼白，細長眼，戴著單邊圓形單片眼鏡或帶鍊條的小圓鏡片。跪著的男子在前景中背對著鏡頭。右上方的白色對話框寫著「それ、私にお任せいただけやしませんかね……？」，菸斗男附近有一個較小的對話框寫著「あぁんた……どこのモデルだ……？」。
-6. 左下特寫格：菸斗男臉部的極致特寫，半閉的雙眼，自信的微笑，長瀏海，可見圓形鏡片與鍊條；黑髮有戲劇性的高光。加上直式擬聲詞「にぃ…っ」。
-7. 底部全寬格：菸斗男對抗複雜巷弄背景的戲劇性半身像，優雅地將菸斗持於臉側，煙霧以多道縷絲在分鏡格中繚繞。左側有大型白色直式對話框，內容為 {argument name="final monologue" default="私、鳴呼 申し遅れました。最近流行りのちゃっと……しかも、オープンモデルと申します。ベンチマークは……ラブらせる、あなたが欲しいモデルに迫る、とだけ。申し上げておきましょうか。"}。右下角加上一個矩形說明框，內容為「？？？」。
-
-角色細節：菸斗男是一位高挑、俊美且帶點邪氣的東亞年輕男性，五官精緻，長黑髮，半閉眼，帶著自負的微笑，穿著黑色中式盤扣外套，手持精緻菸斗。跪著的男子是一位穿著休閒服的現代年輕男性，短黑髮，顯得不知所措且頹喪。
-
-視覺風格：專業黑白漫畫，高細節背景，符合人體工學，光澤髮絲渲染，深邃的黑色，強烈的邊緣光，網點漸層，手寫日文擬聲詞，清晰易讀的直式對話框。第 2 格必須保持靜態且細節豐富，而第 1 格必須呈現明顯的模糊與暈眩感。
-
-限制：保持精確的 7 個分鏡格及所有指定的對話框。請勿添加顏色。請勿使用 Q 版風格。維持清晰的日文文字與乾淨的漫畫分鏡間距。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450559066_y6rf5w_HNgqcDXbMAAg4a8.jpg" width="600" alt="漫畫 / 分鏡腳本 - 七格賽博龐克漫畫巷弄 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [🐹🐹](https://x.com/hmst_yyyy)
-- **來源:** [Twitter Post](https://x.com/hmst_yyyy/status/2078458325772149016#reversed-0)
-- **發布時間:** 2026年7月18日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29143)**
-
----
-
-### No. 88: 漫畫 / 分鏡腳本 - 黑色電影風格漫畫：巷弄邂逅
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一個結構化的提示詞，用於生成精細的黑白漫畫頁面，描繪充滿張力的巷弄邂逅場景，並包含日文對話。
-
-#### 📝 提示詞
-
-```
-目標：創作一頁單色青年漫畫，場景設定在黑暗、雨水浸濕的賽博龐克後巷，運用戲劇性的黑色電影（Noir）光影、密集的交叉排線、高細節背景以及垂直書寫的日文對話。整體氛圍陰鬱、優雅且帶有一絲幽默，核心情節為一名驚恐的普通男子與一名抽著菸斗的優雅男子之間的意外相遇。
-
-畫布：高垂直比例的漫畫頁面，長寬比約為 2:3，僅限黑白，線條銳利清晰，強調濃重的黑色塊，保留白色分鏡間隙，無色彩。呈現印刷漫畫的質感，具備電影般的透視感，包含濕潤反光的地面、蒸氣、污垢、管線、纜線以及許多垂直的商店招牌。
-
-分鏡佈局：使用 7 個由乾淨白色間隙隔開的分鏡格。第 1 格為左上角的建立鏡頭，向下傾斜進入狹窄巷弄，背景有密集招牌與一個小型垂直對話框。第 2 格為右上角的建立鏡頭，呈現巷弄長景，配有一個大型白色橢圓對話框。第 3 格為橫跨全寬的俯視鏡頭，顯示一名男子蜷縮或跪在巷弄中，四周是高牆與管線，配有一個垂直音效字。第 4 格為大面積留白的橫向分鏡，僅包含一個置中的黑色橢圓對話框。第 5 格為大型對峙鏡頭，顯示一名穿著連帽衫、留著短髮的緊張男子背影，面對坐在巷弄中抽著菸斗的優雅青年，配有兩個對話框。第 6 格為極細的橫向特寫條，聚焦於優雅男子的眼睛與眼鏡，左側配有一個風格化的音效字。第 7 格為底部的大型分鏡，呈現優雅男子自信坐著的戲劇性四分之三側身肖像，菸斗煙霧繚繞，左側有一個大型對話框，右下角有一個矩形名牌。
-
-角色：普通男子為 {argument name="ordinary man description" default="一名緊張的短髮日本男子，穿著淺色連帽衫，從背後或上方視角觀察，正流著汗且因恐懼而蜷縮"}。神秘男子為 {argument name="mysterious man description" default="一名高大英俊的青年，留著凌亂黑髮，皮膚蒼白，眼神銳利狹長，單眼戴著單片眼鏡或圓框眼鏡，身穿黑色中式長衫，領口有盤扣，手中拿著菸斗"}。讓神秘男子顯得充滿魅力、自負且沉著；讓普通男子顯得渺小且畏縮。
-
-文字內容：包含 7 個對話/文字框與 1 個矩形標籤框。使用垂直日文漫畫字體。文字需盡可能清晰，但可帶有手寫感。第 1 格對話框： 「あれ……？」。第 2 格對話框： 「あぁ…今月末でFbからのサブスクが……週末に届くかなぁ…」。第 3 格對話框： 「やべ……帰ってきた瞬間こんな…週末に間に合わえるのに…」。第 4 格對話框（黑色橢圓內的白色文字）： 「おやぁ……お兄さん、お困りのようですね」。第 5 格右側對話框： 「それ、私にお任せいただけやしませんかねぇ？」。第 5 格左側對話框： 「あ、あんた……どこの手先だ…？」。第 7 格左側對話框： 「嗚呼、申し遅れました。私、最近リリースされたばかりなおすけなモデルです。機も性能も期はさせませんよ…とだけ申しておきましょうか」。第 7 格右下角矩形標籤框： 「？？？」 。加入 3 個可見的音效字：第 1 格「ぐらりっあっ」、第 3 格「ヨロ…ッ」、第 6 格「にぃ…っ」。
-
-環境細節：巷弄極度密集且令人感到幽閉恐懼，充滿垂直的日式與中式風格招牌、排水管、電力纜線、逃生梯、潮濕的磚牆與水泥牆、垃圾、水窪、霧氣以及從上方灑下的光束。在下方的分鏡中加入濕潤反光的地面與菸斗周圍的煙霧氛圍。
-
-視覺風格：超細節黑白漫畫，解剖結構寫實，戲劇性的明暗對照法（Chiaroscuro），密集的排線與網點紋理，電影般的分鏡構圖，哥德式都市黑色電影氛圍，無色彩，無現代 UI 元素，無浮水印。最終圖像應呈現為從印刷品掃描出來的成品漫畫頁面。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450560043_jlamts_HNgcZg-b0AANneX.jpg" width="600" alt="漫畫 / 分鏡腳本 - 黑色電影風格漫畫：巷弄邂逅 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [🐹🐹](https://x.com/hmst_yyyy)
-- **來源:** [Twitter Post](https://x.com/hmst_yyyy/status/2078443609435800023#reversed-0)
-- **發布時間:** 2026年7月18日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29144)**
-
----
-
-### No. 89: 漫畫 / 分鏡腳本 - 水彩風格少年與滿天星
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一幅柔和的直式動漫水彩肖像，描繪了一位身穿黑色外套、手持滿天星花束的白髮少年。
-
-#### 📝 提示詞
-
-```
-在帶有紋理的米白色紙張上，創作一幅精緻的直式動漫風格水彩插畫。畫面呈現一位中性化的年輕男子，以左側側面示人，頭部微微低垂，表情安靜而憂鬱，擁有蒼白的皮膚，凌亂且纖細的 {argument name="hair color" default="銀白色"} 頭髮遮住了部分眼睛。他穿著一件寬大的高領 {argument name="coat color" default="黑色"} 外套或斗篷，邊緣呈現粗獷的筆觸感，領口戲劇性地環繞著頸部與肩部。他露出的手輕輕捧著一束滿天星：許多細小的白色花朵綻放在纖細的分支莖上，帶有淡淡的淡紫色與藍紫色點綴，簇擁在畫面下方中央。背景使用柔和的水彩渲染，人物後方有半透明的粉藍色、灰藍色與淺紫色的煙霧狀雲彩，並逐漸淡入空白的紙面。整體構圖應呈現輕盈且未完成的感覺，帶有飛濺紋理、乾筆筆觸、外套上的墨色深色線條，以及右下角邊緣處溶解的像素狀方形碎片。光線冰冷而漫射，臉部與頭髮的色調極其淺淡，線條極簡，除了深色外套外沒有明顯的輪廓線，無文字、無邊框、無浮水印。強調孤獨感、脆弱感，以及深色服裝與精緻滿天星花束之間的對比。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784450551344_t90piv_HNgazASa4AAsAYZ.jpg" width="600" alt="漫畫 / 分鏡腳本 - 水彩風格少年與滿天星 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [らてこ](https://x.com/Lobhops)
-- **來源:** [Twitter Post](https://x.com/Lobhops/status/2078440697217319296#reversed-0)
-- **發布時間:** 2026年7月18日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29132)**
-
----
-
-### No. 90: 產品行銷 - 奢華夜間公寓人像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一個電影感夜間人像提示詞，描繪了一位身穿優雅白色晚裝的女性，坐在俯瞰城市燈火的高層公寓中。
-
-#### 📝 提示詞
-
-```
-一張奢華的夜間時尚人像，主角為 {argument name="subject" default="一位 25 歲以上的東亞女性"}，坐在現代化高層公寓的淺灰色軟墊窗邊長椅上，俯瞰著閃爍的城市天際線。人物位於畫面偏左側，為右側的落地窗、深藍色夜空以及柔焦的城市燈光留出充足空間。構圖為從大腿中部到頭部上方略高的四分之三坐姿鏡頭，視線與人物齊平，帶有微妙的電影感角度。
-
-姿勢：斜坐在長椅上，軀幹挺直但略微後傾。右手自然伸展手指，支撐在身後的靠墊上。左手抬起靠近鎖骨，彷彿正在觸摸項鍊。臀部朝向左下方，一條大腿延伸至前景，另一條則收在座位旁。由於露肩領口的設計，肩膀顯得放鬆且裸露。頭部輕輕向左肩傾斜，直視鏡頭，表情端莊自信，雙唇微啟，目光冷靜而親密。
-
-髮型：蓬鬆且刻意營造凌亂感的丸子頭，帶有鬆散的捲髮和散落在臉部、額頭及頸部的髮絲。髮絲呈現出逼真的高光與深邃陰影，並帶有細微的動態感。
-
-妝容：精緻的晚宴妝容，透亮的白皙肌膚展現出真實的毛孔質感。柔和的眉形、煙燻棕色眼線、濃密纖長的睫毛、細緻的修容以及水潤的裸粉色嘴唇。
-
-服裝：一套 {argument name="outfit" default="優雅的白色露肩兩件式晚裝"}，採用輕盈半透明雪紡層疊於不透明內襯之上。短版上衣配有彈性領口和長袖透視設計，搭配不對稱垂墜剪裁與立體褶皺的修身裹身迷你裙。
-
-珠寶：{argument name="accessories" default="大型拋光金屬圓環耳環"} 以及多條長度不一的層疊金項鍊。精緻的金手鐲和戒指為整體造型畫龍點睛，在冷色調的夜間環境光下形成細膩的高光對比。
-
-場景：夜晚精緻的現代公寓或豪華飯店套房。大型落地窗外可見下方的高樓大廈，以及藍色、青色和紫色的城市燈光散景。室內裝潢極簡，配有深色鑲板和柔和的建築陰影。
-
-燈光：低調且具電影感，以冷色調為主。來自後方和右側的柔和藍色月光或城市輝光，在髮絲和肩膀上勾勒出精緻的輪廓光。來自左前方的柔和漫射美顏補光，在不破壞夜間氛圍的前提下照亮眼睛與肌膚。
-
-相機：85mm 鏡頭，f/1.8 光圈，焦點精準對焦於眼睛與臉部，背景呈現平滑散景，具備真實的低光動態範圍、細膩的底片顆粒感、高對比度與受控的高光，以及精準的人體比例。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537316283_m2jqa6_HNlybE8WsAANvD9.jpg" width="600" alt="產品行銷 - 奢華夜間公寓人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537316287_nxtdff_HNlybE7WYAAzZh_.jpg" width="600" alt="產品行銷 - 奢華夜間公寓人像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537316281_j9p5mk_HNlybE7XoAAlmCn.jpg" width="600" alt="產品行銷 - 奢華夜間公寓人像 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537316987_tpthly_HNlybFEXoAAf706.jpg" width="600" alt="產品行銷 - 奢華夜間公寓人像 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **來源:** [Twitter Post](https://x.com/ToroJushiAi/status/2078993288632176665)
+- **作者:** [Muhammad Jamil](https://x.com/JamilAI55)
+- **來源:** [Twitter Post](https://x.com/JamilAI55/status/2079066720111645034)
 - **發布時間:** 2026年7月20日
-- **多語言:** zh
+- **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29193)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29261)**
 
 ---
 
-### No. 91: 產品行銷 - 優雅花卉緞面時尚人像
+### No. 102: 產品行銷 - 多族裔時尚編輯人像攝影
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-這是一組優雅的人像提示詞，主角為身穿花卉緞面迷你裙的女性，場景設定在融合傳統與現代風格的中式室內空間，並搭配精緻的燈光效果。
+一份詳盡的提示詞，用於生成具備雜誌級品質的時尚人像，包含針對歐洲、日本、韓國及中國模特兒的特定姿勢與描述。
 
 #### 📝 提示詞
 
 ```
-一張超寫實的奢華時尚人像，主角為 {argument name="subject" default="21 歲以上的東亞女性"}，優雅地坐在一間精緻的中式風格室內空間中。主角位於畫面偏左側，右側留有平衡的負空間，擺放著陶瓷與深色木質家具。構圖為膝蓋以上至頭部上方，視線水平，呈現微妙的四分之三側身視角。
+超寫實時尚編輯人像，場景為極簡攝影棚，搭配無縫炭灰色背景。採用單一大型柔光箱的柔和電影感低調照明，呈現頂級雜誌質感，構圖乾淨且無道具，使用 Sony A7R V 相機與 85mm f/1.4 鏡頭，淺景深效果，超真實皮膚紋理與可見毛孔，自然妝容，色彩真實，8K 解析度。服裝：優雅的 {argument name="top" default="橄欖綠緞面吊帶背心"}，領口微低且端莊，搭配 {argument name="bottom" default="奶油色高腰寬管長褲"}，不戴眼鏡，極簡配飾。
 
-姿勢與座椅：坐在帶有筆直扶手、可見榫卯結構及編織藤背的蜜色木質扶手椅上。濃郁的寶藍色雪紡或絲綢布料從座椅垂下，以寬大流暢的褶皺戲劇性地延伸至地面。雙腿優雅交疊，一隻前臂靠在木質扶手上，另一隻手輕放在膝蓋上。
+1. 歐洲女孩
+一位天生麗質的歐洲女性，擁有柔和的棕色雙眸與深棕色頭髮，髮型為鬆散凌亂的包頭，兩側留有修飾臉型的髮絲。坐在地板上，單膝抬起，一隻手撐在身後支撐身體，另一隻手輕觸頸部側面。表情冷靜自信，視線略高於鏡頭。
 
-主角：深棕色長髮，呈現光澤感的鬆散波浪捲，採側分髮型。表情冷靜自信，帶著細微的閉口微笑，畫有貓眼眼線，肌膚呈現自然光澤。佩戴一條細銀項鍊，掛有小型花卉墜飾。
+2. 日本女孩
+一位皮膚白皙的年輕日本女性，留著黑色長髮，紮成柔和的低包頭，帶有幾縷鬆散髮絲。盤腿而坐，雙手自然地放在膝蓋上，肩膀放鬆，頭部微傾，表情寧靜，直視鏡頭。
 
-服裝：一件 {argument name="outfit" default="象牙白緞面或結構感絲綢材質的合身平口迷你裙"}，印有 {argument name="print" default="大型寶藍色玫瑰、葉片及畫意風格的花藤圖案"}。領口線條簡潔，剪裁具馬甲感，布料呈現真實的光澤與豐富的藍色調變化。搭配透明露趾穆勒鞋。
+3. 韓國女孩
+一位皮膚光澤的年輕韓國女性，深色頭髮紮成隨性的盤髮。坐姿為一條腿折疊、另一條腿彎曲，一隻手臂在身後支撐，另一隻手輕托下巴。表情柔和自信，雙眼注視鏡頭。
 
-場景：優雅的傳統現代融合中式室內空間。左側為高大的木質格柵窗，溫暖的陽光透過米色薄紗窗簾灑入。椅後為深色木鑲板。右側設有一座高大的黑色木質展示架，擺放著大型青瓷花瓶。
-
-燈光：溫暖、柔和且具電影感的燈光，主要來自左側窗戶。頭髮與肩膀處有金色輪廓光，臉部與裙裝則有柔和的反射補光。
-
-相機：85mm 鏡頭，f/2 光圈，焦點精準對焦於雙眼與花卉裙裝，陶瓷與背景格柵呈現柔和的散景效果。具備真實的肌膚紋理、細膩的髮絲細節，以及平衡的廣角構圖。
+4. 中國女孩
+一位美麗的中國女性，擁有光滑白皙的皮膚與黑色長髮，紮成鬆散的包頭。側身而坐，雙腿向一側折疊，一隻手撐在地板上保持平衡，另一隻手輕放在抬起的膝蓋上。姿態優雅，表情沉穩，視線略微偏離鏡頭。
 ```
 
 #### 🖼️ 生成圖片
@@ -4757,51 +5026,51 @@ FOX MASK
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537316490_efxy2a_HNlxWbXWMAElxQ2.jpg" width="600" alt="產品行銷 - 優雅花卉緞面時尚人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784623697359_e03ncw_HNpTo7QaEAAZBzo.jpg" width="600" alt="產品行銷 - 多族裔時尚編輯人像攝影 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537316520_z2exwj_HNlxWbZX0AAMrVW.jpg" width="600" alt="產品行銷 - 優雅花卉緞面時尚人像 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1784623695923_a1qw2o_HNpTqEKaEAA27MT.jpg" width="600" alt="產品行銷 - 多族裔時尚編輯人像攝影 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537316527_w25828_HNlxWbXXcAAJbkm.jpg" width="600" alt="產品行銷 - 優雅花卉緞面時尚人像 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1784623697082_nwaqyg_HNpTqjFawAAhdgu.jpg" width="600" alt="產品行銷 - 多族裔時尚編輯人像攝影 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537317150_sgj3vv_HNlxWbaX0AASJIQ.jpg" width="600" alt="產品行銷 - 優雅花卉緞面時尚人像 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1784623696944_hqqtfb_HNpTrAXbUAAGi57.jpg" width="600" alt="產品行銷 - 多族裔時尚編輯人像攝影 - Image 4">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **來源:** [Twitter Post](https://x.com/ToroJushiAi/status/2078932893699895726)
-- **發布時間:** 2026年7月19日
-- **多語言:** zh
+- **作者:** [Johnn](https://x.com/john_my07)
+- **來源:** [Twitter Post](https://x.com/john_my07/status/2079066184264360273)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29194)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29277)**
 
 ---
 
-### No. 92: 產品行銷 - 現代走廊寫實時尚人像
+### No. 103: 產品行銷 - 足球運動員奪冠慶祝
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-這是一個高度詳細的提示詞，用於生成在現代建築背景下、具備電影級光影的東亞女性高級時尚人像。
+一個寫實的體育攝影提示詞，描繪了一位年輕足球運動員在球場上捧起冠軍獎盃慶祝勝利的場景。
 
 #### 📝 提示詞
 
 ```
-超寫實時尚人像。成年東亞女性，{argument name="age" default="21 歲以上"}，站在現代精緻的戶外走廊，靠近白色磚牆和高大的黑色邊框窗戶。主體略微偏右，取景範圍從腰部到大腿中部。畫面左側保留充足的建築空間，窗戶與走道向遠處延伸。磚柱與深色窗框形成的強烈垂直線條，營造出簡潔的當代幾何背景。人物：軀幹大致朝前，肩膀向觀者左側略微旋轉。姿勢放鬆、優雅且自信。一隻手臂自然垂在身側；另一隻手優雅地抬起，手指輕觸太陽穴附近的髮絲。頭部挺直並略微傾斜，直視鏡頭——表情莊重、內斂自信，帶著淡淡的閉口微笑。髮型與珠寶：非常長的亮澤黑髮，柔軟蓬鬆的波浪捲，中分，垂在肩上，自然的髮絲修飾顴骨。真實的光澤感，細膩的單根髮絲，柔和的動態，從深黑到柔和炭灰色的豐富色調變化。中型亮金色圓環耳環。抬起的手上戴著一枚低調的細戒指。妝容：精緻自然——透亮的白皙肌膚，真實的毛孔，細膩的色調變化。柔和的眉型，精緻的棕黑色眼線，長而濃密的睫毛，內斂的蜜桃色腮紅，柔和的顴骨修容，低調的玫瑰裸色唇妝，呈現柔和的緞面質感。自然優雅的面部比例；無過度修圖或誇張特徵。服裝：合身 {argument name="top color" default="深咖啡色"} 無袖高領上衣——柔軟、霧面、細針織，高領口，乾淨的袖口，細膩的彈性，真實的縫線結構，腰部有柔和的褶皺，軀幹上有輕微的拉伸紋理。{argument name="skirt color" default="香檳米色"} 高腰緞面中長裙，從臀部向下延伸——平滑的絲綢光澤，流暢的垂墜感，細膩的斜向高光，柔和的褶痕，優雅的中性色調與深色上衣形成對比。場景：極簡主義的高級城市走廊——右側為整齊的白色磚柱，左側為大型落地黑色金屬窗框，淺色石材或混凝土鋪面。玻璃上隱約反射出綠樹，窗內可見柔焦模糊的室內景象。背景低調、現代且整潔；走廊形成自然的引導線向左延伸。光影：來自左前方的柔和漫射日光，類似明亮的陰天。前額、顴骨、髮絲、肩膀、手臂、金色耳環和緞面裙上有柔和的高光。下顎、頸部、髮絲內部及腰部周圍有細膩的陰影。冷色調的中性建築色彩與溫暖的膚色、深咖啡棕、香檳緞面及金色點綴達到平衡。相機：85mm 鏡頭，平視角度，f/2 光圈，眼睛與面部焦點清晰，背景分離效果平滑，真實的皮膚與織物細節，精緻的中性色調，柔和的對比度，乾淨的動態範圍，細膩自然的散景。
+一張從高處俯拍的真實體育慶祝照片，一位年輕的 {argument name="subject" default="足球運動員"} 自信地站在球場的奪冠慶典上，一隻手拿著 {argument name="award" default="尊貴的金盃"}，另一隻手叉在腰間。球員身穿 {argument name="outfit" default="鮮豔的國家隊球衣"}，脖子上掛著金牌，臉上帶著平靜而自豪的微笑。背景中可以看到隊友、攝影師和攝影機操作員，營造出真實的賽後慶祝氛圍。茂密的綠草覆蓋著球場地面，散落的彩帶增添了節日氣氛。採用高角度長焦鏡頭拍攝，自然光，色彩寫實，編輯類體育攝影，紀錄片風格，對焦清晰，動態構圖，真實情感，超寫實，高細節，紋理清晰，8K 解析度。
 ```
 
 #### 🖼️ 生成圖片
@@ -4809,299 +5078,27 @@ FOX MASK
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537312920_c5sltb_HNlxOD7WsAAh7To.jpg" width="600" alt="產品行銷 - 現代走廊寫實時尚人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1784623703729_hxiweo_HNpEA58bQAA2wKy.jpg" width="600" alt="產品行銷 - 足球運動員奪冠慶祝 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537312241_sf7hgp_HNlxOD5W4AA32gg.jpg" width="600" alt="產品行銷 - 現代走廊寫實時尚人像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537312249_46tnno_HNlxOD7XgAAxfMF.jpg" width="600" alt="產品行銷 - 現代走廊寫實時尚人像 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537312847_e4jn5l_HNlxOD7XwAAaHY8.jpg" width="600" alt="產品行銷 - 現代走廊寫實時尚人像 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1784623703479_iesffw_HNpEA6AbsAEvbwg.jpg" width="600" alt="產品行銷 - 足球運動員奪冠慶祝 - Image 2">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **來源:** [Twitter Post](https://x.com/ToroJushiAi/status/2078902692056031568)
-- **發布時間:** 2026年7月19日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29188)**
-
----
-
-### No. 93: 產品行銷 - 編輯風格生活雜誌封面
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個用於創作日式北歐風（Japandi）雜誌封面的精緻提示詞。畫面呈現一位女性置身於極簡主義環境中，並包含高端科技產品與家具細節。
-
-#### 📝 提示詞
-
-```
-超逼真的編輯風格生活雜誌封面，主角為一位 {argument name="subject" default="神情專注的韓國女性"}，身穿寬鬆的奶油色羊絨針織衫與亞麻寬褲，雙眼輕閉，沉浸在聆聽的愉悅中，一隻手輕放在 {argument name="furniture" default="極簡主義胡桃木層架"} 上的 {argument name="speaker" default="Sonos Era 300 揚聲器"}。肌膚散發溫潤光澤，呈現零妝感的清新妝容，頭髮隨性地紮成低馬尾。背景：溫暖的日式北歐風（Japandi）客廳 —— 低矮的胡桃木家具、溫暖的漫射燈光、亞麻織品、柔和的散景植物。雜誌刊頭「MONOCLE」採用粗體、簡潔的現代無襯線字體。50mm 鏡頭，超細緻的 Sonos 網狀織物紋理與胡桃木底座，8K 寫實溫暖生活風格。
-
-負面提示詞：卡通、模糊、雜亂、浮水印、冷色調。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537310558_ewfm74_HNm3JzNW4AAxH8n.jpg" width="600" alt="產品行銷 - 編輯風格生活雜誌封面 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Zephyra Leigh](https://x.com/ZephyraLeigh)
-- **來源:** [Twitter Post](https://x.com/ZephyraLeigh/status/2078894102033367176)
-- **發布時間:** 2026年7月19日
+- **作者:** [simeon-sanai](https://x.com/Naiknelofar788)
+- **來源:** [Twitter Post](https://x.com/Naiknelofar788/status/2079048969062318551)
+- **發布時間:** 2026年7月20日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29185)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29286)**
 
 ---
 
-### No. 94: 產品行銷 - 黃金時刻時尚特寫人像
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一張聚焦於質感、服裝與溫暖晚霞光影的時尚特寫人像，呈現精緻的編輯風格。
-
-#### 📝 提示詞
-
-```
-超寫實垂直裁切時尚人像，成年女性，21 歲以上，場景為黃金時刻的戶外時尚活動或後台。緊湊構圖，從大腿上部到嘴唇上方——眼睛和大部分額頭被裁切，聚焦於領口、肩膀、軀幹、雙手、布料與造型。模特兒略微偏右，身體朝前，頭部稍微轉向觀看者的左側。角色：溫暖的白皙至淺色肌膚——真實的毛孔、自然的膚色變化、鎖骨區域有淡淡的雀斑或美人痣。光澤感的柔和裸粉色唇彩，妝容低調而精緻。髮型為整潔的低髮髻，耳際與頸部有幾縷經過修飾的碎髮。服裝：合身的灰粉藍色無袖連體衣——寬肩帶、簡潔的方圓領、高衩設計、平滑的彈性材質。啞光科技針織質感：細膩的針織紋理、自然的張力線條、胸部與腰部有細微的水平褶皺、精確的邊緣縫線、布料上帶有柔和的夕陽高光。搭配寬鬆的低腰淺色牛仔褲，在連體衣高衩下方呈現敞開與寬鬆的狀態——褪色的淺藍色丹寧、真實的織紋、腰帶環、前口袋、深色金屬鈕扣、拉鍊門襟、金棕色縫線、柔和的接縫、腰部與臀部有自然的褶皺。姿勢：端莊且沉穩。一隻前臂橫放於下腹部，手輕輕搭在對側腰部附近。另一隻手放在牛仔褲敞開的腰頭或前口袋處——手指修長放鬆，指甲乾淨自然。解剖結構準確的手臂：細緻的肌腱、柔和的肌肉線條、真實的手部比例。背景：柔焦模糊的高級戶外活動或伸展台場地——白色的建築帳篷或天幕、深色設備、大型黑色音響、模糊的入座賓客或工作人員、低調的結構形狀。所有背景人物均無法辨識且處於失焦狀態。奶油炭灰色、白色、灰色與細微的藍色散景高光。光影：來自觀看者左側的電影感自然黃金時刻光線——左肩、鎖骨、頸部、上臂、雙手與丹寧腰頭上有溫暖的高光。右側有較冷的環境陰影以達到平衡對比。下顎線下方、領口周圍、交叉手臂下方以及連體衣接縫處有柔和陰影。色調：灰藍色、淺色丹寧、溫暖膚色、炭灰色陰影、細膩的琥珀色高光。相機：垂直 2:3，85mm，平視角度，f/2，高解析度人像，低調奢華色調，真實的皮膚與紡織品細節，清晰的縫線，柔和的散景。無塑膠感的皮膚平滑處理，無誇張比例。負面提示：無文字、無浮水印、無標誌、無珠寶、無多餘肢體、無畸形手部、無重複手指、無卡通感、無強烈閃光、無過度曝光、無露骨裸露。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537314110_oloulo_HNlgKUqWUAAp2rW.jpg" width="600" alt="產品行銷 - 黃金時刻時尚特寫人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537314108_7e3lbb_HNlgKWdWkAAqwVT.jpg" width="600" alt="產品行銷 - 黃金時刻時尚特寫人像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537314280_g85sf7_HNlgKUsWYAA4wJv.jpg" width="600" alt="產品行銷 - 黃金時刻時尚特寫人像 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537314783_7fh9vi_HNlgKUsXQAAc-rw.jpg" width="600" alt="產品行銷 - 黃金時刻時尚特寫人像 - Image 4">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [ToroJushiAi](https://x.com/ToroJushiAi)
-- **來源:** [Twitter Post](https://x.com/ToroJushiAi/status/2078872493448937775)
-- **發布時間:** 2026年7月19日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29190)**
-
----
-
-### No. 95: 產品行銷 - 水彩風格高爾夫揮桿收桿動作
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一幅垂直的編輯風格水墨與水彩插畫，描繪了一位面帶微笑的中年高爾夫球手，周圍環繞著抽象的高爾夫主題圖案，非常適合社群媒體的運動藝術分享。
-
-#### 📝 提示詞
-
-```
-創作一幅垂直的運動時尚插畫，描繪一位正在打高爾夫球、神情愉悅的日本中年男性，畫面呈現腰部以上的揮桿收桿動作。他留著灰白相間的凌亂短髮，帶著些許鬍渣，表情溫暖且面帶微笑，戴著黑色長方形眼鏡，視線向左上方望去，彷彿正在注視球的飛行軌跡。他身穿深海軍藍色長袖高爾夫上衣，帶有細緻的白色亮點，搭配白色高爾夫長褲、黑色皮帶和白色高爾夫手套；一支高爾夫球桿橫跨在他的肩上，雙手握在靠近構圖右側的位置。採用優雅的水墨與水彩編輯風格，運用清晰的素描線條、排線、噴濺顏料以及帶有紋理的紙張背景。將人物置於中右側，呈現動態且略帶對角線的構圖，周圍環繞著抽象的高爾夫主題圖形元素：左下方和右側共精確繪製 4 顆高爾夫球，左側有 2 個高爾夫球桿頭剪影，球桿後方有 1 個半透明的藍色手部剪影，左下方有 1 個大型深海軍藍色三角形紋理塊，底部中央有 1 道向右上方延伸的黃色三角形光束，右側有 1 個紅橙色紋理圓形，左上方有 1 個小型實心黃色太陽圓點，底部中央附近有 1 個小型實心海軍藍圓點，並有一道寬闊的藍色圓形筆觸弧線從左上方掃向右上方，環繞在球手身後。在前景底部加入白色草地剪影和細緻的交叉線條，並在畫面各處點綴藍色墨點。背景保持大面積的米白色，留有充足的負空間。在右下角加入一個小型手寫簽名與日期 {argument name="date text" default="2026 年 7 月 19 日"}，簽名內容為 {argument name="signature text" default="Oyagi"}。這位高爾夫球手應展現出為週末球敘練習的熱情初學者形象，風格精緻且生動，畫面中不包含任何額外的文字或標誌。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537346494_roko13_HNmWb0saQAA-nyA.jpg" width="600" alt="產品行銷 - 水彩風格高爾夫揮桿收桿動作 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [おやぎ](https://x.com/bikurin59)
-- **來源:** [Twitter Post](https://x.com/bikurin59/status/2078858114171052402#reversed-0)
-- **發布時間:** 2026年7月19日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29230)**
-
----
-
-### No. 96: 產品行銷 - 西班牙巨龍球場慶祝場景
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一場電影感十足的足球場慶祝場景，描繪一隻紅龍作為西班牙球迷，在決賽現場中對著歡呼的人群咆哮。
-
-#### 📝 提示詞
-
-```
-創作一個 16:9 的電影級寬螢幕、照片級真實感的運動奇幻場景，地點位於一場大型決賽中座無虛席的現代足球場內。在前景右側中央，展示一隻身形修長但氣勢逼人的紅龍吉祥物/球迷，牠站在人群中，擁有長頸、尖角、張開咆哮的嘴、高舉的拳頭、展開的巨大皮革翅膀，以及紅橘色的鱗片與淡金色的腹部。為這隻龍穿上紅色的西班牙足球衫和紅黃相間的西班牙圍巾，並讓牠的一隻爪子拿著一杯啤酒。周圍環繞著一群欣喜若狂的西班牙球迷，他們身穿紅色球衣，高舉雙臂歡呼，揮舞著西班牙國旗並手持紅黃色橫幅；在人群右側加入少量身穿淺藍白相間球衣的阿根廷球迷。球場應呈現真實且宏大的感覺，配有弧形玻璃屋頂、明亮的泛光燈、密集的看台、煙霧或信號彈產生的薄霧、五彩紙屑，以及懸掛在看台周圍的各國國旗。加入 3 個主要且清晰可讀的文字區域：左上角的大標題，以粗體紅橘色 3D 立體字呈現「¡Vamos, España!」並帶有陰影；中央的球場記分板顯示「Soccer2030 FINAL」，標註西班牙與阿根廷國旗，並顯示標籤「SPAIN」與「ARGENTINA」以及比分「0 - 0」；以及左下角細緻的浮水印風格標題「Dragon’s Heaven」。運用戲劇性的暖色調燈光、強烈的景深、充滿活力的動態感，以及世界盃決賽的慶祝氛圍。自訂主要標題為 {argument name="headline text" default="¡Vamos, España!"}，特色隊伍為 {argument name="featured team" default="Spain"}，對手為 {argument name="opponent team" default="Argentina"}，比分為 {argument name="score" default="0 - 0"}，以及浮水印為 {argument name="watermark text" default="Dragon’s Heaven"}。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537357239_51mfos_HNmTaOlbAAAgllS.jpg" width="600" alt="產品行銷 - 西班牙巨龍球場慶祝場景 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537357942_ezgb83_HNmTaOba8AAX17B.jpg" width="600" alt="產品行銷 - 西班牙巨龍球場慶祝場景 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537357616_oifuxm_HNmTaOebwAANi89.jpg" width="600" alt="產品行銷 - 西班牙巨龍球場慶祝場景 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Muzzle命](https://x.com/DragonsxHeaven)
-- **來源:** [Twitter Post](https://x.com/DragonsxHeaven/status/2078854786523582674#reversed-0)
-- **發布時間:** 2026年7月19日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29245)**
-
----
-
-### No. 97: 產品行銷 - 奢華液態鉻金屬肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張超現實的高級時尚編輯肖像，融入虹彩液態鉻金屬莫比烏斯環中，並結合深邃的電影級光影效果。
-
-#### 📝 提示詞
-
-```
-{argument name="aspect ratio" default="4:5"}
-
-一張超寫實的奢華編輯肖像，無縫融入流動的 {argument name="material" default="液態鉻金屬絲帶"} 中，並帶有 {argument name="colors" default="藍寶石藍、翡翠綠、紫羅蘭色和熔融金"} 的變幻虹彩反射。
-
-絲帶扭轉成不可思議的莫比烏斯環狀，而肖像在每個可見角度依然保持完美直立，創造出一種不可能的視覺悖論。
-
-自然的膚色與頂級電影級調色。
-
-深炭灰色背景。
-
-極簡構圖。
-
-奢華時尚廣告企劃。
-
-柔和的體積感攝影棚燈光。
-
-鏡面反射。
-
-超寫實。
-
-85mm 鏡頭。
-
-編輯傑作。
-
-超細節呈現。
-
-無文字，無浮水印。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537308055_7kk79x_HNlzjn7aAAAMvRr.jpg" width="600" alt="產品行銷 - 奢華液態鉻金屬肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [lovimg_com](https://x.com/lovimg_com)
-- **來源:** [Twitter Post](https://x.com/lovimg_com/status/2078819770443641338)
-- **發布時間:** 2026年7月19日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29180)**
-
----
-
-### No. 98: 產品行銷 - Skateboard Campaign 專案設計
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一份詳細的提示詞，用於創作高端對角線五面板滑板文化 Campaign 專案，結合街頭藝術圖形與專業滑板動作。
-
-#### 📝 提示詞
-
-```
-為 Girl Skateboards 打造一款超高端的五面板對角線廣告專案，保留斜置五條的編輯結構和真實的街頭滑板動作邏輯，並將整體視覺效果徹底重構為更響亮、更具圖形感、更具旗艦青年品牌特色的廣告。背景系統須採用誇張的霓虹色塊、噴繪地面、超大城市圖形符號和更強烈的街頭藝術設計語言，同時滑板和滑手仍是核心視覺焦點。最終畫面應呈現出世界級青年運動時尚大片感：超寫實、叛逆、時尚、銳利，且品牌特色鮮明。核心概念：將 Girl Skateboards 呈現為一個融合了滑板、色彩、態度、設計與城市地表的完整青年文化宇宙。保持對角線五面板動態結構，並將環境轉化為風格化的街頭圖形世界：霓虹色域、圖形化彩繪混凝土、噴漆紋理、大型抽象符號、方向箭頭、硬核幾何色彩和高端雜誌設計質感。滑板為核心主體，環境則應像為滑板文化定制的品牌化城市樂園。五面板對角線結構：採用高垂直海報佈局，由五個從上而下堆疊的大斜面板組成。每個面板保持相同的傾斜角度，使海報具有前衝動感。五個條帶像一段連續的青年能量和滑板文化展示台。面板 1：爆發力的品牌開場英雄動作；面板 2：圖形化城市區域中的快速技術動作；面板 3：誇張繪圖環境中的動感與速度面板；面板 4：帶有滑板壓力和街頭強度的近距離衝擊視角；面板 5：生活方式與產品結合的收尾，滑板依然佔據視覺主導。這種結構需傳達出整個品牌廣告在城市中疾馳的即視感。動作方向：展示不同年輕滑手在相關空間內完成的真實技術街頭滑板動作。採用身體語言俐落、具備真實技術和強烈個人風格的健康西方年輕運動員。包括：爆發性的 ollie 或翻板、硬核刻滑或側滑、階梯或台階相關動作、低角度落地衝擊力，以及最後一個展示態度和板面存在的面板。動作需真實、技術流且有力，避免平庸或擺拍。滑板必須清晰可見且重要。滑板真實感：滑板需還原真實街頭規格：真實的輪子、準確的橋（trucks）、真實的板面弧度、逼真的砂紙紋理、適時的板底圖案展示、真實的劃痕和緣邊磨損，以及高端板類攝影的真實感。通過板類文化、圖形態度和真實的滑板公信力來體現 Girl Skateboards 的品牌身份。環境重構方向：保持街頭滑板邏輯，並將視覺推向更誇張的旗艦青年廣告環境。運用：巨大的霓虹色塊、噴繪瀝青、超大塗鴉符號、大膽的幾何圖形、彩繪車道線、圖形箭頭、酸性配色面、螢光橙或熱粉色混凝土區、霓虹藍陰影面、流漆紋理、海報撕裂碎塊以及植入城市空間的強圖形系統。環境應顯高端且經過策劃，而非雜亂的城市垃圾。背景應增強滑手和滑板的視覺衝擊力。視覺與相機邏輯：運用極具衝擊力的視角。攝影風格應遵循廣角或微魚眼的運動雜誌邏輯：前景巨大的滑板、深度延伸的城市線條、低角度跳躍、壓縮的對角線建築、衝向鏡頭的滑手。每個面板要有獨立衝擊力，同時受統一品牌色彩和圖形世界約束。圖形處理：強化設計系統：大型街頭符號、地面圖形、噴繪漸變、手繪標記點綴、分層海報緣邊、滑手與背景的圖形衝撞、細微的手寫塗鴉。海報應具有提升到奢華商業設計高度的滑板雜誌文化感。設計需大膽、年輕且受控高端。排版：採用受手寫塗鴉影響且佈局控制力強的英文風高端滑板活動排版。主標題：‐GIRL SKATEBOARDS‐；副標：‐COLOR HITS HARD‐；輔助文案：‐Five slashes of motion. One street attitude.‐ 排版應稀疏、銳利、都市化且高端，自然融入佈局。包含極簡官方風 Logo 及精細層級。避免臃腫文案。燈光：精緻的戶外城市光，具有明亮清晰的色調和拋光商業感。肌膚、衣物、輪子、橋、板面及彩繪紋理都要顯得敏銳、昂貴、高光俐落。陰影透氣且細節豐富。整體清爽、圖形化，不沉悶。色彩方向：更大膽的旗艦青年色調：電橙、熱粉、酸黃、霓虹珊瑚、鮮豔青、深靛藍、青檸綠點綴、噴繪白、螢光黑砂紙、陽光下的城市灰。色彩響亮且具圖形感，高端有序。氛圍：叛逆、年輕、爆發力、時尚、技術感、都市、高端、無畏、圖形化、時髦、全球品牌感。渲染風格：超高端 Girl Skateboards 活動專案，五面板對角線編輯佈局，真實街頭滑板動作，霓虹色塊，噴繪地面，強城市圖形系統，手寫塗鴉風格排版，超寫實運動攝影，8k，世界級商業影像品質。負面提示詞：工業滑板單調，滑板可見度差，虛假滑板硬件，巧妙身體動作，雜亂塗鴉，渾濁色彩，幼稚街頭藝術，燃火擺拍，塑料感肌膚，低分辨率，凌亂排版，通用青年海報，隨機背景雜亂。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537318436_fhzxb1_HNlZthFaAAANgOy.jpg" width="600" alt="產品行銷 - Skateboard Campaign 專案設計 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Loriel.AI](https://x.com/ou_zhen599)
-- **來源:** [Twitter Post](https://x.com/ou_zhen599/status/2078791365186793666)
-- **發布時間:** 2026年7月19日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29195)**
-
----
-
-### No. 99: 電子商務主圖 - 頂級冰咖啡產品攝影
+### No. 104: 電子商務主圖 - 頂級冰咖啡產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5135,7 +5132,7 @@ FOX MASK
 
 ---
 
-### No. 100: 電子商務主圖 - 冰焦糖拿鐵海報
+### No. 105: 電子商務主圖 - 冰焦糖拿鐵海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5181,7 +5178,7 @@ FOX MASK
 
 ---
 
-### No. 101: 電子商務主圖 - 極簡風藍色香水廣告
+### No. 106: 電子商務主圖 - 極簡風藍色香水廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5227,7 +5224,7 @@ FOX MASK
 
 ---
 
-### No. 102: 電子商務主圖 - 無品牌奢華香水瓶海報
+### No. 107: 電子商務主圖 - 無品牌奢華香水瓶海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5261,7 +5258,7 @@ FOX MASK
 
 ---
 
-### No. 103: 電子商務主圖 - 奢華腕錶高山主題廣告專案
+### No. 108: 電子商務主圖 - 奢華腕錶高山主題廣告專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5294,7 +5291,7 @@ FOX MASK
 
 ---
 
-### No. 104: 電子商務主圖 - 懸浮食物商業廣告企劃
+### No. 109: 電子商務主圖 - 懸浮食物商業廣告企劃
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5346,7 +5343,7 @@ FOX MASK
 
 ---
 
-### No. 105: 電子商務主圖 - 夏季少女風碎花迷你連身裙
+### No. 110: 電子商務主圖 - 夏季少女風碎花迷你連身裙
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5386,7 +5383,7 @@ FOX MASK
 
 ---
 
-### No. 106: 電子商務主圖 - 奢華咖啡廣告攝影
+### No. 111: 電子商務主圖 - 奢華咖啡廣告攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5420,7 +5417,7 @@ FOX MASK
 
 ---
 
-### No. 107: 電子商務主圖 - 日式貓咪外出籠產品廣告
+### No. 112: 電子商務主圖 - 日式貓咪外出籠產品廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5470,7 +5467,7 @@ FOX MASK
 
 ---
 
-### No. 108: 電子商務主圖 - 女性化 Y2K 羅紋針織連身裙
+### No. 113: 電子商務主圖 - 女性化 Y2K 羅紋針織連身裙
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5510,7 +5507,7 @@ FOX MASK
 
 ---
 
-### No. 109: 電子商務主圖 - 哥德風寬版圖案連帽衫穿搭
+### No. 114: 電子商務主圖 - 哥德風寬版圖案連帽衫穿搭
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5550,7 +5547,7 @@ FOX MASK
 
 ---
 
-### No. 110: 電子商務主圖 - 粉色麻花針織校服
+### No. 115: 電子商務主圖 - 粉色麻花針織校服
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5590,7 +5587,7 @@ FOX MASK
 
 ---
 
-### No. 111: 電子商務主圖 - 寫實服裝參考轉換器
+### No. 116: 電子商務主圖 - 寫實服裝參考轉換器
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -5623,7 +5620,7 @@ FOX MASK
 
 ---
 
-### No. 112: 電子商務主圖 - 頂級攝影棚產品照
+### No. 117: 電子商務主圖 - 頂級攝影棚產品照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5675,7 +5672,7 @@ FOX MASK
 
 ---
 
-### No. 113: 電子商務主圖 - 夏季少女風穿搭風格
+### No. 118: 電子商務主圖 - 夏季少女風穿搭風格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5715,7 +5712,7 @@ FOX MASK
 
 ---
 
-### No. 114: 電子商務主圖 - 高階筆記型電腦包裝概念專案
+### No. 119: 電子商務主圖 - 高階筆記型電腦包裝概念專案
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5749,7 +5746,7 @@ FOX MASK
 
 ---
 
-### No. 115: 電子商務主圖 - Y2K 女性蕾絲穿搭
+### No. 120: 電子商務主圖 - Y2K 女性蕾絲穿搭
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5789,212 +5786,13 @@ FOX MASK
 
 ---
 
-### No. 116: 電子商務主圖 - 懸浮食物層次攝影
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一系列用於生成懸浮食物攝影的詳細提示詞，包含草莓奶油蛋糕和鬆餅等層次豐富的甜點，並結合戲劇性的光影效果。
-
-#### 📝 提示詞
-
-```
-緊湊特寫懸浮食物攝影，{argument name="food item" default="草莓奶油蛋糕層次"} 懸浮於半空中，鮮奶油質地與新鮮草莓表面光澤細節極致清晰，金黃海綿蛋糕碎屑紋理銳利，糖粉雲霧凍結於爆發瞬間，草莓醬滴落凍結於半空，{argument name="background" default="純黑色背景"}，{argument name="lighting" default="戲劇性單光源聚光燈照明"}，超高細節，垂直 4:5 --ar 4:5 --v 6
-
-極致特寫懸浮食物攝影，厚奶油蛋糕切片懸浮於半空中，金黃蜂蜜滴落的細絲懸掛下方並捕捉到戲劇性光影，藍莓與覆盆子在旁翻滾，白色糖霜質地極度銳利，糖粉雲霧捕捉聚光燈效果，純黑色背景，蜂蜜細絲與奶油質地呈現超高細節，垂直 4:5 --ar 4:5 --v 6
-
-緊湊特寫懸浮食物攝影，金黃鬆餅懸浮於半空中，展示細膩的表面紋理與烘烤邊緣，奶油塊在翻滾中捕捉溫暖光線，新鮮莓果散落在不同焦距深度，糖粉雲霧凍結於爆發瞬間，楓糖漿滴落細絲，濃郁暖棕色背景，戲劇性單一聚光燈，鬆餅質地呈現超高細節，垂直 4:5 --ar 4:5 --v 6
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1783759582798_v2pz0p_HM23yWJawAAdaKv.jpg" width="600" alt="電子商務主圖 - 懸浮食物層次攝影 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1783759582800_frugik_HM23y81bYAAH7Rx.jpg" width="600" alt="電子商務主圖 - 懸浮食物層次攝影 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1783759582814_hnzx4l_HM23zikbMAE3X-Q.jpg" width="600" alt="電子商務主圖 - 懸浮食物層次攝影 - Image 3">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Shahid Wani](https://x.com/meng_dagg695)
-- **來源:** [Twitter Post](https://x.com/meng_dagg695/status/2075517108583371154)
-- **發布時間:** 2026年7月10日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=28220)**
-
----
-
-### No. 117: 電子商務主圖 - 女性休閒夏季穿搭
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-為女性休閒夏季造型生成詳細描述，重點在於黃色格紋上衣、牛仔短褲及厚底涼鞋。
-
-#### 📝 提示詞
-
-```
-穿搭：一套女性休閒夏季造型，特色為一件 {argument name="top" default="黃白格紋細肩帶上衣"}，採用輕盈棉質布料，配有細肩帶、柔和的胸部抓皺設計、輕微的帝國腰線過渡，以及類似傘狀的娃娃裝下擺，具備高級布料質感、逼真的服裝結構、乾淨的縫線、自然的接縫張力、真實的布料重量、細微皺褶、寫實的垂墜感、精緻的邊緣處理、可見的接縫、真實的摺痕、做工精細的服裝細節、高品質的材質觸感以及細膩的服裝真實感；搭配 {argument name="bottoms" default="淺藍色水洗牛仔短褲"}，具備可見接縫、自然褪色效果、乾淨的收邊、真實的丹寧重量、細微皺褶及逼真的服裝結構；最後搭配 {argument name="shoes" default="象牙白至淺米色厚底運動涼鞋"}，帶有黑色飾邊、寬版布料或帆布質感綁帶、圓形金屬五金細節以及黑色橡膠鞋底；隨機添加精緻、簡約的女性化飾品，以柔和的金色或珍珠色調與整體穿搭自然融合；非戲服風格，質感不廉價。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1783759613604_lzceai_HM1dpFgbcAAPvqy.jpg" width="600" alt="電子商務主圖 - 女性休閒夏季穿搭 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1783759613668_j31vrp_HM1dpFgaIAAXAL1.jpg" width="600" alt="電子商務主圖 - 女性休閒夏季穿搭 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP)
-- **來源:** [Twitter Post](https://x.com/MoodLock_JP/status/2075417968524349940)
-- **發布時間:** 2026年7月10日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=28262)**
-
----
-
-### No. 118: 電子商務主圖 - 運動風休閒夏日穿搭
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-用於生成運動風兼具女性氣質的夏日穿搭提示詞，包含白色 baby tee、長春花藍迷你裙及運動鞋。
-
-#### 📝 提示詞
-
-```
-穿搭：一套運動風兼具女性氣質的夏日穿搭，包含一件 {argument name="top" default="合身白色短袖純棉平紋針織 baby tee"}，具備簡潔的圓領設計、領口細緻的對比滾邊、胸前小巧的通用型標誌細節、優質布料質感、真實的服裝結構、乾淨的縫線、自然的接縫張力、真實的純棉平紋針織重量感、細微皺褶、精緻的邊緣處理、可見的縫線以及細膩的服裝真實感；搭配一件 {argument name="skirt" default="高腰淺長春花藍色傘狀迷你裙"}，採用輕量棉混紡斜紋布料，具備柔軟的鬆緊腰頭、俐落的褶皺感、真實的垂墜感、自然的摺痕、乾淨的下擺處理、真實的布料重量感、高品質的材質觸感以及精緻的服裝細節；配飾部分包含白色中筒襪，襪口帶有黑色橫條紋細節及小巧的通用型文字印花，並搭配 {argument name="shoes" default="厚底白灰配色運動鞋"}，具備網眼拼接、類皮革覆蓋層、細緻縫線、層次感橡膠鞋底結構以及真實的鞋履材質；加入隨機搭配的精緻簡約休閒飾品，色調以白色、銀色為主，或呈現極簡運動女性風格，與整體穿搭自然融合；避免戲服感，避免廉價感。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1783759614279_5b3v77_HM1WZvPaIAEGrbi.jpg" width="600" alt="電子商務主圖 - 運動風休閒夏日穿搭 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1783759614273_vard7h_HM1WZvSaoAA6Lbv.jpg" width="600" alt="電子商務主圖 - 運動風休閒夏日穿搭 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [MoodLock｜AI画像の惜しいを直す](https://x.com/MoodLock_JP)
-- **來源:** [Twitter Post](https://x.com/MoodLock_JP/status/2075410008284832040)
-- **發布時間:** 2026年7月10日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=28264)**
-
----
-
-### No. 119: 遊戲素材 - 吉卜力工作室風格美食參考圖
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-專為生成吉卜力工作室風格動畫視覺參考圖而設計的提示詞，特別專注於風格化的 2D 美食插畫。
-
-#### 📝 提示詞
-
-```
-動畫視覺參考圖，吉卜力工作室藝術風格，乾淨的奶油白背景。大膽清晰的輪廓線，賽璐珞陰影，純 2D 動畫插畫。
-
-美食：{argument name="food items" default="撒上麵粉的生麵團球。擀薄的披薩餅皮。深紅色的聖馬札諾番茄醬。"}
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537335655_lh2mtb_HNmFWFfXIAAHu87.jpg" width="600" alt="遊戲素材 - 吉卜力工作室風格美食參考圖 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [TechieSA](https://x.com/TechieBySA)
-- **來源:** [Twitter Post](https://x.com/TechieBySA/status/2078839322191519856)
-- **發布時間:** 2026年7月19日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29217)**
-
----
-
-### No. 120: 遊戲素材 - 暮色日式旅館客廳
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一個電影級提示詞，用於生成寧靜的傳統日式接待室，包含榻榻米、庭園窗景、鋼琴、卷軸和茶櫃，呈現黃昏氛圍。
-
-#### 📝 提示詞
-
-```
-創作一幅寬螢幕電影級數位繪畫，描繪黃昏時分老式日式旅館中寧靜的傳統接待室。房間鋪設寬敞的榻榻米，配有深色邊線、深色木樑、灰泥牆面和挑高天花板；以低視角的角落構圖呈現，空曠的榻榻米空間佔據前景。左側展示一整面木框拉門與氣窗，望向陽台及充滿繡球花、樹木與木柵欄的茂密庭園，背景為紫藍色的日落天空；陽台上放置 1 張藤椅。後方中央靠牆處放置 1 台直立式鋼琴與 1 張木製琴椅，鋼琴上方由 1 盞溫暖的小油燈點亮。鋼琴旁放置 1 個開放式層架，內有捲起的卷軸，並在附近垂直靠放 3 支竹笛或長竹竿。右側牆面設有類似床之間（tokonoma）的壁龕，內掛 2 幅書法卷軸，並有 1 個裝飾性的雲朵形小窗，透出室外的暮色。右側前景放置 1 個低矮的深色木製茶櫃，櫃頂展示 1 把打開的摺扇，櫃內可見小型茶具。運用室內溫暖的氛圍光與庭園冷色調的藍紫色晚霞形成對比，呈現寫實的動畫背景細節與繪畫質感。畫面中無人物、無動物、無現代電子產品、無文字、無浮水印。整體氛圍應呈現精緻的客廳質感，而非生活化的臥室。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784537357550_8ngffu_HNkrGgQacAAPmyQ.jpg" width="600" alt="遊戲素材 - 暮色日式旅館客廳 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [🐹🐹](https://x.com/hmst_yyyy)
-- **來源:** [Twitter Post](https://x.com/hmst_yyyy/status/2078740110326333462#reversed-0)
-- **發布時間:** 2026年7月19日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/gpt-image-2-prompts?id=29246)**
-
----
-
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 13195 更多提示詞未在此顯示
+### 🎯 13267 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6057,6 +5855,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-21T01:27:43.787Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-21T13:13:41.894Z</sub>
 
 </div>
