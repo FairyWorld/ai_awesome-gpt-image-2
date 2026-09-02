@@ -139,9 +139,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **16635** |
+| 📝 Tổng số câu lệnh | **16708** |
 | ⭐ Nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **lúc 01:50:22 UTC Thứ Tư, 2 tháng 9, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 15:32:47 UTC Thứ Tư, 2 tháng 9, 2026** |
 
 </div>
 
@@ -525,19 +525,19 @@ Chuyển đổi dòng thời gian tiến hóa phẳng thành đồ họa thông 
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### No. 1: Hồ sơ / Ảnh đại diện - Ảnh chân dung selfie văn phòng chân thực
+### No. 1: Hồ sơ / Ảnh đại diện - Ảnh chân dung biên tập nam giới với phông nền tường studio hình học
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Tạo ảnh selfie văn phòng chân thực, tự nhiên của một phụ nữ trẻ với tư thế giơ tay, đeo thẻ nhân viên và bối cảnh nơi làm việc thực tế.
+Một câu lệnh tạo ảnh chân dung biên tập chuyên nghiệp cho nam giới, với bối cảnh studio kiến trúc hiện đại và phong cách thời trang cao cấp.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức ảnh dọc siêu thực bằng điện thoại thông minh về một {argument name="subject" default="nữ nhân viên văn phòng trẻ người Đông Á"} đang chụp ảnh selfie cận cảnh trong một văn phòng hiện đại không gian mở. Cô ấy có mái tóc dài hơi rối {argument name="hair color" default="màu nâu đen"}, làn da tự nhiên căng bóng, đôi mắt to long lanh, má hồng nhẹ, đôi môi hé mở và biểu cảm trung tính hơi mệt mỏi khi nhìn thẳng vào ống kính. Lấy khung hình từ phần thân trên đến đỉnh đầu, góc nhìn rất gần, với cánh tay phải giơ lên qua đầu và bàn tay đặt trên tóc, để lộ rõ phần nách đổ mồ hôi và các vết mồ hôi rõ rệt trên chiếc {argument name="top color" default="áo ba lỗ ôm sát màu be xám nhạt"} có gân. Bao gồm chính xác một dây đeo thẻ màu xanh navy quanh cổ với đúng một thẻ ID nhựa treo ngang ngực. Bối cảnh là một văn phòng công ty được làm mờ nhẹ với bàn làm việc, màn hình máy tính, tủ tài liệu, tấm trần và đèn huỳnh quang sáng. Sử dụng ánh sáng trong nhà chân thực, độ sâu trường ảnh nông, kết cấu da tự nhiên, tóc con bay nhẹ, chi tiết vải gân sắc nét, bố cục ảnh chụp bằng điện thoại tự nhiên, không dùng ánh sáng studio hào nhoáng, không có lớp phủ văn bản, không có hình mờ.
+Sử dụng hình ảnh đã tải lên làm tham chiếu cho bố cục, tư thế, phong cách trang phục, ánh sáng và phông nền studio hình học. Tạo một bức ảnh chân dung biên tập toàn thân chuyên nghiệp, siêu thực về một {argument name="subject" default="người đàn ông trưởng thành khoảng 28–35 tuổi"}. Đặt nhân vật đứng tự nhiên dựa vào bức tường hình học ba chiều đầy tính nghệ thuật, hướng mặt về phía máy ảnh với nụ cười tự nhiên, ấm áp và đầy tự tin. Để kiểu tóc ngắn gọn gàng, sạch sẽ với mái tóc tối màu, đường chân tóc tự nhiên, phần tóc hai bên được cắt tỉa mượt mà và được chăm chút chuyên nghiệp. Giữ các đường nét trên khuôn mặt nam tính, trưởng thành với kết cấu da chân thực và tỷ lệ tự nhiên. Cho nhân vật mặc một chiếc {argument name="outfit" default="áo khoác bomber màu đỏ rượu vang đậm cao cấp với lớp hoàn thiện bằng satin tinh tế"}, khoác ngoài áo phông cổ tròn màu đen đơn giản. Phối cùng quần tây đen dáng ôm vừa vặn và giày sneaker da trắng tối giản, sạch sẽ. Giữ phong cách hiện đại, tinh tế và tối giản. Không đeo vòng cổ, dây chuyền, khuyên tai, nhẫn hoặc bất kỳ đồ trang sức nào. Tái tạo tư thế thư giãn: hai tay đút tự nhiên vào túi quần, vai thả lỏng, cơ thể hơi nghiêng dựa vào tường, một chân bắt chéo nhẹ phía trước chân kia ở phần mắt cá. Duy trì giao tiếp bằng mắt trực tiếp với máy ảnh cùng biểu cảm tự tin, dễ gần. Xây dựng phông nền từ {argument name="background" default="các khối hình chữ nhật ba chiều lớn đan xen và các khối lập phương kiến trúc với các tông màu đỏ rượu vang đậm, trắng mờ và đen than xen kẽ"}. Sắp xếp các khối ở độ sâu khác nhau để tạo ra các khoảng lõm ấn tượng, các phần nhô ra, những đường nét hình học mạnh mẽ và hiệu ứng sắp đặt studio đương đại tinh tế. Sử dụng sàn bê tông màu xám đậm được đánh bóng với những phản chiếu tự nhiên tinh tế dưới đế giày. Chiếu sáng bối cảnh bằng ánh sáng studio chuyên nghiệp dịu nhẹ, tạo ra những điểm nhấn rõ nét trên khuôn mặt, những bóng đổ đa chiều nhẹ nhàng quanh các cấu trúc hình học, kết cấu vải chân thực và các phản chiếu có kiểm soát trên áo khoác bomber. Chụp theo phong cách nhiếp ảnh thời trang thương mại cao cấp, tiêu cự ống kính khoảng 50–85 mm, khung hình dọc toàn thân, góc máy ngang tầm mắt, lấy nét sắc nét vào chủ thể, độ sâu chân thực, tông màu da tự nhiên, chi tiết trang phục sắc nét, độ tương phản cân bằng, phân loại màu sắc cao cấp, kết cấu ảnh chân thực và chất lượng biên tập 8K.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -545,734 +545,123 @@ Tạo một bức ảnh dọc siêu thực bằng điện thoại thông minh v�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250598595_h720is_HRG1UcGbYAA_QLQ.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh chân dung selfie văn phòng chân thực - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336896870_8bz4sh_HRMbm8HWUAADqDZ.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh chân dung biên tập nam giới với phông nền tường studio hình học - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Rei@AI画像生成・プロンプト](https://x.com/rei_prompt)
-- **Nguồn:** [Twitter Post](https://x.com/rei_prompt/status/2094654668911849538#reversed-0)
-- **Đã xuất bản:** 1 tháng 9, 2026
+- **Tác giả:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **Nguồn:** [Twitter Post](https://x.com/abs_uiux/status/2095048620974256532)
+- **Đã xuất bản:** 2 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33179)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33201)**
 
 ---
 
-### No. 2: Hồ sơ / Ảnh đại diện - Chân dung biên tập phong cách sang trọng siêu thực
+### No. 2: Hồ sơ / Ảnh đại diện - Ảnh chụp đường phố nhân vật nhất quán theo chuỗi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một câu lệnh chi tiết để tạo ra chân dung biên tập phong cách sống sang trọng, tinh tế trong khi vẫn duy trì danh tính chủ thể từ hình ảnh tham chiếu.
+Một câu lệnh được thiết kế để duy trì sự nhất quán về danh tính trong một chuỗi ảnh, mô tả một người phụ nữ với bó hoa lớn trong bức ảnh đường phố 35mm cổ điển với hiệu ứng nhòe chuyển động mạnh.
 
 #### 📝 Câu lệnh
 
 ```
-một bức chân dung biên tập phong cách sống sang trọng siêu thực của cùng một {argument name="subject" default="người phụ nữ trưởng thành"} từ hình ảnh tham chiếu đã tải lên, bảo toàn danh tính và ngoại hình dễ nhận biết của cô ấy với độ trung thực tối đa. Giữ nguyên cấu trúc khuôn mặt, tỷ lệ, màu mắt, màu tóc và kết cấu tóc, tông da, tàn nhang và các đặc điểm riêng biệt khác nhất quán với hình ảnh tham chiếu. Không thay đổi, làm già đi, trẻ hóa hoặc tình dục hóa ngoại hình của cô ấy. Cô ấy đứng cạnh một {argument name="setting" default="cửa sổ cổ điển cao bên trong một căn hộ châu Âu thanh lịch và sáng sủa"} trong giờ vàng ấm áp. Mái tóc nâu sẫm dài, bóng mượt của cô xõa tự nhiên qua vai thành những gợn sóng mềm mại. Cô có làn da tự nhiên rạng rỡ, đôi má ửng hồng nhẹ nhàng, đôi mắt hình hạnh nhân biểu cảm và đôi môi được định hình tự nhiên. Cô mặc một chiếc {argument name="outfit" default="váy midi ren đen thanh lịch, kín đáo với họa tiết hoa thêu tinh tế"}, đường viền cổ áo khiêm tốn, tay ngắn và phom dáng vừa vặn tinh tế. Chiếc váy sang trọng và thời thượng mà không hề xuyên thấu hay hở hang. Đôi bông tai vàng nhỏ hoàn thiện phong cách. Cô tạo dáng tự nhiên bên cạnh cửa sổ mở, với cả hai tay giơ cao một cách duyên dáng trên đầu và cổ tay bắt chéo nhẹ nhàng. Thân người cô hơi xoay về phía máy ảnh khi cô nhìn qua vai với nụ cười tự tin, tinh tế và giao tiếp bằng mắt trực tiếp. Tư thế của cô thoải mái, duyên dáng và đậm chất biên tập. Ánh nắng chiều ấm áp tràn qua những ô cửa sổ cổ điển lớn, tạo ra ánh sáng viền vàng mềm mại xung quanh tóc và vai cô. Bên ngoài là những cây cọ mờ ảo và kiến trúc Địa Trung Hải thanh lịch. Nội thất có khung cửa sổ bằng gỗ cổ điển, tường đá ấm áp, những hình ảnh phản chiếu tinh tế và sự sang trọng kiểu châu Âu đầy khiêm nhường. Nhiếp ảnh: biên tập thời trang cao cấp siêu thực, thẩm mỹ chiến dịch sang trọng tinh tế, phong cách sống sang trọng thầm lặng, bố cục điện ảnh, Canon EOS R5, ống kính RF 50mm f/1.2L, f/1.4, độ sâu trường ảnh nông, hiệu ứng bokeh nền mượt mà, ánh sáng cửa sổ tự nhiên mềm mại, hạt phim analog tinh tế, kết cấu da chân thực, vải và thêu chi tiết, giải phẫu tự nhiên, tạo kiểu trang nhã, chân thực, chi tiết cao, 8K. Ưu tiên an toàn và tạo kiểu: nhiếp ảnh thời trang người lớn thanh lịch, trang phục hoàn toàn kín đáo, độ che phủ trang nhã, trình bày biên tập không tình dục hóa, tư thế và biểu cảm tự nhiên.
-```
+KHÓA CHẶT CHUỖI TUYỆT ĐỐI:
+Giữ NGUYÊN danh tính và người phụ nữ đó, CÙNG một con phố, CÙNG bó hoa lớn lộn xộn {argument name="flower type" default="hoa vàng thật"}, CÙNG {argument name="outfit" default="trang phục tối màu"}, CÙNG mái tóc dài buông xõa, CÙNG {argument name="vintage tint" default="tông màu vàng cổ điển đậm"}, CÙNG hiệu ứng nhòe chuyển động mạnh, CÙNG độ mềm mại và CÙNG chất ảnh 35mm thô cũ kỹ.
 
-#### 🖼️ Hình ảnh được tạo
+KHÔNG thiết kế lại bất cứ thứ gì.
 
-##### Image 1
+CHỈ THAY ĐỔI: TƯ THẾ + GÓC MÁY.
 
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250528760_0kzzp7_HRGS0nUbwAArb0B.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung biên tập phong cách sang trọng siêu thực - Image 1">
-</div>
+TƯ THẾ — HOÀN TOÀN MỚI:
+Cô ấy được ghi lại đúng khoảnh khắc DỪNG ĐỘT NGỘT sau khi di chuyển nhanh.
 
-#### 📌 Chi tiết
+Cơ thể cô ấy xoay theo góc NGHIÊNG BA PHẦN TƯ mạnh mẽ.
 
-- **Tác giả:** [Meem](https://x.com/mehvishs25)
-- **Nguồn:** [Twitter Post](https://x.com/mehvishs25/status/2094616744627515850)
-- **Đã xuất bản:** 1 tháng 9, 2026
-- **Ngôn ngữ:** en
+Thân người hơi ngả về PHÍA SAU do cú dừng đột ngột.
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33108)**
+Một chân trụ vững phía trước trong khi chân kia duỗi nhẹ ra sau, gót chân nhấc lên tự nhiên khỏi mặt đường.
 
----
+Cô ấy ôm bó hoa khổng lồ THẤP ngang MỘT BÊN HÔNG và bụng bằng CẢ HAI tay thay vì ôm trực tiếp trước ngực.
 
-### No. 3: Hồ sơ / Ảnh đại diện - Chân dung quạt mùa thu thanh lịch
+Vì bó hoa thực sự nặng, vai cô ấy hơi lệch và một bên cơ thể trĩu xuống tự nhiên dưới sức nặng đó.
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+Đầu cô ấy quay LẠI qua vai nhìn về phía sau.
 
-#### 📖 Mô tả
+Cô ấy KHÔNG nhìn trực diện vào máy ảnh.
 
-Tạo ra một bức chân dung anime màu nước nhẹ nhàng về một nhân vật tóc vàng thanh lịch đang cầm chiếc quạt xếp với lá phong mùa thu.
+BIỂU CẢM — RẤT TINH TẾ:
+Chỉ một nụ cười tự phát nhỏ.
 
-#### 📝 Câu lệnh
+Môi KHÉP, một bên khóe miệng nhếch cao hơn bên kia một chút.
 
-```
-Tạo một bức chân dung anime màu nước khổ dọc tinh tế về {argument name="character name" default="F-shi"}, một người trẻ phi giới tính thanh lịch với làn da nhợt nhạt, mái tóc dài màu vàng bạch kim được vuốt sang một bên và buộc lỏng ở gáy, cùng đôi mắt dị sắc nổi bật: một mắt màu tím và một mắt màu xanh lá nhạt. Nhân vật được khắc họa từ phần ngực trở lên trong không khí mùa thu tao nhã, hơi nghiêng sang trái trong khi nhìn người xem một cách bình thản và đầy bí ẩn. Một chiếc quạt xếp màu trắng lớn che nửa dưới khuôn mặt đến tận mũi; quạt có nan giấy màu ngà nhạt, khung màu xanh navy đậm và chính xác hai chiếc lá phong gắn gần phía trung tâm bên phải: một chiếc lá màu xanh lá nhạt và một chiếc lá mùa thu màu nâu đỏ. Một bàn tay mảnh khảnh, nhợt nhạt cầm quạt ở phía dưới bên trái với những ngón tay dài thanh thoát. Hãy mặc cho nhân vật một bộ kimono hoặc áo choàng màu tím oải hương nhạt trong suốt với các nếp gấp tinh tế, lớp vải ngoài mỏng nhẹ màu trắng và những đường nét phác thảo mảnh mai gợi lên phần tay áo thướt tha. Sử dụng nền trắng nhạt trống trải, khoảng trắng thoáng đãng, các đường viền chì mờ, các mảng màu pastel, bóng đổ nhẹ nhàng và thẩm mỹ minh họa Nhật Bản tinh tế. Tâm trạng cần sự tĩnh lặng, duyên dáng và mang đậm chất mùa, nhấn mạnh vào {argument name="seasonal theme" default="mùa thu"}, không có văn bản hiển thị, không có hình mờ và không có vật thể thừa.
-```
+Má thư giãn.
 
-#### 🖼️ Hình ảnh được tạo
+KHÔNG lộ răng.
+KHÔNG cười lớn.
+KHÔNG cười tươi.
+KHÔNG đối xứng hoàn hảo.
+KHÔNG mang biểu cảm AI.
 
-##### Image 1
+TÓC:
+Mái tóc dài buông xõa của cô ấy tiếp tục chuyển động VỀ PHÍA TRƯỚC theo quán tính trong khi cơ thể đã dừng lại.
 
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250591274_ovixgd_HRFp9cSbMAAuCnY.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung quạt mùa thu thanh lịch - Image 1">
-</div>
+Những lọn tóc lớn lộn xộn quét qua một bên mặt và vai.
 
-#### 📌 Chi tiết
+Hiệu ứng nhòe chuyển động tự nhiên mạnh mẽ.
 
-- **Tác giả:** [🐹🐹](https://x.com/hmst_yyyy)
-- **Nguồn:** [Twitter Post](https://x.com/hmst_yyyy/status/2094571811350659351#reversed-0)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
+KHÔNG có những lọn sóng hoàn hảo.
+KHÔNG có các sợi tóc được kết xuất riêng lẻ.
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33169)**
+BÓ HOA — THẬT / KHÔNG HOÀN HẢO:
+Bó hoa khổng lồ nặng trĩu gồm HOA VÀNG tươi thật.
 
----
+Các cụm hoa không đều, kích thước khác nhau, cành cong queo, lá dập, các phần bị hư hỏng và dập nát, khoảng trống bất thường và hoa hướng về các phía ngẫu nhiên.
 
-### No. 4: Hồ sơ / Ảnh đại diện - Ảnh selfie trong xe hơi vào ban đêm
+Bó hoa bị nén nhẹ ở nơi cô ấy ôm.
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+Giấy gói hoa trong suốt lỏng lẻo bị nhăn, gấp và không hoàn hảo.
 
-#### 📖 Mô tả
+KHÔNG có hoa sao chép.
+KHÔNG có họa tiết hoa lặp lại.
+KHÔNG có hình dáng bó hoa hoàn hảo.
+KHÔNG có kết cấu nhựa.
+KHÔNG có sự hoàn hảo kiểu AI thực vật.
 
-Một câu lệnh tạo ảnh chân thực về khung cảnh selfie ấm cúng bên trong xe hơi vào ban đêm, với nhân vật là một phụ nữ mặc trang phục thường ngày, tóc tết và ánh sáng LED xung quanh.
+CAMERA — GÓC MỚI:
+Đặt máy ảnh từ PHÍA SAU BÊN HÔNG ở độ cao khoảng ngang HÔNG, chỉ cách 2–3 mét.
 
-#### 📝 Câu lệnh
+Người chụp ảnh hơi đứng sau hướng di chuyển của cô ấy.
 
-```
-Một bức ảnh selfie chân thực chụp trong xe hơi vào ban đêm của một {argument name="subject" default="cô gái trẻ"} đang ngồi ở ghế lái, hơi xoay người về phía camera với cái nháy mắt tinh nghịch và nụ cười nhẹ nhàng. Cô ấy có mái tóc vàng dài thẳng với những bím tóc nhỏ tinh tế ôm lấy hai bên khuôn mặt, được trang trí bằng những hạt cườm trắng nhỏ. Cô ấy mặc một chiếc {argument name="outfit" default="áo hoodie đen dáng rộng và quần jean rách sáng màu"}, cùng một chiếc khuyên mũi bạc tinh tế. Nội thất của chiếc {argument name="car type" default="xe hơi sang trọng"} bao gồm ghế da màu đen, bảng điều khiển kỹ thuật số hiện đại, cụm đồng hồ được chiếu sáng, màn hình cảm ứng trung tâm và ánh sáng LED màu tím thanh lịch chạy dọc bảng điều khiển và bệ tỳ tay. Bên ngoài cửa sổ, đường phố về đêm hiện ra với những ánh đèn mờ ảo đầy màu sắc và hiệu ứng bokeh mạnh. Ảnh chụp bằng điện thoại chân thực, các đường nét khuôn mặt sống động, kết cấu da tự nhiên, chi tiết tóc và bím tóc tỉ mỉ, phơi sáng trong điều kiện thiếu sáng nhẹ nhàng, không khí điện ảnh về đêm, hạt phim tinh tế, độ sâu trường ảnh nông, phản chiếu chân thực trên kính, thẩm mỹ xe hơi sang trọng ấm cúng, độ chi tiết cao, bố cục dọc, tỷ lệ khung hình 4:5.
-```
+Bố cục đường chéo mạnh mẽ.
 
-#### 🖼️ Hình ảnh được tạo
+Con phố lùi dần phía sau cô ấy trong khi mặt đường gần đó và các yếu tố đô thị lướt qua khung hình.
 
-##### Image 1
+Khung hình hơi nghiêng và không hoàn hảo, giống như một bức ảnh chụp nhanh tình cờ thực sự.
 
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250551915_xg9egj_HRDoUWdaMAAK8ku.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh selfie trong xe hơi vào ban đêm - Image 1">
-</div>
+HIỆU ỨNG NHÒE CHUYỂN ĐỘNG — MẠNH:
+Ảnh 35mm cầm tay tốc độ màn trập chậm, khoảng 1/20–1/30 giây.
 
-#### 📌 Chi tiết
+Cơ thể cô ấy có thể nhận diện được, nhưng tóc, cạnh bó hoa, chân phía sau và toàn bộ hậu cảnh đều có hiệu ứng nhòe chuyển động theo hướng mạnh.
 
-- **Tác giả:** [AI Qoro](https://x.com/AIqoro)
-- **Nguồn:** [Twitter Post](https://x.com/AIqoro/status/2094429282105950286)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
+KHUÔN MẶT cô ấy cũng bị nhòe nhẹ và hơi mất nét.
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33132)**
-
----
-
-### No. 5: Hồ sơ / Ảnh đại diện - Chụp ảnh selfie trong đường hầm thủy cung
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh đơn giản để tạo ảnh selfie chân thực bên trong đường hầm thủy cung dưới nước, làm nổi bật môi trường đại dương sống động.
-
-#### 📝 Câu lệnh
-
-```
-{argument name="location" default="Thủy cung"}
-Đang chụp một {argument name="composition" default="bức ảnh selfie trong bể cá dạng đường hầm"}.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250548790_r8b9mx_HRDE-V5boAAWdAb.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chụp ảnh selfie trong đường hầm thủy cung - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250548131_6p798m_HRDE-V8b0AAd-OP.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chụp ảnh selfie trong đường hầm thủy cung - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Ai_Ncorn](https://x.com/Ai_Ncorn)
-- **Nguồn:** [Twitter Post](https://x.com/Ai_Ncorn/status/2094390804576129341)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** ja
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33128)**
-
----
-
-### No. 6: Hồ sơ / Ảnh đại diện - Chân dung cô gái mặc Kimono tai mèo
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Tạo ra một bức chân dung anime bán thực tế rạng rỡ về một cô gái tai mèo tóc xanh trong bộ kimono màu pastel bên trong một căn phòng ngập nắng.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một bức chân dung anime bán thực tế tinh tế về một cô gái tai mèo trẻ trung, dễ thương đang đứng trong một căn phòng thanh lịch, sáng sủa. Cô ấy có {argument name="hair color" default="mái tóc ngắn gợn sóng màu xanh hải quân với những điểm nhấn màu oải hương mềm mại"}, đôi mắt xanh to tròn trong veo, làn da trắng hồng hào cùng nụ cười e thẹn. Thêm hai chiếc tai mèo bông xù trên đỉnh đầu, bên ngoài màu xanh đậm và bên trong là lông trắng, cùng chính xác 2 chiếc nơ cài tóc màu đỏ, mỗi chiếc treo cạnh một bên tai với dải ruy băng mỏng buông dài. Khoác lên người cô ấy bộ trang phục lấy cảm hứng từ kimono Nhật Bản nhiều lớp duyên dáng: lớp áo trong màu hồng nhạt, lớp áo khoác haori màu xanh phấn nhẹ nhàng với ống tay rộng, các họa tiết thêu trắng tinh tế dọc theo tay áo và viền, thắt lưng obi màu xám oải hương và một chiếc nơ nhỏ màu đỏ san hô ở eo. Tư thế của cô ấy thoải mái và hơi nghiêng về phía người xem, hai tay buông xuôi, với biểu cảm bình thản, ngây thơ. Bối cảnh là một căn phòng được chiếu sáng dịu nhẹ bên cạnh cửa sổ lớn ở phía bên trái với rèm cửa màu kem mỏng và ánh nắng ban mai ấm áp tràn vào. Bao gồm chính xác 5 vật dụng trên bàn ở góc dưới bên trái: 2 tách trà màu xanh nhạt trên đĩa, 1 bình hoa hồng trắng nhỏ, 1 khay gỗ hình chữ nhật và 1 cạnh bàn. Ở phía sau, hiển thị một bức tranh đóng khung được làm mờ nhẹ trên tường, các đường viền kiến trúc nhạt màu và một chút cây xanh, tất cả đều có độ sâu trường ảnh nông. Sử dụng nét vẽ tinh tế, màu pastel rạng rỡ, kết cấu vải chi tiết, hiệu ứng ánh sáng chân thực, đổ bóng mềm mại và phong cách minh họa anime gpt-image-2 chi tiết, mơ mộng. Bố cục chân dung dọc, góc nhìn từ thắt lưng trở lên đến ba phần tư, nhân vật ở trung tâm, không có văn bản, không có hình mờ.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250591387_624odv_HRC12e_bwAA8GK0.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung cô gái mặc Kimono tai mèo - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250591390_kp13b4_HRC12-3bcAAjujv.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung cô gái mặc Kimono tai mèo - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [おわ Days](https://x.com/Days57723399006)
-- **Nguồn:** [Twitter Post](https://x.com/Days57723399006/status/2094373794534293641#reversed-0)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33170)**
-
----
-
-### No. 7: Hồ sơ / Ảnh đại diện - Ảnh selfie trong xe hơi vào ban đêm với biểu cảm nháy mắt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một bức ảnh selfie điện ảnh trong xe hơi vào ban đêm với ánh sáng LED màu tím huyền ảo và biểu cảm nháy mắt tinh nghịch, mang đậm phong cách sang trọng và ấm cúng.
-
-#### 📝 Câu lệnh
-
-```
-Một bức ảnh selfie chân thực chụp trong xe hơi vào ban đêm, hình ảnh một cô gái trẻ đang ngồi ở ghế lái, hơi quay người về phía camera với một cái nháy mắt tinh nghịch và nụ cười dịu dàng. Cô ấy có {argument name="hair style" default="mái tóc dài thẳng màu vàng với những bím tóc nhỏ tinh tế"} ôm lấy hai bên khuôn mặt, được trang trí bằng những hạt cườm trắng li ti. Cô ấy mặc một chiếc {argument name="outfit" default="áo hoodie đen dáng rộng"} và quần jean rách sáng màu, cùng một chiếc khuyên mũi bạc tinh tế.
-
-Nội thất của chiếc xe sang trọng nổi bật với ghế da màu đen, bảng điều khiển kỹ thuật số hiện đại, cụm đồng hồ phát sáng, màn hình cảm ứng trung tâm và {argument name="lighting" default="hệ thống đèn LED viền màu tím thanh lịch"} chạy dọc bảng điều khiển và bệ tỳ tay. Qua cửa sổ, khung cảnh đường phố về đêm hiện ra với những ánh đèn mờ ảo đầy màu sắc và hiệu ứng bokeh ấn tượng.
-
-Ảnh chụp bằng điện thoại phong cách tự nhiên, đường nét khuôn mặt chân thực, kết cấu da tự nhiên, chi tiết tóc và bím tóc tỉ mỉ, phơi sáng trong điều kiện ánh sáng yếu, không khí đêm điện ảnh, hạt phim tinh tế, độ sâu trường ảnh nông, phản chiếu chân thực trên kính, thẩm mỹ xe hơi sang trọng ấm cúng, độ chi tiết cao, bố cục dọc, tỷ lệ khung hình 4:5.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250567852_7ok7il_HRCyj4EaMAAjj6a.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh selfie trong xe hơi vào ban đêm với biểu cảm nháy mắt - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Aqsa](https://x.com/Aqsahere_)
-- **Nguồn:** [Twitter Post](https://x.com/Aqsahere_/status/2094370167350264257)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33147)**
-
----
-
-### No. 8: Hồ sơ / Ảnh đại diện - Chân dung trí thức mặc Hán phục đeo kính
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một bức chân dung chân thực về một người phụ nữ Đông Á mặc Hán phục truyền thống kết hợp với kính không gọng hiện đại, bối cảnh trong một không gian nội thất Trung Hoa cổ điển, yên tĩnh.
-
-#### 📝 Câu lệnh
-
-```
-Ảnh chân dung chân thực, khổ dọc; nữ giới Đông Á trưởng thành, làn da thật trắng sáng và tinh tế; tóc dài, búi thấp kiểu thời Tống, vài lọn tóc buông tự nhiên bên mặt; {argument name="glasses" default="kính gọng kim loại mảnh không gọng"}; trang điểm cổ điển tinh xảo, kẻ mắt mảnh, lông mi dài, má hồng nhạt, son môi màu chu sa. Mặc Hán phục thời Tống {argument name="outfit color" default="màu xanh mờ"}, áo khoác ngoài làm bằng vải có hoa văn chìm tinh tế, khoác ngoài màu be nhạt, tay áo rộng buông tự nhiên, thắt lưng nhỏ, kết hợp với khuyên tai ngọc đơn giản và trâm cài tóc mộc mạc, tổng thể thanh lịch và kín đáo. Nhân vật ngồi {argument name="setting" default="trên ghế gỗ gần cửa sổ"}, bên ngoài cửa sổ là bóng tre mờ ảo, ngón tay đặt nhẹ trên tay áo, cơ thể nghiêng tự nhiên về phía máy ảnh, tư thế tĩnh lặng. Nhìn thẳng vào máy ảnh với đôi mắt khép hờ, lông mày hơi nhíu, ánh mắt lạnh lùng và chán ghét, phảng phất vẻ khinh khỉnh và dò xét; môi hơi mở tự nhiên, lộ một chút răng cửa trên. Màu xanh mờ, trắng nhạt và tông màu gỗ tạo nên bảng màu phương Đông có độ bão hòa thấp, với kết cấu vải chân thực, từng sợi tóc và chi tiết da, mềm mại và tự nhiên.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250564953_ousq9c_HRCqAzDaYAA1zEb.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung trí thức mặc Hán phục đeo kính - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [DeepBlue零](https://x.com/DeepBlueZer0)
-- **Nguồn:** [Twitter Post](https://x.com/DeepBlueZer0/status/2094360766589874373)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** zh
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33145)**
-
----
-
-### No. 9: Hồ sơ / Ảnh đại diện - Tóc Bob Hồng Nhạt trên Ghế Sofa
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh mô tả chi tiết, chân thực về một người phụ nữ với mái tóc bob hồng nhạt đang thư giãn trên ghế sofa trong một phòng khách sáng sủa.
-
-#### 📝 Câu lệnh
-
-```
-Chủ đề:
-Thời gian thư giãn trên ghế sofa cùng mái tóc hồng
-
-Nội dung chủ đề:
-Nhân vật được đặt ở vị trí trung tâm, chiếm diện tích lớn trên khung hình. Một bức ảnh cận cảnh theo chiều dọc về một người phụ nữ với mái tóc bob {argument name="hair color" default="hồng"} đang nghiêng người về phía máy ảnh, hai tay đặt trên ghế sofa trong một phòng khách tràn ngập ánh sáng. Hình ảnh ghi lại nhẹ nhàng phần trang phục {argument name="outfit" default="áo gân tăm xám phối ren"}, với cửa sổ và chậu cây ở phía sau bên trái.
-
-Nhân vật/Biểu cảm:
-Khuôn mặt hình trứng ngược nhỏ nhắn với đôi má mịn màng và chiếc cằm tròn trịa, thanh tú. Đôi mắt nâu hình hạnh nhân to, lông mày thẳng mảnh, sống mũi cao và đầu mũi nhỏ. Môi trên mỏng, môi dưới đầy đặn với sắc hồng bóng bẩy. Làn da sáng, đều màu với lớp phấn má hồng nhạt và đường kẻ mắt mảnh. Mái tóc bob màu hồng nhạt trầm dài ngang cằm, hơi dài hơn ở phía bên phải, với phần tóc mái chéo mỏng trên trán. Đầu nghiêng sang phải, nhìn thẳng vào máy ảnh với biểu cảm điềm tĩnh.
-
-Trang phục/Tư thế:
-Mặc áo camisole và quần short màu xám. Chiếc áo camisole gân tăm màu xám có dây vai siêu mảnh và cổ tròn sâu. Quần short cạp trễ đồng bộ có viền ren xám rộng ở gấu quần. Ngồi nghiêng trên {argument name="location" default="ghế sofa"} với đầu gối co lại, hông đặt về phía sau bên trái, vươn cả hai tay về phía trước để đưa phần thân trên hạ thấp và lại gần máy ảnh.
-
-Bối cảnh/Ánh sáng:
-Ghế sofa màu be nhạt, rèm ren trắng và cửa sổ ở phía sau bên trái, một kệ gỗ nhỏ và một chậu cây xanh trong chậu trắng. Ánh sáng ban ngày khuếch tán từ bên trái bao trùm lấy khuôn mặt và mái tóc, khiến hậu cảnh trở nên mờ ảo với tông màu be và xanh lá tươi sáng.
-
-Bố cục/Máy ảnh:
-Máy ảnh đặt ở cùng tầm mắt thấp với ghế sofa. Cả hai cánh tay bị cắt ở mép màn hình. Bố cục dọc 3:4, góc chụp cận cảnh từ ngực trở lên ở cùng độ cao thấp với ghế sofa. Khuôn mặt ở phía trên bên phải, cánh tay và ngực ở nửa dưới, hông và quần short ren đặt chéo ở phía sau bên trái. Khuôn mặt và mái tóc bob hồng sắc nét, trong khi hậu cảnh được làm mờ với độ sâu trường ảnh nông.
-
-Kết cấu/Phong cách:
-Một bức ảnh chụp trong nhà chân thực với ánh sáng tự nhiên dịu nhẹ. Thể hiện rõ nét mái tóc hồng, chất liệu gân tăm và ren xám, cùng bề mặt vải sofa mịn màng với độ tương phản thấp, nhẹ nhàng.
-
-Phủ định:
-Không thay đổi kiểu tóc bob hồng ngang cằm và các đặc điểm khuôn mặt; phần thân trên không nên nâng quá cao.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250548104_ihgzjz_HQzD9LSbsAApAX2.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Tóc Bob Hồng Nhạt trên Ghế Sofa - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **Nguồn:** [Twitter Post](https://x.com/CyberTotal2026/status/2094324307853775225)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** ja
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33024)**
-
----
-
-### No. 10: Hồ sơ / Ảnh đại diện - Chân dung đô thị cổ điển với độ tương phản cao
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh tạo ảnh phong cách cổ điển đen trắng với độ tương phản cao, khắc họa một cô gái trẻ mặc áo khoác da dáng rộng trên nền bối cảnh đô thị dày đặc.
-
-#### 📝 Câu lệnh
-
-```
-Ảnh chụp đen trắng độ tương phản cao theo phong cách cổ điển với hạt phim rõ nét, khung hình cận cảnh khuôn mặt ở góc nghiêng, một cô gái trẻ quay đầu về phía máy ảnh, một lọn tóc vắt ngang mặt. Cô ấy dùng tay chạm vào TÓC của mình. Chủ thể: {argument name="subject" default="Cô gái trẻ với mái tóc dài sẫm màu rối nhẹ"}. Cô ấy mặc một chiếc {argument name="jacket style" default="áo khoác da đen dáng rộng"} với phần tay áo rộng, thắt đai cùng chất liệu. Có thể thấy một chiếc váy lót hoặc váy trắng bên dưới áo khoác. Bối cảnh: {argument name="location" default="Khu đô thị dày đặc"} vào một ngày nhiều mây. Ánh sáng và kết cấu: Ánh sáng ban ngày tự nhiên khuếch tán (bầu trời u ám).
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250557783_3bfzt4_HRB7-TmakAABlQ1.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung đô thị cổ điển với độ tương phản cao - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [lovimg_com](https://x.com/lovimg_com)
-- **Nguồn:** [Twitter Post](https://x.com/lovimg_com/status/2094310145761431758)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=32992)**
-
----
-
-### No. 11: Hồ sơ / Ảnh đại diện - Chân dung góc thấp ống kính mắt cá
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh được thiết kế để giữ nguyên nhận dạng khuôn mặt từ hình ảnh tham chiếu, đồng thời đặt chủ thể vào phối cảnh ống kính mắt cá đầy ấn tượng từ mặt đất.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một bức ảnh điện ảnh 8K siêu thực về {argument name="reference person" default="cô gái từ hình ảnh tham chiếu được tải lên"}, giữ nguyên nhận dạng khuôn mặt chính xác, tông màu da tự nhiên, cấu trúc khuôn mặt, kiểu tóc, tỷ lệ cơ thể và tất cả các đặc điểm dễ nhận biết với độ chính xác tối đa. Chụp cô ấy từ {argument name="perspective" default="góc cực thấp, ngang tầm mặt đất"} bằng cách sử dụng {argument name="lens" default="ống kính mắt cá siêu rộng"} đầy ấn tượng, tạo ra cảm giác về chiều sâu táo bạo và sống động trong khi vẫn giữ cho khuôn mặt và ngoại hình tổng thể của cô ấy trông tự nhiên và chân thực. Bố cục cần mang lại cảm giác như một bức ảnh cao cấp đích thực được chụp bằng máy ảnh chuyên nghiệp, với độ méo phối cảnh thực tế ở các cạnh và độ cong mắt cá tinh tế. Sử dụng ánh sáng điện ảnh tự nhiên với các điểm sáng mềm mại và bóng đổ chân thực bổ trợ cho khuôn mặt và kết cấu da của cô ấy. Bảo toàn các chi tiết tinh xảo như từng sợi tóc, lỗ chân lông tự nhiên, kết cấu khuôn mặt tinh tế, đôi mắt, đôi môi chân thực và những khuyết điểm nhỏ. Tránh việc chỉnh sửa làm đẹp quá mức, làm mịn nhân tạo, làn da trông như nhựa hoặc các biến dạng khuôn mặt phóng đại…
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250554123_41gdpw_HRB74f7akAIDy-K.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung góc thấp ống kính mắt cá - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [lovimg_com](https://x.com/lovimg_com)
-- **Nguồn:** [Twitter Post](https://x.com/lovimg_com/status/2094310047434301771)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33134)**
-
----
-
-### No. 12: Hồ sơ / Ảnh đại diện - Ảnh ghép chân dung điện ảnh đầy tâm trạng
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh điện ảnh để tạo ảnh ghép chân dung đầy tâm trạng, tập trung vào các góc cận cảnh thân mật với ánh sáng đa dạng và biểu cảm tự nhiên.
-
-#### 📝 Câu lệnh
-
-```
-Một ảnh ghép phong cách điện ảnh bao gồm tập hợp các bức chân dung cận cảnh của {argument name="subject" default="cùng một cô gái trẻ với đôi mắt sâu, biểu cảm và mái tóc rối"}. Các bức ảnh làm nổi bật nhiều tâm trạng và phong cách ánh sáng khác nhau, bao gồm {argument name="lighting style" default="ánh nắng vàng ấm áp của giờ vàng"} chiếu lên góc nghiêng của cô ấy, những bóng đổ kịch tính đổ trên khuôn mặt, ánh sáng trong nhà dịu nhẹ và các tư thế tự nhiên với bàn tay đặt gần cằm. Mỗi khung hình đều nhấn mạnh tính thẩm mỹ thân mật, đầy tâm trạng và tự nhiên với độ tương phản phong phú cùng cảm giác vượt thời gian đầy gợi cảm.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788163907083_6saall_HRB6zDJasAAYOer.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh ghép chân dung điện ảnh đầy tâm trạng - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [lovimg_com](https://x.com/lovimg_com)
-- **Nguồn:** [Twitter Post](https://x.com/lovimg_com/status/2094308852619694407)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33013)**
-
----
-
-### No. 13: Hồ sơ / Ảnh đại diện - Chân dung nghệ thuật bằng than chì và bút chì
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh tinh tế để biến đổi ảnh tham chiếu thành bản phác thảo than chì và bút chì đen trắng cao cấp với hiệu ứng khói.
-
-#### 📝 Câu lệnh
-
-```
-Sử dụng ảnh đã tải lên làm tài liệu tham khảo duy nhất về danh tính của người này.
-
-Biến đổi người này thành {argument name="style" default="chân dung nghệ thuật đen trắng cao cấp"}: {argument name="action" default="đang ngồi thoải mái, đọc một cuốn sách mở"}, một tay cầm {argument name="prop" default="một tách cà phê nhỏ"}.
-
-Giữ nguyên các đặc điểm nhận dạng:
-Duy trì cấu trúc khuôn mặt, mắt, lông mày, mũi, môi, đường viền hàm, đặc điểm da, kiểu tóc, kết cấu tóc và diện mạo tổng thể của người đó, sao cho trung thực với ảnh tham chiếu đã tải lên.
-
-Tư thế:
-Người đó ngồi trong tư thế thư thái, thanh lịch, tự nhiên nhìn xuống cuốn sách đang mở để đọc. Một tay nhẹ nhàng cầm tách cà phê bằng gốm, tay kia đỡ hoặc giữ cuốn sách đang mở. Tư thế cần tự nhiên, tĩnh lặng và không gượng ép.
-
-Trang phục:
-Giữ nguyên trang phục của người đó từ ảnh tham chiếu nếu phù hợp, thể hiện kết cấu vải chân thực và các nếp gấp tự nhiên. Trang phục tổng thể vẫn giữ vẻ tinh tế và khiêm nhường.
-
-Phong cách nghệ thuật:
-Biến đổi toàn bộ khung cảnh thành một bản phác thảo bằng bút chì và than chì đơn sắc tinh xảo, kết hợp với phong cách nhiếp ảnh chân dung biên tập chân thực.
-
-Sử dụng các đường nét bút chì than chì cực mảnh, kỹ thuật đánh bóng chéo tinh tế, đổ bóng than chì chân thực, kết cấu giấy mịn, nét mực tinh tế, các cạnh vẽ tay và chuyển tông màu mềm mại.
-
-Hiệu ứng khói:
-Người đó được bao quanh bởi làn khói than chì, bụi than chì, các hạt phác thảo mịn và nét mực chảy nhẹ nhàng. Khói nên xuất hiện tự nhiên xung quanh tóc, vai, cánh tay, quần áo, cuốn sách và phần thân dưới của người đó, dần dần mờ đi vào nền trắng.
-
-Tách cà phê:
-Tách cà phê bằng gốm phải được nhận diện rõ ràng trên tay người đó, được thể hiện hoàn toàn bằng kỹ thuật đổ bóng bút chì và than chì chân thực.
-
-Cuốn sách:
-Cuốn sách đang mở phải hiển thị rõ ràng và giàu chi tiết, với các trang sách chân thực và kết cấu trang giấy giống như chữ viết tay tinh tế. Không thêm văn bản có thể đọc được hoặc logo vào các trang sách.
-
-Nền:
-Nền giấy có kết cấu màu trắng sạch hoặc trắng ấm. Bố cục tối giản, với người đó nổi bật lên từ nghệ thuật phác thảo khói xung quanh.
-
-Màu sắc:
-Chỉ sử dụng màu đen trắng và đơn sắc xám mềm. Tuyệt đối không có màu sắc.
-
-Ánh sáng:
-Ánh sáng chân dung điện ảnh mềm mại được chuyển đổi sang tông màu đơn sắc, với các chi tiết vùng sáng phong phú trên khuôn mặt và các vùng bóng tự nhiên.
-
-Chất lượng:
-Siêu mịn, giải phẫu người chân thực, các sợi tóc chi tiết cao, bàn tay và ngón tay chân thực, quần áo chi tiết, tách gốm và cuốn sách chân thực, bản phác thảo bút chì và than chì chuyên nghiệp cấp phòng tranh.
-
-Bố cục:
-Chân dung chính giữa, thể hiện đầy đủ người, tách cà phê và cuốn sách. Đầu, tóc, tay, tách, sách và cơ thể đều nằm trong khung hình. Để lại nhiều không gian trắng sạch xung quanh các cạnh của tác phẩm nghệ thuật khói.
-
-Quan trọng:
-Hình ảnh đã tải lên chỉ dùng để tham khảo danh tính.
-Giữ nguyên danh tính và diện mạo của người đó.
-Không thay thế khuôn mặt.
-Không thêm văn bản, logo, hình mờ, đường viền hoặc khung ảnh trong ảnh.
-Không tạo ảnh ghép.
-Không tạo ảnh có màu.
-Không tạo hiệu ứng hoạt hình hoặc 3D.
-Không cắt mất tách cà phê hoặc cuốn sách.
-Kết quả cuối cùng trông giống như một bức ảnh chân thực được biến đổi thành một kiệt tác phác thảo bằng bút chì và than chì đen trắng tinh tế.
-
-Tỷ lệ khung hình: 4:5
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250557576_rlqxso_HRBy7VSakAA8HPL.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung nghệ thuật bằng than chì và bút chì - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [lovimg_com](https://x.com/lovimg_com)
-- **Nguồn:** [Twitter Post](https://x.com/lovimg_com/status/2094300199464390706)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** zh
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33031)**
-
----
-
-### No. 14: Hồ sơ / Ảnh đại diện - Chân dung làm đẹp phong cách Editorial Chiaroscuro
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh (prompt) cho chiến dịch làm đẹp sang trọng kiểu Paris, nhấn mạnh vào độ tương phản cao, kết cấu da tự nhiên và ánh sáng tinh tế để tạo nên bức chân dung cận cảnh đầy cuốn hút.
-
-#### 📝 Câu lệnh
-
-```
-Ảnh cận cảnh editorial siêu thực của một cô gái trẻ nổi bật với {argument name="hair style" default="mái tóc nâu sẫm búi lỏng, hơi rối"}, những lọn tóc buông lơi và tóc mái thưa ôm lấy khuôn mặt một cách tự nhiên. Đôi mắt {argument name="eye color" default="màu xanh lục ô liu"} đầy cuốn hút của cô nhìn thẳng vào ống kính với vẻ điềm tĩnh. Những nốt tàn nhang tinh tế phân bổ tự nhiên trên sống mũi và gò má, kết hợp cùng đôi má ửng hồng, ấm áp và đôi môi hé mở nhẹ nhàng với lớp son bóng màu cam đào đất trong suốt. Làn da cô sáng mịn, căng bóng tự nhiên, giữ được lỗ chân lông chân thực, kết cấu da tinh tế, những khuyết điểm nhỏ, nếp nhăn mảnh và tông da hồng hào ấm áp thay vì vẻ ngoài đã qua chỉnh sửa hay dùng filter. Cô nhẹ nhàng đặt các đốt ngón tay dưới cằm. Chiếc nhẫn vàng hai vòng tinh xảo bắt lấy ánh nắng, trong khi chiếc vòng tay ngọc trai kết hợp vàng quấn hờ hững quanh cổ tay. Trên cổ cô là một chuỗi ngọc trai nước ngọt đơn giản nằm tự nhiên trên xương quai xanh, phối cùng áo cổ tròn màu đen tối giản để tạo độ tương phản tinh tế. Cô đứng cạnh bức tường thạch cao trắng nguyên sơ với bề mặt hơi gồ ghề. {argument name="lighting" default="Ánh nắng mạnh từ góc thấp chiếu vào từ một phía, làm bừng sáng khuôn mặt cô bằng luồng sáng màu hổ phách ấm áp"} đồng thời đổ một khối bóng chéo sắc nét lên bức tường phía sau. Sự chuyển đổi mạnh mẽ giữa ánh nắng rực rỡ và bóng tối kiến trúc sâu thẳm tạo nên bố cục chiaroscuro ấn tượng. Không khí chiến dịch làm đẹp sang trọng kiểu Paris, tinh tế nhưng gần gũi, phong cách tối giản, ngọc trai là điểm nhấn thị giác trung tâm, bố cục như một thước phim điện ảnh. Ánh nắng tự nhiên ấm áp, độ tương phản tông màu sâu, độ sâu trường ảnh nông, hiệu ứng quang học chân thực, hạt phim analog tinh tế, từng sợi tóc và nốt tàn nhang được thể hiện sắc nét, kết xuất da nhiếp ảnh chân thực, nhiếp ảnh thời trang chuyên nghiệp, chi tiết 8K, không có vẻ ngoài của bộ lọc làm đẹp, không có cảm giác CGI.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250528814_kxkygc_HRByT2tbcAE5ZJ2.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung làm đẹp phong cách Editorial Chiaroscuro - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250527267_gijg0c_HRByT22a8AAgcCs.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung làm đẹp phong cách Editorial Chiaroscuro - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Jack](https://x.com/j_smeaton99)
-- **Nguồn:** [Twitter Post](https://x.com/j_smeaton99/status/2094299521195094376)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33010)**
-
----
-
-### No. 15: Hồ sơ / Ảnh đại diện - Chân dung vector tinh tế của phụ nữ trẻ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Tạo ảnh đại diện vector phẳng, chỉn chu của một phụ nữ trẻ đeo kính tròn, lý tưởng cho ảnh hồ sơ hoặc chuyển đổi phong cách ảnh.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một bức chân dung minh họa vector phẳng tối giản của {argument name="character description" default="một phụ nữ trẻ"} với {argument name="hair style" default="mái tóc dài màu nâu đen hơi gợn sóng với phần tóc mái buông lơi"}, đeo {argument name="glasses style" default="kính gọng tròn màu đen mảnh"} và mặc một chiếc {argument name="outfit" default="áo nỉ đen trơn"} dáng rộng. Cô ấy được thể hiện từ phần ngực trở lên, căn giữa, hướng mặt về phía trước với đầu hơi nghiêng, mắt mở và nhìn bình tĩnh về phía người xem, với nụ cười nhẹ khép miệng. Một bàn tay đặt nhẹ lên má gần gọng kính, khuỷu tay hạ thấp ngoài khung hình. Sử dụng tông màu da rám nắng ấm áp, các hình khối vector sạch sẽ, hiệu ứng chuyển màu hội họa tinh tế, đường viền tối sắc nét, các đặc điểm khuôn mặt được đơn giản hóa, những điểm nhấn tinh tế trên tóc và các mảng đổ bóng mềm mại trên trang phục. Đặt bức chân dung trên nền {argument name="background color" default="nâu ấm tối"} đơn sắc đơn giản, không có văn bản, không đạo cụ, không hình mờ và không có kết cấu chân thực như ảnh chụp. Khung hình vuông, bố cục ảnh đại diện mạng xã hội cắt sát, phong cách nghệ thuật vector biên tập chỉn chu.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250592368_on1dxd_HRBpkXbbsAA_LfC.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung vector tinh tế của phụ nữ trẻ - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Laraib Fatima‎](https://x.com/AiwithLariab)
-- **Nguồn:** [Twitter Post](https://x.com/AiwithLariab/status/2094290114105237626#reversed-0)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33051)**
-
----
-
-### No. 16: Hồ sơ / Ảnh đại diện - Ảnh chân dung thời trang với kỹ thuật Selective Color
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một gợi ý (prompt) tạo ảnh chân dung biên tập sang trọng với phong cách đơn sắc kết hợp một yếu tố màu sắc sống động duy nhất, làm nổi bật các đường nét khuôn mặt sắc sảo và ánh sáng studio chuyên nghiệp.
-
-#### 📝 Câu lệnh
-
-```
-Ảnh chân dung biên tập cận cảnh theo phong cách studio của {argument name="subject appearance" default="một người có đường nét khuôn mặt sắc sảo, rõ ràng cùng kết cấu da tự nhiên, chân thực"}. Nhân vật mặc {argument name="clothing" default="áo cổ lọ đen được may đo vừa vặn với những đường nét sắc sảo, tinh tế"}, phối bên trong một chiếc áo khoác đen cổ cao theo phong cách thời trang tối giản đương đại. Nhân vật đeo kính mát gọng acetate màu cam bán trong suốt — gọng hình chữ nhật với các cạnh bo tròn mềm mại, bề mặt bóng bẩy và tròng kính màu hổ phách chuyển sắc — đóng vai trò là yếu tố màu sắc duy nhất trong bức ảnh. {argument name="sunglasses color" default="Ý tưởng màu sắc: nhiếp ảnh selective color — ảnh đen trắng đơn sắc với duy nhất chiếc kính mát có màu cam sống động"}.
-Phong thái bình tĩnh và tự tin, biểu cảm nghiêm túc, ánh nhìn trực diện vào ống kính.
-Ánh sáng là đèn studio chiếu trực diện dịu nhẹ với các vùng đổ bóng tinh tế, tông da đều màu, độ tương phản đậm chất điện ảnh và hiển thị rõ kết cấu da tự nhiên. Được chụp bằng máy ảnh chân dung chuyên nghiệp, khẩu độ f/2.0, ISO 100, tốc độ màn trập 1/125s. Độ phân giải cao, lấy nét cực sắc nét vào khuôn mặt.
-
-Phong cách: ảnh chân dung thời trang biên tập sang trọng, chân thực như ảnh chụp, nhiếp ảnh studio chuyên nghiệp, không phải tranh minh họa, không có hiệu ứng vẽ tranh.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250538933_zhpbu1_HRBedbWagAAe88H.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh chân dung thời trang với kỹ thuật Selective Color - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250537486_4ct5rs_HRBedbabkAAZDSa.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh chân dung thời trang với kỹ thuật Selective Color - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Kashberg](https://x.com/Kashberg_0)
-- **Nguồn:** [Twitter Post](https://x.com/Kashberg_0/status/2094277756297314773)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33001)**
-
----
-
-### No. 17: Hồ sơ / Ảnh đại diện - Ảnh chân dung chụp nhanh bằng đèn flash tại lối đi vào nhà ban đêm
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Tạo ra một bức ảnh chụp nhanh chân thực vào ban đêm với ánh sáng đèn flash trực tiếp, phong cách xử lý ảnh bằng điện thoại thông minh và kết cấu da tự nhiên trong bối cảnh khu dân cư.
-
-#### 📝 Câu lệnh
-
-```
-Một bức ảnh chụp nhanh chân thực vào ban đêm với đèn flash trực tiếp của {argument name="subject" default="một phụ nữ trẻ Đông Á với mái tóc dài, nâu sẫm, gợn sóng tự nhiên, đeo kính gọng mảnh thời trang"}, mặc {argument name="clothing" default="áo ba lỗ đen trơn ôm sát, quần short thể thao trắng giản dị và một chiếc vòng cổ mặt dây chuyền bạc nhỏ tinh tế"}. Cô ấy được chụp từ góc nhìn hơi cao, máy ảnh hướng xuống một cách tự nhiên khi cô ấy nhìn hơi xuống dưới với biểu cảm bình tĩnh, trung tính. Tay trái của cô ấy được đặt một cách tự nhiên trong túi quần short trong khi cánh tay kia buông thõng tự nhiên bên người.
-
-Phông nền cho thấy một {argument name="setting" default="lối đi bê tông ngoài trời tại khu dân cư vào ban đêm"} chân thực, với cổng kim loại trắng, cột nhà và đèn tường ngoài trời sáng. Đèn flash trực tiếp tông màu lạnh từ camera điện thoại thông minh chiếu sáng cô ấy một cách tự nhiên, tạo ra các điểm sáng, bóng đổ chân thực và độ tương phản ban đêm sống động. Các chi tiết môi trường bình thường, bố cục chụp nhanh hơi không hoàn hảo, kết cấu da tự nhiên, từng sợi tóc, kết cấu vải chân thực, xử lý ảnh tinh tế kiểu điện thoại thông minh, chi tiết sắc nét nhưng đáng tin, không có ánh sáng studio, không có bộ lọc làm đẹp, không chỉnh sửa quá mức, ảnh chụp đời thường tự phát chân thực, độ phân giải cao, bố cục dọc 3:4.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250567662_v4o8rf_HRBStYLawAAaDDT.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh chân dung chụp nhanh bằng đèn flash tại lối đi vào nhà ban đêm - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250567657_k9lyr4_HRBSt8vaQAAgTie.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh chân dung chụp nhanh bằng đèn flash tại lối đi vào nhà ban đêm - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Aqsa](https://x.com/Aqsahere_)
-- **Nguồn:** [Twitter Post](https://x.com/Aqsahere_/status/2094264783415689474)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33000)**
-
----
-
-### No. 18: Hồ sơ / Ảnh đại diện - Phác thảo bằng bút chì và than chì đơn sắc
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh chuyển đổi giúp biến ảnh chân dung thành bản phác thảo bằng than chì và bút chì đen trắng cao cấp trong khi vẫn giữ nguyên danh tính.
-
-#### 📝 Câu lệnh
-
-```
-Sử dụng ảnh đã tải lên làm tài liệu tham khảo danh tính duy nhất cho người này.
-
-Chuyển đổi người này thành {argument name="artistic style" default="chân dung nghệ thuật đen trắng cao cấp"}: đang ngồi thoải mái, {argument name="action" default="đọc một cuốn sách mở"} trong khi tay cầm {argument name="object" default="một tách cà phê nhỏ"}.
-
-BẢO TỒN DANH TÍNH:
-Duy trì cấu trúc khuôn mặt, mắt, lông mày, mũi, môi, đường viền hàm, đặc điểm da, kiểu tóc, kết cấu tóc và diện mạo tổng thể của người này một cách trung thực so với ảnh tham khảo đã tải lên.
-
-TƯ THẾ:
-Người này ngồi trong tư thế thư giãn, thanh lịch, tự nhiên nhìn xuống cuốn sách đang mở khi đang đọc. Một tay nhẹ nhàng cầm tách cà phê bằng gốm, tay kia đặt trên hoặc đỡ cuốn sách đang mở. Tư thế cần tạo cảm giác tự nhiên, tĩnh lặng và không gượng ép.
-
-TRANG PHỤC:
-Giữ nguyên trang phục từ ảnh tham khảo nếu phù hợp, với kết cấu vải chân thực và các nếp gấp tự nhiên. Giữ cho vẻ ngoài tổng thể tinh tế và giản dị.
-
-PHONG CÁCH NGHỆ THUẬT:
-Chuyển đổi toàn bộ khung cảnh thành bản phác thảo bằng bút chì và than chì đơn sắc chi tiết kết hợp với nhiếp ảnh chân dung biên tập chân thực. Sử dụng các đường nét bút chì than chì cực mảnh, kỹ thuật đánh bóng chéo tinh tế, đổ bóng than chì chân thực, kết cấu giấy mịn, nét mực tinh tế, các cạnh vẽ tay và sự chuyển đổi tông màu mềm mại.
-
-HIỆU ỨNG KHÓI:
-Bao quanh người này bằng làn khói than chì chảy nhẹ nhàng, bụi than chì, các hạt phác thảo mịn và các nét mực. Khói nên xuất hiện tự nhiên xung quanh tóc, vai, cánh tay, quần áo, cuốn sách và phần thân dưới, mờ dần một cách mượt mà vào nền trắng.
-
-TACH CÀ PHÊ:
-Một tách cà phê bằng gốm phải hiển thị rõ ràng trên tay người này, được kết xuất hoàn toàn với các chi tiết đổ bóng bằng bút chì và than chì chân thực.
-
-SÁCH:
-Cuốn sách đang mở phải hiển thị rõ ràng và chi tiết, với các trang sách chân thực và kết cấu viết tay tinh tế. Không thêm văn bản hoặc logo có thể đọc được vào các trang sách.
-
-NỀN:
-Nền giấy có kết cấu màu trắng sạch hoặc trắng kem ấm. Bố cục tối giản với nhân vật nổi bật từ nghệ thuật phác thảo khói xung quanh.
+KHÔNG có chi tiết sắc nét đóng băng.
 
 MÀU SẮC:
-Chỉ sử dụng màu đen trắng và các tông màu xám đơn sắc mềm mại. Không có màu sắc.
+Tông màu VÀNG KIM cổ điển ấm áp MẠNH MẼ bao phủ toàn bộ khung hình.
 
-ÁNH SÁNG:
-Ánh sáng chân dung điện ảnh mềm mại được chuyển đổi thành các tông màu đơn sắc, với các điểm nhấn chi tiết trên khuôn mặt và bóng đổ tự nhiên.
+Các điểm sáng màu vàng kem, ánh nắng vàng mật ong, da màu be ấm, mặt đường màu đất son, bóng đổ màu nâu xanh trầm và các mảng trắng ngả vàng.
 
-CHẤT LƯỢNG:
-Siêu chi tiết, cấu trúc cơ thể chính xác về mặt giải phẫu, các sợi tóc chi tiết cao, bàn tay và ngón tay chân thực, quần áo chi tiết, tách gốm và cuốn sách chân thực, bản phác thảo bằng bút chì và than chì đạt chuẩn phòng trưng bày chuyên nghiệp.
+KHÔNG có màu trắng trung tính.
+KHÔNG có tông màu lạnh.
 
-BỐ CỤC:
-Chân dung chính giữa, hiển thị đầy đủ người, tách cà phê và cuốn sách. Đầu, tóc, tay, tách, sách và cơ thể đều nằm trong khung hình. Để lại nhiều không gian trắng sạch xung quanh các cạnh của nghệ thuật khói.
-
-QUAN TRỌNG:
-Hình ảnh đã tải lên chỉ dùng để tham khảo danh tính. Bảo tồn danh tính và diện mạo của người này. Không thay đổi khuôn mặt.
+ĐỘ MỀM MẠI CỦA 35MM CŨ:
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1280,77 +669,39 @@ Hình ảnh đã tải lên chỉ dùng để tham khảo danh tính. Bảo tồ
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250542375_qfp86c_HRA8kekbMAAL8P6.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Phác thảo bằng bút chì và than chì đơn sắc - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [john jacket](https://x.com/jacket82488)
-- **Nguồn:** [Twitter Post](https://x.com/jacket82488/status/2094240454162440553)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33025)**
-
----
-
-### No. 19: Hồ sơ / Ảnh đại diện - Chân dung cô gái châu Á phong cách phim cổ điển
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh chi tiết để tạo ảnh chân dung phong cách phim cổ điển của một cô gái với mái tóc xoăn đen rối trong con đường rợp bóng cây dưới ánh nắng, tạo nên bầu không khí mùa hè đầy hoài niệm.
-
-#### 📝 Câu lệnh
-
-```
-Sử dụng kết cấu phim cổ điển làm phong cách hình ảnh, chủ thể là {argument name="subject" default="cô gái với mái tóc xoăn đen dài bồng bềnh và rối nhẹ"}. Mái tóc cô ấy tỏa sáng dịu dàng dưới ánh nắng, vài sợi tóc tự nhiên rơi trên má, thể hiện vẻ trẻ trung đầy phóng khoáng. Cô ấy {argument name="clothing" default="đang mặc một chiếc váy hai dây trắng đơn giản"}, để lộ phần cổ và vai thanh mảnh, trông thật tươi mới và dịu dàng. Cô ấy có {argument name="expression" default="nụ cười ngọt ngào trên môi"}, đôi mắt cong hình bán nguyệt, tỏa ra năng lượng thư thái và chữa lành. Bối cảnh là một con đường rợp bóng cây với những hàng cây tiêu huyền cao lớn, những tán lá xanh dày đặc xếp chồng lên nhau. Ánh nắng xuyên qua kẽ lá, đổ những bóng nắng lốm đốm lên mặt đường và chủ thể. Những chiếc cọc tiêu giao thông ở phía xa và con đường kéo dài tạo nên bầu không khí mùa hè tĩnh lặng nhưng đầy sức sống. Tông màu tổng thể ấm áp với hạt phim, nụ cười của cô gái hòa quyện cùng con đường, truyền tải tâm trạng mùa hè tươi mới và chữa lành, hoàn hảo để ghi lại những khoảnh khắc đời thường xinh đẹp và thư thái.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250544447_hk2r7l_HRAq8kkbUAEvOsY.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung cô gái châu Á phong cách phim cổ điển - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336909225_j25faq_HRMR-nqaYAA_1kb.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh chụp đường phố nhân vật nhất quán theo chuỗi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250544454_fad76z_HRAq8kIasAATseI.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung cô gái châu Á phong cách phim cổ điển - Image 2">
+<img src="https://cms-assets.youmind.com/media/1788336909187_181n8i_HRMR_TIbkAAYE6X.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh chụp đường phố nhân vật nhất quán theo chuỗi - Image 2">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Adam也叫吉米](https://x.com/Adam38363368936)
-- **Nguồn:** [Twitter Post](https://x.com/Adam38363368936/status/2094221626732884444)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** zh
+- **Tác giả:** [Mahira](https://x.com/MahiraEhan)
+- **Nguồn:** [Twitter Post](https://x.com/MahiraEhan/status/2095038039714369735)
+- **Đã xuất bản:** 2 tháng 9, 2026
+- **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33016)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33217)**
 
 ---
 
-### No. 20: Hồ sơ / Ảnh đại diện - Chân dung phụ nữ Đông Á chân thực
+### No. 3: Hồ sơ / Ảnh đại diện - Ảnh ghép chân dung phụ nữ Hàn Quốc trong giờ vàng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một câu lệnh tạo ảnh chân dung chân thực, chi tiết cao về một phụ nữ trẻ Đông Á đang tạo dáng chữ V, theo phong cách selfie chuyên nghiệp.
+Tạo ảnh ghép chân dung 2x2 chân thực của một phụ nữ trẻ Hàn Quốc với nhiều biểu cảm khác nhau dưới ánh nắng điện ảnh ấm áp.
 
 #### 📝 Câu lệnh
 
 ```
-Một bức chân dung cận cảnh cực kỳ chân thực về {argument name="subject" default="một phụ nữ trẻ Đông Á (đầu 20 tuổi)"} với làn da trắng sứ và lớp trang điểm tự nhiên nhẹ nhàng. Cô ấy có mái tóc dài, thẳng, màu nâu sẫm mượt mà với phần tóc mái thưa buông nhẹ trên trán. Cô ấy đeo {argument name="accessory" default="chiếc kính gọng chữ nhật màu đen mảnh với điểm nhấn kim loại vàng tinh tế"} ở phần bản lề và cầu kính. Đôi mắt cô to và biểu cảm với tròng mắt màu nâu dịu, nhìn thẳng vào ống kính với vẻ mặt nhẹ nhàng, hơi tinh nghịch. Cô nở nụ cười khép miệng dịu dàng với đôi môi hồng tự nhiên bóng bẩy và đôi má ửng hồng nhẹ.
-
-Tay phải của cô giơ lên gần mặt trong tư thế {argument name="pose" default="chữ V cổ điển (dấu hiệu hòa bình)"}, các ngón tay hơi thả lỏng, để lộ những ngón tay thon dài với hai chiếc nhẫn vàng mảnh trên ngón áp út và ngón giữa. Cô mặc một chiếc áo hai dây màu đen mỏng để lộ bờ vai trần và xương quai xanh.
-
-Ánh sáng trong nhà dịu nhẹ, đều đặn tạo nên vẻ rạng rỡ trên làn da cùng những điểm nhấn tinh tế trên gò má và gọng kính. Độ sâu trường ảnh nông, kết cấu da mịn màng, các sợi tóc chân thực và tỷ lệ khuôn mặt tự nhiên. Nền màu be kem trung tính, sạch sẽ và tối giản. Ảnh được chụp theo phong cách chân thực, độ phân giải cao giống như một bức ảnh selfie bằng điện thoại thông minh chuyên nghiệp hoặc ảnh chân dung làm đẹp, tư thế đầu hơi nghiêng, mang tính thẩm mỹ gần gũi và dễ thương.
+Tạo ảnh ghép chân dung 2×2 chân thực về {argument name="subject" default="một phụ nữ trẻ Hàn Quốc đáng yêu"} trong {argument name="lighting" default="ánh sáng giờ vàng ấm áp"}, trang điểm tự nhiên và tóc búi rối, mặc {argument name="outfit" default="áo hai dây màu đen"}. Bốn biểu cảm và tư thế dễ thương khác nhau: mỉm cười nhẹ nhàng, cười tươi tay đặt trên má, nụ cười tinh nghịch và tư thế ngón tay đặt trên má. Nhiếp ảnh đời thường chân thực, kết cấu da tự nhiên, ánh nắng điện ảnh, độ sâu trường ảnh nông.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1358,107 +709,85 @@ Tay phải của cô giơ lên gần mặt trong tư thế {argument name="pose"
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788163946366_d6ckog_HQx2Q3cbEAAHarx.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung phụ nữ Đông Á chân thực - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336901969_5v71lu_HRL3-NlbcAAFIgI.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh ghép chân dung phụ nữ Hàn Quốc trong giờ vàng - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Eesha](https://x.com/MissDelulu9)
+- **Nguồn:** [Twitter Post](https://x.com/MissDelulu9/status/2095009439732654089)
+- **Đã xuất bản:** 2 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33210)**
+
+---
+
+### No. 4: Hồ sơ / Ảnh đại diện - Chân dung Studio biên tập nam phong cách điện ảnh
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh tạo ảnh chân dung biên tập cho nam giới dáng người mảnh khảnh trong bộ vest đen với ánh sáng hai tông màu cam và xanh dương, được thiết kế để bảo toàn đặc điểm nhận dạng khuôn mặt.
+
+#### 📝 Câu lệnh
+
+```
+Ảnh chân dung biên tập cận cảnh phong cách điện ảnh của {argument name="subject" default="nam thanh niên dáng người mảnh khảnh"} với khuôn mặt người dùng là chủ thể chính, mặc {argument name="outfit" default="bộ vest đen lịch lãm, áo blazer tối màu và áo cổ lọ đen"}, ánh nhìn trực diện với nụ cười mỉm tinh tế, phông nền studio {argument name="background" default="màu cam sống động liền mạch"}, ống kính 85mm, f/4, ISO 100, tốc độ màn trập 1/200s, ánh sáng điện ảnh hai tông màu với sắc cam ấm áp và điểm nhấn viền xanh dương mát mẻ.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336905670_zpaxb0_HRL2gQSaMAAGZjy.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung Studio biên tập nam phong cách điện ảnh - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788163946584_ehtehk_HQx2Q3MbgAA2AWb.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung phụ nữ Đông Á chân thực - Image 2">
+<img src="https://cms-assets.youmind.com/media/1788336905823_j8fg0s_HRL2g0eb0AAnnnZ.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung Studio biên tập nam phong cách điện ảnh - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788163946759_3hp3nm_HQx2Q3SaYAExn7R.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung phụ nữ Đông Á chân thực - Image 3">
+<img src="https://cms-assets.youmind.com/media/1788336905670_hemvrm_HRL2hX4bAAAIomk.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung Studio biên tập nam phong cách điện ảnh - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788163947391_vcif0c_HQx2Q3WbUAAPYvq.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung phụ nữ Đông Á chân thực - Image 4">
+<img src="https://cms-assets.youmind.com/media/1788336906683_ztdy2n_HRL2h9LaMAAreVC.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung Studio biên tập nam phong cách điện ảnh - Image 4">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Feyber](https://x.com/woleswoosh)
-- **Nguồn:** [Twitter Post](https://x.com/woleswoosh/status/2094183382020403516)
-- **Đã xuất bản:** 30 tháng 8, 2026
+- **Tác giả:** [Johnn](https://x.com/john_my07)
+- **Nguồn:** [Twitter Post](https://x.com/john_my07/status/2095007846765351003)
+- **Đã xuất bản:** 2 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33045)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33213)**
 
 ---
 
-### No. 21: Bài đăng trên mạng xã hội - Khung cảnh phòng khách mùa hè ngập tràn ánh nắng
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một bức ảnh mang hơi hướng hoài niệm về buổi chiều mùa hè, ghi lại khoảnh khắc một người phụ nữ đang nghỉ ngơi trong căn phòng khách phong cách Nhật Bản kết hợp hiện đại, nổi bật với ánh nắng, một thiết bị cầm tay và những yếu tố mùa hè cổ điển như dưa hấu.
-
-#### 📝 Câu lệnh
-
-```
-Chủ đề:
-Kỳ nghỉ hè ngập tràn ánh nắng
-
-Chủ thể chính:
-Nhân vật được đặt theo đường chéo từ trung tâm xuống phía dưới bên phải. Một bức ảnh dọc chụp {argument name="person" default="người phụ nữ"} đang nằm trên tấm đệm dệt trong phòng khách mang phong cách kết hợp Nhật - Tây, tay cầm một {argument name="handheld item" default="thiết bị cầm tay nhỏ màu tím nhạt"} phía trên đầu và đang chăm chú nhìn vào đó. Trên chiếc bàn tròn ở tiền cảnh, {argument name="food" default="dưa hấu"}, sách, nước và những chiếc chai màu xanh được xếp ngay ngắn.
-
-Nhân vật/Biểu cảm:
-Khuôn mặt trái xoan nhỏ, hơi nghiêng với phần cằm tròn, đôi mắt nâu dài, lông mày mảnh, sống mũi thẳng và đôi môi màu hồng san hô bóng bẩy. Má ửng hồng nhẹ nhàng. Tóc màu nâu sẫm búi thấp, hơi rối ở phía sau đầu, để lại phần tóc mái mỏng và vài sợi tóc mai trước tai. Đầu quay về phía trên bên phải, ánh mắt nhìn thiết bị đang cầm trên tay một cách tĩnh lặng và đầy thích thú.
-
-Trang phục/Tư thế:
-Mặc áo hai dây màu trắng và quần họa tiết hoa. Chiếc áo hai dây vải gân màu trắng kem có dây đeo siêu mảnh và ren tinh tế ở phần ngực. Quần short trắng có dây rút, in họa tiết hoa nhỏ màu hồng và viền ren ở gấu quần. Nằm theo đường chéo, chống nửa thân trên bằng cách đặt khuỷu tay trái lên đệm. Tay trái (phía trên bên phải) nâng thiết bị cầm tay nhỏ có đầu tròn, tay còn lại duỗi về phía dưới bên trái.
-
-Bối cảnh/Ánh sáng:
-Ánh sáng vàng dịu nhẹ tràn vào từ cửa sổ bên phải. Một chiếc quạt điện lưới kim loại kiểu cũ, kệ sách gỗ, giỏ đựng đồ, rèm cửa màu trắng kem, cửa sổ lớn và cây xanh trong chậu. Trên chiếc bàn tròn thấp ở tiền cảnh là một cuốn sách bìa Nhật, một ly nước trong suốt, dưa hấu cắt miếng và một chiếc chai thủy tinh màu xanh. Ánh nắng chiều vàng óng chiếu xiên từ cửa sổ bên phải, tạo nên những vệt sáng dài trên làn da và tấm thảm kiểu tatami.
-
-Bố cục/Máy ảnh:
-Ảnh chân dung nửa thân trên chụp từ góc cao phía trên bàn. Nhân vật chiếm diện tích lớn, chân bị cắt ở mép khung hình, tập trung vào khuôn mặt và thiết bị. Bố cục dọc 2:3, nhìn xuống theo đường chéo từ vị trí cao hơn bàn một chút. Thân hình người nằm được đặt từ dưới trái sang dưới phải, thiết bị được nâng ở trung tâm phía trên, quạt ở phía sau đầu và bàn tròn làm tiền cảnh lớn ở mép dưới. Làm rõ nét nhân vật và thiết bị, đồng thời làm mờ nhẹ khung cửa sổ bên ngoài.
-
-Kết cấu/Phong cách:
-Ảnh chụp chân thực, độ phân giải cao về một buổi chiều mùa hè ấm áp. Ghi lại chi tiết các chất liệu vải gân, thảm dệt, gỗ, thủy tinh, dưa hấu và ánh sáng vàng lấp lánh bụi trong những tông màu hoài niệm.
-
-Phủ định:
-Không được biến thiết bị nhỏ màu tím nhạt đang cầm thành vật khác; không thay đổi tư thế nằm.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250546437_4xhobm_HQzUJsyaUAEYymJ.jpg" width="600" alt="Bài đăng trên mạng xã hội - Khung cảnh phòng khách mùa hè ngập tràn ánh nắng - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **Nguồn:** [Twitter Post](https://x.com/CyberTotal2026/status/2094683172609106299)
-- **Đã xuất bản:** 1 tháng 9, 2026
-- **Ngôn ngữ:** ja
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33125)**
-
----
-
-### No. 22: Bài đăng trên mạng xã hội - Ảnh chân dung đội mũ rộng vành trên bãi biển
+### No. 5: Hồ sơ / Ảnh đại diện - Ảnh chân dung ngoài trời tự nhiên với áo hoodie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một bức ảnh chân dung thời trang dọc đầy chân thực về một cô gái trẻ đội mũ rơm và mặc áo ren trắng trên bãi biển nhiệt đới.
+Một câu lệnh tạo ảnh chân dung dọc chân thực về một cô gái trẻ mặc áo hoodie trắng trên nền bokeh đô thị với ánh sáng dịu nhẹ.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức ảnh chân dung dọc đầy chân thực trên bãi biển về một cô gái trẻ với các đặc điểm {argument name="ethnicity" default="Đông Á"} đang đứng bên bờ biển nhiệt đới màu xanh ngọc dưới bầu trời trong xanh với vài đám mây trắng nhẹ nhàng. Cô ấy được chụp từ phần thân trên trở lên trong tư thế quay lưng ba phần tư, quay đầu về phía máy ảnh với nụ cười nhẹ nhàng, điềm tĩnh và ánh mắt thư thái. Cô ấy có mái tóc {argument name="hair color" default="đen"} được búi thấp lỏng lẻo, với vài sợi tóc bay trong gió trên má. Cô ấy đội một chiếc mũ rơm rộng vành tự nhiên với kết cấu đan hở và viền màu xanh navy đậm, một tay nhẹ nhàng giữ vành mũ. Chiếc mũ tạo ra những bóng đổ dạng lưới chấm bi tinh tế trên khuôn mặt, vai, cổ và lưng trên của cô ấy. Trang phục của cô là chiếc áo blouse mùa hè trễ vai bằng ren đục lỗ màu trắng với họa tiết hoa thêu cắt khoét và cổ áo xếp bèo, lộ ra dây áo bơi hoặc áo camisole mỏng trên một bên vai. Sử dụng ánh sáng mặt trời rực rỡ giữa trưa, màu sắc tự nhiên sắc nét, độ sâu trường ảnh nông, đường chân trời đại dương được làm mờ nhẹ và hòn đảo xa xa ở phía bên trái, kết cấu da chân thực, phong cách biên tập thời trang kỳ nghỉ bãi biển, bố cục dọc 9:16, chủ thể được đặt hơi lệch về bên phải, không có văn bản, không có hình mờ.
+Tạo một bức chân dung ngoài trời chân thực về một {argument name="subject" default="cô gái trẻ người Đông Á"} đang đứng dưới ánh sáng ban ngày dịu nhẹ, khung hình từ ngang ngực trở lên với bố cục dọc 4:5. Cô ấy có {argument name="hair color and style" default="mái tóc màu nâu hạt dẻ vừa phải ngang vai với các lớp tóc mềm mại và tóc mái thưa thẳng"}, trang điểm tự nhiên, làn da sáng, đôi mắt nâu to và nụ cười mỉm nhẹ nhàng, thư thái khi nhìn trực diện vào máy ảnh. Cô ấy mặc một chiếc {argument name="outfit" default="áo hoodie ôm vừa vặn màu xám trắng trơn có dây rút"}; các chi tiết trang phục hiển thị bao gồm chính xác 4 phần: mũ trùm đầu, hai dây rút, tay áo dài và phần thân áo ôm sát. Đôi bàn tay cô ấy đan nhẹ gần mép dưới bên phải khung hình, bị cắt một phần. Sử dụng độ sâu trường ảnh nông với hậu cảnh đô thị mờ ảo gồm các cột dọc tối màu và những điểm nhấn bokeh tròn sáng, ánh sáng viền ấm áp bắt lấy mái tóc từ phía trên bên phải, bóng đổ tự nhiên mềm mại trên khuôn mặt và áo hoodie, kết cấu da chân thực, nếp gấp vải chân thực, phong cách chân dung DSLR độ phân giải cao, cảm giác ống kính 85mm, chỉnh màu tự nhiên, không văn bản, không hình mờ, không có người khác.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1466,89 +795,51 @@ Tạo một bức ảnh chân dung dọc đầy chân thực trên bãi biển v
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250581169_px6oom_HRG0y3Ea8AADQ80.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ảnh chân dung đội mũ rộng vành trên bãi biển - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336942549_8ds0vp_HRLx1geacAA6Fpt.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh chân dung ngoài trời tự nhiên với áo hoodie - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336942523_iwkjfl_HRLx1yXbsAALa7E.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh chân dung ngoài trời tự nhiên với áo hoodie - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336942611_widhhy_HRLx2D0asAAv0W1.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh chân dung ngoài trời tự nhiên với áo hoodie - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336943362_0vx9rk_HRLx2akbgAA6i1J.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh chân dung ngoài trời tự nhiên với áo hoodie - Image 4">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [愛生あさい（実在しないモデルの研究中）](https://x.com/A101asAI)
-- **Nguồn:** [Twitter Post](https://x.com/A101asAI/status/2094654810201248151#reversed-1)
-- **Đã xuất bản:** 1 tháng 9, 2026
+- **Tác giả:** [🎀いおり's Room🎀](https://x.com/RimIlhAtpu60408)
+- **Nguồn:** [Twitter Post](https://x.com/RimIlhAtpu60408/status/2095002697707741490#reversed-0)
+- **Đã xuất bản:** 2 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33157)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33250)**
 
 ---
 
-### No. 23: Bài đăng trên mạng xã hội - Chân dung đêm đô thị bên tháp phát sóng
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một bức ảnh phong cách đường phố có độ tương phản cao vào ban đêm, ghi lại hình ảnh một người phụ nữ đang tựa vào lan can với tháp phát sóng màu cam rực rỡ và các biển báo giao thông ở hậu cảnh.
-
-#### 📝 Câu lệnh
-
-```
-Chủ đề:
-Gió đêm dưới chân tháp
-
-Chủ thể chính:
-Nhân vật được đặt nổi bật ở trung tâm khung hình. Ảnh chụp toàn thân vào ban đêm của một {argument name="person" default="người phụ nữ"} đang tựa vào một {argument name="background element" default="lan can kim loại màu trắng"} gần một tháp phát sóng lớn được chiếu sáng bằng ánh sáng đỏ cam. Khung hình bao gồm một nhóm biển báo giao thông ở bên trái, tháp ở phía sau bên phải, và nhân vật được làm sáng bằng đèn flash trực diện.
-
-Nhân vật/Biểu cảm:
-Khuôn mặt trái xoan nhỏ với đôi má mịn màng và cằm tròn. Đôi mắt nâu dài, lông mày thẳng tự nhiên, mũi thẳng nhỏ và đôi môi màu san hô với độ dày vừa phải. Má hồng nhạt và kẻ mắt tinh tế. Mái tóc bob tròn màu nâu sẫm dài quá cằm, với phần tóc mái thưa và những lọn tóc ngắn ôm sát hai bên má. Khuôn mặt hướng về phía trước, môi hơi mở, nhìn lặng lẽ vào ống kính.
-
-Trang phục/Tư thế:
-Áo hai dây trắng chất liệu vải gân mảnh với dây vai nhỏ và cổ tròn nông. Quần short kiểu quấn màu xanh nhạt xếp chồng lên nhau như váy, để lộ lớp quần bên trong. Tất gân trắng và giày thể thao trắng. Tựa eo vào chính giữa lan can trắng, đặt hai tay lên thanh chắn bên trái và phải, hai chân mở rộng với một đầu gối hơi gập.
-
-Bối cảnh/Ánh sáng:
-Ánh sáng chính là đèn flash cứng từ phía trước máy ảnh. Bầu trời đêm đen, một tòa tháp lớn được chiếu sáng bằng ánh sáng trắng và đỏ cam ở phía sau bên phải, một vài biển báo giao thông đỏ và xanh cùng một chiếc hộp dán đầy nhãn dán ở bên trái, những chiếc xe ở xa và đèn đường. Đèn flash cứng phía trước làm sáng nhân vật và lan can, trong khi ánh sáng ấm áp từ tòa tháp tạo màu cho hậu cảnh.
-
-Bố cục/Máy ảnh:
-Góc nhìn rộng từ dưới lên. Lấy nét vào nhân vật, với cảnh đêm được làm mờ nhẹ. Bố cục dọc 3:4, ảnh toàn thân góc rộng chụp từ vị trí rất thấp. Nhân vật ở trung tâm, biển báo giao thông ở mép trái, tòa tháp ở góc trên bên phải, và đôi chân mở rộng bị cắt bớt ở các mép dưới bên trái và phải. Lan can vắt ngang phía sau thắt lưng; giữ cho nhân vật sắc nét và cảnh đêm mờ nhẹ.
-
-Kết cấu/Phong cách:
-Ảnh chụp thực tế, chân thực. Nhiếp ảnh đường phố ban đêm độ phân giải cao sử dụng đèn flash trực tiếp. Ghi lại chi tiết vải gân trắng, vải xanh nhạt, lan can kim loại bị hư hại và ánh sáng cam của tòa tháp với độ tương phản cao.
-
-Phủ định:
-Không thay đổi góc rộng thấp và tư thế ngồi trên lan can; không thay đổi đáng kể các đặc điểm khuôn mặt.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250547545_zavv26_HQzSUkXaMAAb8pf.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung đêm đô thị bên tháp phát sóng - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **Nguồn:** [Twitter Post](https://x.com/CyberTotal2026/status/2094652220197519864)
-- **Đã xuất bản:** 1 tháng 9, 2026
-- **Ngôn ngữ:** ja
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33127)**
-
----
-
-### No. 24: Bài đăng trên mạng xã hội - Buổi chụp ảnh phong cách Alt-Rock
+### No. 6: Hồ sơ / Ảnh đại diện - Nhân vật gấu hoạt hình phong cách ngây thơ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một buổi chụp ảnh biên tập phong cách alternative rock đầy cá tính của một cô gái trẻ với đàn guitar điện, sử dụng kỹ thuật chụp đèn flash trực tiếp và mang đậm hơi thở đường phố bụi bặm.
+Tạo ra nhân vật gấu vẽ nguệch ngoạc với đường viền dày đơn giản, phù hợp cho các ý tưởng linh vật, nhãn dán hoặc minh họa cho trẻ em.
 
 #### 📝 Câu lệnh
 
 ```
-Một buổi chụp ảnh phong cách alternative rock đầy cá tính của một cô gái trẻ đang ngồi trên sàn nhà trong nhà, cầm theo {argument name="guitar" default="cây đàn guitar điện màu đỏ"}, tư thế tự nhiên đầy kịch tính với đầu ngả ra sau và lưỡi tinh nghịch hướng về phía cần đàn, thái độ nổi loạn và tinh nghịch, {argument name="hair style" default="mái tóc đen với những sợi highlight màu sắc tinh tế"}, mặc {argument name="outfit" default="trang phục streetwear sang trọng ngoại cỡ"} và quần thiết kế họa tiết, đeo nhiều nhẫn và trang sức trên ngón tay, chụp ảnh đèn flash studio, đèn flash trực tiếp trên máy ảnh, ánh sáng độ tương phản cao, lấy nét sắc nét, kết cấu da chân thực, độ sâu trường ảnh nông, nhiếp ảnh âm nhạc biên tập hiện đại, phông nền sạch sẽ, phong cách thời trang kết hợp rock, hiệu ứng ống kính 35mm, chi tiết siêu cao.
+Tạo một hình minh họa hoạt hình toàn thân đơn giản về một nhân vật gấu đang đứng trên nền trắng nhạt trơn. Chú gấu được đặt ở chính giữa và hướng mặt về phía trước, được vẽ theo phong cách nguệch ngoạc ngây thơ vui nhộn với các đường viền đen rất dày, không đều, các hình khối tròn trịa và chi tiết tối giản. Cơ thể chủ yếu có {argument name="fur color" default="màu trắng ấm"}, cao và có hình quả lê, với đôi chân ngắn tròn trịa, cánh tay buông thõng và bàn chân nhỏ có ba ngón. Khuôn mặt có hai mắt tròn lớn đầy ngạc nhiên với con ngươi đen nhỏ, đôi tai tròn với vòng tròn màu hồng bên trong và chiếc mõm dài hình giọt nước dọc có màu {argument name="snout color" default="màu cam đào nhẹ"}. Thêm một chiếc mũi hình bầu dục màu đen gần phần dưới của mõm với một đường dọc nhỏ bên dưới, tạo cho chú gấu biểu cảm ngạc nhiên ngây ngô. Bao gồm chính xác 14 vạch ngắn màu be nhạt rải rác xuống bụng như những đốm lông tinh tế. Giữ bố cục sạch sẽ, phẳng, vẽ tay, mang nét trẻ thơ và hơi không hoàn hảo, không có văn bản, không có bóng đổ, không có phong cảnh và không có thêm nhân vật nào khác.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1556,89 +847,101 @@ Một buổi chụp ảnh phong cách alternative rock đầy cá tính của m�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250565996_f2f7nb_HRGdKMDaIAAgqyX.jpg" width="600" alt="Bài đăng trên mạng xã hội - Buổi chụp ảnh phong cách Alt-Rock - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336946298_djf2sb_HRLpPvCbgAA8Vm_.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Nhân vật gấu hoạt hình phong cách ngây thơ - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu)
+- **Nguồn:** [Twitter Post](https://x.com/shunchi_uu/status/2094994668081865171#reversed-1)
+- **Đã xuất bản:** 2 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33254)**
+
+---
+
+### No. 7: Hồ sơ / Ảnh đại diện - Ảnh selfie phong cách đường phố tự nhiên
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh tạo ảnh chân thực về một cô gái trẻ đang chụp ảnh selfie khi đi bộ trên vỉa hè thành phố, với trang phục chi tiết và kết cấu đô thị sắc nét.
+
+#### 📝 Câu lệnh
+
+```
+Một bức ảnh selfie phong cách đường phố tự nhiên, chân thực của một {argument name="subject" default="cô gái trẻ"} đang đi bộ ngoài trời trên vỉa hè thành phố. Cô ấy có mái tóc dài màu nâu sẫm xõa tự nhiên dưới chiếc {argument name="headwear" default="mũ lưỡi trai denim màu xanh bạc"} có thêu chữ màu trắng. Cô đeo tai nghe có dây màu trắng và nhìn vào camera với biểu cảm chu môi nhẹ nhàng, tinh nghịch. Cô mặc một bộ trang phục nhiều lớp giản dị: áo thun trắng ôm sát bên trong chiếc {argument name="outerwear" default="áo khoác kẻ sọc màu xám than dáng rộng"}, với dây đeo ba lô màu đỏ lộ ra trên một bên vai. Một tay cô cầm ly cà phê đá mang đi, tay kia xách một chiếc túi mua sắm lớn màu trắng. Camera được đặt cao hơn tầm mắt một chút, tạo ra góc nhìn selfie tự nhiên từ trên xuống. Nền là mặt đường nhựa xám, đá vỉa hè và các chi tiết đô thị tinh tế. Ánh sáng ban ngày dịu nhẹ, kết cấu da chân thực, chuyển động tóc tự nhiên, chi tiết trang phục xác thực, phong cách nhiếp ảnh điện thoại tự nhiên, hạt phim tinh tế, tông màu trung tính nhẹ nhàng, độ sâu trường ảnh nông, tỷ lệ thực tế, độ chi tiết cao, thẩm mỹ thời trang đời thường, bố cục dọc 4:5.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336905735_ydyjuy_HRLmXrBa8AADpgp.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh selfie phong cách đường phố tự nhiên - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Aqsa](https://x.com/Aqsahere_)
+- **Nguồn:** [Twitter Post](https://x.com/Aqsahere_/status/2094990079404200394)
+- **Đã xuất bản:** 2 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33212)**
+
+---
+
+### No. 8: Hồ sơ / Ảnh đại diện - Chân dung nam giới điện ảnh qua vai
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh tạo ảnh chân dung điện ảnh đầy kịch tính và chi tiết cho nam giới trưởng thành, với ánh sáng studio tối giản và ánh nhìn tập trung, sắc bén.
+
+#### 📝 Câu lệnh
+
+```
+Chân dung điện ảnh siêu thực của {argument name="subject" default="một người đàn ông trưởng thành điển trai với mái tóc đen dày, bồng bềnh và gợn sóng được vuốt ngược, bộ râu và ria mép được cắt tỉa gọn gàng"}, các đường nét khuôn mặt nam tính mạnh mẽ, ánh nhìn tập trung đầy sắc bén hướng qua vai về phía máy ảnh. Góc nghiêng ba phần tư từ phía sau, đầu quay nhẹ về phía người xem, mặc {argument name="outfit" default="chiếc áo khoác cổ cao màu đen tinh tế với phần cổ áo có gân"}. Ánh sáng studio tối giản đầy tâm trạng, ánh sáng chính mềm mại và ấm áp chiếu sáng một bên khuôn mặt, ánh sáng viền tinh tế tách biệt mái tóc và vai khỏi hậu cảnh, đổ bóng sâu, {argument name="background" default="hậu cảnh màu xám than tối liền mạch"}, nhiếp ảnh thời trang biên tập đầy kịch tính, thẩm mỹ nam tính tinh tế, kết cấu da chi tiết cao, từng sợi tóc chân thực, lỗ chân lông tự nhiên, độ sâu trường ảnh nông, ống kính chân dung 85mm, f/1.8, hiệu ứng bokeh mềm mại, tông màu tối trầm, độ tương phản cao, chân thực như ảnh chụp, buổi chụp hình tạp chí cao cấp, bố cục dọc, chủ thể nằm ở trung tâm, tỷ lệ khung hình 4:5.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336898450_k0iyk3_HRLj1fGbwAEMtUh.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung nam giới điện ảnh qua vai - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
 - **Tác giả:** [Aijaz](https://x.com/iamsofiaijaz)
-- **Nguồn:** [Twitter Post](https://x.com/iamsofiaijaz/status/2094628107798126679)
-- **Đã xuất bản:** 1 tháng 9, 2026
+- **Nguồn:** [Twitter Post](https://x.com/iamsofiaijaz/status/2094987291345449464)
+- **Đã xuất bản:** 2 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33146)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33205)**
 
 ---
 
-### No. 25: Bài đăng trên mạng xã hội - Ảnh chân dung thời trang nghỉ dưỡng trên bậc thang đá
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một gợi ý nhiếp ảnh du lịch sống động mô tả một phụ nữ tóc vàng mặc sarong xanh và áo trắng đang ngồi trên những bậc thang đá cổ dưới ánh nắng gay gắt.
-
-#### 📝 Câu lệnh
-
-```
-Chủ thể:
-{argument name="subject" default="Sarong xanh trên bậc thang đá"}
-
-Chủ thể chính:
-Nhân vật được đặt hơi lệch về phía bên trái trung tâm. Một bức ảnh dọc tại {argument name="location" default="cầu thang đá bên cạnh một tòa nhà cổ màu vàng đất"} với một phụ nữ tóc vàng đang ngồi nghiêng, vắt chéo chân. Trang phục gồm {argument name="outfit" default="áo croptop trắng và sarong họa tiết hoa màu xanh nhạt"}, cùng một chiếc túi đính cườm trắng ở phía bên trái dưới ánh nắng gay gắt.
-
-Nhân vật/Biểu cảm:
-Gương mặt trái xoan thanh tú với chiếc cằm nhỏ, đôi mắt nâu sẫm dài, đuôi mắt hơi xếch và đôi lông mày mỏng hình vòng cung. Sống mũi thanh mảnh với đầu mũi nhỏ, đôi môi căng mọng màu san hô bóng. Kẻ mắt kéo dài từ đuôi mắt và đánh phấn má hồng nhẹ nhàng. Mái tóc vàng mật ong uốn sóng nhẹ xõa dài xuống dưới ngực, rẽ ngôi giữa, với phần tóc mái thưa rủ xuống trán. Cô nghiêng đầu nhẹ nhìn vào ống kính, đôi môi hé mở.
-
-Trang phục/Tư thế:
-Mặc áo camisole trắng và chân váy quấn màu xanh. Chiếc áo camisole gân mảnh màu trắng kem có dây vai mảnh, cổ chữ V sâu, thắt nơ ở giữa dưới ngực và các đường bèo nhún nhỏ ở gấu áo. Một chiếc sarong mỏng màu xanh nhạt với họa tiết thực vật màu trắng được thắt ở eo, xẻ tà rộng một bên để lộ đùi. Ngồi chéo trên các bậc thang đá, vắt chéo hai chân dài về phía trước bên phải khung hình, một tay đặt trên đầu gối và tay kia đặt trên bậc thang. Một chiếc túi đính cườm dệt màu trắng với dây xích vàng được đặt ở phía bên trái.
-
-Bối cảnh/Ánh sáng:
-Các bậc thang đá ở bên trái và bức tường màu vàng đất ở bên phải hậu cảnh, với nguồn sáng chính là ánh nắng trực tiếp gay gắt từ phía trên bên trái. Những bức tường trát vữa màu vàng đất trầy xước và loang lổ, các bậc thang đá thô, một cánh cửa màu xanh lá cây đậm, các chậu hoa màu nâu, chậu gốm màu xanh nhạt và những dây leo treo. Ánh nắng gay gắt từ phía trên bên trái tạo ra những điểm nhấn mạnh trên tóc, vai và chân, đổ bóng sắc nét lên tường và các bậc thang.
-
-Bố cục/Máy ảnh:
-Máy ảnh được đặt ở tầm ngang đầu gối, cùng độ cao với vị trí ngồi. Đôi chân được lấy cận cảnh, kéo dài về phía mép khung hình, tập trung vào nhân vật. Bố cục dọc 2:3, chụp từ cùng độ cao với người ngồi, bao quát từ các chậu cây phía trên đến bàn chân. Nhân vật nằm ở trung tâm bên trái, đôi chân duỗi dài là tiền cảnh lớn ở phía dưới bên phải, và chiếc túi ở phía dưới bên trái. Đôi chân kéo dài ra ngoài khung hình, và các bậc thang đá ở hậu cảnh trải dài theo đường chéo vào khoảng không.
-
-Kết cấu/Phong cách:
-Nhiếp ảnh thời trang du lịch chân thực, độ phân giải cao với tông màu ấm. Mô tả chi tiết chất liệu vải gân, sarong trong suốt, hạt cườm dệt, đá cũ và vữa dưới ánh sáng tự nhiên mạnh.
-
-Phủ định:
-Không thay đổi độ xẻ tà lớn của chiếc sarong xanh hoặc tỷ lệ tiền cảnh của đôi chân dài.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250550415_lr7bpz_HQzQgGHb0AAaCtI.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ảnh chân dung thời trang nghỉ dưỡng trên bậc thang đá - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **Nguồn:** [Twitter Post](https://x.com/CyberTotal2026/status/2094626046159253661)
-- **Đã xuất bản:** 1 tháng 9, 2026
-- **Ngôn ngữ:** ja
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33129)**
-
----
-
-### No. 26: Bài đăng trên mạng xã hội - Ảnh ghép chân dung màu nước đầy mơ mộng
+### No. 9: Hồ sơ / Ảnh đại diện - Chân dung tại ghế vườn trong giờ vàng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Tạo ảnh ghép chân dung hai khung hình theo phong cách màu nước lãng mạn với ánh sáng giờ vàng, viền hoa và kết cấu giấy thủ công.
+Một bức chân dung dọc chân thực của một nam thanh niên Nam Á đang ngồi trên chiếc ghế vườn trang trí công phu dưới tán hoa giấy hồng và trắng, lý tưởng cho nhiếp ảnh phong cách sống hoặc mạng xã hội.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức ảnh ghép chân dung dọc theo phong cách màu nước đầy mơ mộng của {argument name="subject" default="một phụ nữ trẻ Đông Á"} với {argument name="hair description" default="mái tóc nâu dài gợn sóng, bay trong gió và hơi rối"}, đắm mình trong ánh sáng ngược giờ vàng. Sử dụng nền giấy thủ công màu be ấm áp với các mảng màu nước mềm mại, những vệt mực lấm tấm, các cạnh giấy xé mờ và những đường nét hình lục giác bằng vàng kim loại mờ nhạt. Bố cục gồm chính xác 2 khung hình chân dung được lồng ghép vào giấy: khung lớn phía trên là cận cảnh khuôn mặt và vai của cô ấy, đang cười tự nhiên với đôi mắt nheo lại, ánh sáng viền rực rỡ trên tóc, những sợi tóc lòa xòa trên mặt, đôi bông tai tinh tế và chiếc {argument name="coat" default="áo khoác trench coat màu be"}; khung nhỏ hơn phía dưới cho thấy toàn thân cô ấy từ phía sau trên một cầu gỗ bên hồ lúc hoàng hôn, đang quay đầu nhìn lại và mỉm cười, chiếc áo khoác trench coat màu be thắt đai ở eo, mặt nước lấp lánh và những ngọn đồi xa xa mờ ảo phía sau. Đóng khung bức ảnh ghép bằng chính xác 2 cụm viền hoa màu nước: một cụm hoa màu xanh dương bên trái với những bông hoa lớn trong suốt, nụ nhỏ, thân cây và những giọt mực xanh; một cụm cành lá màu nâu vàng bên phải với những chiếc lá tinh tế và những vệt màu ấm áp nhỏ li ti. Phong cách tổng thể mang lại cảm giác lãng mạn, thoáng đãng, hoài cổ, sổ lưu niệm đa phương tiện, sự kết hợp giữa nhiếp ảnh chân thực và minh họa màu nước, lấy nét mềm, ánh sáng mặt trời ấm áp, vân giấy tinh tế, không có văn bản, không có hình mờ.
+Tạo một bức ảnh chân dung dọc ngoài trời chất lượng cao về một nam thanh niên Nam Á với {argument name="hair style" default="tóc đen ngắn rẽ ngôi lệch"}, làn da nâu ấm trung bình, lông mày rậm, đôi mắt tối màu cùng bộ râu và ria mép được cắt tỉa gọn gàng. Anh ấy đang ngồi thoải mái trên một chiếc ghế vườn bằng sắt rèn màu đen được trang trí công phu, hướng mặt về phía máy ảnh với biểu cảm bình tĩnh, trung tính. Anh mặc một bộ {argument name="outfit color" default="nâu sô-cô-la đậm"} shalwar kameez truyền thống với áo tunic cài cúc cổ bẻ và quần ống rộng đồng bộ. Bao gồm chính xác 3 phụ kiện có thể nhìn thấy: một chiếc đồng hồ đeo tay vàng trên cổ tay phải, một chiếc nhẫn bạc trên tay trái và một chiếc vòng tay đen mảnh trên cổ tay trái. Tạo dáng cho anh ấy với một tay tựa dọc theo lưng ghế, tay kia thả lỏng gần đầu gối, một chân co và chân kia duỗi nhẹ, đi dép da màu nâu. Bối cảnh là một khu vườn tươi tốt trong giờ vàng, với ánh nắng ấm áp xuyên qua những tán cây và vòm hoa giấy treo phía trên. Các bông hoa nên bao gồm chính xác 3 nhóm màu nổi bật: hồng tươi, hồng nhạt và trắng kem, với những chiếc lá xanh bao quanh. Sử dụng độ sâu trường ảnh nông, hiệu ứng bokeh mượt mà, ánh sáng ngược dịu nhẹ, kết cấu da tự nhiên, tỷ lệ thực tế và phong cách chân dung DSLR cao cấp. Bố cục dọc 9:16, chủ thể nằm ở giữa nửa dưới, vòm hoa lấp đầy một phần ba phía trên, không có văn bản, không có hình mờ, không chỉnh sửa quá đà.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1646,39 +949,47 @@ Tạo một bức ảnh ghép chân dung dọc theo phong cách màu nước đ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250585978_tm5wzp_HRGSliHWoAAK9rW.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ảnh ghép chân dung màu nước đầy mơ mộng - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250585836_0jwsba_HRGSnVuWcAAOE3R.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ảnh ghép chân dung màu nước đầy mơ mộng - Image 2">
+<img src="https://cms-assets.youmind.com/media/1788336954214_802vk3_HRLK6PEaoAAt63P.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung tại ghế vườn trong giờ vàng - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Hania Ai](https://x.com/HaniaAi12)
-- **Nguồn:** [Twitter Post](https://x.com/HaniaAi12/status/2094616527651905622#reversed-0)
-- **Đã xuất bản:** 1 tháng 9, 2026
+- **Tác giả:** [Dilshad Hussain](https://x.com/DilshadAI1)
+- **Nguồn:** [Twitter Post](https://x.com/DilshadAI1/status/2094960087823704537#reversed-0)
+- **Đã xuất bản:** 2 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33163)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33263)**
 
 ---
 
-### No. 27: Bài đăng trên mạng xã hội - Chân dung đám đông trong giờ vàng
+### No. 10: Hồ sơ / Ảnh đại diện - Ảnh chân dung phong cách biên tập cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Tạo ra một bức chân dung biên tập đậm chất điện ảnh với hình ảnh một người phụ nữ sắc nét, nổi bật giữa những người đi bộ bị làm mờ chuyển động trong ánh sáng giờ vàng ấm áp của đô thị.
+Một câu lệnh tinh tế để biến ảnh chân dung thông thường thành ảnh chụp phong cách doanh nghiệp cao cấp với tông màu nâu sô-cô-la.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức ảnh chân dung biên tập đậm chất điện ảnh với {argument name="character name" default="một cô gái trẻ"} đang đứng yên ở trung tâm một con phố đô thị đông đúc trong ánh sáng giờ vàng ấm áp. Cô ấy có mái tóc {argument name="hair color" default="nâu mềm mại"} được buộc lỏng phía sau với những sợi tóc con bắt lấy ánh sáng viền, đôi mắt màu xanh lục hạt dẻ, trang điểm tự nhiên, đeo khuyên tai ngọc trai nhỏ và biểu cảm bình tĩnh, hơi mơ màng khi nhìn thẳng vào ống kính. Cô ấy mặc một chiếc áo khoác hoặc áo blazer {argument name="coat color" default="màu đen"}, khung hình từ giữa thân trở lên theo bố cục dọc 4:5. Bao quanh cô ấy là chính xác 9 người đi bộ bị làm mờ chuyển động: 1 người ở góc trái phía trước, 1 người một phần ở góc dưới bên trái mặc đồ đỏ trầm, 1 khuôn mặt một phần ở góc trên bên trái, 1 người tóc vàng ở góc trên chính giữa, 1 người tóc tối màu ở góc trên chính giữa, 1 người nam ở góc trên bên phải, 1 phụ nữ búi tóc ở giữa bên phải, 1 người mặc đồ tối màu ở xa bên phải và 1 bóng vai tối màu ở góc phải phía trước. Sử dụng hiệu ứng làm mờ chuyển động mạnh cho đám đông trong khi giữ cho khuôn mặt người phụ nữ sắc nét, tạo cảm giác như thời gian đang chậm lại xung quanh cô ấy. Ánh sáng cần mang sắc vàng, ngược sáng và đầy tính nghệ thuật, với hiệu ứng bokeh mềm mại, các điểm sáng ấm áp trên viền tóc, độ sâu trường ảnh nông, kết cấu da chân thực, tỷ lệ khuôn mặt tự nhiên và phong cách biên tập thời trang cao cấp. Sử dụng phong cách {argument name="lens style" default="ống kính chân dung 85mm"}, chỉnh màu điện ảnh, hạt phim nhẹ nhàng và không có văn bản hay hình mờ.
+Sử dụng ảnh đã tải lên làm tham chiếu về bố cục, tư thế, trang phục, ánh sáng và phong cách studio.
+
+Tạo một bức ảnh chân dung studio chuyên nghiệp siêu thực của một người đàn ông trưởng thành, lấy khung hình từ khoảng ngang đùi trở lên. Đặt chủ thể hơi lệch tâm, đứng ở tư thế ba phần tư thoải mái và hướng về phía máy ảnh. Để cả hai tay tự nhiên trong túi quần, vai thả lỏng, tư thế đứng thẳng và tự tin. Tạo một nụ cười ấm áp, tinh tế thể hiện sự chuyên nghiệp, dễ gần và sự tự tin trầm ổn.
+
+Cho chủ thể mặc bộ suit hai mảnh được thiết kế riêng hoàn hảo với màu {argument name="suit color" default="nâu sô-cô-la"}, bao gồm áo blazer một hàng khuy có cấu trúc và quần tây đồng bộ. Bên trong, thêm một chiếc áo sơ mi cài khuy màu {argument name="shirt color" default="đen"} trơn, sơ vin gọn gàng, cài kín cổ và không thắt cà vạt. Hoàn thiện trang phục với thắt lưng da màu đen bóng bẩy cùng khóa kim loại tối màu tối giản và một chiếc đồng hồ đeo tay màu đen bạc tinh tế.
+
+Cắt kiểu tóc low fade gọn gàng, sạch sẽ với phần tóc ngắn phía trên có kết cấu tự nhiên và đường chân tóc chính xác nhưng chân thực. Giữ vẻ ngoài chỉn chu và tự nhiên. Không đeo vòng cổ, dây chuyền, khuyên tai, nhẫn, ghim cài áo hoặc các phụ kiện rườm rà.
+
+Sử dụng phông nền studio liền mạch màu {argument name="background color" default="nâu sô-cô-la"} ấm áp, tối hơn bộ suit một chút, với độ chuyển màu mượt mà tinh tế và độ mờ dần nhẹ nhàng về phía các cạnh. Duy trì bảng màu đơn sắc nâu và đen đầy tinh tế.
+
+Sử dụng ánh sáng studio chuyên nghiệp dịu nhẹ với đèn chính khuếch tán lớn chiếu sáng khuôn mặt từ phía trước/bên, đèn phụ dịu nhẹ để giữ lại chi tiết da tự nhiên và tạo sự tách biệt tinh tế giữa chủ thể và phông nền. Tạo các bóng đổ mềm mại, chân thực quanh đường viền hàm và bộ suit trong khi vẫn duy trì các điểm nhấn tôn lên khuôn mặt.
+
+Bắt trọn kết cấu da chân thực, chi tiết từng sợi tóc, kết cấu vải tự nhiên, đường may blazer sắc nét, độ phản chiếu tinh tế trên đồng hồ và tỷ lệ chính xác. Sử dụng thẩm mỹ ống kính chân dung 85mm, độ sâu trường ảnh nông, lấy nét sắc nét vào khuôn mặt và đôi mắt, độ sâu tông màu điện ảnh, nhiếp ảnh biên tập doanh nghiệp cao cấp, chi tiết chân thực như ảnh chụp và hoàn thiện chất lượng tạp chí sang trọng.
+
+Tỷ lệ khung hình: 2:3 dọc.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1686,232 +997,33 @@ Tạo một bức ảnh chân dung biên tập đậm chất điện ảnh với
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250585306_ax0b02_HRGJxXqbAAA9e4E.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung đám đông trong giờ vàng - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336926639_o20mnv_HRKCVm6XMAAzHYN.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh chân dung phong cách biên tập cao cấp - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Elsa Ai](https://x.com/ElsaSofia__AI)
-- **Nguồn:** [Twitter Post](https://x.com/ElsaSofia__AI/status/2094606854144000082#reversed-0)
+- **Tác giả:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **Nguồn:** [Twitter Post](https://x.com/abs_uiux/status/2094880123183079839)
 - **Đã xuất bản:** 1 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33162)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33233)**
 
 ---
 
-### No. 28: Bài đăng trên mạng xã hội - Người phụ nữ chơi đàn piano trong chiếc váy lụa satin trắng
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh tạo ảnh chân thực, đậm chất điện ảnh về người phụ nữ mặc váy lụa satin trắng hở lưng, đang ngồi bên cây đàn piano đứng cổ điển dưới ánh nến ấm áp, làm nổi bật các chi tiết kết cấu và bố cục thanh lịch.
-
-#### 📝 Câu lệnh
-
-```
-Chủ đề:
-Đàn piano dưới ánh nến
-
-Chủ đề chính:
-Nhân vật được đặt ở vị trí lớn tại trung tâm khung hình. Ảnh dọc về một {argument name="person" default="người phụ nữ"} đang ngồi nghiêng trên ghế của một {argument name="instrument" default="cây đàn piano đứng màu trắng cổ điển"} trong căn phòng có ánh nến ấm áp, ngoái nhìn lại qua vai để lộ phần lưng. Bắt trọn hình ảnh {argument name="outfit" default="chiếc váy ngắn lụa satin trắng hở lưng"} cùng với bàn phím, bản nhạc và những ngọn nến.
-
-Nhân vật/Biểu cảm:
-Gương mặt trái xoan hơi gầy với chiếc cằm tròn nhỏ. Đôi mắt nâu dài với hàng lông mày mỏng tự nhiên, sống mũi thanh tú và đôi môi màu san hô bóng bẩy, sắc nét. Mái tóc nâu sẫm dài ngang vai với những lọn xoăn nhẹ ở đuôi, rẽ ngôi lệch và để mái bay dài. Biểu cảm trầm tư, nhìn xa xăm về phía dưới bên trái màn hình trong khi vẫn quay lưng và ngoái đầu qua vai trái.
-
-Trang phục/Tư thế:
-Một chiếc váy ngắn lụa satin màu trắng ngà bóng bẩy. Các chi tiết bao gồm dây đeo vai siêu mảnh, phần lưng hở sâu đến tận eo, vải đan chéo ở phía sau với dải ruy băng dài thắt nơ, và chi tiết nhún bèo từ hai bên hông xuống gấu váy. Ngồi nghiêng trên ghế piano màu trắng, cánh tay trái của nhân vật (phía bên phải màn hình) vươn dài về phía bàn phím, cẳng tay phải đặt trên đàn với bàn tay buông thõng. Hai chân gập lại và hướng sang bên phải.
-
-Bối cảnh/Ánh sáng:
-Cây đàn piano nằm ở trung tâm phía sau, với đèn và hoa ở hai bên trái và phải màn hình; ánh sáng chính đến từ một chiếc đèn và những ngọn nến ở phía trên bên trái. Một cây đàn piano đứng màu trắng ngà với lớp sơn đã sờn, bản nhạc mở sẵn, các món đồ trang trí điêu khắc màu trắng, hoa hồng nhạt trong bình, nhiều ngọn nến, một chiếc đèn bàn có tua rua và rèm cửa. Chiếc đèn ở phía trên bên trái và những ngọn nến ở phía xa bên phải bao phủ nhân vật trong ánh sáng màu hổ phách dịu nhẹ, sâu lắng.
-
-Bố cục/Máy ảnh:
-Tập trung vào phần lưng lớn của nhân vật, đầu gối cắt ở mép khung hình, lấy nét vào khuôn mặt và chất liệu satin với hậu cảnh mờ nhẹ. Bố cục dọc 3:4, từ tầm mắt hơi chếch phía sau và bên trái xuống phía trên đầu gối. Phần lưng hở của nhân vật nằm ở trung tâm, khuôn mặt ngoái nhìn ở phía trên bên trái, cùng bàn phím và cánh tay vươn sang phải tạo thành đường ngang. Làm nổi bật cấu trúc phần lưng váy satin và vị trí bàn tay, đồng thời làm mờ nhẹ các bông hoa và ánh đèn ở hậu cảnh.
-
-Kết cấu/Phong cách:
-Một bức ảnh chân thực, đậm chất điện ảnh với tông màu ấm. Ghi lại những phản chiếu trên vải lụa satin trắng, lớp sơn cũ, phím đàn piano, ngọn lửa nến và rèm ren với những bóng đổ tinh tế.
-
-Phủ định:
-Không được bỏ sót chi tiết hở lưng sâu và dây ruy băng đan chéo; không thay đổi tư thế ngồi ngoái nhìn lại.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250546412_htl59x_HQzOqxGa4AAqQN4.jpg" width="600" alt="Bài đăng trên mạng xã hội - Người phụ nữ chơi đàn piano trong chiếc váy lụa satin trắng - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **Nguồn:** [Twitter Post](https://x.com/CyberTotal2026/status/2094594337170510078)
-- **Đã xuất bản:** 1 tháng 9, 2026
-- **Ngôn ngữ:** ja
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33124)**
-
----
-
-### No. 29: Bài đăng trên mạng xã hội - Khám phá Tinh vân Thiên hà Hùng vĩ
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh mô tả để tạo ra khung cảnh không gian hoành tráng với các tinh vân rực rỡ, các hành tinh và những con tàu vũ trụ khổng lồ.
-
-#### 📝 Câu lệnh
-
-```
-{argument name="theme" default="Khám phá không gian"}: một khung cảnh thiên hà hùng vĩ với {argument name="celestial bodies" default="các tinh vân và hành tinh"} rực rỡ cùng {argument name="spaceship" default="những con tàu vũ trụ khổng lồ"}.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250542775_04km2e_HRF0nFcXoAEerFD.jpg" width="600" alt="Bài đăng trên mạng xã hội - Khám phá Tinh vân Thiên hà Hùng vĩ - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Yeti Images](https://x.com/Yeti_Images)
-- **Nguồn:** [Twitter Post](https://x.com/Yeti_Images/status/2094583518735028500)
-- **Đã xuất bản:** 1 tháng 9, 2026
-- **Ngôn ngữ:** ja
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33122)**
-
----
-
-### No. 30: Bài đăng trên mạng xã hội - Hình ảnh thiệp mời nghi lễ tối giản
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh định hướng thiết kế tinh tế để tạo ra các mẫu thiệp mời tối giản. Tập trung vào khoảng trắng sạch sẽ, hình ảnh cận cảnh biểu cảm và kiểu chữ viết tay nghệ thuật cỡ lớn để tạo cảm giác về nghi thức và sự gần gũi.
-
-#### 📝 Câu lệnh
-
-```
-@CreateImage
-Tạo một hình ảnh thiệp mời nghi lễ mới mẻ và tinh tế xoay quanh {argument name="theme" default="Chào buổi sáng + Lời chào + CHÀO BUỔI SÁNG + Thành phố + Trích dẫn + Thời tiết + 2026-09-01"}: Màn hình sử dụng các mảng không gian trắng sáng và sạch sẽ làm chủ đạo. Một khu vực hình ảnh cận cảnh sắc nét được đặt ở trung tâm, nơi chủ thể chỉ thể hiện những chi tiết giàu cảm xúc và mối quan hệ hành động nhất, cho phép người xem cảm nhận được những khoảnh khắc thân mật, đầy hứa hẹn hoặc đáng nhớ trước khi đọc thông tin. Tiêu đề chính sử dụng {argument name="typography" default="nét chữ viết tay thư thái và nhanh nhẹn"}, với phông chữ được phóng to đáng kể, trải dài qua cạnh trên của khu vực hình ảnh và hơi chồng lấp, tạo ra ấn tượng thị giác đầu tiên về văn bản đè lên hình ảnh. Tiêu đề không cần phải sắp xếp gọn gàng; nó nên có độ dao động, các nét nối, sự thay đổi độ dày và các lớp phủ trong suốt của chữ viết tay thực tế. Một lượng rất nhỏ văn bản thông tin tinh tế có thể được đặt ở cả hai bên, theo chiều dọc sát với các biên trắng để tạo sự cân bằng. Thông tin ở phía dưới được sắp xếp bằng chữ in nhỏ ổn định hoặc chữ viết tay nhỏ, với một đường kẻ ngắn cực mảnh ở giữa để tạo khoảng nghỉ. Màu sắc được trích xuất từ chính chất liệu và tâm trạng của chủ đề, duy trì {argument name="color scheme" default="bảng màu tươi sáng phong cách Nhật Bản và Hàn Quốc"} với các mảng trắng lớn để làm cho tổng thể trở nên tươi sáng, nhẹ nhàng, trong trẻo và tĩnh lặng. Các màu nhấn đóng vai trò truyền tải cảm xúc cho tiêu đề và thông tin chính. Thành phẩm tổng thể trông giống như một tấm thiệp mời riêng tư được thiết kế chuyên nghiệp, nhấn mạnh vào sự căng tràn của sự chồng lấp giữa chi tiết hình ảnh và tiêu đề viết tay lớn, nhịp điệu thông tin thưa thớt, sự thoáng đãng sạch sẽ và cảm giác về nghi thức trong không gian trắng.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250545497_7nhik0_HRFx2LuagAAcUJ7.jpg" width="600" alt="Bài đăng trên mạng xã hội - Hình ảnh thiệp mời nghi lễ tối giản - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250545574_mfh17q_HRFx510boAA6cUI.jpg" width="600" alt="Bài đăng trên mạng xã hội - Hình ảnh thiệp mời nghi lễ tối giản - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250545583_3y0f90_HRFx8IDbQAAKxA_.jpg" width="600" alt="Bài đăng trên mạng xã hội - Hình ảnh thiệp mời nghi lễ tối giản - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250546646_mmqbx3_HRFx97rbsAAV0Yv.jpg" width="600" alt="Bài đăng trên mạng xã hội - Hình ảnh thiệp mời nghi lễ tối giản - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [小小东](https://x.com/xiaoxiaodong01)
-- **Nguồn:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2094581093597168121)
-- **Đã xuất bản:** 1 tháng 9, 2026
-- **Ngôn ngữ:** zh
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33126)**
-
----
-
-### No. 31: Bài đăng trên mạng xã hội - Phong cách thời trang đường phố với quần túi hộp
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh (prompt) nhiếp ảnh thời trang tỉ mỉ mô tả một người phụ nữ trong bối cảnh con hẻm nhỏ, mặc áo hai dây trắng và quần cargo denim ống rộng với ánh sáng ấn tượng.
-
-#### 📝 Câu lệnh
-
-```
-Chủ thể:
-{argument name="subject" default="Phong cách Cargo nơi con hẻm"}
-
-Chủ thể chính:
-Nhân vật được đặt ở vị trí lớn ngay chính giữa khung hình. Một bức ảnh thời trang toàn thân chụp một người phụ nữ đang bước đi với hai tay đút túi quần qua một {argument name="background" default="con hẻm dân cư hẹp với ánh nắng xuyên qua"}. Trọng tâm chính nằm ở {argument name="outfit" default="chiếc áo hai dây trắng dáng lửng và quần cargo denim xanh nhạt cực rộng"}.
-
-Nhân vật/Biểu cảm:
-Gương mặt trái xoan hơi mảnh mai với phần cằm nhỏ, không quá nhọn, đôi mắt màu nâu xám dài theo chiều ngang với đuôi mắt hơi xếch, cùng hàng lông mày mỏng hình vòng cung. Sống mũi thanh tú với đầu mũi nhỏ, môi trên mỏng và môi dưới màu san hô hơi dày. Má hồng nhạt và đường kẻ mắt mảnh. Mái tóc nâu nhạt uốn sóng lơi dài xuống dưới ngực với phần ngôi lệch sâu, để lộ phần tóc mái mỏng và các lọn tóc ôm quanh mặt. Biểu cảm tĩnh lặng, nhìn thẳng vào ống kính.
-
-Trang phục/Tư thế:
-Chiếc áo hai dây trắng dáng ngắn với họa tiết tinh tế, dây áo siêu mảnh và cổ tròn sâu. Chiếc quần cargo denim màu xanh nhạt, ống rất rộng với dây rút, các túi 3D lớn nhỏ, mép vải thô và nhiều dây đai treo. Đi giày sneaker đế độn màu trắng, đeo khuyên tai vòng vàng lớn và một chiếc túi xách dây xích nhỏ màu be trên vai phải. Dáng đi với hai tay đút túi quần và một chân bước về phía trước.
-
-Bối cảnh/Ánh sáng:
-Cây cối bên trái và ngôi nhà bên phải hậu cảnh, với nguồn sáng chính là ánh nắng trực tiếp gay gắt từ phía trên bên trái. Những ngôi nhà thấp tầng, cột điện và dây điện, cây xanh đậm bên trái, một hộp thư màu đỏ ở phía sau bên phải và con đường nhựa hẹp. Ánh nắng mạnh từ phía trên bên trái tạo viền sáng cho mái tóc và chiếc áo trắng, đổ bóng dài của nhân vật xuống mặt đường.
-
-Bố cục/Máy ảnh:
-Máy ảnh đặt ở tầm mắt phía trước tại độ cao ngang eo. Giày nằm trọn trong khung hình, lấy nét vào nhân vật và tạo hiệu ứng xóa phông nhẹ ở hậu cảnh. Bố cục dọc 3:4, ảnh toàn thân chụp từ tầm ngang eo. Nhân vật được đặt lớn ở trung tâm, với điểm tụ của con hẻm nằm sau đầu, làm nổi bật chiếc quần ống rộng và giày sneaker trắng ở nửa dưới. Hậu cảnh được làm mờ vừa phải để làm nổi bật các chi tiết túi và dây đai của trang phục.
-
-Kết cấu/Phong cách:
-Nhiếp ảnh thời trang đường phố chân thực, độ phân giải cao. Mô tả chi tiết vải trắng, denim bạc màu, các chi tiết sờn, dây xích kim loại và mặt đường nhựa với tông màu xanh xám lạnh và màu da tự nhiên.
-
-Phủ định (Negative):
-Không biến quần cargo nhiều túi ống rộng thành quần bó; không thay đổi lớn các đặc điểm khuôn mặt.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250550161_0pjxiq_HQzM_qsakAAx8Ax.jpg" width="600" alt="Bài đăng trên mạng xã hội - Phong cách thời trang đường phố với quần túi hộp - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
-- **Nguồn:** [Twitter Post](https://x.com/CyberTotal2026/status/2094549542293111234)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** ja
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33131)**
-
----
-
-### No. 32: Bài đăng trên mạng xã hội - Người phụ nữ tĩnh lặng giữa sảnh chờ với hiệu ứng nhòe chuyển động
+### No. 11: Hồ sơ / Ảnh đại diện - Chân dung giờ vàng mùa đông
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một câu lệnh (prompt) tạo ảnh chân dung thời trang đậm chất điện ảnh, khắc họa một người phụ nữ mặc suit trắng đứng yên tĩnh giữa dòng người qua lại với hiệu ứng nhòe chuyển động trong một không gian kiến trúc hiện đại.
+Một câu lệnh tạo ảnh chân dung thực tế tại công viên thành phố vào mùa đông, với trang phục len mềm mại, tóc ngược sáng và độ sâu trường ảnh nông.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức chân dung thời trang đậm chất điện ảnh về một {argument name="subject identity" default="người phụ nữ Đông Á ở độ tuổi đôi mươi"} đang đứng hoàn toàn tĩnh lặng ở trung tâm của một sảnh trung chuyển hoặc sảnh văn phòng hiện đại, trong khi những người qua lại bị nhòe đi do chuyển động ở hai bên. Cô ấy nhìn thẳng vào ống kính với biểu cảm trung tính, bình thản và có chút trầm tư, hai tay đút túi quần, vai thả lỏng, khung hình lấy từ ngang đùi trở lên. Cô ấy có {argument name="hair style" default="kiểu tóc bob đen cắt lớp rối nhẹ với phần mái thưa và vài sợi tóc vương trên mặt"}, trang điểm tự nhiên tối giản, kết cấu da chân thực và đôi mắt tối màu đầy tập trung. Hãy mặc cho cô ấy một bộ suit may đo đơn sắc thanh lịch màu {argument name="outfit color" default="trắng ngà"}: áo blazer một hàng khuy với ve áo sắc sảo, quần tây xếp ly cạp cao đồng bộ và áo len cổ lọ gân bên trong. Bối cảnh là một không gian nội thất kiến trúc thoáng đãng với những cột trụ cao màu nhạt, bề mặt kính và đá, tông màu xám xanh lạnh và sàn nhà bóng loáng; tất cả những người xung quanh chỉ là những bóng người mờ ảo do chuyển động, tạo ra những vệt ngang dài và sự tương phản mạnh mẽ giữa trạng thái tĩnh và động. Sử dụng độ sâu trường ảnh nông, nhiếp ảnh chân thực, ánh sáng cửa sổ tự nhiên dịu nhẹ từ bên trái, ánh sáng viền tinh tế trên tóc và vai, chỉnh màu xanh mòng két - xám trầm, thêm một chút hạt phim (film grain), dải tương phản động cao và bầu không khí đô thị đầy suy tư. Bố cục dọc 2:3, máy ảnh ngang tầm mắt, phong cách ống kính editorial 50mm, lấy nét sắc nét chỉ vào chủ thể, không văn bản, không logo, không hình mờ.
+Tạo một bức ảnh chân dung dọc mùa đông chân thực về {argument name="subject" default="một cô gái Nhật Bản trẻ tuổi"} ở ngoài trời trong công viên thành phố, khung hình từ ngực trở lên, nhìn thẳng vào máy ảnh với nụ cười nhẹ nhàng, tĩnh lặng. Cô ấy có mái tóc {argument name="hair color" default="nâu sẫm"} dài vừa phải, hơi rối với phần tóc mái thưa và những sợi tóc con bay nhẹ tỏa sáng trong ánh ngược, đôi mắt nâu ấm áp, trang điểm tự nhiên, kết cấu da mềm mại và những đốm tàn nhang mờ trên má và mũi. Cô ấy đang mặc một chiếc áo len dệt kim dày, rộng thùng thình màu {argument name="sweater color" default="xám nâu ấm"}, với phần tay áo rất dài che phủ cả hai bàn tay khi cô áp vào má. Sử dụng độ sâu trường ảnh nông với những tán lá hàng rào xanh mờ ở tiền cảnh phía dưới và hậu cảnh đô thị được làm mờ nhẹ với các tòa nhà cao tầng cùng hiệu ứng bokeh tròn. Ánh sáng mang cảm giác như {argument name="time of day" default="giờ vàng buổi chiều cuối đông"}: mặt trời mạnh phía sau đầu tạo ra viền sáng rực rỡ quanh tóc, các điểm nhấn ấm áp, bóng đổ mềm mại trên khuôn mặt và tâm trạng tĩnh lặng, gần gũi. Chụp theo phong cách ống kính chân dung 85mm thực tế, f/1.4, chỉnh màu tự nhiên, độ chi tiết cao trên mắt, tóc và kết cấu len, bố cục dọc 2:3, không văn bản, không hình mờ, không có người lạ.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1919,63 +1031,33 @@ Tạo một bức chân dung thời trang đậm chất điện ảnh về một
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250581139_71nzyx_HREqNYhbwAA6nfd.jpg" width="600" alt="Bài đăng trên mạng xã hội - Người phụ nữ tĩnh lặng giữa sảnh chờ với hiệu ứng nhòe chuyển động - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336938826_yjwhdq_HRJfduraMAAEwOA.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung giờ vàng mùa đông - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
 - **Tác giả:** [愛生あさい（実在しないモデルの研究中）](https://x.com/A101asAI)
-- **Nguồn:** [Twitter Post](https://x.com/A101asAI/status/2094502438233588026#reversed-0)
-- **Đã xuất bản:** 31 tháng 8, 2026
+- **Nguồn:** [Twitter Post](https://x.com/A101asAI/status/2094842236915900621#reversed-0)
+- **Đã xuất bản:** 1 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33158)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33242)**
 
 ---
 
-### No. 33: Bài đăng trên mạng xã hội - Chân dung Nghệ thuật Đường phố Urban Angel
+### No. 12: Hồ sơ / Ảnh đại diện - Chân dung phản chiếu qua iPhone tại cửa hàng thời trang
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một câu lệnh (prompt) theo phong cách biên tập thời trang, kết hợp giữa nhiếp ảnh siêu thực với các yếu tố phác thảo vẽ tay và kiểu chữ truyền cảm hứng.
+Một câu lệnh tạo ảnh chân thực về người phụ nữ đang nháy mắt với hình ảnh phản chiếu của mình trên iPhone trong một cửa hàng thời trang cao cấp, với hiệu ứng bokeh đẹp mắt và chi tiết da chân thực.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức chân dung toàn thân siêu thực, cao cấp bằng cách sử dụng khuôn mặt tôi đã tải lên làm tài liệu tham khảo danh tính DUY NHẤT cho chủ thể {argument name="gender" default="nam"}.
-
-Giữ nguyên danh tính khuôn mặt và vẻ ngoài tự nhiên của tôi — cấu trúc khuôn mặt, tông da, mắt, lông mày, mũi, môi, đường viền hàm, râu/tóc trên khuôn mặt, kiểu tóc và tỷ lệ. Hãy giữ cho tôi có thể nhận diện được ngay lập tức. Không được làm đẹp, thay đổi hình dạng, nữ tính hóa hoặc thay đổi các đặc điểm khuôn mặt của tôi.
-
-Tái tạo bố cục và thẩm mỹ tổng thể của hình ảnh tham khảo:
-
-Một chàng trai trẻ sành điệu đang đứng thoải mái dựa vào {argument name="background" default="bức tường có kết cấu màu xám ấm nhạt"}, hơi nghiêng người với thái độ tự tin, thư thái. Anh ấy mặc một chiếc áo len khóa kéo cổ cao màu đen vừa vặn, quần tây ống đứng màu trắng, giày sneaker tối giản màu trắng sạch sẽ và kính râm đen thời thượng. Một tay đút túi quần một cách tự nhiên trong khi tay kia buông lơi bên hông. Hai chân bắt chéo nhẹ ở phần cổ chân, tạo nên tư thế biên tập thời trang đầy thư thái.
-
-Phía sau anh ấy, hãy tạo đôi cánh lớn vẽ bằng mực đen/phác thảo kéo dài tự nhiên từ vai, tạo cảm giác như đôi cánh thiên thần. Bao quanh bức tường bằng những hình vẽ nguệch ngoạc vui nhộn: ngôi sao, tia chớp, mũi tên, tia sáng, các ký hiệu trừu tượng nhỏ và những đường nét phác thảo đầy năng lượng.
-
-Thêm kiểu chữ viết tay truyền cảm hứng được tích hợp tự nhiên vào tác phẩm nghệ thuật trên tường:
-“{argument name="quote" default="BE YOUR OWN HERO"}”
-“DREAM • PLAN • DO • REPEAT”
-“FOCUS”
-“DON’T OVERTHINK”
-“JUST DO IT”
-“Good things take time.”
-
-Kiểu chữ trông phải giống như được vẽ tay chân thực với các nét bút dạ đen không hoàn hảo, gạch chân và các chi tiết vẽ nguệch ngoạc ngẫu hứng.
-
-Ánh sáng: ánh sáng studio tự nhiên dịu nhẹ, bóng đổ chân thực, độ sâu tinh tế, nhiếp ảnh thời trang cao cấp, chi tiết khuôn mặt sắc nét, kết cấu da chân thực, tỷ lệ cơ thể tự nhiên.
-
-Bố cục: chân dung toàn thân dọc, chủ thể nằm ở trung tâm, khoảng trống xung quanh rộng rãi, đôi cánh và hình vẽ nguệch ngoạc hiển thị rõ ràng, góc chụp nhiếp ảnh thời trang hơi thấp.
-
-Bảng màu: đơn sắc và tối giản — quần áo và tác phẩm nghệ thuật màu đen, quần và giày màu trắng, tường màu xám nhạt ấm áp, các tông màu trung tính tinh tế.
-
-Phong cách: nhiếp ảnh siêu thực kết hợp với các yếu tố nghệ thuật đường phố/phác thảo vẽ tay, biên tập thời trang trẻ trung tinh tế, chủ nghĩa hiện thực điện ảnh, chi tiết cao, sạch sẽ, cao cấp, xứng đáng để đăng Instagram.
-
-QUAN TRỌNG: Khuôn mặt tôi đã tải lên phải được sử dụng làm tài liệu tham khảo danh tính chính xác. Bảo tồn khuôn mặt tôi một cách chính xác trong khi điều chỉnh kiểu tóc, quần áo, tư thế, môi trường, đôi cánh và các yếu tố đồ họa để phù hợp với ý tưởng này.
-
-Tỷ lệ khung hình: 4:5 dọc.
+Góc quay qua vai: Một người phụ nữ sành điệu mặc {argument name="sweater color" default="áo len màu xanh nhạt"} đang nháy mắt với hình ảnh phản chiếu trên màn hình iPhone khi quay story trong một cửa hàng thời trang. Chúng ta thấy khuôn mặt cô ấy phản chiếu trên điện thoại. Chi tiết da sắc nét. Độ sâu trường ảnh nông, hiệu ứng bokeh tuyệt đẹp ở hậu cảnh từ các giá treo với {argument name="boutique background" default="quần áo màu xanh và trắng nhẹ nhàng"}, ánh sáng giờ vàng, cùng nụ cười tự tin. Thu hút và gần gũi. Chân thực như ảnh chụp. Chụp bằng {argument name="lens" default="ống kính 85mm"} --ar 3:4,--v7,--raw style
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -1983,39 +1065,45 @@ Tỷ lệ khung hình: 4:5 dọc.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250537821_ddsa5l_HREFJNGa8AEGuyz.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung Nghệ thuật Đường phố Urban Angel - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336912222_3b9mwh_HRJD4rVaUAAFXST.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung phản chiếu qua iPhone tại cửa hàng thời trang - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250537886_j3ye0x_HREFJNIa8AML1sI.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung Nghệ thuật Đường phố Urban Angel - Image 2">
+<img src="https://cms-assets.youmind.com/media/1788336913954_amulik_HRJD5S5a8AAlA4N.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung phản chiếu qua iPhone tại cửa hàng thời trang - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336912189_50vdbj_HRJD54fbgAEabJL.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung phản chiếu qua iPhone tại cửa hàng thời trang - Image 3">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Snow](https://x.com/iamrealsnow)
-- **Nguồn:** [Twitter Post](https://x.com/iamrealsnow/status/2094460969321951268)
-- **Đã xuất bản:** 31 tháng 8, 2026
+- **Tác giả:** [Harboris](https://x.com/harboriis)
+- **Nguồn:** [Twitter Post](https://x.com/harboriis/status/2094811448375701768)
+- **Đã xuất bản:** 1 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33118)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33222)**
 
 ---
 
-### No. 34: Bài đăng trên mạng xã hội - Chân dung mèo với bột màu
+### No. 13: Hồ sơ / Ảnh đại diện - Chân dung dưới nắng với nơ ren
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một câu lệnh tạo ảnh chân dung studio siêu thực về chú mèo đang ngồi, được bao phủ bởi kết cấu bột màu đỏ, cam, xanh dương và tím sống động.
+Một gợi ý tạo ảnh chân dung ngoài trời nhẹ nhàng, mơ mộng về một cô gái trẻ với phần tóc mái thưa và chiếc nơ ren, bắt trọn biểu cảm e ấp, tự nhiên trong bối cảnh đô thị hiện đại.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức chân dung studio độ phân giải cao về {argument name="animal subject" default="một chú mèo lông ngắn"} đang ngồi trên nền trắng liền mạch, sạch sẽ với một chút sắc hồng ấm nhẹ ở góc trên bên phải. Chú mèo được tạo dáng ở góc nghiêng ba phần tư hướng sang trái, ngồi thẳng với vóc dáng thanh mảnh, hai chân trước chụm lại, đuôi cuộn tròn trên sàn phía trước, đầu quay về phía người xem, đôi tai lớn dựng đứng, đôi mắt màu vàng hổ phách, chiếc mũi nhỏ màu cam hồng và bộ ria mép trắng mảnh. Kết xuất bộ lông chân thực và chi tiết nhưng được biến đổi bởi kết cấu bột màu sống động: chủ yếu là màu kem nhạt và trắng trên mặt và ngực, các đốm màu cam và đỏ tươi tập trung trên trán, tai, vai, lưng và sườn phải, bột màu xanh coban đậm bao phủ phần cẳng chân trước, bụng, đuôi và phần thân trong bóng râm, với sự chuyển tiếp màu tím đỏ tươi ở nơi màu đỏ và xanh dương giao thoa. Bột màu trông giống như hàng ngàn hạt màu nhỏ li ti, các vệt bắn và bụi bẩn bám trên và hòa quyện vào bộ lông, với màu sắc đậm hơn trên cơ thể và đuôi, cùng những đốm tàn nhang nhạt hơn trên mặt và cổ. Sử dụng ánh sáng studio khuếch tán mềm mại, đổ bóng sàn tinh tế, lấy nét sắc nét vào đôi mắt và kết cấu bộ lông, độ sâu trường ảnh tự nhiên nông, màu sắc rực rỡ, nhiếp ảnh động vật nghệ thuật siêu thực nhưng vẫn chân thực. Không vòng cổ, không đạo cụ, không văn bản, không hình mờ, không thêm động vật khác.
+Một bức ảnh chân dung ngoài trời siêu thực về {argument name="subject" default="một cô gái trẻ"} đang đứng dưới ánh nắng tự nhiên rực rỡ bên ngoài một tòa nhà hiện đại. Cô ấy có mái tóc dài, bồng bềnh màu nâu sáng được tạo kiểu gợn sóng mềm mại, với phần tóc mái thưa ôm lấy khuôn mặt. Mái tóc được buộc hờ bằng {argument name="hair accessory" default="một chiếc kẹp tóc nơ ren màu kem cổ điển tinh tế"}. Cô ấy mặc {argument name="outfit" default="chiếc áo sơ mi trắng thanh lịch dáng rộng với họa tiết kẻ sọc dọc tinh tế và tay dài"}, kết hợp cùng đôi khuyên tai nhỏ xinh và vòng tay dây xích bạc đơn giản. Cô ấy nhẹ nhàng dùng một tay che mắt trong khi mỉm cười dịu dàng, tạo nên biểu cảm e ấp, tinh nghịch và tự nhiên. Buổi chiều nắng rực rỡ, bầu trời xanh trong, kiến trúc đô thị hiện đại được làm mờ nhẹ ở phía sau, ánh nắng tự nhiên tạo nên những điểm nhấn và bóng đổ dịu nhẹ trên mái tóc và khuôn mặt. Phối màu trung tính ấm áp, tông màu pastel nhẹ nhàng, kết cấu da chân thực, từng sợi tóc chi tiết, chất liệu vải tự nhiên, độ sâu trường ảnh nông, hiệu ứng nhiễu hạt phim tinh tế, nhiếp ảnh phong cách sống lấy cảm hứng từ Hàn Quốc đầy mơ mộng, thẩm mỹ ảnh chụp bằng điện thoại tự nhiên, siêu thực, bố cục dọc 4:5.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -2023,91 +1111,44 @@ Tạo một bức chân dung studio độ phân giải cao về {argument name="
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250594880_9hiyzh_HRD72gfbcAAX0jP.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung mèo với bột màu - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [カーブミラー](https://x.com/kabumira862571)
-- **Nguồn:** [Twitter Post](https://x.com/kabumira862571/status/2094450751796060346#reversed-0)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33173)**
-
----
-
-### No. 35: Bài đăng trên mạng xã hội - Chân dung phong cách Anime với hiệu ứng bóng đổ Manga
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một bức chân dung phong cách anime đầy quyến rũ của một cô gái và chú mèo cưng với điểm nhấn kỳ ảo đầy sáng tạo, biến những chiếc bóng thực tế thành các hình vẽ manga thủ công.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một bức chân dung đời thường phong cách anime điện ảnh, ấm cúng về một cô gái trẻ dễ thương với {argument name="hair style" default="kiểu tóc bob ngắn màu hồng pastel"}, mặc một chiếc {argument name="shirt" default="áo sơ mi flannel kẻ sọc đỏ vintage dáng rộng"}, quần jeans thụng thoải mái và giày sneaker vải cổ điển. Bên cạnh cô là một chú {argument name="cat breed" default="mèo Anh lông ngắn màu xám trắng bông xù"} đang đeo một chiếc khăn bandana kẻ sọc nhỏ xíu đồng điệu.
-
-Bắt trọn khoảnh khắc ấm áp, tự nhiên giữa họ vào giờ vàng (golden hour). Họ nên tương tác một cách tự nhiên và đầy tình cảm, với ánh nắng dịu nhẹ chiếu rọi khắp khung cảnh, tạo nên những chiếc bóng dài, mềm mại trên nền tường và sàn nhà màu be tối giản.
-
-Thêm một điểm nhấn kỳ ảo đầy thú vị: biến những chiếc bóng thực tế thành các hình vẽ manga thủ công tinh nghịch. Bóng của cô gái trở thành phiên bản chibi anime đáng yêu của chính cô trong tư thế vui vẻ, tràn đầy năng lượng, trong khi bóng của chú mèo biến thành phiên bản hoạt hình hài hước, đang vẫy tay, nhảy múa hoặc vươn người về phía cô một cách tinh nghịch.
-
-Các nhân vật minh họa cần xuất hiện một cách tự nhiên từ những chiếc bóng thực, hòa quyện hoàn hảo với môi trường xung quanh. Kết hợp các đường nét phác thảo bằng bút chì tinh tế, các ký hiệu chuyển động đặc trưng của manga, những trái tim nhỏ, ngôi sao, bướm và các hình vẽ nguệch ngoạc tự phát một cách hữu cơ bên trong hình dáng của những chiếc bóng.
-
-Phong cách hình ảnh: anime đời thường ấm cúng kết hợp với nhiếp ảnh biên tập cao cấp, bố cục tối giản, ánh sáng giờ vàng điện ảnh ấm áp, cảm xúc chân thực, bầu không khí mơ mộng nhưng vẫn đầy thuyết phục.
-
-Chất lượng & độ chân thực: lông thú chi tiết cao, kết cấu da tự nhiên, chi tiết vải và trang phục chân thực, kết cấu môi trường tinh tế, ánh sáng và bóng đổ vật lý thuyết phục, chiều sâu không gian mềm mại, độ sâu trường ảnh nông, phong cách nhiếp ảnh 50mm, màu sắc lấy cảm hứng từ Kodak Portra 400, chủ thể chân thực tương phản với nghệ thuật bóng đổ manga vẽ tay, cân bằng thị giác tinh tế, siêu chi tiết, điện ảnh, kỳ ảo nhưng chân thực, chất lượng tuyệt tác, 8K.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250563553_gxwx8r_HRD1fEoa4AAK3Ml.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung phong cách Anime với hiệu ứng bóng đổ Manga - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336897079_qfy2w2_HRIfdleaQAAAEyI.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung dưới nắng với nơ ren - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250564129_fwd9ry_HRD1f9KbIAAS80A.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung phong cách Anime với hiệu ứng bóng đổ Manga - Image 2">
+<img src="https://cms-assets.youmind.com/media/1788336897039_f90dj7_HRIfeiubQAAxpeP.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung dưới nắng với nơ ren - Image 2">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Selina](https://x.com/selinatasnim1)
-- **Nguồn:** [Twitter Post](https://x.com/selinatasnim1/status/2094443766929330280)
-- **Đã xuất bản:** 31 tháng 8, 2026
+- **Tác giả:** [Aqsa](https://x.com/Aqsahere_)
+- **Nguồn:** [Twitter Post](https://x.com/Aqsahere_/status/2094771399340757045)
+- **Đã xuất bản:** 1 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33144)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33202)**
 
 ---
 
-### No. 36: Bài đăng trên mạng xã hội - Ảnh chân dung thời trang đường phố tự nhiên
+### No. 14: Hồ sơ / Ảnh đại diện - Chân dung nam giới phong cách biên tập đơn sắc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một câu lệnh chi tiết để tạo ra bức ảnh phong cách đường phố chân thực, tự nhiên về một người phụ nữ, tập trung vào ánh sáng tự nhiên, kết cấu da và các chi tiết trang phục cụ thể trong bối cảnh cửa hàng tạp hóa.
+Một bức chân dung thời trang đen trắng tinh tế của một chàng trai trẻ, làm nổi bật các kết cấu chân thực và ánh sáng đầy kịch tính.
 
 #### 📝 Câu lệnh
 
 ```
-Ảnh chụp toàn thân phong cách đường phố chân thực, tự nhiên của cùng một người phụ nữ trẻ từ hình ảnh tham chiếu, giữ nguyên nhận diện, đặc điểm khuôn mặt, tỷ lệ cơ thể, đôi mắt màu xanh ô liu, mái tóc nâu sẫm, tàn nhang tự nhiên, tông da và ngoại hình tổng thể với độ chính xác cao.
-
-Cô ấy đang đứng tự nhiên bên trong {argument name="location" default="một cửa hàng tạp hóa hiện đại trong khu dân cư"} gần lối vào, được ghi lại trong một khoảnh khắc biên tập không tạo dáng khi cô ấy nhìn hơi lệch khỏi ống kính với biểu cảm thư thái, tự tin. Cô ấy mặc một chiếc váy ngắn không tay màu {argument name="dress color" default="đỏ rượu vang"} với cổ vuông tinh tế, tất cổ ngắn màu đen mỏng và đôi xăng đan cao gót họa tiết da động vật đen trắng sành điệu. Một chiếc túi đeo vai nhỏ gọn có họa tiết treo tự nhiên trên một bên vai, trong khi một chiếc áo khoác kẻ caro đen mỏng được khoác hờ trên cánh tay.
-
-Mái tóc nâu sẫm của cô được búi thấp lỏng lẻo một cách tự nhiên, với vài lọn tóc buông xõa ôm lấy khuôn mặt. Giữ lại các nốt tàn nhang tự nhiên, kết cấu da chân thực, lỗ chân lông tinh tế và các hình xăm rõ nét trên cánh tay cô ấy.
-
-Bối cảnh mang lại cảm giác chân thực và sống động: sàn gạch sáng bóng, các kệ hàng tạp hóa xếp chồng, tủ mát đựng đồ uống cửa kính, bao bì sản phẩm đầy màu sắc, biển hiệu quảng cáo viết tay, đèn trần huỳnh quang và một phần lối vào cửa hàng. Bao gồm các phản chiếu tinh tế từ kính tủ lạnh và hoạt động nền chân thực mà không làm mất tập trung vào nhân vật chính.
-
-Nhiếp ảnh thời trang tự nhiên, góc nhìn ngang tầm mắt, tỷ lệ cơ thể tự nhiên, bố cục hơi không hoàn hảo, ánh sáng môi trường chân thực, hạt phim nhẹ, vùng sáng dịu, cảm giác chân thực như chụp bằng điện thoại thông minh, độ sâu trường ảnh nông nhưng đáng tin cậy, không bộ lọc làm đẹp, không có vẻ ngoài CGI, chi tiết chân thực 4K.
+Bức chân dung biên tập đen trắng đậm chất điện ảnh siêu thực của một {argument name="subject" default="chàng trai trẻ điển trai ở độ tuổi đôi mươi"}, đang ngồi thoải mái trên sàn trong một studio tối giản đầy tâm trạng, lấy cảm hứng chặt chẽ từ bố cục, khung hình, tư thế, ánh sáng và bầu không khí của hình ảnh tham chiếu, nhưng với một nhân vật nam hoàn toàn mới.
+Anh ấy có gương mặt thực tế đầy cuốn hút, {argument name="hair style" default="mái tóc đen tuyền dày hơi gợn sóng"} rủ tự nhiên quanh trán và tai, đôi lông mày sắc nét, đôi mắt nâu sẫm sâu thẳm đầy biểu cảm, chiếc mũi cao thẳng, xương gò má nổi bật, đường quai hàm nam tính sắc sảo, lớp râu quai nón mỏng tự nhiên và kết cấu da chân thực với lỗ chân lông và các khuyết điểm nhỏ.
+Anh ngồi với một đầu gối hướng về phía máy ảnh, chân còn lại gập tự nhiên, một khuỷu tay đặt trên đầu gối với bàn tay nhẹ nhàng đỡ lấy khuôn mặt, tạo nên vẻ biểu cảm thư thái và đầy suy tư. Ánh nhìn của anh hướng nhẹ về phía máy ảnh với vẻ điềm tĩnh, bí ẩn và đầy cảm xúc.
+Anh mặc một chiếc {argument name="clothing" default="áo khoác denim dáng rộng phong cách bụi bặm khoác ngoài áo thun đen ôm sát đơn giản"}, quần jeans xám nhạt dáng suông với phần đầu gối rách lớn và các sợi chỉ sờn tự nhiên, cùng đôi bốt chiến binh bằng da màu đen với phần đế dày gồ ghề. Các nếp nhăn trên vải, đường may, kết cấu denim, da sờn và các nếp gấp chân thực được thể hiện vô cùng chi tiết.
+Nền studio màu than chì tối, tường có kết cấu tinh tế, ánh sáng kịch tính cường độ thấp từ một phía, các điểm sáng nhẹ trên khuôn mặt và mái tóc, bóng đổ tự nhiên sâu, độ tương phản điện ảnh, nhiếp ảnh thang độ xám đơn sắc, hạt phim tinh tế, thẩm mỹ thời trang biên tập tinh xảo, độ sâu trường ảnh nông, tỷ lệ thực tế, cảm giác chân thực như ảnh chụp nhanh.
+Bố cục dọc toàn thân, tỷ lệ khung hình 4:5, máy ảnh đặt thấp hơn tầm mắt một chút, phong cách nhiếp ảnh 50mm, siêu chi tiết, chân thực như ảnh chụp, nhiếp ảnh thời trang chuyên nghiệp, không văn bản, không hình mờ, không logo, nhân vật hoàn toàn nguyên bản.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -2115,39 +1156,159 @@ Nhiếp ảnh thời trang tự nhiên, góc nhìn ngang tầm mắt, tỷ lệ 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250555695_st8iq3_HRDsIclaAAA3JNk.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ảnh chân dung thời trang đường phố tự nhiên - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336921521_j7jcif_HRILTfEacAA3_vV.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung nam giới phong cách biên tập đơn sắc - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [HeisenLegacy](https://x.com/MohdAdnanA86218)
+- **Nguồn:** [Twitter Post](https://x.com/MohdAdnanA86218/status/2094749216946131379)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33228)**
+
+---
+
+### No. 15: Hồ sơ / Ảnh đại diện - Chân dung mùa xuân đậm chất điện ảnh dưới tán hoa anh đào
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh (prompt) chất lượng cao mang phong cách điện ảnh để tạo ra bức chân dung lãng mạn của một người phụ nữ giữa rừng hoa anh đào nở rộ vào giờ vàng, với ánh sáng dịu nhẹ và thẩm mỹ hoài cổ.
+
+#### 📝 Câu lệnh
+
+```
+Xoay lưng về phía máy ảnh dưới những tán {argument name="environment" default="cây hoa anh đào"} nở rộ bất tận. Một cô gái trẻ chậm rãi quay đầu nhìn qua vai trong khi những cánh hoa xuân bay lất phất trong {argument name="lighting" default="ánh sáng vàng ấm áp của buổi chiều tà"}. Mái tóc dài bồng bềnh khẽ lay động trong gió, một bàn tay nhẹ nhàng chạm vào tóc. Ánh nắng xuyên qua những bông hoa, tạo nên hiệu ứng lóe sáng kỳ ảo và những điểm nhấn rực rỡ dịu nhẹ. Bầu không khí điện ảnh đầy mơ mộng, nhiếp ảnh thời trang lãng mạn, bảng màu pastel nhẹ nhàng, độ sâu trường ảnh nông, hiệu ứng bokeh mượt mà, làn sương mờ ảo, vẻ đẹp tự nhiên chi tiết cao, kết cấu da chân thực, thẩm mỹ mùa xuân hoài cổ, siêu thực, {argument name="subject" default="nhiếp ảnh thời trang"} đạt giải thưởng, bố cục kiệt tác, chỉnh màu điện ảnh, ống kính 85mm, f/1.4, chân thực như ảnh chụp, siêu chi tiết, 8k.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336914787_lr03b3_HRIFCdhbIAAkuGS.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung mùa xuân đậm chất điện ảnh dưới tán hoa anh đào - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
+- **Nguồn:** [Twitter Post](https://x.com/SheBuildsAI_/status/2094742321304944869)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33224)**
+
+---
+
+### No. 16: Hồ sơ / Ảnh đại diện - Chân dung cô gái anime nhẹ nhàng
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh văn bản rõ ràng để tạo chân dung anime bán thân, căn giữa của một cô gái trẻ tóc nâu dịu dàng trên nền trắng.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một bức chân dung bán thân phong cách anime rõ nét của một cô gái trẻ, căn giữa trên nền trắng trơn. Cô ấy có mái tóc {argument name="hair color" default="nâu hạt dẻ trung bình"} dài ngang vai với phần đuôi tỉa lớp nhẹ nhàng, tóc mái lệch sang một bên, vài sợi tóc con bay nhẹ ở hai bên và những nét highlight bóng mượt. Gương mặt cô ấy dịu dàng và trẻ trung với đôi mắt nâu ấm áp to tròn, điểm sáng trắng rực rỡ trong mắt, hàng mi mỏng, lông mày thanh tú, chiếc mũi nhỏ xinh, nụ cười khép kín nhẹ nhàng và những đường ửng hồng mờ nhạt trên hai má. Cô ấy đang nhìn thẳng vào người xem với đầu hơi nghiêng và tư thế thoải mái. Hãy mặc cho cô ấy một chiếc áo blouse dài tay màu kem đơn giản với phần cổ xẻ khiêm tốn và các nếp gấp vải mềm mại, sơ vin vào chiếc váy hoặc cạp váy màu xanh navy đậm có thể nhìn thấy ở phía dưới khung hình. Sử dụng phong cách minh họa anime Nhật Bản chỉn chu: nét vẽ mảnh rõ ràng, đổ bóng cel mịn màng, tông màu da ấm áp, đổ bóng tinh tế dưới cằm và trong các nếp gấp quần áo, chi tiết sắc nét ở tóc và mắt, không văn bản, không đạo cụ, không phong cảnh, không hình mờ. Bố cục chân dung, cắt từ đầu đến ngang eo, với nhân vật chiếm phần lớn khung hình.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336945636_p95vlw_HQ-JwslbMAAXFsY.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung cô gái anime nhẹ nhàng - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [禍福無門](https://x.com/kahukumumon)
+- **Nguồn:** [Twitter Post](https://x.com/kahukumumon/status/2094732089702940744#reversed-0)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33253)**
+
+---
+
+### No. 17: Hồ sơ / Ảnh đại diện - Chân dung người Đông Á chân thực như ảnh chụp
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh (prompt) nhiếp ảnh làm đẹp chuyên nghiệp, cực kỳ chi tiết để tạo ra bức chân dung chân thực như ảnh chụp của một phụ nữ trẻ với biểu cảm dịu dàng và ánh sáng mềm mại.
+
+#### 📝 Câu lệnh
+
+```
+Một bức chân dung cận cảnh chân thực như ảnh chụp, cực kỳ chi tiết về một phụ nữ {argument name="ethnicity" default="Đông Á"} trẻ tuổi trong độ tuổi {argument name="age" default="cuối thiếu niên đến đầu đôi mươi"}, với biểu cảm dịu dàng, nhẹ nhàng và hơi e ấp. Cô ấy có làn da trắng mịn như sứ với độ sáng tự nhiên, đôi má ửng hồng tinh tế và cấu trúc khuôn mặt nữ tính, thanh tú. Đôi mắt nâu sẫm to, biểu cảm với hàng mi dài tự nhiên nhìn nhẹ nhàng về phía máy ảnh, đi kèm với nụ cười mỉm dịu dàng cùng đôi môi hồng mềm mại.
+
+Mái tóc nâu sẫm dài, thẳng và mượt mà của cô ấy xõa qua vai với độ gợn sóng nhẹ tự nhiên ở phần đuôi, cùng phần tóc mái bằng gọn gàng che đều trán. Mái tóc có độ bóng khỏe và độ phồng mềm mại. Cô ấy mặc một chiếc {argument name="clothing" default="áo sơ mi dài tay màu trắng đơn giản, thường ngày"} với kiểu dáng thoải mái và chất liệu vải sạch sẽ.
+
+Bàn tay phải của cô ấy được đưa lên gần khuôn mặt, với các ngón tay đặt nhẹ nhàng lên cằm và má trong một tư thế nữ tính, mềm mại. Ánh sáng ban ngày tự nhiên, dịu nhẹ chiếu sáng đều khuôn mặt từ phía trước, tạo ra những bóng đổ nhẹ nhàng cùng bầu không khí tươi sáng, thoáng đãng. Phông nền là một không gian trong nhà tối giản, sạch sẽ với những bức tường màu trắng kem trơn và ánh sáng khuếch tán nhẹ, hơi mất nét để giữ sự tập trung hoàn toàn vào khuôn mặt và phần thân trên của cô ấy.
+
+Được chụp theo kiểu chân dung dọc từ ngực trở lên, kết cấu da siêu thực, trang điểm tự nhiên (phấn má hồng nhẹ, son môi nhạt, định hình mắt tinh tế), độ chi tiết cao ở từng sợi tóc và vải vóc, phong cách nhiếp ảnh làm đẹp chuyên nghiệp, độ sâu trường ảnh nông, hiệu ứng ống kính 85mm, bokeh mềm mại, chất lượng 8k, chân thực như ảnh chụp.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336924049_2ziho1_HRGhoyJbwAADIsN.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung người Đông Á chân thực như ảnh chụp - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250555644_1xu548_HRDsJGtbUAEgyqJ.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ảnh chân dung thời trang đường phố tự nhiên - Image 2">
+<img src="https://cms-assets.youmind.com/media/1788336924032_emdfjj_HRGhoxrbkAAZMVS.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung người Đông Á chân thực như ảnh chụp - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336924330_2157yn_HRGhoyjbAAA8ne3.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung người Đông Á chân thực như ảnh chụp - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336925120_j8l061_HRGhoxzawAECOP5.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung người Đông Á chân thực như ảnh chụp - Image 4">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Meem](https://x.com/mehvishs25)
-- **Nguồn:** [Twitter Post](https://x.com/mehvishs25/status/2094433477735444752)
-- **Đã xuất bản:** 31 tháng 8, 2026
+- **Tác giả:** [Feyber](https://x.com/woleswoosh)
+- **Nguồn:** [Twitter Post](https://x.com/woleswoosh/status/2094726968067666041)
+- **Đã xuất bản:** 1 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33136)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33232)**
 
 ---
 
-### No. 37: Bài đăng trên mạng xã hội - Chân dung thư giãn trên ghế sofa mùa hè
+### No. 18: Hồ sơ / Ảnh đại diện - Chân dung nam giới bằng chì than chì thanh lịch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Tạo ảnh chân dung dọc chân thực về một cô gái trẻ ăn mặc giản dị đang thư giãn trong nhà với dòng chữ tiếng Nhật trên áo phông.
+Tạo chân dung bán thân bằng bút chì chân thực của một chàng trai trẻ đẹp trai với chi tiết tóc, râu và tư thế ba phần tư tinh tế.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức chân dung phong cách sống dọc cực kỳ chân thực về một cô gái trẻ Đông Á đang thư giãn trên chiếc ghế sofa vải màu be trong phòng khách căn hộ hiện đại với ánh sáng dịu nhẹ. Cô ấy ngồi một cách thoải mái, tựa lưng vào tay vịn ghế sofa với một tay vắt qua tựa lưng và chân hướng về phía trước, mặc một chiếc áo phông trắng dáng rộng và quần short denim màu xanh nhạt. Chiếc áo phông có chính xác một cụm từ tiếng Nhật viết tay gồm hai dòng được in ở giữa bằng màu xám: {argument name="shirt text" default="日中は暑いから\n出かけたくない！"}. Cô ấy có mái tóc {argument name="hair color" default="đen bóng"} được tết thành hai bím tóc dài, tóc mái thưa, làn da trắng, trang điểm tự nhiên tinh tế và đeo kính gọng kim loại mỏng hình tròn. Biểu cảm của cô ấy bình thản và hơi mơ màng khi nhìn về phía bên trái về phía cửa sổ sáng, không nhìn vào máy ảnh. Sử dụng ánh sáng ban ngày mùa hè dịu nhẹ từ bên trái, bóng đổ nhẹ nhàng, độ sâu trường ảnh nông và bảng màu trung tính trầm. Các chi tiết nền nên được làm mờ nhưng vẫn có thể nhận ra: rèm trắng mỏng và cửa sổ sáng ở phía xa bên trái, một chậu cây trong nhà, một bức tranh treo tường nhỏ có khung, khu vực bàn ăn đơn giản và một góc bếp tối ở bên phải. Bố cục chân dung từ thắt lưng đến đầu gối với chủ thể chiếm phần lớn khung hình, kết cấu da chân thực, nếp gấp vải thực tế, kết cấu ghế sofa tự nhiên, hiệu ứng bokeh điện ảnh, không có hình mờ, không có văn bản bổ sung ngoài dòng chữ trên áo.
+Tạo một bức chân dung bằng bút chì than chì thanh lịch, có độ chi tiết cao về {argument name="subject" default="một chàng trai trẻ đẹp trai"} trong tư thế nghiêng ba phần tư tinh tế, nhìn thấy rõ vai, đầu hơi xoay về phía người xem với ánh mắt bình tĩnh trực diện. Anh ấy có các đường nét nam tính rõ ràng, đôi mắt sâu biểu cảm, lông mày dày tự nhiên, sống mũi thẳng mạnh mẽ, đôi môi đầy đặn khép kín, cùng bộ râu và ria mép được cắt tỉa gọn gàng. {argument name="hair style" default="Mái tóc dày, gợn sóng, bồng bềnh và được chải nhẹ nhàng qua trán"} của anh ấy được thể hiện bằng nhiều nét bút chì riêng biệt và những sợi tóc con bay nhẹ. Hãy mặc cho anh ấy {argument name="clothing" default="một chiếc áo sơ mi cài cúc cổ mở màu sáng sắc nét"}, với phần cổ áo và ngực trên được phác thảo mềm mại. Sử dụng phong cách vẽ than chì đơn sắc trên giấy có kết cấu màu trắng nhạt ấm áp, với các đường nét tinh xảo chân thực, kỹ thuật đánh bóng chéo mềm mại, đổ bóng nhòe tinh tế, chuyển tông mượt mà và chi tiết sắc nét ở mắt, râu và tóc, trong khi phần áo và nền được làm mờ nhẹ hơn. Bố cục nên là chân dung bán thân cận cảnh theo chiều dọc, hơi lệch về phía bên trái, với nền giấy trắng mềm mại, không có văn bản, không có đường viền, không có hình mờ, mang tính thẩm mỹ mỹ thuật vẽ tay vượt thời gian.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -2155,54 +1316,43 @@ Tạo một bức chân dung phong cách sống dọc cực kỳ chân thực v�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250597522_47viwv_HRDSEuzaMAAelxT.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung thư giãn trên ghế sofa mùa hè - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336934989_naaadx_HRHw1nEbYAAw2UC.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung nam giới bằng chì than chì thanh lịch - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Harf_Done](https://x.com/half_done_yet)
-- **Nguồn:** [Twitter Post](https://x.com/half_done_yet/status/2094405211150602562#reversed-0)
-- **Đã xuất bản:** 31 tháng 8, 2026
+- **Tác giả:** [Mr. Tariq](https://x.com/AiWithTariq)
+- **Nguồn:** [Twitter Post](https://x.com/AiWithTariq/status/2094720155486159345#reversed-0)
+- **Đã xuất bản:** 1 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33178)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33237)**
 
 ---
 
-### No. 38: Infographic / Hình ảnh giáo dục - Poster Thơ Thị Giác Phong Cách Rebus
+### No. 19: Hồ sơ / Ảnh đại diện - Ảnh ghép thẩm mỹ Y2K phong cách làm đẹp Nhật Bản
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một câu lệnh sáng tạo giúp biến đổi ảnh chụp thành các "câu văn thị giác", nơi hình ảnh thay thế cho những từ ngữ cụ thể trong một bố cục đậm chất thơ.
+Một câu lệnh (prompt) tạo ảnh ghép dọc ba khung hình với thẩm mỹ máy ảnh kỹ thuật số Y2K, thể hiện biểu cảm khuôn mặt nhất quán của một phụ nữ Nhật Bản.
 
 #### 📝 Câu lệnh
 
 ```
-Vui lòng biến mỗi bức ảnh tôi tải lên thành một tấm poster thiết kế cao cấp riêng biệt, thay vì ghép nhiều ảnh lại với nhau, hãy xuất từng ảnh một. Bố cục tổng thể nên là khung dọc tỷ lệ 3:4, trong đó phần trên và phần dưới duy trì nghiêm ngặt tỷ lệ chiều cao 1:1, mỗi phần chiếm 50% khung hình.
+Tạo một ảnh ghép dọc tỉ lệ 9:16 siêu thực, độ phân giải cao với {argument name="aesthetic" default="phong cách lấy cảm hứng từ Y2K"}, trong đó {argument name="subject" default="người phụ nữ trưởng thành xinh đẹp"} xuất hiện nhất quán trong cả ba khung hình. Vẻ đẹp Nhật Bản quyến rũ, dễ thương với mái tóc đen dài, mượt mà và bồng bềnh, làn da sáng tự nhiên, kiểu trang điểm mắt cáo nhẹ nhàng, lông mi dài, đôi môi hồng bóng và các đường nét nữ tính tinh tế.
 
-Nửa trên nên giữ nguyên ảnh gốc, bảo toàn danh tính chủ thể, cấu trúc, tư thế, kết cấu chân thực, ánh sáng tự nhiên và bầu không khí màu sắc nguyên bản, chỉ cần chỉnh màu nhẹ nhàng theo phong cách cao cấp để mang lại cảm giác như ảnh trên tạp chí nghệ thuật, ấn phẩm độc lập hoặc hình ảnh triển lãm. Nền có thể được mở rộng tự nhiên để vừa với tỷ lệ khung hình, nhưng chủ thể tuyệt đối không được kéo giãn, biến dạng hoặc thay đổi.
+KHUNG HÌNH TRÊN - ảnh selfie cận cảnh, nhìn thẳng vào ống kính với một mắt mở và mắt còn lại nháy tinh nghịch, những lọn tóc mềm mại ôm lấy khuôn mặt.
 
-Nửa dưới không được là bản sao hoàn chỉnh của ảnh, cũng không phải là bản vẽ lại đơn giản thu nhỏ. Thay vào đó, hãy trích xuất những chủ thể, hành động, đường nét, đồ vật, cây cối, mảnh kiến trúc, mối quan hệ màu sắc và chi tiết biểu tượng đáng nhớ nhất từ ảnh gốc, tinh chỉnh chúng thành các yếu tố thị giác theo một phong cách thống nhất. Những yếu tố này, kết hợp với văn bản, sẽ tạo thành một câu văn thị giác theo phong cách Rebus. Những hình ảnh này không phải là minh họa trang trí; chúng phải thực sự thay thế các từ trong câu. Một khi từ đã được thay thế bằng hình ảnh, từ đó không được viết lại bằng văn bản nữa. Toàn bộ câu phải dựa vào sự kết hợp giữa 'văn bản + hình ảnh' để người xem hiểu được trọn vẹn.
+KHUNG HÌNH GIỮA - tư thế quyến rũ nhìn qua vai, cơ thể quay đi trong khi cô ấy nhìn lại vào ống kính, mái tóc dài bồng bềnh tự nhiên nhẹ nhàng che một phần khuôn mặt.
 
-Đầu tiên, hãy tạo một câu văn ngắn gọn, giàu trí tưởng tượng và mang chút chất thơ hoặc biên tập dựa trên tâm trạng, hành động, mối quan hệ, địa điểm, ký ức hoặc ẩn dụ của bức ảnh. Sau đó, chọn ra một vài danh từ, động từ, từ ngữ chỉ hình ảnh hoặc cảm xúc từ câu văn đó phù hợp nhất để trực quan hóa và thay thế trực tiếp bằng các yếu tố hình ảnh tương ứng. Ví dụ: hoa, cửa sổ, chim chóc, cây cối, tách trà, biển cả, gió, đèn, con đường, chờ đợi, lướt qua, trở về và buổi sớm mai đều có thể được thể hiện bằng các yếu tố thị giác lấy từ ảnh gốc. Hình ảnh phải nằm đúng vị trí của từ ngữ, tạo thành logic đọc liên tục 'văn bản → hình ảnh-từ → văn bản → hình ảnh-từ → văn bản', thay vì chỉ là những hình vẽ nhỏ trang trí cho một câu hoàn chỉnh.
+KHUNG HÌNH DƯỚI - cận cảnh thân mật rất gần ống kính, mái tóc dài tự nhiên che một bên mắt, đôi môi chúm chím dễ thương, biểu cảm tự tin đầy mơ mộng.
 
-Mỗi 'từ thị giác' được thay thế nên đặt trong một khối nền màu nhỏ độc lập, giống như một mảnh cắt từ ký ức của bức ảnh gốc. Mỗi khối có thể có kích thước, tỷ lệ và kiểu cắt khác nhau—gần như hình vuông, dải ngang, khối dọc hoặc các hình cắt không đều. Các khối không cần đồng nhất về kích thước nhưng phải có nhịp điệu và phân cấp rõ ràng. Hình ảnh bên trong các khối này không phải là ảnh chụp màn hình từ ảnh gốc mà là những mảnh ghép nghệ thuật được vẽ lại bằng ngôn ngữ thị giác thống nhất, chỉ giữ lại những đường nét, hành động, cấu trúc và cốt lõi dễ nhận biết nhất. Chúng có thể được cắt một phần, chỉ hiển thị một góc hoặc mở rộng tự nhiên ra ngoài cạnh khối, khiến chúng trông giống một từ thị giác đầy ý nghĩa hơn là một hình minh họa thông thường.
+Nền trung tính nhạt, thẩm mỹ máy ảnh kỹ thuật số Y2K đầu những năm 2000 chân thực, phong cách chụp ảnh flash trực tiếp từ iPhone, điểm sáng flash rực rỡ, hơi quá sáng tự nhiên, đổ bóng mềm, nhiễu hạt kỹ thuật số cổ điển, độ mờ chuyển động tinh tế, bố cục tự nhiên không sắp đặt.
 
-Các yếu tố thị giác này nhìn chung nên áp dụng phong cách minh họa biên tập vẽ tay hiện đại thống nhất: tái cấu trúc các yếu tố gốc thông qua đường nét đơn giản hóa, hình khối khái quát, vài mảng màu phẳng và cảm giác thủ công nhẹ nhàng, tránh sự thực tế quá mức, khối lượng phức tạp, kết cấu nhiếp ảnh và sự sao chép máy móc. Hình ảnh nên giữ được linh hồn và khả năng nhận diện của chủ thể gốc nhưng không cần mô tả chi tiết hoàn hảo, mang lại cảm giác như những ký ức thị giác được tinh lọc. Phong cách cần nhẹ nhàng, thông minh, thiên về thiết kế và gợi nhớ đến các ấn phẩm nghệ thuật, đảm bảo tất cả các hình ảnh-từ đều hài hòa và thống nhất.
-
-Nền khối màu phía sau mỗi từ thị giác nên tuân theo logic màu sắc 'tươi mới, sáng sủa và dễ chịu', mặc dù mỗi khối có thể có màu khác nhau. Màu sắc nên được trích xuất từ những màu rực rỡ, sống động và tràn đầy sức sống nhất trong bức ảnh phía trên rồi tinh chỉnh lại, thay vì chỉ lấy giá trị trung bình. Hãy tăng độ sáng và độ tinh khiết của màu sắc để tạo ra bảng màu mềm mại, nhẹ nhàng và dễ tiếp cận hơn, thể hiện tự nhiên các sắc thái như xanh sữa, xanh hồ, xanh bạc hà, xanh mầm, vàng kem, hồng đào, hồng hoa anh đào, cam mơ và tím oải hương. Có thể có sự thay đổi nhẹ giữa các khối, nhưng tổng thể phải thống nhất, thoải mái, trong trẻo và sạch sẽ, truyền tải thẩm mỹ thư thái, dễ chịu, chữa lành, hơi nữ tính và mang phong cách 'Instagram'. Tránh các màu xám bẩn, tông tối, hiệu ứng cũ kỹ, bảng màu Morandi nặng nề, màu huỳnh quang, cảm giác kẹo ngọt rẻ tiền và độ tương phản quá mức.
-
-Bố cục nên được sắp xếp xoay quanh 'lộ trình đọc của câu', làm cho nửa dưới trông giống như một trang thơ thị giác. Văn bản và hình ảnh-từ có thể trải dài trên 2–4 dòng; không yêu cầu căn lề tuyệt đối, nhưng phải có nhịp điệu đọc rõ ràng, thanh lịch và tự nhiên. Kích thước của các hình ảnh-từ nên thay đổi tùy theo tầm quan trọng về ngữ nghĩa: một số có thể bằng kích thước một từ thông thường, trong khi số khác có thể lớn hơn một chút để làm điểm nhấn thị giác. Sử dụng sự thay đổi về chiều cao, mật độ, độ lệch nhẹ, khoảng trắng và nhịp điệu dòng cơ sở giữa văn bản, hình ảnh-từ và khối màu để tạo ra một bố cục biên tập bất đối xứng nhưng ổn định. Tránh kiểu dán sticker, danh sách thẻ, lưới đều đặn hoặc cắt dán lộn xộn.
-
-Nửa dưới nên giữ lại một lượng khoảng trắng đáng kể, để khoảng không tự nó trở thành một phần thiết yếu của hơi thở, nhịp điệu và cảm giác tinh tế. Nền nên là màu gần trắng, trắng nhạt hoặc một sắc thái cực nhạt phối hợp thông minh với nhiệt độ màu tổng thể của ảnh gốc, giữ cho sạch sẽ, tĩnh lặng và trong suốt. Tất cả hình ảnh-từ, văn bản và khối màu nên xuất hiện như đang lơ lửng trong khoảng trắng rộng rãi, khiến bố cục giống như một tạp chí nghệ thuật, ấn phẩm độc lập, trang thơ thị giác hoặc tác phẩm đồ họa thử nghiệm hơn là một mẫu poster thương mại.
-
-Không có hạn chế về ngôn ngữ của văn bản; bạn có thể tự do chọn tiếng Trung, tiếng Anh, song ngữ hoặc bất kỳ ngôn ngữ nào phù hợp với bầu không khí của bức ảnh, miễn là nội dung ngắn gọn, tự nhiên và giàu trí tưởng tượng. Tránh các phông chữ tiêu đề thương mại phổ biến; thay vào đó, hãy sử dụng các phông chữ nhẹ nhàng, tươi mới, tinh tế và mảnh mai với cảm giác biên tập hiện đại và chút nét nhân văn. Khoảng cách ký tự nên được thả lỏng tự nhiên với nhiều khoảng trắng và bố cục tiết chế nhưng năng động. Cho phép sự lệch nhẹ, ngắt dòng và thay đổi nhịp điệu để văn bản và hình ảnh-từ cùng tồn tại bình đẳng, cùng nhau tạo nên hình ảnh thay vì cái này lấn át cái kia.
-
-Hiệu ứng thị giác tổng thể nên là: nửa trên là hình ảnh thực tế, và nửa dưới là câu văn thị giác bao gồm 'văn bản + hình ảnh-từ + khối màu'. Nó trông giống như một bài thơ ngắn đầy cảm xúc, một mảnh ký ức hoặc một ẩn dụ thị giác được trích xuất từ ảnh gốc, tái tổ chức thành một tác phẩm nghệ thuật nhẹ nhàng, thông minh, tươi mới, chữa lành, hiện đại và đậm chất thiết kế. Trọng tâm không nằm ở việc mô tả những gì có trong ảnh, mà là chuyển dịch những yếu tố cảm động nhất của bức ảnh thành một ngôn ngữ đồ họa vừa có thể đọc vừa có thể ngắm nhìn.
-
-Tránh: sử dụng trực tiếp các phần cắt từ ảnh gốc làm từ thị giác, coi hình ảnh chỉ là minh họa trang trí bên cạnh văn bản, bao gồm hình ảnh mà không xóa các từ tương ứng trong câu, thẩm mỹ dán sticker, bố cục lưới thẻ, phong cách mẫu thương mại, bố cục luồng thông tin, cảm giác thương mại điện tử, cảm giác cắt dán trẻ con, sự lộn xộn, màu sắc đục, màu kẹo rẻ tiền, sự thực tế quá mức, nền phức tạp, phông chữ cơ khí và bố cục chật chội thiếu khoảng trắng.
+Không văn bản, không hình mờ, không biến dạng, không méo mặt, không mắt bất đối xứng, không trùng lặp các đặc điểm, không thay đổi khuôn mặt, không chi tiết khuôn mặt bị mờ.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -2210,21 +1360,829 @@ Tránh: sử dụng trực tiếp các phần cắt từ ảnh gốc làm từ t
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250560851_0b8uf6_HRGSPM6bYAA-zMO.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Poster Thơ Thị Giác Phong Cách Rebus - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336902055_8hobn2_HRHkmV5aUAAzQEx.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Ảnh ghép thẩm mỹ Y2K phong cách làm đẹp Nhật Bản - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Eesha](https://x.com/MissDelulu9)
+- **Nguồn:** [Twitter Post](https://x.com/MissDelulu9/status/2094706661005103239)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33211)**
+
+---
+
+### No. 20: Hồ sơ / Ảnh đại diện - Chân dung phụ nữ Đông Á thanh tao cùng cánh bướm
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh chi tiết để tạo ra bức chân dung kỳ ảo và thanh bình của một người phụ nữ Đông Á trong chiếc váy lụa satin trắng, với điểm nhấn là chú bướm đen trắng đậu trên ngón tay trên nền xanh đêm huyền bí.
+
+#### 📝 Câu lệnh
+
+```
+Bức chân dung thanh lịch ghi lại hình ảnh một người phụ nữ {argument name="ethnicity" default="Đông Á"} đang nhìn lên với nụ cười dịu dàng, thanh thản. Góc nghiêng của cô hướng về phía bên trái, cô mặc một chiếc {argument name="dress style" default="váy lụa satin trắng trễ vai"} và đeo một chiếc khuyên tai ngọc trai đơn lẻ. Mái tóc sẫm màu của cô được búi lỏng phía sau, và móng tay được sơn màu trắng ngọc trai. Bàn tay phải của cô đưa lên, và đậu nhẹ nhàng trên ngón trỏ là một chú bướm lớn với họa tiết đen trắng cùng đôi cánh có đường vân tinh xảo. Phông nền là một màu {argument name="background color" default="xanh đêm sâu thẳm, mượt mà"}, điểm xuyết bởi những hạt trắng mềm mại trôi nổi và ánh sáng lấp lánh tinh tế, mang đến cho toàn bộ khung cảnh một vẻ đẹp kỳ ảo, huyền diệu và tựa như trong mơ.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336913616_tphplx_HRHFqWGW8AABBlV.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung phụ nữ Đông Á thanh tao cùng cánh bướm - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336913405_7f3yaq_HRHFqWJXoAA7HbW.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung phụ nữ Đông Á thanh tao cùng cánh bướm - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Talia](https://x.com/TaliaAariz)
+- **Nguồn:** [Twitter Post](https://x.com/TaliaAariz/status/2094672662605824207)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33221)**
+
+---
+
+### No. 21: Bài đăng trên mạng xã hội - Chân dung điện ảnh trong đường hầm
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một bức chân dung thời trang chân thực như ảnh chụp, với chủ thể cuộn tròn nằm chính giữa một đường ống công nghiệp tối màu cùng các vệt sáng phơi sáng lâu hình tròn.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một bức ảnh thời trang điện ảnh siêu chân thực về {argument name="subject" default="một cô gái trẻ với mái tóc dài sẫm màu và đeo kính tròn"} đang ngồi cuộn tròn bên trong một đường hầm hoặc đường ống công nghiệp hình trụ lớn và tối. Sử dụng bố cục dọc 4:5 chụp trực diện từ phía trước đường ống, lấy chủ thể làm trung tâm, với đường hầm hình tròn lấp đầy toàn bộ khung hình như một cơn lốc. Chủ thể ngồi thấp ở giữa với đầu gối co lên, hai tay khoanh lại đặt trên đầu gối, hai bàn chân sát nhau, nhìn điềm tĩnh vào ống kính với nụ cười tự tin tinh tế. Cô ấy mặc {argument name="outfit" default="áo phông đen ôm sát, quần đen ống rộng và giày vải đen với dây buộc và đế màu trắng"}. Bên trong đường hầm là kim loại hoặc bê tông màu đen, bóng, cũ kỹ, có kết cấu, với các vết xước hình tròn và chi tiết bề mặt công nghiệp thô ráp. Thêm các vệt sáng đồng tâm đầy kịch tính xung quanh vành trong của đường hầm, pha trộn giữa các điểm nhấn màu cam ấm áp và những vệt trắng mỏng, như thể được tạo ra bởi các phản xạ phơi sáng lâu theo độ cong của đường ống. Ánh sáng cần mang tính tâm trạng và có độ tương phản cao: ánh sáng dịu phía trước chiếu vào khuôn mặt và cánh tay, các điểm nhấn viền ấm áp trên tóc, bóng tối sâu xung quanh các cạnh bên ngoài và một khung hình tròn mạnh mẽ bao quanh chủ thể. Sử dụng cảm giác ống kính góc rộng của tạp chí với độ méo mắt cá nhẹ, lấy nét sắc nét vào chủ thể, kết cấu da và vải chi tiết, phản chiếu kính chân thực, tỷ lệ tự nhiên và không có văn bản, logo, hình mờ hoặc người lạ.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336951836_kdvugr_HRMWv8YWMAA_NdF.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung điện ảnh trong đường hầm - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [AI Qoro](https://x.com/AIqoro)
+- **Nguồn:** [Twitter Post](https://x.com/AIqoro/status/2095043293885165673#reversed-0)
+- **Đã xuất bản:** 2 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33260)**
+
+---
+
+### No. 22: Bài đăng trên mạng xã hội - Ảnh chân dung thời trang điện ảnh trong đường hầm
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một bức ảnh chân dung biên tập siêu thực của một người mẫu đang ngồi bên trong đường ống công nghiệp tối với các vệt sáng hình tròn.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một bức ảnh chân dung biên tập thời trang điện ảnh siêu thực tế của {argument name="subject" default="một cô gái trẻ với mái tóc đen ngang vai, tóc mái thưa và đeo kính tròn"} đang ngồi cuộn mình bên trong một đường hầm hoặc đường ống công nghiệp hình trụ lớn và tối. Máy ảnh nhìn thẳng vào đường ống hình tròn từ đầu hở, tạo ra bố cục tập trung mạnh mẽ với chủ thể ngồi thấp ở giữa, đầu gối co chặt, hai bàn chân chụm vào nhau và hai tay khoanh lại một cách tự nhiên trên đầu gối. Cô ấy mặc {argument name="outfit" default="một chiếc áo phông đen ngắn tay vừa vặn, quần đen ống rộng và giày vải đen với dây buộc trắng và đế trắng"}. Biểu cảm của cô ấy bình tĩnh và hơi tự tin, nhìn thẳng vào ống kính và nở nụ cười nhẹ nhàng, khép miệng. Bên trong đường hầm là kim loại đen, bóng, bề mặt thô ráp với các vết trầy xước, vết xước và các điểm nhấn trông như bị ướt. Bao quanh chủ thể là các vệt sáng chuyển động hình tròn đầy kịch tính chạy dọc theo chu vi của đường ống: màu hổ phách ấm, màu cam và thỉnh thoảng có các vệt trắng, đặc biệt là gần vành ngoài, trong khi trung tâm vẫn sắc nét. Sử dụng ánh sáng low-key tâm trạng với ánh sáng viền ấm áp bắt lấy mái tóc và cánh tay, ánh sáng lấp đầy phía trước nhẹ nhàng trên khuôn mặt, bóng tối sâu xung quanh các cạnh đường ống và vẻ ngoài biên tập có độ tương phản cao. Bố cục ảnh dọc 4:5, góc nhìn ống kính góc rộng, khung hình tròn đối xứng, chủ thể ở trung tâm, kết cấu da thực tế sắc nét, tỷ lệ tự nhiên, vải chi tiết, không văn bản, không logo, không hình mờ. Hãy tạo cảm giác như một bức ảnh thời trang đô thị cao cấp được chụp bên trong một đường ống công nghiệp tối với kỹ thuật phơi sáng lâu.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336937378_iz1a78_HRLoUjgaYAA67xI.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ảnh chân dung thời trang điện ảnh trong đường hầm - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336937351_446v5s_HRLoUjTbkAA0h0j.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ảnh chân dung thời trang điện ảnh trong đường hầm - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Laraib Fatima‎](https://x.com/AiwithLariab)
+- **Nguồn:** [Twitter Post](https://x.com/AiwithLariab/status/2094993042348581289#reversed-0)
+- **Đã xuất bản:** 2 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33240)**
+
+---
+
+### No. 23: Bài đăng trên mạng xã hội - Nhiếp ảnh ống kính tele chụp Mặt Trăng và cổng Torii
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một gợi ý (prompt) nhiếp ảnh ống kính dài với hình ảnh Mặt Trăng khổng lồ mọc sau cổng Torii truyền thống của Nhật Bản nằm giữa biển.
+
+#### 📝 Câu lệnh
+
+```
+Góc nhìn siêu tele, tiêu cự 1200mm tạo hiệu ứng nén, một vầng trăng tròn khổng lồ mọc ngay phía sau {argument name="subject" default="cổng Torii màu đỏ son"} đứng giữa {argument name="setting" default="vùng nước biển nông"}. Đĩa Mặt Trăng chiếm phần lớn khung hình, các miệng núi lửa hiện rõ trên bề mặt vàng nhạt, làm cho chiếc cổng trở nên nhỏ bé hoàn toàn. Cổng Torii hiện lên như một bóng đen nhỏ, rong biển bám vào chân cổng, những gợn sóng nhẹ phản chiếu ánh trăng. Một {argument name="wildlife" default="con diệc đơn độc"} đứng yên trong nước ở một phần ba phía bên trái. Bầu trời màu chàm sâu thẳm, lớp sương mù ven biển nhẹ nhàng làm mờ cạnh dưới của Mặt Trăng. Bố cục dàn trải đều trên toàn bộ chiều rộng. Yên bình, hùng vĩ, nhiếp ảnh ban đêm bằng ống kính dài, chi tiết sắc nét trên toàn khung hình.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336900206_ji4bsl_HRLEDN3WcAMNdXf.jpg" width="600" alt="Bài đăng trên mạng xã hội - Nhiếp ảnh ống kính tele chụp Mặt Trăng và cổng Torii - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336900157_txhfji_HRLEESHWMAExiSJ.jpg" width="600" alt="Bài đăng trên mạng xã hội - Nhiếp ảnh ống kính tele chụp Mặt Trăng và cổng Torii - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Borderless 🌐](https://x.com/BorderleSint)
+- **Nguồn:** [Twitter Post](https://x.com/BorderleSint/status/2094952694880309759)
+- **Đã xuất bản:** 2 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33207)**
+
+---
+
+### No. 24: Bài đăng trên mạng xã hội - Nhiếp ảnh thời trang phong cách cổ điển thập niên 1960 bên bờ biển
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh (prompt) cho khung cảnh bờ biển cổ điển thập niên 1960 với hình ảnh một người phụ nữ đội mũ làm từ bưu thiếp vào giờ vàng, được sử dụng để so sánh GPT Image 2 và Meta Muse.
+
+#### 📝 Câu lệnh
+
+```
+Một lối đi bộ bên bờ biển vào giờ vàng. Một người phụ nữ xinh đẹp trong bộ {argument name="outfit" default="váy thập niên 1960"} và chiếc mũ rộng vành làm từ {argument name="hat material" default="bưu thiếp cũ"} — có thể nhìn thấy dòng chữ in nhỏ: "BEST WISHES FROM THE COAST", "POST CARD — 1962", "SEA BREEZE & SAND" — vài tấm bưu thiếp bay phấp phới trong gió. {argument name="setting" default="Lối đi bộ"}, những túp lều bãi biển kẻ sọc, những chú chim hải âu, ánh sáng vàng rực rỡ. Phong cách cổ điển, tươi vui, tỷ lệ khung hình 2:3.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336900789_d7wecs_HRKE9eyWQAAhF17.jpg" width="600" alt="Bài đăng trên mạng xã hội - Nhiếp ảnh thời trang phong cách cổ điển thập niên 1960 bên bờ biển - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336900781_y93ag8_HRKE-w_WkAAQWyz.jpg" width="600" alt="Bài đăng trên mạng xã hội - Nhiếp ảnh thời trang phong cách cổ điển thập niên 1960 bên bờ biển - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [AlexAImaginator](https://x.com/TraffAlex)
+- **Nguồn:** [Twitter Post](https://x.com/TraffAlex/status/2094883050223960460)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33209)**
+
+---
+
+### No. 25: Bài đăng trên mạng xã hội - Nghệ thuật nhiếp ảnh chiếc ngai vàng từ những trang từ điển nguyên khối
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh sáng tạo và tinh tế để tạo ra những tác phẩm nhiếp ảnh nghệ thuật cao cấp, với chủ thể ngồi trên chiếc ngai vàng được xây dựng từ những trang từ điển xếp chồng lên nhau, làm nổi bật các kết cấu và chi tiết kiểu chữ đặc trưng.
+
+#### 📝 Câu lệnh
+
+```
+Một bức ảnh nghệ thuật đồ sộ. Một người phụ nữ xinh đẹp ngồi trên chiếc ghế được xây dựng hoàn toàn từ những {argument name="material" default="trang từ điển"} mở, xếp chồng lên nhau như đá — các chữ cái "A A A A" hiện rõ bằng phông chữ có chân màu đen đậm trên tay vịn — trang sách trên đùi cô ấy mở ra chữ cái "{argument name="letter" default="L"}", từ "{argument name="word" default="LOVE"}" có thể nhìn thấy rõ. Một sảnh bảo tàng, ánh sáng dịu mát, một tấm biển đồng ghi "VẬT THỂ 47: NGAI VÀNG, ĐẦU THẾ KỶ 20". Uy nghiêm, tĩnh lặng, tỷ lệ khung hình 2:3.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336913197_e6iud1_HRKEYnsW0AAsE2i.jpg" width="600" alt="Bài đăng trên mạng xã hội - Nghệ thuật nhiếp ảnh chiếc ngai vàng từ những trang từ điển nguyên khối - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336915135_qk1zi8_HRKEZqFWQAAYocL.jpg" width="600" alt="Bài đăng trên mạng xã hội - Nghệ thuật nhiếp ảnh chiếc ngai vàng từ những trang từ điển nguyên khối - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [AlexAImaginator](https://x.com/TraffAlex)
+- **Nguồn:** [Twitter Post](https://x.com/TraffAlex/status/2094882690533109801)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33223)**
+
+---
+
+### No. 26: Bài đăng trên mạng xã hội - Chân dung đọc sách phong cách Urban đen tuyền
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một bức chân dung thời trang đường phố theo phong cách tả thực về một người phụ nữ đeo tai nghe đang đọc sách trên ghế băng với trang phục urban đen tuyền.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một bức chân dung thời trang đường phố tả thực về một cô gái trẻ Đông Á mặc trang phục đen tuyền, đang ngồi trên chiếc ghế băng gỗ cũ kỹ bên ngoài một tòa nhà bằng đá cổ kính. Cô đang chăm chú đọc một cuốn sách bìa mềm nhỏ, ánh mắt hướng xuống với vẻ mặt bình thản, trầm tư. Cô đeo tai nghe chụp tai màu đen cỡ lớn, mặc áo hoodie đen dáng rộng bên trong chiếc áo khoác utility đen ngoại cỡ, quần jeans ống rộng màu xám than bạc màu và đôi bốt chiến binh buộc dây màu đen hầm hố với phần đế dày. Mái tóc {argument name="hair color" default="đen"} của cô được búi lỏng tay một cách tự nhiên với phần tóc mái thưa ôm lấy khuôn mặt. Một đầu gối co lên trên ghế trong khi chân kia duỗi về phía trước, tạo nên tư thế đường phố đầy thư thái. Đặt một chiếc túi đeo chéo nhỏ gọn họa tiết đen xám bên cạnh cô trên ghế. Bối cảnh là không gian bên ngoài thành phố với tông màu trầm, những bức tường đá màu kem đã nhuốm màu thời gian, khung cửa sổ gỗ tối màu cũ kỹ với các ô kính phía sau, những thanh gỗ ghế băng đã sờn và mặt đường màu xám. Sử dụng bảng màu trang phục đơn sắc đen và xám than, ánh sáng ban ngày tự nhiên nhiều mây, đổ bóng mềm mại, kết cấu vải chân thực, gỗ trầy xước, tông màu hơi bão hòa, độ sâu trường ảnh nông và bố cục nhiếp ảnh thời trang biên tập trong khung hình dọc 3:4. Không có logo hiển thị, không có văn bản dễ đọc trên cuốn sách, không có người khác, không có hình mờ.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336939265_zwnmam_HRJgXCNaUAAsYBA.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung đọc sách phong cách Urban đen tuyền - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [愛生あさい（実在しないモデルの研究中）](https://x.com/A101asAI)
+- **Nguồn:** [Twitter Post](https://x.com/A101asAI/status/2094842945522602314#reversed-0)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33244)**
+
+---
+
+### No. 27: Bài đăng trên mạng xã hội - Phòng thu phát thanh phong cách chân thực thập niên 1970
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh (prompt) đậm chất điện ảnh để tạo ra phòng thu phát thanh chi tiết thập niên 1970, bao gồm bảng hiệu cửa sổ tùy chỉnh, người dẫn chương trình với phụ kiện cổ điển và ánh sáng ấm áp.
+
+#### 📝 Câu lệnh
+
+```
+Một phòng thu phát thanh thập niên 1970 chân thực. Bảng hiệu sơn trên cửa sổ ghi "{argument name="station name" default="K-FROG — THE FROG STATION"}", và bảng lịch trình bên cạnh buồng thu âm liệt kê "6:00 DAWN CHORUS / 9:00 FROG FACTS / 12:00 LUNCH JAZZ / 15:00 FROG & FRIENDS / 21:00 LULLABIES". Một nữ phát thanh viên đội mũ lông vũ và đeo tai nghe đang ngồi trước micro lớn, đèn "ON AIR" màu đỏ đang phát sáng, một chiếc cốc có dòng chữ "{argument name="mug text" default="CALM SEAS ONLY"}", {argument name="lighting" default="warm studio light"}, tỷ lệ khung hình 2:3.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336909268_7sno2e_HRJe2IaWYAAdbfR.jpg" width="600" alt="Bài đăng trên mạng xã hội - Phòng thu phát thanh phong cách chân thực thập niên 1970 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336909672_sdqhxk_HRJe3HBWoAAZrvy.jpg" width="600" alt="Bài đăng trên mạng xã hội - Phòng thu phát thanh phong cách chân thực thập niên 1970 - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [AlexAImaginator](https://x.com/TraffAlex)
+- **Nguồn:** [Twitter Post](https://x.com/TraffAlex/status/2094841096522080496)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33218)**
+
+---
+
+### No. 28: Bài đăng trên mạng xã hội - Khung cảnh tiệm cắt tóc cổ điển
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh chi tiết để tạo ra khung cảnh tiệm cắt tóc cổ điển chân thực, bao gồm văn bản biển hiệu cụ thể và một nữ thợ cắt tóc đang chăm sóc một chú chó poodle.
+
+#### 📝 Câu lệnh
+
+```
+Một khung cảnh {argument name="location" default="tiệm cắt tóc"} cổ điển chân thực. Bảy tấm biển nhỏ được đóng khung treo trên tường, mỗi tấm đều có dòng chữ được sơn gọn gàng: "NO HATS", "TALKING PAID EXTRA", "TUESDAYS ARE QUIET", "DOGS ON A LEASH", "MIRRORS BEFORE 10 AM", "NO NAPPING ON THURSDAYS", "BEEPS COST 2 PENNIES". Một {argument name="character" default="nữ thợ cắt tóc"} mặc tạp dề kẻ sọc đang tỉa lông cho một chú {argument name="animal" default="chó poodle"} trên ghế, những sợi lông bay trong không trung, cột hiệu đỏ trắng phát sáng bên ngoài cửa sổ, ánh sáng đèn vonfram ấm áp, tỷ lệ khung hình 2:3.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336892994_gf1sxt_HRJcbucWYAA7ms6.jpg" width="600" alt="Bài đăng trên mạng xã hội - Khung cảnh tiệm cắt tóc cổ điển - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336893212_2qtzil_HRJcc92W4AApma8.jpg" width="600" alt="Bài đăng trên mạng xã hội - Khung cảnh tiệm cắt tóc cổ điển - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [AlexAImaginator](https://x.com/TraffAlex)
+- **Nguồn:** [Twitter Post](https://x.com/TraffAlex/status/2094838454446067940)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33194)**
+
+---
+
+### No. 29: Bài đăng trên mạng xã hội - Biển hiệu cửa hàng cổ điển thập niên 1920
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một gợi ý về khung cảnh đường phố đầy hoài niệm từ năm 1928 với các biển hiệu cửa hàng vẽ tay, thùng nước ngọt cổ điển và ánh sáng buổi sáng dịu nhẹ.
+
+#### 📝 Câu lệnh
+
+```
+Một góc phố chân thực như ảnh chụp vào năm {argument name="year" default="1928"}. Một tấm biển hiệu cửa hàng vẽ tay lớn trên mặt tiền bằng gỗ với dòng chữ viết tay mềm mại: "{argument name="main text" default="THE ORIGINAL BUBBLY ORANGE SODA"}", "{argument name="tagline" default="COLD, CRISP, ALMOND-KISSED"}", "BOTTLED BY HENRY & SONS, 1928", kèm hình vẽ một lát cam và bọt nước sủi. Bên dưới biển hiệu, một chiếc thùng gỗ chứa các chai thủy tinh với nhãn giấy nhỏ ghi "BUBBLY ORANGE", một chiếc xe đạp dựa vào tường và một chiếc mũ chống nắng bằng giấy đặt trên thùng. Ánh sáng buổi sáng, đường lát đá cuội, sương mờ nhạt, tỷ lệ khung hình 2:3.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336907531_36y7v6_HRJXeEYWAAE_Pqz.jpg" width="600" alt="Bài đăng trên mạng xã hội - Biển hiệu cửa hàng cổ điển thập niên 1920 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336907626_epvr9t_HRJXgUXXYAAl1O_.jpg" width="600" alt="Bài đăng trên mạng xã hội - Biển hiệu cửa hàng cổ điển thập niên 1920 - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [AlexAImaginator](https://x.com/TraffAlex)
+- **Nguồn:** [Twitter Post](https://x.com/TraffAlex/status/2094833028379902255)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33215)**
+
+---
+
+### No. 30: Bài đăng trên mạng xã hội - Ảnh chân dung thời trang ngoài trời phong cách casual
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh (prompt) tạo ảnh thời trang ngoài trời đậm chất điện ảnh về một người phụ nữ thư thái trên cánh đồng cỏ, tập trung vào ánh sáng tự nhiên và thẩm mỹ tối giản.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một bức ảnh thời trang biên tập đậm chất điện ảnh, siêu thực về {argument name="subject" default="một phụ nữ trẻ với mái tóc đen dài hơi rối và phần tóc mái thưa"}, đang tựa người về phía trước một cách tự nhiên trên chiếc ghế ngoài trời màu trắng tối giản giữa một cánh đồng cỏ rộng mở. Bắt trọn khung cảnh từ góc nhìn thấp tinh tế để tạo cảm giác tự tin và hiện đại. Cô ấy mặc {argument name="outfit" default="một chiếc áo tank top trắng gân tăm đơn giản phối cùng quần tây màu be dáng suông"}, kết hợp với vòng cổ dây xích bạc mảnh và vòng tay đồng bộ. Lớp trang điểm của cô ấy nhẹ nhàng và tự nhiên, với ánh nắng ấm áp chiếu rọi lên làn da. Cô ấy có biểu cảm bình tĩnh, tự tin cùng tư thế thoải mái, không gượng ép. Phía sau cô ấy, {argument name="setting" default="bầu trời xanh trong trẻo tạo nên phông nền thoáng đãng, sạch sẽ, được bổ sung bởi đồ nội thất ngoài trời tối giản hiện đại"}. Sử dụng độ sâu trường ảnh nông để tách biệt nhẹ nhàng chủ thể khỏi môi trường xung quanh, với ánh sáng ban ngày tự nhiên, bóng đổ mềm mại, kết cấu da chân thực và tông màu HDR cân bằng. Thẩm mỹ ống kính biên tập 35mm, khẩu độ f/2.8, bố cục điện ảnh, ánh sáng ngoài trời chân thực, chi tiết chủ thể sắc nét, hậu cảnh mờ nhòe tinh tế, nhiếp ảnh tạp chí thời trang cao cấp, hoàn thiện chân thực như ảnh chụp.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336898735_xofq5n_HRJMSHWaoAAvJfT.jpg" width="600" alt="Bài đăng trên mạng xã hội - Ảnh chân dung thời trang ngoài trời phong cách casual - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Jack](https://x.com/j_smeaton99)
+- **Nguồn:** [Twitter Post](https://x.com/j_smeaton99/status/2094820658605912071)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33204)**
+
+---
+
+### No. 31: Bài đăng trên mạng xã hội - Minh họa anime chủ đề đại dương huyền ảo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh (prompt) chi tiết theo phong cách anime về một người phụ nữ thanh tao với mái tóc màu xanh aqua, bồng bềnh trong bối cảnh đại dương huyền ảo lấy cảm hứng từ thẩm mỹ Hy Lạp.
+
+#### 📝 Câu lệnh
+
+```
+Minh họa anime chủ đề đại dương huyền ảo về một người phụ nữ trẻ xinh đẹp, bố cục dọc 9:16. Cô ấy có khuôn mặt thanh tú, đôi mắt xanh xám to tròn biểu cảm, làn da hồng hào mềm mại, chiếc mũi nhỏ thanh tú và nụ cười rạng rỡ dịu dàng. Mái tóc cô ấy dài, bồng bềnh {argument name="hair color" default="xanh aqua và ngọc lam"}, chuyển động đầy ấn tượng xung quanh cơ thể như thể đang trôi theo dòng hải lưu. Những lọn tóc xoăn nhẹ ôm lấy khuôn mặt, điểm xuyết bằng các bím tóc trang trí và những món đồ trang sức lấy cảm hứng từ đại dương được đan cài khéo léo.
+
+Cô ấy mặc một chiếc váy giả tưởng {argument name="gown color" default="xanh biển"} thướt tha, lấy cảm hứng từ thẩm mỹ {argument name="aesthetic" default="Hy Lạp cổ đại và nàng tiên cá"}. Chiếc váy có phần thân trên cúp ngực màu xanh aqua nhạt, với lớp vải nhún mềm mại và các lớp vải xuyên thấu tinh tế. Một chiếc đai lưng rộng được quấn quanh eo, trang trí bằng dây thừng vàng, các chi tiết giống vỏ sò, ngọc trai và những món đồ trang sức kim loại tinh xảo. Phần dưới váy dài, thướt tha và nhẹ nhàng, với các lớp vải xanh xuyên thấu xếp chồng lên nhau, tạo hiệu ứng bay bổng đầy ấn tượng.
+
+Phụ kiện
+Đồ trang sức vàng tinh tế trên trán
+Vòng cổ ngọc trai và đá ngọc lam xếp lớp
+Phụ kiện tóc hình vỏ sò và hoa nhỏ
+Vòng tay vàng và vòng tay mảnh
+Hoa tai trang trí thanh lịch
+Chi tiết vàng tinh xảo trên khắp trang phục
+Tư thế
+
+Cô ấy đứng duyên dáng với hai tay giơ cao quá đầu, bàn tay đan nhẹ vào nhau, tạo nên một dáng người uyển chuyển. Cơ thể cô hơi xoay trong khi khuôn mặt nhìn về phía người xem. Mái tóc xanh dài và chiếc váy bồng bềnh xung quanh cô, tạo cảm giác chuyển động và năng lượng ma thuật.
+
+Bối cảnh
+
+Một môi trường đại dương huyền ảo tràn ngập những con sóng ngọc lam cuộn trào, bọt nước trắng xóa, những giọt nước lơ lửng, sương mù mềm mại và những dải nước xanh uốn lượn. Bố cục tạo cảm giác như cô ấy đang trồi lên từ một vùng biển ma thuật. Không gian âm màu trắng và tông màu xanh aqua nhạt tương phản tuyệt đẹp với các yếu tố màu ngọc lam sống động.
+
+Phong cách nghệ thuật
+
+Minh họa giả tưởng Nhật Bản chi tiết cao, nghệ thuật nhân vật anime thanh lịch, tranh màu nước và mực, nét vẽ tinh tế, đổ bóng cel-shading mềm mại, kết cấu vẽ tay, điểm nhấn rực rỡ, vải vóc thướt tha, chuyển động tóc năng động, thiết kế trang phục phức tạp, bầu không khí đại dương ma thuật, bố cục nữ tính duyên dáng, thẩm mỹ poster giả tưởng mơ mộng.
+
+Bảng màu: ngọc lam, xanh aqua, xanh cyan nhạt, trắng ngà, vàng mềm mại, tông da hồng hào tinh tế.
+
+Negative prompt: chân thực như ảnh chụp, 3D CGI, kết cấu nhựa, trang phục hiện đại, màu sắc xỉn, giải phẫu bị biến dạng, thừa ngón tay, bàn tay dị dạng, mắt không đối xứng, đường nét khuôn mặt lộn xộn, chi tiết thấp, tác phẩm nghệ thuật mờ, đường viền đậm, văn bản, hình mờ, logo.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336899131_4k6ulw_HRGyrx8acAAV86w.jpg" width="600" alt="Bài đăng trên mạng xã hội - Minh họa anime chủ đề đại dương huyền ảo - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336899094_s18qd9_HRGys9Xa8AAHjok.jpg" width="600" alt="Bài đăng trên mạng xã hội - Minh họa anime chủ đề đại dương huyền ảo - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai)
+- **Nguồn:** [Twitter Post](https://x.com/afrinxai/status/2094817562093875243)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33206)**
+
+---
+
+### No. 32: Bài đăng trên mạng xã hội - Chân dung khu vườn màu nước mộng mơ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Tạo ra bức chân dung phong cách màu nước đầy mê hoặc của một phụ nữ trẻ Nam Á trong bộ sari hoa, bao quanh là một khu vườn nở rộ lãng mạn.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một bức chân dung màu nước đầy mộng mơ về một {argument name="subject" default="người phụ nữ trẻ Nam Á xinh đẹp"} đang đứng duyên dáng trong một khu vườn hoa tươi tốt. Cô ấy được khắc họa từ khoảng ngang đùi trở lên, hơi lệch về phía bên trái, hướng về phía người xem với nụ cười dịu dàng, điềm tĩnh và đôi mắt nâu ấm áp. Cô có mái tóc dài, gợn sóng màu nâu sẫm với những điểm nhấn óng ả dưới ánh mặt trời, rẽ ngôi giữa tự nhiên, với vài lọn tóc tinh tế quanh khuôn mặt. Cô mặc một chiếc sari hoa {argument name="sari color" default="hồng phấn và tím oải hương"} thanh lịch, chất liệu vải sheer mỏng nhẹ với các lớp vải xuyên thấu, đường viền thêu tinh tế và họa tiết thực vật mềm mại, cùng với trang sức vàng: hai chiếc bông tai jhumka lớn, một chiếc vòng cổ mảnh, vòng tay xếp lớp và một chiếc nhẫn tinh xảo. Đôi tay cô đặt nhẹ nhàng lên eo, tạo nên một tư thế đĩnh đạc, thanh bình. Bao quanh cô là một khu vườn lãng mạn tràn ngập hoa hồng và những bông hoa mềm mại màu hồng, kem, trắng, san hô và vàng nhạt, cùng với tán lá xanh; bao gồm một cấu trúc đình vườn bằng đá hoặc công trình giống như đền thờ được làm mờ nhẹ ở hậu cảnh phía trên. Sử dụng ánh sáng vàng ấm từ phía trên bên trái, ánh sáng viền rực rỡ xuyên qua mái tóc, ánh nắng đốm nhẹ nhàng, tông màu da sáng và lớp sương mù bao phủ đầy chất thơ. Kết xuất toàn bộ hình ảnh như tranh màu nước truyền thống trên giấy có kết cấu, với các mảng màu ướt trên ướt (wet-on-wet) phóng khoáng, các cạnh sắc tố loang màu, chi tiết giống như mực tinh tế chỉ trên khuôn mặt và trang sức, các vệt màu mềm mại, hạt màu và các tông màu pastel sáng. Bố cục dọc 3:4, lãng mạn, thanh tao, thanh lịch và cực kỳ chi tiết trên khuôn mặt trong khi hoa và hậu cảnh vẫn giữ nét vẽ ấn tượng và bay bổng. Không văn bản, không hình mờ, không vật thể hiện đại, không đường viền thô cứng.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336936450_wo6img_HRJGYxabcAAF1eZ.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung khu vườn màu nước mộng mơ - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336936395_5y1wez_HRJGZbpbQAAXTOE.jpg" width="600" alt="Bài đăng trên mạng xã hội - Chân dung khu vườn màu nước mộng mơ - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Arina Ai](https://x.com/Arina_hoqe)
+- **Nguồn:** [Twitter Post](https://x.com/Arina_hoqe/status/2094814187440701774#reversed-0)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33239)**
+
+---
+
+### No. 33: Infographic / Hình ảnh giáo dục - Slide văn học về Lý Thanh Chiếu
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Tạo slide bìa văn học Trung Hoa thanh lịch với kiểu chữ tinh tế, các thẻ biểu tượng và hình ảnh tĩnh vật bản thảo hoa mai đầy chất thơ.
+
+#### 📝 Câu lệnh
+
+```
+Mục tiêu: Tạo một slide bìa thuyết trình văn học Trung Hoa thanh lịch về {argument name="topic" default="李清照对当代女性的启示"}, kết hợp bầu không khí thơ ca thời Tống với thiết kế biên tập hiện đại.
+
+Khung hình: Slide ngang tỷ lệ 16:9, nền trắng ngà sạch sẽ với một bảng dọc màu xanh lá xám nhạt chiếm một phần ba phía bên phải. Sử dụng nhiều khoảng trắng, lề tinh tế, kết cấu giấy mềm mại, các vết mực nhạt và bóng đổ thực vật màu xám tinh tế ở giữa.
+
+Bố cục: Hai phần ba bên trái là khu vực văn bản; một phần ba bên phải là khu vực ảnh tĩnh vật. Đặt tiêu đề lớn ở phía trên bên trái, sắp xếp thành hai dòng chữ Hán có chân màu xanh lá rừng đậm: dòng 1 “李清照对当代”, dòng 2 “女性的启示”. Bên dưới tiêu đề, thêm một đường kẻ ngang màu đỏ trầm mảnh. Bên dưới nữa là phụ đề bằng chữ Hán có chân màu đen nhỏ hơn: {argument name="subtitle text" default="从文学人生，看见女性如何表达自我、选择人生、抵抗困境。"}
+
+Hàng tính năng ở giữa bên trái: bao gồm chính xác 3 thẻ biểu tượng nhỏ nằm ngang, được ngăn cách bởi hai đường kẻ dọc mảnh. Thẻ 1 có biểu tượng hình tròn màu hồng trầm với ký hiệu lá trắng và nhãn “以文学\n确立自我”. Thẻ 2 có biểu tượng hình tròn màu be ấm với ký hiệu cán cân trắng và nhãn “在时代与命运之间\n保持判断”. Thẻ 3 có biểu tượng hình tròn màu xanh mòng két nhạt với ký hiệu bóng người trắng và nhãn “不被单一\n身份定义”.
+
+Hàng từ khóa ở dưới cùng bên trái: bao gồm chính xác 3 từ khóa được ngăn cách bởi các thanh dọc, với một dấu đầu dòng nhỏ màu xanh lá đậm: “表达自我 | 保持独立 | 承受变化”.
+
+Chi tiết tĩnh vật bên phải: hiển thị một bức thư hoặc giấy bản thảo cổ của Trung Quốc đang mở, đặt chéo trên bàn, với chữ Hán viết tay dọc bằng mực xám có thể nhìn thấy rõ. Một cây bút lông màu đen nâu nằm chéo trên giấy, hướng về phía dưới bên phải. Thêm chính xác 2 cành hoa mai đang nở: một cành vắt ngang góc trên bên phải với vài bông hoa và nụ màu trắng hồng nhạt, và một cành nhỏ hơn kéo dài từ giữa bên trái sang bên phải, tạo ra những bóng đổ mềm mại. Nền bảng bên phải có màu xanh lá xám nhạt; giấy có màu ngà ấm với các cạnh hơi cong và nếp gấp mềm mại.
+
+Phong cách hình ảnh: trang nhã, văn học, tối giản kiểu danh mục bảo tàng; thẩm mỹ thời Tống điềm tĩnh; ánh sáng ban ngày tự nhiên từ phía trên bên trái; bóng đổ mềm mại; bảng màu trầm gồm màu ngà, xanh lá rừng, xanh lá xám, hồng trầm, be và xám mực; bố cục biên tập độ phân giải cao, ảnh tĩnh vật chân thực kết hợp với kiểu chữ đồ họa sạch sẽ.
+
+Ràng buộc: Giữ nguyên tất cả văn bản hiển thị bằng tiếng Trung chính xác như đã chỉ định, không thêm chú thích hoặc hình mờ. Duy trì chính xác 3 thẻ biểu tượng và 3 từ khóa ở dưới cùng. Tránh sự lộn xộn, màu sắc rực rỡ, phong cách hoạt hình hoặc các hiệu ứng giao diện công nghệ hiện đại.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336940950_rbycw0_HRIzAHIaQAESLcr.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Slide văn học về Lý Thanh Chiếu - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
 - **Tác giả:** [小小东](https://x.com/xiaoxiaodong01)
-- **Nguồn:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2094616515056419231)
+- **Nguồn:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2094793543634276422#reversed-0)
 - **Đã xuất bản:** 1 tháng 9, 2026
-- **Ngôn ngữ:** zh
+- **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33142)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33246)**
 
 ---
 
-### No. 39: Infographic / Hình ảnh giáo dục - Bộ ảnh tư liệu về Grape-kun
+### No. 34: Infographic / Hình ảnh giáo dục - Tranh in nghệ thuật bản đồ địa hình quốc gia
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một gợi ý tranh in nghệ thuật tinh tế lấy cảm hứng từ thiết kế đồ họa Thụy Sĩ và bản đồ địa hình, tập trung vào bản sắc địa lý và kiểu chữ tối giản.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một bản in nghệ thuật đương đại khổ dọc 4:5 tinh tế về một quốc gia, lấy cảm hứng từ thiết kế đồ họa Thụy Sĩ, bản đồ địa hình, áp phích biên tập hiện đại và bản đồ ngoài trời cao cấp.
+
+Ý TƯỞNG CHÍNH: Thể hiện {argument name="country" default="[COUNTRY]"} thông qua địa hình, tọa độ và bản sắc địa lý thay vì các địa danh hay hình ảnh du lịch.
+
+NỀN: Giấy màu trắng ấm / màu ngà rất nhạt sạch sẽ với vân giấy tinh tế.
+
+BỐ CỤC BẢN ĐỒ: Sử dụng 2–3 phần cắt của bản đồ đường đồng mức địa hình đen trắng cực kỳ chi tiết, đại diện cho các vùng địa lý quan trọng của {argument name="country_name" default="[COUNTRY]"}. Sắp xếp chúng bất đối xứng với nhiều khoảng trắng.
+
+Đặt một điểm nhấn hình tròn mờ lớn lên vị trí địa lý quan trọng nhất. Hình tròn này nên mang cảm giác như một dấu hiệu vị trí bản đồ hiện đại thay vì một chiếc ghim bản đồ thông thường.
+
+KIỂU CHỮ:
+Ở giữa, đặt một tiêu đề chữ không chân (sans-serif) in đậm, khổ lớn và cô đọng:
+
+{argument name="country_title" default="[COUNTRY]"}
+
+Kiểu chữ nên chồng lên một phần bản đồ đường đồng mức, tạo nên một bố cục biên tập ấn tượng.
+
+Thêm thông tin địa lý kỹ thuật nhỏ xung quanh áp phích:
+
+[LATITUDE]° [LONGITUDE]°
+ĐỊA ĐIỂM: [CITY / REGION]
+ĐỘ CAO: [ELEVATION] M
+ẤN BẢN ĐẦU TIÊN: [YEAR]
+
+Bao gồm một biểu tượng quả địa cầu / la bàn / tọa độ địa lý tối giản nhỏ ở một góc.
+
+Thêm một yếu tố kiểu chữ phụ rất nhỏ:
+
+[COUNTRY] / NGHIÊN CỨU ĐỊA HÌNH / Số 01
+
+BẢNG MÀU: Chủ yếu là đen, trắng và xám nhạt với một màu {argument name="accent color" default="muted accent color"} nổi bật — đỏ đậm, cam cháy, xanh lá cây đậm, xanh coban hoặc màu vàng đất. Chỉ sử dụng màu nhấn cho các dấu hiệu địa lý hình tròn.
+
+NGÔN NGỮ THIẾT KẾ:
+Phong cách thiết kế đồ họa quốc tế Thụy Sĩ × bản đồ đương đại × khảo sát địa hình cổ điển × thiết kế biên tập tối giản × tạp chí ngoài trời sang trọng.
+
+QUAN TRỌNG: Các đường đồng mức phải dày đặc, tự nhiên, đáng tin cậy về mặt địa lý và chi tiết đẹp mắt. Chúng nên trở thành kết cấu thị giác chính của tác phẩm.
+
+Không cờ • không địa danh du lịch • không minh họa • không ảnh chụp • không đường viền trang trí • không quá nhiều chữ • không chuyển màu (gradient) • không lộn xộn.
+
+PHONG CÁCH: thông minh • địa lý • hiện đại • phiêu lưu • kiến trúc • đáng sưu tầm • cao cấp.
+
+TRÌNH BÀY CUỐI CÙNG: Hiển thị bản in như một bức ảnh sản phẩm/phòng trưng bày sạch sẽ, được ghim hoặc treo trên một bức tường kiến trúc đơn giản, với ánh sáng định hướng nhẹ nhàng và bóng đổ tự nhiên tinh tế.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336911056_gl8uo3_HRIegzvaQAAfjnc.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Tranh in nghệ thuật bản đồ địa hình quốc gia - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336911100_97g3et_HRIegzibwAA9X-D.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Tranh in nghệ thuật bản đồ địa hình quốc gia - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336911048_m6v34f_HRIegzgbEAAlztW.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Tranh in nghệ thuật bản đồ địa hình quốc gia - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336911899_qi226r_HRIegzqbEAAFkp1.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Tranh in nghệ thuật bản đồ địa hình quốc gia - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [simeon-sanai](https://x.com/Naiknelofar788)
+- **Nguồn:** [Twitter Post](https://x.com/Naiknelofar788/status/2094770339373048257)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33220)**
+
+---
+
+### No. 35: Infographic / Hình ảnh giáo dục - Bảng tham khảo Croissant phong cách Ghibli
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh (prompt) có cấu trúc để tạo bảng tham khảo minh họa ấm áp về quy trình làm bánh croissant, bao gồm nguyên liệu, dụng cụ, các bước thực hiện, bảng màu và hình ảnh thành phẩm.
+
+#### 📝 Câu lệnh
+
+```
+Mục tiêu: Tạo một bảng tham khảo hình ảnh minh họa cổ điển chi tiết cho {argument name="food subject" default="Croissant"} theo phong cách {argument name="art style" default="Studio Ghibli"} ấm áp, vẽ tay, giống như hướng dẫn làm bánh từ một cuốn sách nấu ăn cũ.
+
+Khung hình: Bố cục ngang 16:9 trên giấy da màu kem ấm áp, với các đường viền bảng bo tròn màu nâu mảnh, nét vẽ mực sepia dịu nhẹ, đổ bóng màu nước mềm mại và ánh sáng tiệm bánh ấm cúng. Sử dụng nền trắng ngà với kết cấu giấy tinh tế.
+
+Tiêu đề: Tiêu đề lớn viết tay in đậm ở góc trên bên trái ghi “{argument name="headline text" default="CROISSANT"}”. Bên dưới là tiêu đề phụ viết hoa nhỏ hơn: “VISUAL REFERENCE SHEET – STUDIO GHIBLI STYLE”, hai bên là các nhánh lá trang trí nhỏ.
+
+Bố cục: Chia bảng thành 5 khu vực chính: 1 bảng nguyên liệu lớn ở phía trên bên trái, 1 bảng dụng cụ ở phía dưới bên trái, 1 dải bảng màu dọc theo phía dưới bên trái, 1 bảng trưng bày thành phẩm croissant lớn ở phía trên bên phải và 1 bảng quy trình thực hiện với 5 bước được đánh số ở phía dưới bên phải.
+
+Bảng nguyên liệu: Ghi nhãn bảng là “INGREDIENTS”. Hiển thị chính xác 6 hình minh họa nguyên liệu sắp xếp từ trái sang phải, mỗi hình có nhãn in hoa đậm và ghi chú ngắn: 1) khối bột thô, mịn và nhạt màu, phủ một lớp bột mì; 2) bơ đã cán phẳng, màu vàng nhạt và lạnh; 3) bột đã cán mỏng thành tấm hình chữ nhật đều; 4) miếng bột hình tam giác trước khi cuộn; 5) bánh hình lưỡi liềm thô, chưa nướng và mềm mại; 6) bánh croissant đã nướng, vàng óng và giòn xốp với bề mặt caramen hóa.
+
+Bảng dụng cụ: Ghi nhãn bảng là “TOOLS”. Hiển thị chính xác 5 dụng cụ sắp xếp từ trái sang phải: 1) cây cán bột bằng gỗ, chú thích dùng để cán bột đều; 2) dao cắt bánh có cán gỗ, chú thích lưỡi dao sắc để cắt sạch; 3) khay nướng kim loại lót giấy nướng; 4) cọ phết bánh có cán gỗ, chú thích dùng để phết trứng; 5) lò nướng gạch với lửa rực hồng, chú thích nhiệt độ cao để nướng bánh.
+
+Bảng thành phẩm: Ghi nhãn là “FINISHED CROISSANT”. Hiển thị một chiếc croissant lớn trên đĩa bầu dục màu trắng, đặt nghiêng nhẹ từ dưới bên trái lên trên bên phải. Chiếc bánh có kích thước lớn, bóng bẩy, màu nâu vàng, hình lưỡi liềm, với nhiều lớp bột cán mỏng có thể nhìn thấy rõ, các đường vân caramen sẫm màu hơn, các vết nứt giòn, các đốm nướng và bóng đổ mềm mại trên đĩa.
+
+Bảng quy trình thực hiện: Ghi nhãn là “MAKING PROCESS”. Bao gồm chính xác 5 thẻ đánh số dọc từ trái sang phải, mỗi thẻ có một huy hiệu số tròn màu tối và hình minh họa nhỏ phía trên văn bản: 1) “BEAT BUTTER FLAT” hiển thị khối bơ vuông trên giấy nướng, lưu ý bơ được đập giữa các lớp giấy cho đến khi phẳng và đều thành hình vuông; 2) “WRAP AND SEAL” hiển thị bột bọc quanh bơ, lưu ý đặt bơ vào giữa miếng bột đã cán và dán kín các cạnh; 3) “FOLD AND ROLL” hiển thị chồng bột đã cán lớp, lưu ý gấp bột, cán mỏng và lặp lại nhiều lần để tạo lớp; 4) “CUT AND SHAPE” hiển thị các miếng bột tam giác dài và hình lưỡi liềm thô, lưu ý cắt thành hình tam giác và cuộn từ đáy lên đỉnh; 5) “EGG WASH AND BAKE” hiển thị vài chiếc croissant trên khay nướng, lưu ý phết trứng và nướng cho đến khi vàng và giòn.
+
+Dải bảng màu: Ghi nhãn là “COLOR PALETTE”. Hiển thị chính xác 7 mẫu màu tròn với tên và mã hex: 1) Dough Cream #F5ECD7, 2) Butter Yellow #F5C518, 3) Baked Gold #D4A55A, 4) Caramel Crust #8B5E3C, 5) Flaky Interior #FAF3E0, 6) Parchment White #F9F6F0, 7) Char Brown #3D1F0A.
+
+Kiểu chữ và phong cách: Sử dụng chữ in hoa viết tay đậm, nét chữ gọn gàng, mực màu nâu sô-cô-la đậm, các nhãn dán màu kem bo tròn và thiết kế bảng tham khảo tiệm bánh cổ điển nhất quán. Giữ cho tất cả các hình minh họa trở nên quyến rũ, sạch sẽ và dễ đọc, với các bóng đổ vẽ tay mềm mại và điểm nhấn màu hổ phách ấm áp.
+
+Các hạn chế: Không bao gồm con người, không photorealism (ảnh thực tế), không có yếu tố giao diện hiện đại, không có hình mờ (watermark) và không có thêm các phần khác ngoài 5 khu vực chính đã mô tả. Giữ cho tất cả văn bản tiếng Anh hiển thị rõ ràng và viết đúng chính tả.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336955989_el0fdc_HRHuh44XsAAmYsK.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Bảng tham khảo Croissant phong cách Ghibli - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [𝚎𝚖𝚘𝚝𝚒𝚘𝚗𝚜 ❦](https://x.com/0xemotions_)
+- **Nguồn:** [Twitter Post](https://x.com/0xemotions_/status/2094717576232186064#reversed-0)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33265)**
+
+---
+
+### No. 36: Infographic / Hình ảnh giáo dục - So sánh hiện tượng nhiễu văn bản giữa mức Medium và High
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một hình ảnh so sánh cắt ngang đặt cạnh nhau, hiển thị văn bản tiếng Nhật màu trắng trên các ô chủ đề thể dục màu xanh mòng két với các hiện tượng nhiễu về độ sáng và độ bão hòa rõ rệt.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một hình ảnh so sánh dạng cắt ngang rộng, hiển thị hai kết quả chất lượng tạo ảnh đặt cạnh nhau trên nền trắng trơn. Khung hình là một dải ngang siêu rộng, tỷ lệ khung hình khoảng 5:1, được cắt sát sao cho chỉ nhìn thấy phần trên cùng của mỗi kết quả. Ở phía trên cùng bên trái phía trên phần cắt đầu tiên, đặt nhãn in hoa màu đen đậm “MEDIUM”; gần phía trên trung tâm phía trên phần cắt thứ hai, đặt nhãn in hoa màu đen đậm “HIGH”. Mỗi bảng trong 2 bảng so sánh đều hiển thị cùng một bố cục dạng ô theo phong cách lớp học thể dục: một dải ảnh ở trên cùng với các thiết bị tập gym và máy tập tối màu, bên dưới là thanh tiêu đề hình chữ nhật màu xanh mòng két đậm với văn bản tiếng Nhật màu trắng in đậm lớn {argument name="main tile text" default="有酸素"}. Sử dụng đường viền trắng dày và các đường kẻ chéo màu trắng sắc nét giữa các ô, tạo cho bố cục vẻ ngoài như một ảnh ghép nghiêng năng động. Đếm chính xác 2 ô tiêu đề màu xanh mòng két chính hiển thị đầy đủ văn bản “有酸素”, mỗi ô nằm trong một bảng, cộng với chính xác 2 ô màu xanh mòng két lân cận hiển thị một phần ở cạnh phải, chỉ hiển thị ký tự đầu tiên hoặc một phần {argument name="partial tile text" default="ス"}. Một đường kẻ trắng mỏng ở dưới và cạnh trên của một hàng màu xanh mòng két khác chỉ vừa đủ nhìn thấy dọc theo đáy, đã bị cắt bỏ. Nhấn mạnh hiện tượng nhiễu đang được so sánh: xung quanh các chữ cái tiếng Nhật màu trắng trên nền xanh mòng két đồng nhất, hãy thêm các mảng độ sáng và độ bão hòa không đều tinh tế, hiện tượng quầng sáng mờ và kết cấu lốm đốm, với bảng “HIGH” sạch hơn một chút nhưng vẫn cho thấy sự không đồng nhất rõ rệt. Giữ bố cục như một ảnh chụp màn hình kỹ thuật/ảnh so sánh cắt ngang, không phải là một tấm poster được trau chuốt. Sử dụng kiểu chữ không chân sắc nét, độ tương phản cao, không có chú thích bổ sung, không có hình mờ.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336942714_qisd6g_HRHiZ_ubMAASer1.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - So sánh hiện tượng nhiễu văn bản giữa mức Medium và High - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336942695_nct23b_HRHicmWbkAA_DwX.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - So sánh hiện tượng nhiễu văn bản giữa mức Medium và High - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [桒谷 一成 | inovie㍿](https://x.com/gakutarou_pmf)
+- **Nguồn:** [Twitter Post](https://x.com/gakutarou_pmf/status/2094704635185709224#reversed-0)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33249)**
+
+---
+
+### No. 37: Infographic / Hình ảnh giáo dục - Thẻ mẫu vật bảo tàng kiến trúc
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh nghiên cứu kiến trúc tinh tế giúp chuyển đổi ảnh chụp địa điểm thành thẻ mẫu vật bảo tàng được tuyển chọn, kết hợp với các bản vẽ mực và bản đồ địa hình.
+
+#### 📝 Câu lệnh
+
+```
+Sử dụng ảnh đã tải lên làm tài liệu tham khảo chính. Tạo một hình ảnh phong cảnh tỷ lệ 4:3 tinh tế {argument name="style" default="lấy cảm hứng từ thẻ mẫu vật kiến trúc trong kho lưu trữ bảo tàng, các cuộc khảo sát kiến trúc và tài liệu khoa học cổ điển"}. Giữ cho {argument name="location" default="địa điểm gốc"} có thể nhận diện được, nhưng hãy biến đổi cách trình bày thành một nghiên cứu kiến trúc được tuyển chọn thay vì một tấm áp phích du lịch thông thường. * Đặt địa danh chính dưới dạng hình cắt kiến trúc đơn sắc lớn hoặc bản vẽ mực chi tiết tinh xảo. * Thêm một mảnh ảnh nhỏ có màu gốc thể hiện một chi tiết đặc trưng của địa điểm. * Bao gồm bản đồ đường đồng mức địa hình đơn giản hóa phía sau kiến trúc. * Thêm các điểm tham chiếu được đánh số nhỏ, dấu đo lường, mũi tên, đường cao độ và các ký hiệu chú thích kiến trúc. * Sử dụng nền giấy màu kem cũ với vân và các khiếm khuyết tinh tế. * Bảng màu: {argument name="palette" default="đen, be ấm, xanh ô liu trầm và một màu nhấn tiết chế được trích xuất từ địa danh"}. * Kiểu chữ phải nhỏ, thanh lịch và mang tính lưu trữ: tên địa điểm, quốc gia, năm, No. 019 và 3 từ khóa mô tả. * Tạo các khiếm khuyết tinh tế giống như in lưới, mực vẽ kỹ thuật, vết bút chì và giấy cũ. * Giữ khoảng trắng rộng rãi và thẩm mỹ danh mục bảo tàng tinh tế. Quan trọng: Tránh bố cục bưu thiếp, con dấu hình tròn, đồ họa du lịch, văn bản quá nhiều, phong cách hoạt hình, hiệu ứng bóng bẩy, kết xuất 3D và hình minh họa quá chi tiết. Tâm trạng tổng thể: kho lưu trữ kiến trúc × mẫu vật bảo tàng × tài liệu khảo sát cũ × thiết kế biên tập đương đại.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336897583_he8su0_HRGb3luaAAABF6W.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Thẻ mẫu vật bảo tàng kiến trúc - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336897569_v1d0zw_HRGb3lhbMAA7opo.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Thẻ mẫu vật bảo tàng kiến trúc - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336897606_w7n6dz_HRGb3lhbEAAyVBt.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Thẻ mẫu vật bảo tàng kiến trúc - Image 3">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [simeon-sanai](https://x.com/Naiknelofar788)
+- **Nguồn:** [Twitter Post](https://x.com/Naiknelofar788/status/2094626691234816034)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33203)**
+
+---
+
+### No. 38: Infographic / Hình ảnh giáo dục - Bộ ảnh tư liệu về Grape-kun
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2274,25 +2232,25 @@ Mỗi góc có logo "● DeepBlue"; hình tròn có màu xanh đậm #0B3D91, De
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250556364_rdnbas_HRFxBvJa4AASbjm.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Bộ ảnh tư liệu về Grape-kun - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336921513_e1jhy3_HRFxBvJa4AASbjm.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Bộ ảnh tư liệu về Grape-kun - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250556434_h8o9xf_HRFxBvLacAABliN.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Bộ ảnh tư liệu về Grape-kun - Image 2">
+<img src="https://cms-assets.youmind.com/media/1788336921521_u6hlxz_HRFxBvLacAABliN.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Bộ ảnh tư liệu về Grape-kun - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250556433_leqn18_HRFxByXa0AAeqOK.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Bộ ảnh tư liệu về Grape-kun - Image 3">
+<img src="https://cms-assets.youmind.com/media/1788336923208_5pq5ow_HRFxByXa0AAeqOK.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Bộ ảnh tư liệu về Grape-kun - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250557338_447xoe_HRFxBvKbUAA9w3h.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Bộ ảnh tư liệu về Grape-kun - Image 4">
+<img src="https://cms-assets.youmind.com/media/1788336922427_1o2jpk_HRFxBvKbUAA9w3h.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Bộ ảnh tư liệu về Grape-kun - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -2306,7 +2264,7 @@ Mỗi góc có logo "● DeepBlue"; hình tròn có màu xanh đậm #0B3D91, De
 
 ---
 
-### No. 40: Infographic / Hình ảnh giáo dục - Tranh ghép đôi bố cục bích họa Phật giáo
+### No. 39: Infographic / Hình ảnh giáo dục - Tranh ghép đôi bố cục bích họa Phật giáo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2354,7 +2312,7 @@ Chủ đề tùy chỉnh: Nhân vật trung tâm có thể là {argument name="c
 
 ---
 
-### No. 41: Infographic / Hình ảnh giáo dục - Poster Sưu Tầm Ghi Chép Thực Địa Du Lịch
+### No. 40: Infographic / Hình ảnh giáo dục - Poster Sưu Tầm Ghi Chép Thực Địa Du Lịch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2394,7 +2352,7 @@ Tạo một tấm poster riêng biệt cho mỗi ảnh được tải lên {argu
 
 ---
 
-### No. 42: Infographic / Hình ảnh giáo dục - Chân dung Anime đường dây điện mùa đông
+### No. 41: Infographic / Hình ảnh giáo dục - Chân dung Anime đường dây điện mùa đông
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2434,7 +2392,7 @@ Tạo một bức minh họa phong cách anime điện ảnh về {argument name
 
 ---
 
-### No. 43: Infographic / Hình ảnh giáo dục - Lịch buổi sáng Kurumi Kazama
+### No. 42: Infographic / Hình ảnh giáo dục - Lịch buổi sáng Kurumi Kazama
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2490,7 +2448,7 @@ Các ràng buộc: Giữ cho hình ảnh lành mạnh, dễ thương, sắc nét
 
 ---
 
-### No. 44: Infographic / Hình ảnh giáo dục - Áp phích bản đồ Macau cổ điển
+### No. 43: Infographic / Hình ảnh giáo dục - Áp phích bản đồ Macau cổ điển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2524,64 +2482,7 @@ Tạo một tấm áp phích du lịch nghệ thuật đường nét cổ điể
 
 ---
 
-### No. 45: Infographic / Hình ảnh giáo dục - Thiết kế sản phẩm cho sự kiện ra mắt iPhone 18
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Mô tả
-
-Bộ câu lệnh (prompt) phong cách Apple Keynote cao cấp dùng để lên ý tưởng cho iPhone 18, bao gồm thiết kế gập, cận cảnh chip A20 Pro và cơ chế camera tiên tiến với không gian trắng tối giản.
-
-#### 📝 Câu lệnh
-
-```
-[Xem trước iPhone 18 | Chuỗi sự kiện Apple Keynote]
-
-[01 | iPhone màn hình gập đầu tiên] Tiêu đề tiếng Anh: THE FIRST FOLDABLE iPHONE. Hình ảnh chính sử dụng các gợi ý từ CAD và mô hình iPhone Fold: thân máy rộng kiểu hộ chiếu, ngắn và rộng khi gập lại; màn hình trong lớn gần tỷ lệ 4:3 khi mở ra; thân máy siêu mỏng; bản lề chính xác ở giữa; cụm camera kép nằm ngang; thân máy bằng kim loại và kính màu trắng hoặc bạc; trạng thái bán mở. Nhiếp ảnh sản phẩm cao cấp chân thực. Không gian trắng lớn ở phía trên, sản phẩm có kích thước lớn và đặt ở chính giữa phía dưới.
-
-[02 | A20 Pro] Tiêu đề tiếng Anh: 2nm. A20 PRO. Chip A20 Pro khổng lồ là chủ thể hình ảnh duy nhất; đóng gói bán dẫn tiên tiến chân thực, các điểm tiếp xúc kim loại, cấu trúc vi mô, phản chiếu tự nhiên. Nền trắng tinh hoặc xám bạc nhạt, không gian trắng lớn, nhiếp ảnh sản phẩm cận cảnh chân thực.
-
-[03 | Nâng cấp Camera] Tiêu đề tiếng Anh: THE CAMERA CHANGES. Cận cảnh camera chính của iPhone 18 Pro là chủ thể hình ảnh duy nhất; các lá khẩu độ cơ học có thể thay đổi được nhìn thấy rõ bên trong ống kính. Cấu trúc kim loại chính xác, thấu kính thủy tinh thật, phản chiếu quang học tự nhiên. Nền trắng hoặc xám bạc nhạt, nhiếp ảnh sản phẩm cao cấp.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250572222_zk5qzd_HQ9KUrLa0AA0Uv8.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Thiết kế sản phẩm cho sự kiện ra mắt iPhone 18 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250572220_k1ezqp_HQ9KUopacAAU8Yp.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Thiết kế sản phẩm cho sự kiện ra mắt iPhone 18 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250572244_7r8i7z_HQ9KUoqbAAAZn0z.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Thiết kế sản phẩm cho sự kiện ra mắt iPhone 18 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250573463_myunwc_HQ9KUoub0AAaIlS.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Thiết kế sản phẩm cho sự kiện ra mắt iPhone 18 - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [DeepBlue零](https://x.com/DeepBlueZer0)
-- **Nguồn:** [Twitter Post](https://x.com/DeepBlueZer0/status/2093974079653220433)
-- **Đã xuất bản:** 30 tháng 8, 2026
-- **Ngôn ngữ:** zh
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33152)**
-
----
-
-### No. 46: Infographic / Hình ảnh giáo dục - Rừng cây gỗ đỏ thời tiền sử
+### No. 44: Infographic / Hình ảnh giáo dục - Rừng cây gỗ đỏ thời tiền sử
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2615,7 +2516,7 @@ Tạo một cảnh quay điện ảnh 3D CGI siêu thực, góc rộng về mộ
 
 ---
 
-### No. 47: Infographic / Hình ảnh giáo dục - Bản đồ trực quan hóa bằng dây thủ công
+### No. 45: Infographic / Hình ảnh giáo dục - Bản đồ trực quan hóa bằng dây thủ công
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2678,7 +2579,7 @@ Cách trình bày tổng thể là một hình ảnh thử nghiệm cao cấp ba
 
 ---
 
-### No. 48: Infographic / Hình ảnh giáo dục - Poster phong cảnh kiến trúc thu nhỏ dạng Isometric
+### No. 46: Infographic / Hình ảnh giáo dục - Poster phong cảnh kiến trúc thu nhỏ dạng Isometric
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2717,7 +2618,7 @@ Tạo các poster thiết kế cao cấp từ ảnh tải lên với bố cục 
 
 ---
 
-### No. 49: Infographic / Hình ảnh giáo dục - Darwin và Brahms năm 1859
+### No. 47: Infographic / Hình ảnh giáo dục - Darwin và Brahms năm 1859
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2751,7 +2652,7 @@ Tạo một hình minh họa siêu thực đậm chất điện ảnh, so sánh 
 
 ---
 
-### No. 50: Infographic / Hình ảnh giáo dục - Lưới ảnh thu nhỏ (thumbnail) Reels linh vật lan truyền
+### No. 48: Infographic / Hình ảnh giáo dục - Lưới ảnh thu nhỏ (thumbnail) Reels linh vật lan truyền
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2803,109 +2704,7 @@ Các ràng buộc: Bao gồm chính xác 6 ảnh thu nhỏ dọc, tổng cộng 
 
 ---
 
-### No. 51: Infographic / Hình ảnh giáo dục - Tạo hình chữ kiểu kiến trúc hạ tầng đô thị
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh phức tạp dựa trên logic để tạo ra kiểu chữ đô thị hoành tráng được xây dựng từ các hệ thống hạ tầng thực tế.
-
-#### 📝 Câu lệnh
-
-```
-Lưới 2x2, 16:9, thực hiện cho 4 thành phố du lịch: input = [{argument name="city" default="từ_hoặc_địa_điểm"} + {argument name="system" default="hệ_thống_hạ_tầng"} + {argument name="environment" default="môi_trường"} + optional_style] chạy infrastructural_typography_extraction: text_content := phân tích từ_hoặc_địa_điểm word_identity := suy luận xem văn bản là thành phố, thương hiệu, khái niệm, địa danh, quận, sự kiện hay địa điểm hư cấu font_personality := suy luận phong cách chữ đậm, thanh lịch, thô mộc, tương lai, ven biển, công nghiệp, hữu cơ, sang trọng, vui tươi hoặc hoành tráng infrastructure_dna := suy luận ngữ pháp hình ảnh của hệ_thống_hạ_tầng network_behavior := suy luận logic dòng chảy, vòng lặp, phân nhánh, xếp chồng, giao nhau, đường hầm, đường dốc, phát sáng, định tuyến hoặc lưu thông letter_mapping := ánh xạ hạ tầng lên từng nét thân, bụng, khoảng trống, đường chéo, đường cong, thanh ngang và điểm kết thúc của chữ cái material_system := suy luận vật liệu xây dựng thực tế light_system := suy luận đèn thành phố, vệt giao thông, ánh sáng biển hiệu, lưới cửa sổ, phản chiếu hoặc chiếu sáng môi trường environment_logic := suy luận bối cảnh đô thị/cảnh quan xung quanh scale_anchors := suy luận phương tiện, con người, cây cối, tòa nhà, đường thủy hoặc các yếu tố giao thông camera := suy luận góc nhìn điện ảnh từ trên cao, tầm mắt đường phố, flycam, tilt-shift hoặc trực quan hóa kiến trúc render: một từ hoành tráng dễ đọc được xây dựng từ hệ thống hạ tầng đã suy luận. ràng buộc: - không cố định thành phố - không cố định hệ thống đường bộ - không sao chép bố cục - không tạo ra mạng lưới giao thông rối rắm ngẫu nhiên - hạ tầng phải xây dựng nên kiểu chữ một cách vật lý - từ ngữ vẫn giữ được độ dễ đọc ở quy mô hình thu nhỏ
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787990056589_6zyqam_HQDBvgoXoAEIYzw.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Tạo hình chữ kiểu kiến trúc hạ tầng đô thị - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Gadgetify](https://x.com/Gdgtify)
-- **Nguồn:** [Twitter Post](https://x.com/Gdgtify/status/2093235384494981223)
-- **Đã xuất bản:** 28 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=32773)**
-
----
-
-### No. 52: Infographic / Hình ảnh giáo dục - Tính nhất quán của nhân vật và ảnh ghép kiểu tóc
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh phức tạp được thiết kế để duy trì tính nhất quán của nhân vật trên ảnh ghép 12 khung hình, hiển thị cùng một chủ thể với các kiểu tóc khác nhau.
-
-#### 📝 Câu lệnh
-
-```
-Sử dụng hình ảnh tham chiếu được cung cấp làm tiêu chuẩn nhận dạng nghiêm ngặt. Tạo một ảnh ghép gồm 12 hình ảnh có cùng một {argument name="subject" default="cô gái"} trong mọi khung hình. Nhận dạng khuôn mặt của cô ấy phải hoàn toàn nhất quán trên cả 12 biến thể. Không tạo ra người khác hoặc diễn giải lại ngoại hình của cô ấy. Sắp xếp kết quả thành một {argument name="collage layout" default="ảnh ghép chân dung studio chuyên nghiệp 4×3"} gọn gàng, với mỗi kiểu tóc trong một khung hình. Giữ nguyên bố cục, góc máy, tư thế, biểu cảm, trang phục, trang điểm, phụ kiện, phông nền và ánh sáng trong mọi khung hình. Sự khác biệt duy nhất giữa 12 hình ảnh phải là kiểu tóc. Các biến thể kiểu tóc 1. Tóc đuôi ngựa cao — Tóc đuôi ngựa cao bóng mượt với phần đỉnh đầu phẳng và độ dài thướt tha. 2. Tóc bob kiểu Pháp — Tóc bob dài đến xương hàm với phần tóc mái bằng nhẹ nhàng trên trán. 3. Tóc dài thẳng rẽ ngôi giữa — Tóc nâu rất dài, bóng mượt, thẳng tắp, dài quá vai, rẽ ngôi giữa. 4. Tóc wolf cut tỉa layer — Các lớp tóc dày độ dài trung bình, tóc mái tỉa, tạo độ phồng và kết cấu hơi hoang dã. 5. Tóc búi thanh lịch — Búi tóc cao chỉn chu với những lọn tóc mai mềm mại ôm lấy khuôn mặt. 6. Tóc tém xoăn ngắn — Tóc xoăn tự nhiên ngắn, bồng bềnh với hai bên được tỉa gọn và phần đỉnh có kết cấu. 7. Tóc sóng Hollywood lệch một bên — Tóc dài quyến rũ với đường rẽ ngôi sâu và những lọn sóng cổ điển đổ xuống một bên vai. 8. Tóc búi thấp bóng mượt — Tóc rẽ ngôi giữa mượt mà được gom lại thành búi thấp gọn gàng, chỉn chu ở gáy. 9. Tóc dài tỉa layer gợn sóng — Tóc nâu dài với các lớp tỉa mềm mại và những lọn sóng tự nhiên, buông lơi. 10. Tóc cắt bằng ngang vai — Tóc thẳng, bóng mượt ngang vai với phần đuôi cắt bằng gọn gàng và rẽ ngôi giữa. 11. Tóc mái bay — Tóc nâu tự nhiên dài với phần mái bay mềm mại ôm lấy khuôn mặt và chuyển động tinh tế dọc theo chiều dài tóc. 12. Tóc pixie có kết cấu — Tóc pixie hiện đại ngắn với độ phồng có kết cấu ở đỉnh, hai bên tỉa nhẹ và vẻ ngoài tự nhiên. Quy tắc về nhận dạng và tính nhất quán Màu tóc: Giữ chính xác màu tóc {argument name="hair color" default="nâu tự nhiên"} như hình ảnh tham chiếu. Chỉ thay đổi: độ dài tóc, hình dáng tóc, kết cấu tóc và kiểu tóc. Không bao giờ thay đổi: cấu trúc khuôn mặt, khuôn mặt, mắt, lông mày, mũi, môi, đường viền hàm, tông màu da, độ tuổi, trang điểm, trang phục, phụ kiện, tư thế, biểu cảm hoặc nhận dạng tổng thể. Cô gái phải trông giống hệt cùng một người trong cả 12 khung hình. Duy trì tỷ lệ khuôn mặt giống hệt nhau và các đặc điểm dễ nhận biết trong toàn bộ ảnh ghép. Nhiếp ảnh và kết xuất Nhiếp ảnh chân dung studio chuyên nghiệp, Canon EOS R5, ống kính 85mm f/1.4, ánh sáng chính dịu nhẹ với ánh sáng phụ tinh tế, lấy nét sắc nét vào khuôn mặt, độ sâu trường ảnh nông tự nhiên, lỗ chân lông chân thực, từng sợi tóc, kết cấu tóc chân thực. Ảnh chân thực, siêu thực, chi tiết cực cao, chất lượng 8K, kết cấu da tự nhiên, ánh sáng chân thực, không có vẻ ngoài CGI, không có da nhựa, không có hiệu ứng tranh vẽ. Tạo một ảnh ghép 4×3 gọn gàng, cách đều nhau, với mỗi kiểu tóc hiển thị rõ ràng và khác biệt hoàn toàn trong khi vẫn duy trì tính nhất quán hoàn hảo của nhân vật.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787990034717_9awxhl_HQyBobTbcAA6pVC.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Tính nhất quán của nhân vật và ảnh ghép kiểu tóc - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Meem](https://x.com/mehvishs25)
-- **Nguồn:** [Twitter Post](https://x.com/mehvishs25/status/2093190474488246583)
-- **Đã xuất bản:** 28 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=32854)**
-
----
-
-### No. 53: Infographic / Hình ảnh giáo dục - Minh họa doanh nhân dưới mưa theo phong cách thương hiệu
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Tạo một khung cảnh mới dựa trên cùng phong cách vẽ tay thương hiệu đã lưu, hữu ích để kiểm tra tính nhất quán của các tham chiếu hình ảnh trong quá trình tạo ảnh AI.
-
-#### 📝 Câu lệnh
-
-```
-Chỉ sử dụng REFERENCE_0 làm tham chiếu phong cách hình ảnh, hãy tạo một hình minh họa biên tập hình vuông mới với cùng phong cách vẽ tay bằng bút dạ vui nhộn, có đường viền màu đen dày, màu phẳng đơn giản, các cạnh hơi thô và chi tiết tối giản giống như hình vẽ nguệch ngoạc. Không sử dụng lại các nhân vật hoặc bối cảnh từ tham chiếu; thay vào đó, hãy mô tả {argument name="main subject" default="một doanh nhân buồn bã mặc bộ vest đen"} đang đi bộ qua vạch kẻ đường dành cho người đi bộ trong khi cầm {argument name="carried object" default="một chiếc cặp tài liệu màu đen"}. Thêm một đám mây mưa màu trắng duy nhất phía trên anh ấy với các đường mưa dọc rơi xuống, phông nền {argument name="background color" default="màu hồng"} mềm mại không đều, các bụi cây màu xanh lá cây ở cả hai bên và con đường màu đỏ cam với các vạch kẻ đường màu trắng. Bao gồm chính xác một nhãn hình chữ nhật bo tròn màu đen ở góc trên bên trái với văn bản in đậm màu trắng ghi {argument name="label text" default="Kết quả hình ảnh AI"}. Giữ bố cục sạch sẽ, tập trung vào trung tâm và nhất quán với phong cách cắt dán thương hiệu tham chiếu; không thêm văn bản, không có hình mờ, không theo phong cách chân thực (photorealism).
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787990066189_pd9nxw_HQxBCiWWQAAu-NI.jpg" width="600" alt="Infographic / Hình ảnh giáo dục - Minh họa doanh nhân dưới mưa theo phong cách thương hiệu - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Artificial Studio](https://x.com/ArtificialStudi)
-- **Nguồn:** [Twitter Post](https://x.com/ArtificialStudi/status/2093122445188173906#reversed-1)
-- **Đã xuất bản:** 27 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=32808)**
-
----
-
-### No. 54: Hình thu nhỏ trên YouTube - Nữ kiếm sĩ tai chó phong cách Cyberpunk
+### No. 49: Hình thu nhỏ trên YouTube - Nữ kiếm sĩ tai chó phong cách Cyberpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2945,7 +2744,7 @@ Tạo một hình ảnh chủ đạo anime đậm chất điện ảnh về {arg
 
 ---
 
-### No. 55: Hình thu nhỏ trên YouTube - MV Parkour Thành phố Cyberpunk
+### No. 50: Hình thu nhỏ trên YouTube - MV Parkour Thành phố Cyberpunk
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2983,7 +2782,7 @@ Phân cảnh: GPT-5.6 Sol
 
 ---
 
-### No. 56: Hình thu nhỏ trên YouTube - Nhiếp ảnh Đèn lồng trong hoàng hôn mùa đông
+### No. 51: Hình thu nhỏ trên YouTube - Nhiếp ảnh Đèn lồng trong hoàng hôn mùa đông
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3017,7 +2816,7 @@ Một câu lệnh (prompt) chi tiết và đậm chất điện ảnh để tạ
 
 ---
 
-### No. 57: Hình thu nhỏ trên YouTube - Ảnh bìa nhạc Miami Night
+### No. 52: Hình thu nhỏ trên YouTube - Ảnh bìa nhạc Miami Night
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3065,7 +2864,7 @@ Ràng buộc: Giữ cho tất cả văn bản được liệt kê dễ đọc v�
 
 ---
 
-### No. 58: Hình thu nhỏ trên YouTube - Ảnh bìa danh sách phát Pirate Funk
+### No. 53: Hình thu nhỏ trên YouTube - Ảnh bìa danh sách phát Pirate Funk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3099,7 +2898,7 @@ Tạo ảnh bìa danh sách phát Spotify hình vuông cho {argument name="playl
 
 ---
 
-### No. 59: Hình thu nhỏ trên YouTube - Ảnh thu nhỏ đánh giá tai nghe Sony
+### No. 54: Hình thu nhỏ trên YouTube - Ảnh thu nhỏ đánh giá tai nghe Sony
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3133,7 +2932,7 @@ Tạo một ảnh thu nhỏ (thumbnail) YouTube đánh giá công nghệ đầy 
 
 ---
 
-### No. 60: Hình thu nhỏ trên YouTube - Chân dung phim hành động điện ảnh
+### No. 55: Hình thu nhỏ trên YouTube - Chân dung phim hành động điện ảnh
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3179,7 +2978,7 @@ Một câu lệnh chi tiết để tạo ảnh chụp màn hình phim hành đ�
 
 ---
 
-### No. 61: Hình thu nhỏ trên YouTube - Ảnh chụp màn hình buổi tranh luận trực tiếp trên YouTube
+### No. 56: Hình thu nhỏ trên YouTube - Ảnh chụp màn hình buổi tranh luận trực tiếp trên YouTube
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3213,7 +3012,7 @@ Một câu lệnh (prompt) để tạo ảnh chụp màn hình chân thực về
 
 ---
 
-### No. 62: Hình thu nhỏ trên YouTube - Ảnh tĩnh lớp học Anime về những nữ chính thất bại
+### No. 57: Hình thu nhỏ trên YouTube - Ảnh tĩnh lớp học Anime về những nữ chính thất bại
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3261,7 +3060,7 @@ Các hạn chế: Sử dụng chính xác 3 nhân vật và chính xác 5 vật 
 
 ---
 
-### No. 63: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo (Key Visual) lớp học của Anime Losing Heroines
+### No. 58: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo (Key Visual) lớp học của Anime Losing Heroines
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3295,7 +3094,7 @@ Tạo một hình ảnh chủ đạo (key visual) anime điện ảnh tỷ lệ 
 
 ---
 
-### No. 64: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo (Key Visual) của Anime Classroom Losing Heroines
+### No. 59: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo (Key Visual) của Anime Classroom Losing Heroines
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3329,7 +3128,7 @@ Tạo một hình ảnh chủ đạo (key visual) anime đậm chất điện �
 
 ---
 
-### No. 65: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo (Key Visual) Anime Classroom Losing Heroines
+### No. 60: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo (Key Visual) Anime Classroom Losing Heroines
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3363,7 +3162,7 @@ Tạo một hình ảnh chủ đạo (key visual) anime điện ảnh tỉ lệ 
 
 ---
 
-### No. 66: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo (Key Visual) Anime Classroom Losing Heroine
+### No. 61: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo (Key Visual) Anime Classroom Losing Heroine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3411,7 +3210,7 @@ Các ràng buộc: Không thêm nhân vật phụ, vật thể trên bàn hoặc
 
 ---
 
-### No. 67: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo (Key Visual) anime hài lãng mạn trong lớp học
+### No. 62: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo (Key Visual) anime hài lãng mạn trong lớp học
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3445,7 +3244,7 @@ Tạo một hình ảnh chủ đạo (key visual) anime màn hình rộng chỉn
 
 ---
 
-### No. 68: Hình thu nhỏ trên YouTube - Khung cảnh buổi sáng thưởng thức cà phê tại Paris
+### No. 63: Hình thu nhỏ trên YouTube - Khung cảnh buổi sáng thưởng thức cà phê tại Paris
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3478,7 +3277,7 @@ Một đoạn video ngắn chân thực, đậm chất điện ảnh về một 
 
 ---
 
-### No. 69: Hình thu nhỏ trên YouTube - Hình thu nhỏ MV Anime Skywork
+### No. 64: Hình thu nhỏ trên YouTube - Hình thu nhỏ MV Anime Skywork
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3526,7 +3325,7 @@ Các ràng buộc: Giữ cho tất cả văn bản quan trọng hiển thị rõ
 
 ---
 
-### No. 70: Hình thu nhỏ trên YouTube - Studio Streamer ASMR Nhật Bản
+### No. 65: Hình thu nhỏ trên YouTube - Studio Streamer ASMR Nhật Bản
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3560,7 +3359,7 @@ Một {argument name="person" default="nữ streamer người Nhật"} đang nó
 
 ---
 
-### No. 71: Hình thu nhỏ trên YouTube - Banner hướng dẫn tham khảo GPT Image 2
+### No. 66: Hình thu nhỏ trên YouTube - Banner hướng dẫn tham khảo GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3605,7 +3404,7 @@ Ràng buộc: Sử dụng chính xác một người, chính xác bốn khối v
 
 ---
 
-### No. 72: Hình thu nhỏ trên YouTube - Cô bé Chibi tóc hồng đang buồn ngủ
+### No. 67: Hình thu nhỏ trên YouTube - Cô bé Chibi tóc hồng đang buồn ngủ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3639,7 +3438,7 @@ Tạo một bức chân dung cận cảnh anime màu pastel nhẹ nhàng về m�
 
 ---
 
-### No. 73: Hình thu nhỏ trên YouTube - Boong-ke nghiên cứu của Đế chế trên hành tinh núi lửa
+### No. 68: Hình thu nhỏ trên YouTube - Boong-ke nghiên cứu của Đế chế trên hành tinh núi lửa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3673,18 +3472,32 @@ Một khung cảnh điện ảnh {argument name="art style" default="lấy cảm
 
 ---
 
-### No. 74: Truyện tranh / Bảng phân cảnh - Concept Art Nhân vật Thời trang Cao cấp
+### No. 69: Truyện tranh / Bảng phân cảnh - Câu chuyện biến hình từ Cheeseburger thành Mini Café
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Tạo bảng nhân vật thời trang cao cấp bằng cách sử dụng hình ảnh tham chiếu để đảm bảo phong cách chuẩn xác trên nền trắng sạch.
+Một bộ ảnh ghép 5 khung hình theo phong cách tả thực, mô tả quá trình biến đổi của một chiếc cheeseburger thành mô hình quán cà phê thức ăn nhanh thu nhỏ.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một BẢNG CONCEPT ART NHÂN VẬT thời trang cao cấp, hiện đại với bố cục màn hình rộng 16:9 trên nền trắng tinh khiết. HÌNH ẢNH THAM CHIẾU ĐƯỢC ĐÍNH KÈM XÁC ĐỊNH PHONG CÁCH NGHỆ THUẬT — hãy coi đó là kim chỉ nam về phong cách và tái tạo chính xác cách thể hiện của nó.
+Mục tiêu: Tạo một bộ ảnh storyboard biến hình thực phẩm theo phong cách tả thực, chi tiết cao, mô tả quá trình một chiếc cheeseburger biến thành mô hình quán cà phê thức ăn nhanh thu nhỏ.
+
+Bố cục: Ảnh ghép hình vuông trên nền trắng, được sắp xếp chính xác thành 5 khung hình dọc với viền đen mỏng: 3 khung ở hàng trên và 2 khung lớn hơn nằm chính giữa hàng dưới. Mỗi khung hình được chụp trong cùng một căn phòng sáng sủa, ánh sáng dịu nhẹ trên mặt bàn trắng bóng, hậu cảnh là cửa sổ đầy nắng bị làm mờ, phản chiếu chân thực, độ sâu trường ảnh nông và ánh sáng ban ngày tự nhiên ấm áp.
+
+Trình tự khung hình và các yếu tố cần đếm:
+1. Khung 1: Một chiếc {argument name="food item" default="cheeseburger"} mọng nước, chân thực đặt trên mặt bàn trắng bóng. Bánh có lớp vỏ vàng rắc hạt mè, xà lách xanh giòn, cà chua, phô mai vàng tan chảy và miếng thịt bò nướng nâu. Một ngón tay người ấn nhẹ vào bánh từ phía bên phải, gợi ý sự khởi đầu của một phép màu biến hình.
+2. Khung 2: Chiếc burger bắt đầu biến đổi trong khi vẫn giữ nguyên hình dạng. Thêm các chi tiết cơ khí và kiến trúc tinh tế bên trong burger: chính xác 3 bánh răng nhỏ màu trắng dọc theo lớp cà chua, các đường nối bảng điều khiển tinh tế trên phần bánh trên, và các chi tiết cấu trúc thu nhỏ lộ ra giữa các lớp.
+3. Khung 3: Chiếc burger mở ra thành một nhà hàng thức ăn nhanh thu nhỏ nằm gọn bên trong bánh. Phần bánh trên tách ra và nâng lên như một mái hiên, xà lách và phô mai cuộn quanh đế, các lát cà chua và miếng thịt nhô ra ở hai bên, bên trong lộ ra những quầy hàng nhỏ, bảng thực đơn, đèn ấm áp, thiết bị nhà bếp và một biển hiệu cửa hàng nhỏ ghi {argument name="restaurant sign" default="EIBGEES Cafée"}.
+4. Khung 4: Quá trình biến đổi hoàn tất: một mô hình quán cà phê thức ăn nhanh thu nhỏ độc lập nằm trên mặt bàn. Có chính xác 1 biển hiệu mái lớn ghi {argument name="restaurant sign" default="EIBGEES Cafée"}, chính xác 2 logo vòm vàng trên mái, chính xác 1 quầy phục vụ phía trước, chính xác 1 hộp khoai tây chiên trên quầy, chính xác 2 khách hàng thu nhỏ và chính xác 1 nhân viên thu nhỏ phía sau quầy. Bao gồm ánh sáng nội thất ấm áp, bảng thực đơn, vỉ nướng, kệ và các đạo cụ thực phẩm tí hon.
+5. Khung 5: Một góc nhìn cuối cùng gần như tương tự từ một góc độ hơi khác, cho thấy quán cà phê thu nhỏ đã hoàn thiện với cùng các yếu tố đã đếm: 1 biển hiệu mái lớn, 2 logo vòm vàng, 1 quầy phục vụ, 1 hộp khoai tây chiên, 2 khách hàng thu nhỏ và 1 nhân viên, tất cả đều chi tiết sắc nét và tả thực.
+
+Phong cách hình ảnh: Nhiếp ảnh macro tả thực điện ảnh, quy mô thu nhỏ, vật liệu chân thực, phản chiếu bóng trên mặt bàn, hậu cảnh xóa phông mềm mại, căn phòng sáng sủa ấm cúng, chi tiết cao, ánh sáng quán cà phê ấm áp, kiến trúc tí hon giống đồ chơi nhưng trông đáng tin về mặt vật lý. Sử dụng cảm giác biến hình kỳ diệu mà không mang phong cách hoạt hình.
+
+Các ràng buộc: Giữ sự nhất quán về ánh sáng, mặt bàn và hậu cảnh cho cả 5 khung hình. Không thêm khung hình thừa. Không thêm chú thích bên ngoài biển hiệu nhà hàng. Sử dụng bố cục ảnh ghép sạch sẽ với viền đen và không có hình mờ (watermark).
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -3692,21 +3505,107 @@ Tạo một BẢNG CONCEPT ART NHÂN VẬT thời trang cao cấp, hiện đại
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250571300_zbmw8i_HRHDBi7akAAKRXe.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Concept Art Nhân vật Thời trang Cao cấp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336935149_hxwkue_HRLIS56bAAA_ftd.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Câu chuyện biến hình từ Cheeseburger thành Mini Café - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [PixieVerse](https://x.com/itsPixieVerse)
-- **Nguồn:** [Twitter Post](https://x.com/itsPixieVerse/status/2094670009935052827)
-- **Đã xuất bản:** 1 tháng 9, 2026
+- **Tác giả:** [Mehwish kiran](https://x.com/mehwishkiran07)
+- **Nguồn:** [Twitter Post](https://x.com/mehwishkiran07/status/2094957018457215218#reversed-0)
+- **Đã xuất bản:** 2 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33151)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33238)**
 
 ---
 
-### No. 75: Truyện tranh / Bảng phân cảnh - Chuỗi kịch bản phân cảnh Manga Breakout
+### No. 70: Truyện tranh / Bảng phân cảnh - Cảnh học sinh ngủ gật trong lớp học anime
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Tạo một khung cảnh lớp học anime góc rộng hài hước với năm nhân vật chính và một bong bóng suy nghĩ giống như sân khấu phía trên một học sinh đang ngủ.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một hình minh họa lớp học phong cách anime góc rộng 16:9 với ánh nắng chiều ấm áp chiếu qua những ô cửa sổ cao bên trái, bàn ghế gỗ, cặp sách, bảng xanh với các phương trình toán học mờ, áp phích trên tường, bục giảng của giáo viên và cửa ra vào bên phải. Hiển thị chính xác 5 nhân vật chính trong lớp học: 1) một nữ giáo viên trẻ nghiêm khắc với mái tóc nâu sẫm dài, mặc áo khoác giống đồng phục học sinh màu xanh navy, đang đứng sau bục giảng, giận dữ chỉ tay và ném một viên phấn; 2) một cô gái tóc vàng ngắn vui vẻ ở bàn bên trái, đội mũ nồi kiểu quân đội màu đen và mặc áo khoác cam đen, đang cười nhắm mắt; 3) một cô bé chibi tóc tím nhỏ nhắn đội mũ nồi và mặc trang phục màu oải hương, đang đứng trên một chiếc ghế đẩu nhỏ cạnh bàn, nhẹ nhàng chọc hoặc cố gắng đánh thức ai đó; 4) một nữ sinh tóc vàng đang ngủ gục mặt xuống bàn ở phía trước bên phải, tóc tai rối bời, cài kẹp tóc, mặc áo blazer xanh navy, váy kẻ sọc, bốt đen, trông có vẻ kiệt sức; 5) một nữ sinh tóc đuôi ngựa sẫm màu ở bàn bên phải mặc đồng phục xanh navy, đang giật mình với một giọt mồ hôi khi nhìn cô gái đang ngủ. Thêm một bong bóng suy nghĩ truyện tranh lớn phía trên cô gái tóc vàng đang ngủ, hiển thị chính xác 7 nhân vật thu nhỏ trên một sân khấu: chính cô gái tóc vàng đó đang đứng đầy tự hào ở trung tâm dưới ánh đèn sân khấu ấm áp, một nam giáo viên hoặc người dẫn chương trình đang mỉm cười bên cạnh cô, một người đàn ông lớn tuổi hói đầu đang vỗ tay, và bốn học sinh nhỏ hơn xung quanh họ đang vỗ tay hoặc quan sát. Sử dụng các khuôn mặt manga biểu cảm, nét vẽ sạch sẽ, đổ bóng cel mềm mại, đạo cụ lớp học chi tiết, các đường chuyển động năng động xung quanh viên phấn đang bay và không khí hài hước của thể loại học đường. Tùy chỉnh nhân vật: cô gái đang ngủ là {argument name="sleeping character" default="một nữ sinh tóc vàng cài kẹp tóc"}, giáo viên là {argument name="teacher character" default="một giáo viên nữ tóc nâu dài nghiêm khắc"}, người hỗ trợ nhỏ là {argument name="small helper character" default="một cô bé chibi tóc tím nhỏ nhắn mặc đồ màu oải hương"}, học sinh bên trái là {argument name="left student character" default="một cô gái tóc vàng vui vẻ đội mũ nồi đen và mặc áo khoác cam"}, và bối cảnh là {argument name="classroom setting" default="một lớp học kiểu Nhật Bản lúc hoàng hôn"}. Tránh phong cách chân thực, tránh thêm các nhân vật phụ ngoài 12 nhân vật đã liệt kê và không thêm văn bản có thể đọc được ngoài các phương trình mờ trên bảng.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336944673_pt2fe6_HRJxyfZakAA5qPO.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Cảnh học sinh ngủ gật trong lớp học anime - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336944273_iwku9o_HRJxy0aaQAAn6MJ.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Cảnh học sinh ngủ gật trong lớp học anime - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336944408_snftcc_HRJxzRmacAA6njX.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Cảnh học sinh ngủ gật trong lớp học anime - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336945358_3cyqfp_HRJxzlRbYAA1Mn7.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Cảnh học sinh ngủ gật trong lớp học anime - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [まるるん＠NIKKE好き](https://x.com/TachMaru)
+- **Nguồn:** [Twitter Post](https://x.com/TachMaru/status/2094861919199130032#reversed-0)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33252)**
+
+---
+
+### No. 71: Truyện tranh / Bảng phân cảnh - Cô gái làng thời trung cổ bên giếng nước
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một bức chân dung anime bán thực tế đầy chất điện ảnh về một cô gái làng đeo kính đang đứng bên giếng đá trong một thị trấn châu Âu thời trung cổ đầy hoài niệm.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một hình minh họa phong cách anime bán thực tế cực kỳ chi tiết, lấy bối cảnh tại một sân làng châu Âu thời trung cổ cũ bên cạnh một giếng nước bằng đá. Nhân vật chính là một cô gái trẻ, {argument name="character name" default="một cô gái làng dịu dàng"}, được thể hiện từ thắt lưng trở lên ở tiền cảnh, hơi xoay người sang một bên nhưng nhìn thẳng vào người xem với nụ cười nhẹ nhàng. Cô ấy có mái tóc {argument name="hair color" default="nâu hạt dẻ ấm áp"} tết lỏng dài vắt qua một bên vai, tóc mái thưa, làn da trắng với đôi má ửng hồng tinh tế, đôi mắt màu xám xanh sáng và cặp kính gọng kim loại tròn thanh mảnh. Hãy mặc cho cô ấy trang phục nông dân truyền thống: áo blouse tay phồng màu kem, áo corset ôm sát màu xanh lá cây đậm với dây buộc phía trước, chân váy nhún màu xanh lá và thắt lưng đơn giản. Phía sau cô ấy, hãy thể hiện chính xác bốn dân làng ở gần giếng: 1) một phụ nữ trẻ mặc váy corset màu nâu đứng bên trái, 2) một đứa trẻ nhỏ bị che khuất một phần gần dây xích gàu nước, 3) một cậu bé đứng phía sau giếng, và 4) hai phụ nữ trẻ bên phải đang cùng nhau lấy nước, được tính là một nhóm tương tác nhưng hiển thị rõ hai nhân vật, được làm mờ nhẹ bởi độ sâu trường ảnh. Bao gồm một giếng đá hình tròn ở tiền cảnh bên trái với mái che bằng gỗ, xích sắt treo và gàu kim loại; những ngôi nhà trát vữa màu kem mộc mạc với mái tối màu ở phía sau; và một tháp nhà thờ ở xa với đỉnh nhọn vươn lên bầu trời sáng mờ ảo. Sử dụng bầu không khí {argument name="time period" default="vùng quê thời trung cổ"} không có vật thể hiện đại nào ngoại trừ cặp kính phong cách giả tưởng tinh tế của nhân vật. Ánh sáng nên là ánh nắng chiều muộn ấm áp từ phía sau và phía trên, tạo ra ánh sáng viền trên tóc cô ấy, hiệu ứng tỏa sáng nhẹ, bóng đổ dịu dàng, độ sâu trường ảnh điện ảnh, phong cách hiện thực hội họa, các nếp gấp quần áo phức tạp, kết cấu da tự nhiên và tâm trạng hoài cổ yên bình. Bố cục chân dung dọc, tỷ lệ khung hình 3:4, không có văn bản, không có hình mờ.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336948953_4nc851_HRIhO04aAAA27d7.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Cô gái làng thời trung cổ bên giếng nước - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Harf_Done](https://x.com/half_done_yet)
+- **Nguồn:** [Twitter Post](https://x.com/half_done_yet/status/2094773542378520877#reversed-0)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33256)**
+
+---
+
+### No. 72: Truyện tranh / Bảng phân cảnh - Chuỗi kịch bản phân cảnh Manga Breakout
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3725,25 +3624,25 @@ Một chuỗi các câu lệnh chi tiết để tạo ra câu chuyện đa khung
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250535624_cpcsru_HRGhVT6bIAAambF.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Chuỗi kịch bản phân cảnh Manga Breakout - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336918930_g9q2v0_HRGhVT6bIAAambF.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Chuỗi kịch bản phân cảnh Manga Breakout - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250535634_onruvy_HRGhXJ5b0AAXtma.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Chuỗi kịch bản phân cảnh Manga Breakout - Image 2">
+<img src="https://cms-assets.youmind.com/media/1788336918736_7ne18p_HRGhXJ5b0AAXtma.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Chuỗi kịch bản phân cảnh Manga Breakout - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250535793_0a1j3j_HRGhYXxakAA6pUX.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Chuỗi kịch bản phân cảnh Manga Breakout - Image 3">
+<img src="https://cms-assets.youmind.com/media/1788336918735_4wyb3k_HRGhYXxakAA6pUX.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Chuỗi kịch bản phân cảnh Manga Breakout - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250539588_5p6fxm_HRGhZPJbYAAorOe.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Chuỗi kịch bản phân cảnh Manga Breakout - Image 4">
+<img src="https://cms-assets.youmind.com/media/1788336919634_bcwwmn_HRGhZPJbYAAorOe.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Chuỗi kịch bản phân cảnh Manga Breakout - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -3757,7 +3656,7 @@ Một chuỗi các câu lệnh chi tiết để tạo ra câu chuyện đa khung
 
 ---
 
-### No. 76: Truyện tranh / Bảng phân cảnh - Ảnh ghép phân cảnh hành động trong nhà kho
+### No. 73: Truyện tranh / Bảng phân cảnh - Ảnh ghép phân cảnh hành động trong nhà kho
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3796,7 +3695,7 @@ Các hạn chế: Không văn bản, không chú thích, không logo, không pho
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250578946_x3uqh9_HRGZr2tbEAAFnsU.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Ảnh ghép phân cảnh hành động trong nhà kho - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336937221_8xza6o_HRGZr2tbEAAFnsU.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Ảnh ghép phân cảnh hành động trong nhà kho - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -3807,6 +3706,124 @@ Các hạn chế: Không văn bản, không chú thích, không logo, không pho
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33155)**
+
+---
+
+### No. 74: Truyện tranh / Bảng phân cảnh - Cửa lá mùa thu của chuột Hamster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một mô hình giấy cắt thủ công ấm cúng về mùa thu, mô tả một chú chuột Hamster nhỏ đang bước vào khu rừng rực rỡ qua cánh cửa làm từ những chiếc lá phong khổng lồ.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một hình minh họa mô hình giấy cắt theo phong cách truyện tranh khổ dọc trong ánh sáng mùa thu ấm áp: một chú chuột Hamster màu nâu vàng nhỏ bé đang đứng ở ngưỡng cửa hình vòm được tạo thành từ đúng 3 chiếc lá phong quá khổ, bao gồm 1 lá bên trái màu xanh lá nhạt, 1 lá ở giữa cao tạo thành đỉnh vòm và 1 lá bên phải màu vàng cam. Chú chuột Hamster, {argument name="character name" default="một chú chuột Hamster nhỏ nhắn, lông xù"}, được nhìn từ phía sau ở góc ba phần tư, với đôi tai tròn, mắt đen láy như hạt cườm, đôi chân nhỏ đang nhấc lên, bộ lông mềm mại và chiếc đuôi trắng nhỏ, đang nhìn vào khu rừng mùa thu thu nhỏ rực rỡ. Bên trong vòm lá, hãy thể hiện đúng 1 con đường uốn lượn phủ đầy lá, 2 thân cây sẫm màu bao quanh hai bên, những ngọn đồi màu cam xếp lớp ở phía xa và vài chiếc lá phong rơi tạo bóng trên bầu trời hoàng hôn rực rỡ. Bên ngoài cửa, hãy sử dụng nền và sàn có kết cấu giấy màu xanh xám nhạt, với các chi tiết trang trí bằng giấy cắt hình thực vật xung quanh khung: đúng 2 cành lá cao ở bên trái và đúng 2 cành lá cao ở bên phải, cùng với những chiếc lá mùa thu nằm rải rác trên mặt đất. Toàn bộ khung cảnh nên mang cảm giác thủ công từ giấy có kết cấu, với các đường gân lá rõ nét, sợi giấy nổi, bóng đổ mềm mại, ánh sáng vàng ấm áp tỏa ra từ khung cửa và cái bóng dài của chú chuột Hamster đổ trên nền phía trước. Sử dụng bảng màu mùa thu ấm cúng gồm {argument name="autumn palette" default="xanh xám, màu đất vàng, màu hổ phách, cam cháy và vàng mềm mại"}. Không có văn bản, không có hình mờ, không có vẻ ngoài nhựa chân thực; hãy giữ cho nó sự kỳ ảo, cảm giác chân thực, điện ảnh nhẹ nhàng và được căn giữa.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336944487_783eab_HRFmQwqbYAA2Pws.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Cửa lá mùa thu của chuột Hamster - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [🐹🐹](https://x.com/hmst_yyyy)
+- **Nguồn:** [Twitter Post](https://x.com/hmst_yyyy/status/2094567746466197767#reversed-0)
+- **Đã xuất bản:** 31 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33251)**
+
+---
+
+### No. 75: Truyện tranh / Bảng phân cảnh - Bản vẽ phác thảo Dark Fantasy
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Chuyển đổi một bản vẽ phác thảo hành động thô thành hình ảnh hiệp sĩ bất tử phong cách dark fantasy đầy ấn tượng, đang lao vào chiến trường với luồng năng lượng bóng tối màu tím.
+
+#### 📝 Câu lệnh
+
+```
+Sử dụng bản phác thảo thô được cung cấp làm hướng dẫn chính xác về tư thế và bố cục, hãy biến nó thành một hình minh họa hành động dark fantasy hoàn thiện. Giữ nguyên tư thế lao tới/lao người về phía trước, phần đầu giống đầu lâu, hình dáng giáp vai lớn, đôi chân gập, cánh tay nắm chặt và các đường chuyển động chéo quét qua từ bản phác thảo. Kết xuất hoàn chỉnh nhân vật thành {argument name="character type" default="một hiệp sĩ bọc giáp bất tử"} trong bộ giáp thép đen bị hư hại với khuôn mặt đầu lâu đầy đe dọa, đôi mắt phát sáng màu tím và biểu cảm hung dữ với miệng mở rộng. Chuyển đổi các nét vẽ chuyển động rời rạc của bản phác thảo thành những dòng {argument name="energy color" default="màu tím"} của ngọn lửa bóng tối và hào quang ma thuật bao quanh cơ thể, kéo dài lên phía sau như một chiếc áo choàng rách nát. Thêm vào môi trường chiến trường hoang tàn không có trong bản phác thảo: mặt đất nứt nẻ đầy bụi, mảnh vụn, những ngọn tháp tối tăm lởm chởm ở phía xa, bầu trời màu nâu xám bão tố và phối cảnh mạnh mẽ khiến nhân vật như đang lao về phía người xem. Phong cách: nghệ thuật ý tưởng chi tiết cao, nét cọ vẽ, ánh sáng kịch tính, độ tương phản mạnh, kết cấu kim loại trầy xước, góc máy ảnh năng động, hiệu ứng nhòe chuyển động điện ảnh, tâm trạng dark souls / dark fantasy. Giữ hình ảnh theo chiều dọc, mãnh liệt và tập trung vào nhân vật đang lao tới. Tránh các đường nét hoạt hình sạch sẽ, các vật thể hiện đại, văn bản, logo hoặc các nhân vật phụ.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336949400_vctr0p_HRFJKn2bQAAYp-9.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Bản vẽ phác thảo Dark Fantasy - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [おおひろ](https://x.com/oohiro35)
+- **Nguồn:** [Twitter Post](https://x.com/oohiro35/status/2094536936396632360#reversed-1)
+- **Đã xuất bản:** 31 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33177)**
+
+---
+
+### No. 76: Truyện tranh / Bảng phân cảnh - Chân dung phong cách Anime với hiệu ứng bóng đổ Manga
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một bức chân dung phong cách anime đầy quyến rũ của một cô gái và chú mèo cưng với điểm nhấn kỳ ảo đầy sáng tạo, biến những chiếc bóng thực tế thành các hình vẽ manga thủ công.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một bức chân dung đời thường phong cách anime điện ảnh, ấm cúng về một cô gái trẻ dễ thương với {argument name="hair style" default="kiểu tóc bob ngắn màu hồng pastel"}, mặc một chiếc {argument name="shirt" default="áo sơ mi flannel kẻ sọc đỏ vintage dáng rộng"}, quần jeans thụng thoải mái và giày sneaker vải cổ điển. Bên cạnh cô là một chú {argument name="cat breed" default="mèo Anh lông ngắn màu xám trắng bông xù"} đang đeo một chiếc khăn bandana kẻ sọc nhỏ xíu đồng điệu.
+
+Bắt trọn khoảnh khắc ấm áp, tự nhiên giữa họ vào giờ vàng (golden hour). Họ nên tương tác một cách tự nhiên và đầy tình cảm, với ánh nắng dịu nhẹ chiếu rọi khắp khung cảnh, tạo nên những chiếc bóng dài, mềm mại trên nền tường và sàn nhà màu be tối giản.
+
+Thêm một điểm nhấn kỳ ảo đầy thú vị: biến những chiếc bóng thực tế thành các hình vẽ manga thủ công tinh nghịch. Bóng của cô gái trở thành phiên bản chibi anime đáng yêu của chính cô trong tư thế vui vẻ, tràn đầy năng lượng, trong khi bóng của chú mèo biến thành phiên bản hoạt hình hài hước, đang vẫy tay, nhảy múa hoặc vươn người về phía cô một cách tinh nghịch.
+
+Các nhân vật minh họa cần xuất hiện một cách tự nhiên từ những chiếc bóng thực, hòa quyện hoàn hảo với môi trường xung quanh. Kết hợp các đường nét phác thảo bằng bút chì tinh tế, các ký hiệu chuyển động đặc trưng của manga, những trái tim nhỏ, ngôi sao, bướm và các hình vẽ nguệch ngoạc tự phát một cách hữu cơ bên trong hình dáng của những chiếc bóng.
+
+Phong cách hình ảnh: anime đời thường ấm cúng kết hợp với nhiếp ảnh biên tập cao cấp, bố cục tối giản, ánh sáng giờ vàng điện ảnh ấm áp, cảm xúc chân thực, bầu không khí mơ mộng nhưng vẫn đầy thuyết phục.
+
+Chất lượng & độ chân thực: lông thú chi tiết cao, kết cấu da tự nhiên, chi tiết vải và trang phục chân thực, kết cấu môi trường tinh tế, ánh sáng và bóng đổ vật lý thuyết phục, chiều sâu không gian mềm mại, độ sâu trường ảnh nông, phong cách nhiếp ảnh 50mm, màu sắc lấy cảm hứng từ Kodak Portra 400, chủ thể chân thực tương phản với nghệ thuật bóng đổ manga vẽ tay, cân bằng thị giác tinh tế, siêu chi tiết, điện ảnh, kỳ ảo nhưng chân thực, chất lượng tuyệt tác, 8K.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788250563553_gxwx8r_HRD1fEoa4AAK3Ml.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Chân dung phong cách Anime với hiệu ứng bóng đổ Manga - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788250564129_fwd9ry_HRD1f9KbIAAS80A.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Chân dung phong cách Anime với hiệu ứng bóng đổ Manga - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Selina](https://x.com/selinatasnim1)
+- **Nguồn:** [Twitter Post](https://x.com/selinatasnim1/status/2094443766929330280)
+- **Đã xuất bản:** 31 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33144)**
 
 ---
 
@@ -4141,19 +4158,19 @@ Một câu lệnh toàn diện để tạo ra bảng phát triển nhân vật c
 
 ---
 
-### No. 85: Truyện tranh / Bảng phân cảnh - Gấu Bắc Cực hoạt hình trên tảng băng trôi
+### No. 85: Tiếp thị sản phẩm - Quán ăn phong cách Retro với chú mèo thu ngân
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một bức tranh minh họa phong cách sách thiếu nhi vẽ tay tươi sáng về một chú gấu Bắc Cực đang đứng trên băng biển Bắc Cực.
+Một câu lệnh chi tiết, chân thực về khung cảnh quán ăn phong cách retro với một chú mèo nhỏ mặc đồng phục làm thu ngân, bao gồm văn bản thực đơn và hiệu ứng ánh sáng cụ thể.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức tranh minh họa sách thiếu nhi hình vuông đơn giản về {argument name="animal" default="một chú gấu Bắc Cực"} đang đứng trên một tảng băng trôi lớn ở Bắc Băng Dương. Con vật được thể hiện ở góc nhìn nghiêng hướng sang trái, chiếm phần lớn khung hình, với thân hình tròn trịa mập mạp, cổ ngắn tự nhiên, lộ rõ bốn chân, tai nhỏ tròn, đuôi ngắn, bộ lông màu trắng kem, đường viền hoạt hình màu đen đậm, cùng khuôn mặt nghiêm nghị đầy quyết tâm với đôi mắt tròn, mũi đen và miệng phẳng. Sử dụng phong cách vẽ tay ngây thơ bằng màu acrylic hoặc phấn dầu với các nét cọ có thể nhìn thấy, các cạnh hơi không đều, đường viền đen đậm và các mảng màu sáng phẳng. Bối cảnh là bầu trời xanh lơ sống động phía trên đường chân trời đại dương xanh thẫm, với đúng 2 đám mây trắng khối đơn giản trên bầu trời, một ở phía trên bên trái và một ở phía trên bên phải. Bao gồm đúng 6 tảng băng nhỏ hơn trôi trong nước xung quanh tảng băng chính: 3 tảng ở bên trái, 3 tảng ở bên phải. Tảng băng chính phải lớn, lởm chởm, mặt trên màu trắng với các cạnh đổ bóng màu xanh nhạt, lấp đầy một phần ba phía dưới của hình ảnh. Giữ bố cục vui tươi và đồ họa, giống như một trang sách thiếu nhi vẽ tay, không có văn bản, không có hình mờ, không có tính chân thực ảnh và không có thêm động vật nào khác.
+Một {argument name="setting" default="quán ăn retro chân thực"}, tươi sáng và vui vẻ. Bảng thực đơn phía sau quầy ghi bằng chữ in đậm: "{argument name="menu items" default="KHAI VỊ — CHẢ GIÒ 3.5 / SALAD BẮP CẢI 2.5"}", "MÓN CHÍNH — TACO THỨ BA 7 / CÁ CHIÊN 8.5 / BURRITO 6", "SỮA LẮC — VANI 3 / DÂU TÂY 3.2", "TRÁNG MIỆNG — BÁNH PIE 4 / BÁNH DONUT 1.5", cùng một ô màu vàng "MÓN ĐẶC BIỆT HÔM NAY: BÁNH MÌ CROISSANT 4.75". Một {argument name="animal character" default="chú mèo nhỏ mặc áo sơ mi trắng và thắt nơ đỏ"} đứng trên quầy phía sau máy tính tiền, một chân đặt lên chiếc bánh pie. Ghế đẩu mạ crom, đèn neon, ánh nắng buổi sáng xuyên qua lớp kính, tỷ lệ khung hình 2:3.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -4161,51 +4178,304 @@ Tạo một bức tranh minh họa sách thiếu nhi hình vuông đơn giản v
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250583518_ht7abl_HRBihzLaMAAIUQh.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Gấu Bắc Cực hoạt hình trên tảng băng trôi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336925116_7hrv9b_HRJWqULXIAAN_IK.jpg" width="600" alt="Tiếp thị sản phẩm - Quán ăn phong cách Retro với chú mèo thu ngân - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250583494_t8prgq_HRBipC8a4AAUDmp.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Gấu Bắc Cực hoạt hình trên tảng băng trôi - Image 2">
+<img src="https://cms-assets.youmind.com/media/1788336925074_vv73q2_HRJWsJ1WAAAw0fd.jpg" width="600" alt="Tiếp thị sản phẩm - Quán ăn phong cách Retro với chú mèo thu ngân - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [AlexAImaginator](https://x.com/TraffAlex)
+- **Nguồn:** [Twitter Post](https://x.com/TraffAlex/status/2094832117754585501)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33231)**
+
+---
+
+### No. 86: Tiếp thị sản phẩm - Tài liệu nhân vật Donato Pizzaiolo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Bảng tham chiếu nhân vật theo phong cách biên tập siêu thực dành cho một thợ làm bánh pizza kiểu Napoli, bao gồm các tư thế xoay người, bảng chi tiết, kiểu chữ và bảng màu.
+
+#### 📝 Câu lệnh
+
+```
+Mục tiêu: Tạo một bảng tài liệu nhân vật theo phong cách biên tập thời trang cao cấp, siêu thực cho {argument name="character name" default="DONATO"}, một thợ làm bánh pizza kiểu Napoli, được trình bày như một chiến dịch thời trang cao cấp và tài liệu tham khảo nhân vật trong phim.
+
+Khung hình: Bố cục studio màu trắng, khổ ngang 16:9, phong cách tạp chí sạch sẽ, nhiếp ảnh cắt lớp sắc nét, đổ bóng mềm, ánh sáng biên tập độ phân giải cao.
+
+Bố cục: Ở bên trái, đặt kiểu chữ sans-serif in đậm, khổ lớn, màu đen với nội dung "{argument name="main title" default="DONATO"}" ở phía trên. Ngay bên dưới, thêm tiêu đề phụ "{argument name="subtitle" default="THE PIZZAIOLO / NAPLES"}" bằng chữ in hoa màu đen, đậm và nhỏ hơn. Bên dưới khu vực tiêu đề, hiển thị một bức chân dung hành động lớn của đầu bếp đang tung bột bánh pizza, được chiếu sáng bằng ánh sáng màu đất nung ấm áp với bụi bột mì bay trong không trung. Ở trung tâm, hiển thị một hàng xoay người toàn thân với chính xác 3 góc nhìn của cùng một người đàn ông: góc nhìn chính diện, góc nhìn nghiêng và góc nhìn từ phía sau. Dọc theo cạnh phải, xếp chồng chính xác 4 bảng chi tiết cận cảnh hình chữ nhật theo chiều dọc: 1 cận cảnh đôi mắt nâu sâu thẳm và khuôn mặt phủ bụi bột mì, 1 cận cảnh nút thắt tạp dề kẻ sọc xanh navy và chi tiết vòng đồng, 1 cận cảnh bàn tay phủ bột đang ấn bột trên mặt đá cẩm thạch, và 1 cận cảnh đôi giày đầu bếp bằng da đen đã sờn.
+
+Chi tiết nhân vật: Người đàn ông Địa Trung Hải điển trai ở độ tuổi cuối 30 đến đầu 40, da màu ô liu, tóc nâu sẫm gợn sóng vuốt ngược, râu quai nón nhạt, mũi cao, vóc dáng cân đối, biểu cảm nghiêm túc và tập trung. Anh ấy mặc áo sơ mi trắng cài cúc với tay áo xắn lên đến cẳng tay, tạp dề kẻ sọc than chì xanh navy đậm thắt ở eo, quần tây đen và giày da tối màu đã sờn. Giữ nguyên các đặc điểm khuôn mặt và cấu trúc cơ thể trên tất cả các góc nhìn.
+
+Hệ thống màu sắc: Bao gồm chính xác 4 mẫu màu hình tròn gần khu vực phía dưới bên trái/trung tâm, mỗi mẫu có nhãn đen nhỏ và mã hex: Terracotta Ember #C85A32, Flour Dust White #F7F4EE, Fresh Basil #2E5A36, Hearth Charcoal #1F1E20.
+
+Nội dung văn bản: Thêm khẩu hiệu ở giữa phía dưới bằng chữ in hoa đậm màu đen: "{argument name="tagline" default="90 SECONDS AT 900 DEGREES."}". Giữ cho tất cả kiểu chữ sắc nét, mang tính biên tập và căn chỉnh với khoảng trắng rộng rãi.
+
+Phong cách hình ảnh: Nhiếp ảnh studio siêu thực kết hợp với thiết kế bảng tham chiếu thời trang sang trọng, nền trắng sạch sẽ, thương hiệu ẩm thực cao cấp, ánh sáng ấn tượng nhưng có kiểm soát, hạt mịn, không có phong cách minh họa, không có hiệu ứng hoạt hình.
+
+Các ràng buộc: Sử dụng chính xác 1 bức chân dung hành động lớn, chính xác 3 hình ảnh xoay người toàn thân, chính xác 4 bảng cận cảnh ở phía bên phải và chính xác 4 mẫu màu. Không thêm nhân vật, đạo cụ, logo, hình mờ hoặc văn bản bổ sung.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336954241_6eenps_HRJRsNBXIAEgNl7.jpg" width="600" alt="Tiếp thị sản phẩm - Tài liệu nhân vật Donato Pizzaiolo - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Pan](https://x.com/sebatheepan)
+- **Nguồn:** [Twitter Post](https://x.com/sebatheepan/status/2094827029908631794#reversed-0)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33262)**
+
+---
+
+### No. 87: Tiếp thị sản phẩm - Chân dung thời trang cổ điển trên mây
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Bức chân dung đầy hoài niệm lấy cảm hứng từ thập niên 1960, khắc họa một người phụ nữ ngồi giữa những đám mây mềm mại, mang đậm tính thẩm mỹ cổ điển và tông màu pastel.
+
+#### 📝 Câu lệnh
+
+```
+Bức chân dung thời trang cổ điển đầy mơ mộng của một thiếu nữ xinh đẹp đang ngồi giữa những đám mây mềm mại trên cao, bố cục dọc 9:16. Cô có khuôn mặt trái xoan thanh tú, làn da trắng hồng ấm áp, các đường nét tự nhiên mềm mại, đôi môi hồng phớt và biểu cảm bình thản, tự tin. Cô để kiểu tóc {argument name="hair color" default="nâu đen"} với mái tóc bob cổ điển bồng bềnh, hơi gợn sóng với phần đuôi uốn vểnh nhẹ nhàng và phần mái thưa thẳng trên trán.
+
+Cô đeo chiếc kính râm cổ điển gọng tròn lớn với phần gọng {argument name="sunglasses frame color" default="màu kem/trắng ngà"} dày và tròng kính màu nâu ấm, mang đến vẻ ngoài thời trang tinh nghịch của thập niên 1960–70.
+
+Trang phục
+
+Cô mặc bộ đồ hai mảnh kiểu quấn màu xanh da trời pastel nhạt, bao phủ bởi họa tiết {argument name="clothing pattern" default="chấm bi"} vui mắt. Phần áo là kiểu áo blouse tay ngắn, dáng suông cài cúc trước với cổ chữ V sâu và phần eo được nhún/thắt nút. Chiếc áo được quấn lỏng và thắt thành một nút mềm mại ở phía trước.
+
+Phần quần đi kèm là quần ống rộng cạp cao, được làm từ chất liệu vải nhẹ nhàng, rủ tự nhiên quanh đôi chân và hòa quyện tuyệt đẹp với những đám mây xung quanh.
+
+Các chấm bi là sự kết hợp của màu vàng mù tạt, màu kem nhạt, màu cam nhạt và màu be tinh tế, kích thước thay đổi nhẹ nhàng tạo nên vẻ ngoài cổ điển đầy cuốn hút. Chất liệu vải trông phải mềm mại, nhẹ nhàng, hơi có kết cấu và nhăn tự nhiên.
+
+Tư thế & Bố cục
+
+Cô ngồi một cách thoải mái trên những đám mây trắng dày xốp, một chân gập sang bên và chân kia duỗi tự nhiên xuyên qua các tầng mây. Hai tay cô thả lỏng ra ngoài, tạo nên một tư thế chụp ảnh tạp chí đầy tự nhiên. Chụp từ góc máy thấp một chút để cô trông như đang bay bổng giữa bầu trời.
+
+Bối cảnh
+
+Bầu trời xanh pastel bao la tràn ngập những đám mây tích trắng muốt và ánh cam đào khổng lồ bao quanh cô. Những đám mây che khuất một phần thân dưới và tiền cảnh, tạo hiệu ứng siêu thực như đang lơ lửng trên bầu trời. Thêm các hạt bụi khí quyển li ti và lớp sương mờ tinh tế để tạo cảm giác điện ảnh mơ mộng.
+
+Phong cách hình ảnh
+
+Chủ nghĩa siêu thực cổ điển đầy mơ mộng, nhiếp ảnh thời trang thập niên 1960, thẩm mỹ phim điện ảnh mềm mại, phân loại màu pastel, nhiếp ảnh analog hoài cổ, hạt phim tinh tế, hiệu ứng nhòe ống kính nhẹ nhàng, màu sắc hơi phai, kết cấu vải chân thực, kết cấu da tự nhiên, phối cảnh khí quyển mềm mại, chiến dịch thời trang biên tập đầy chất thơ, chi tiết cao, thanh lịch và thoát tục.
+
+Ánh sáng: ánh nắng chiều muộn ấm áp, các điểm sáng khuếch tán mềm mại trên khuôn mặt và trang phục, ánh sáng viền nhẹ quanh tóc, bóng đổ tự nhiên của mây, ánh vàng tinh tế.
+
+Negative prompt: vẻ ngoài kỹ thuật số hiện đại, ánh sáng gắt, da nhựa, CGI, kết xuất 3D, anime, hoạt hình, giải phẫu bị biến dạng, bàn tay dị dạng, thừa ngón tay, mây không thực tế, màu sắc quá bão hòa, trang điểm quá đậm, khuôn mặt mờ, văn bản, hình mờ, logo.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336926391_e2vhnm_HRGxAFwb0AAyCfF.jpg" width="600" alt="Tiếp thị sản phẩm - Chân dung thời trang cổ điển trên mây - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336926668_llqde1_HRGxBMxaMAACbPd.jpg" width="600" alt="Tiếp thị sản phẩm - Chân dung thời trang cổ điển trên mây - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai)
+- **Nguồn:** [Twitter Post](https://x.com/afrinxai/status/2094802471361134912)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33234)**
+
+---
+
+### No. 88: Tiếp thị sản phẩm - Quảng cáo sản phẩm chăm sóc da cao cấp
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một gợi ý quảng cáo cao cấp dành cho thương hiệu chăm sóc da, nổi bật với hình ảnh chai kem dưỡng sang trọng được bao quanh bởi các yếu tố thực vật và hiệu ứng ánh sáng tinh tế.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một quảng cáo sản phẩm thương mại sang trọng, siêu thực cho một thương hiệu chăm sóc da cao cấp có tên {argument name="brand name" default="AUREVIA"}, với sản phẩm “{argument name="product name" default="VELVET HYDRATE Body Lotion"}”. Đặt một chai vòi nhấn hình bầu dục cao 250 ml tinh tế ở vị trí trung tâm của bố cục, đặt ở một góc nghiêng nhẹ để tạo vẻ ngoài biên tập năng động. Sử dụng chai có {argument name="bottle color" default="màu xanh lá xô thơm nhám"} với lớp hoàn thiện mềm mại khi chạm vào và vòi nhấn màu vàng sâm panh phay xước. Thiết kế nhãn chai với họa tiết thực vật hình vòm thanh lịch lấy cảm hứng từ những chiếc lá mềm mại và các đường nét địa hình tinh tế. Sử dụng bảng màu tinh tế gồm xanh lá xô thơm, vàng sâm panh, màu ngà ấm và màu đất nung trầm. Tránh sao chép nhãn hình chữ nhật hoặc phong cách màu cam và tím của hình ảnh tham khảo. Nhãn phía trước phải hiển thị rõ ràng và chính xác: AUREVIA, VELVET HYDRATE, Nourishing Body Lotion, Aloe Vera + Shea Butter, Soften • Nourish • Hydrate, 250 ml. Bao quanh chai là những lát nha đam tươi, những bông hoa màu ngà nhỏ, hạt bơ hạt mỡ, lá khuynh diệp và các yếu tố thực vật tinh tế được sắp xếp đẹp mắt. Thêm các giọt nước trong suốt và một vệt nước duyên dáng quét phía sau chai để truyền tải sự tươi mới và cấp ẩm. Thay vì bề mặt tông màu cam, hãy đặt sản phẩm trên một bệ đá travertine màu kem nhạt với kết cấu tự nhiên tinh tế. Thêm một phông nền nghệ thuật hình vòng cung màu xanh lá xô thơm phía sau sản phẩm, tạo chiều sâu phân lớp và thiết kế bối cảnh cao cấp đặc trưng. Sử dụng ánh sáng ban ngày vàng dịu chiếu vào theo đường chéo từ phía trên bên trái, tạo ra những bóng đổ thực vật thanh lịch trên nền. Thêm các phản xạ chân thực, các giọt ngưng tụ nhỏ trên chai, các điểm nhấn tinh tế trên vòi vàng và bóng đổ mềm mại bên dưới sản phẩm. Bố cục cần mang lại cảm giác tinh tế, tươi mới, đậm chất thực vật, hiện đại và đắt tiền—tương tự như một chiến dịch chăm sóc da quốc tế cao cấp. Nhiếp ảnh: quảng cáo làm đẹp sang trọng, nhiếp ảnh sản phẩm chuyên nghiệp, chi tiết vật liệu cấp độ macro, vật lý chất lỏng và nước chân thực, kiểu chữ sắc nét, kết cấu thực vật chân thực, độ sâu trường ảnh nông, ánh sáng studio cao cấp, chi tiết 8K. Tỷ lệ khung hình: 4:5 chân dung.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336909086_eh9hg4_HRI3sPNXMAAn1B3.jpg" width="600" alt="Tiếp thị sản phẩm - Quảng cáo sản phẩm chăm sóc da cao cấp - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336909087_534h5c_HRI3tQnWQAAkZfx.jpg" width="600" alt="Tiếp thị sản phẩm - Quảng cáo sản phẩm chăm sóc da cao cấp - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Abkr Sadiq](https://x.com/abs_uiux)
+- **Nguồn:** [Twitter Post](https://x.com/abs_uiux/status/2094798041026797878)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33216)**
+
+---
+
+### No. 89: Tiếp thị sản phẩm - Bảng thiết kế nhân vật mặc áo khoác lông thú chân thực
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Tạo bảng thiết kế nhân vật khổ rộng trong studio cho một nhân vật phản anh hùng theo phong cách thời trang đường phố sang trọng với ba góc nhìn nhất quán, lý tưởng cho việc phát triển ý tưởng phim, trò chơi hoặc thời trang.
+
+#### 📝 Câu lệnh
+
+```
+Mục tiêu: Tạo bảng thiết kế nhân vật thời trang chân thực cho {argument name="character name" default="một nhân vật phản anh hùng da đen đầy phong cách lấy cảm hứng từ gangster"} trên nền studio trắng sạch sẽ, thể hiện cùng một nhân vật và trang phục nhất quán qua nhiều góc nhìn.
+
+Khung hình: Bảng nhân vật khổ ngang rộng, tỷ lệ khung hình khoảng 16:9, ánh sáng studio cường độ cao, nền trắng tinh khiết, không có bóng đổ ngoại trừ bóng tiếp xúc nhẹ dưới giày.
+
+Bố cục: Sử dụng chính xác 3 góc nhìn nhân vật được sắp xếp từ trái sang phải: 1) góc nhìn toàn thân từ phía trước ở bên trái, phần đầu được cắt bớt ở phía trên để làm nổi bật trang phục; 2) góc nhìn toàn thân từ bên cạnh/góc nghiêng ở giữa, cũng với phần đầu bị che khuất phần lớn bởi kiểu tóc cao và cổ áo khoác; 3) chân dung nửa thân trên ba phần tư lớn hơn ở bên phải, hiển thị rõ khuôn mặt, kính râm, điếu xì gà, kiểu tóc, trang sức và các chi tiết của áo khoác. Giữ khoảng trắng rộng rãi giữa các góc nhìn.
+
+Chi tiết chủ thể: Nhân vật là một người đàn ông da đen cao gầy với làn da tối màu, khuôn mặt góc cạnh, biểu cảm tự tin đầy uy quyền, kiểu tóc dreadlock dựng đứng phóng đại, kính râm đen cỡ lớn và một điếu xì gà ngậm trong miệng với đốm lửa nhỏ đang cháy. Anh ta mặc {argument name="statement coat" default="một chiếc áo khoác lông thú giả màu nâu dài với các đốm báo đen không đều"}, với cổ áo lông xù màu vàng cỡ lớn và tay áo sang trọng. Bên dưới áo khoác là {argument name="shirt color" default="một chiếc áo sơ mi lụa satin màu đỏ rực rỡ cổ mở"}, cài cúc hờ ở ngực. Thêm các lớp dây chuyền và mặt dây chuyền vàng quanh cổ, thắt lưng da đen thiết kế với khóa đôi mạ vàng, quần tây đen ống rộng cạp cao, giày tây mũi nhọn màu đen bóng và cổ tay áo sơ mi đỏ lộ ra ở cổ tay.
+
+Đạo cụ và các vật phẩm hiển thị được liệt kê: Bao gồm chính xác 2 khẩu súng: một khẩu súng ngắn màu đen cầm thấp ở góc nhìn bên trái/phía trước và một khẩu súng trường tấn công nhỏ gọn màu đen cầm dọc hướng xuống dưới ở góc nhìn bên cạnh ở giữa. Bao gồm chính xác 3 hình ảnh/góc nhìn nhân vật: toàn thân phía trước, toàn thân bên cạnh và chân dung cận cảnh ba phần tư. Bao gồm nhiều lớp dây chuyền vàng, kính râm đen, một điếu xì gà, một thắt lưng và một chiếc áo khoác lông thú có đốm dài được lặp lại nhất quán qua tất cả các góc nhìn.
+
+Phong cách hình ảnh: Nhiếp ảnh thời trang biên tập siêu thực kết hợp với nghệ thuật ý tưởng nhân vật, kết cấu vải sắc nét, sợi lông chi tiết, da chân thực, phản chiếu da bóng, lấy nét sắc nét, trình bày thiết kế sản phẩm độ phân giải cao, phong cách thời trang đường phố sang trọng đầy kịch tính.
+
+Các ràng buộc: Không có nhãn văn bản, không có logo ngoại trừ khóa thắt lưng kiểu thiết kế tinh tế, không có nhân vật phụ, không có vũ khí bổ sung ngoài 2 loại đã chỉ định, không có môi trường nền, không có kết xuất hoạt hình, duy trì màu sắc và tỷ lệ trang phục nhất quán trên cả 3 góc nhìn.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336951357_tai4i3_HRIr34TWAAAjUNz.jpg" width="600" alt="Tiếp thị sản phẩm - Bảng thiết kế nhân vật mặc áo khoác lông thú chân thực - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [CloudNest](https://x.com/thecloudnest)
+- **Nguồn:** [Twitter Post](https://x.com/thecloudnest/status/2094785291273773158#reversed-2)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33259)**
+
+---
+
+### No. 90: Tiếp thị sản phẩm - Tác phẩm điêu khắc thành phố thu nhỏ bằng đá thạch cao
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Tạo ra hình ảnh macro điện ảnh về một thành phố thu nhỏ phong cách Baroque huyền ảo được chạm khắc bên trong một dải đá thạch cao cong duy nhất.
+
+#### 📝 Câu lệnh
+
+```
+Tạo một bức ảnh sản phẩm kiến trúc giả tưởng cực kỳ chi tiết về một thành phố thu nhỏ nằm gọn bên trong một dải {argument name="stone material" default="đá cẩm thạch thạch cao trắng mờ"} cong liên tục, có hình dạng như một chiếc vỏ sò lớn đang mở hoặc một dải đá uốn lượn đặt thẳng đứng trên bề mặt studio màu xanh mòng két đậm. Thành phố trông giống như một vương quốc vi mô Địa Trung Hải phong cách Baroque sang trọng mọc ra từ chính khối đá đó: những sân thượng trắng mịn, các mái vòm, cầu thang nhỏ, cầu, hàng cột, ban công, những ô cửa sổ tỏa ánh sáng ấm áp và các đường vân vàng tinh xảo chạy dọc theo đá như nghệ thuật kintsugi. Bao gồm chính xác 5 yếu tố danh lam thắng cảnh chính: 1 cung điện đài quan sát hình tròn lớn ở phía trên bên trái với vòng thiên cầu bằng đồng trên mái, 1 tòa tháp cao giống ngọn hải đăng ở phía trên bên phải, 1 tòa tháp tròn nhỏ hơn với thước đo thiên văn bằng đồng trên sân thượng phía trung tâm bên phải, 1 gian hàng mái vòm nhỏ gần trung tâm phía dưới và 1 cầu dẫn nước/phòng trưng bày có mái vòm dài dọc theo phía dưới bên trái. Thêm các chi tiết nước màu ngọc lam tích hợp khắp thành phố: 3 hồ nước có thể nhìn thấy và 3 thác nước đổ xuống giữa các tầng sân thượng. Thêm các cây bách thu nhỏ, khu vườn nhỏ, cây bụi có hoa, rêu và chậu cây khắp các sân thượng, nhưng vẫn giữ cho kiến trúc làm chủ đạo. Sử dụng {argument name="metal accent" default="đồng thau đánh bóng mỏng"} cho các dụng cụ thiên văn, các đường nối tinh xảo và các đường trang trí thanh mảnh. Ánh sáng mang tính điện ảnh và giống như trong bảo tàng, với ánh sáng vàng ấm áp tỏa ra từ các ô cửa sổ và ánh sáng xung quanh màu xanh mòng két mát mẻ phía sau tác phẩm điêu khắc; nền là một dải màu {argument name="background color" default="xanh mòng két đậm"} mịn màng với lớp sương mù nhẹ. Kết xuất dưới dạng ảnh chụp macro siêu chi tiết của một tác phẩm điêu khắc kiến trúc sưu tầm, góc nhìn ba phần tư từ trên cao xuống một chút, chi tiết trang trí sắc nét, đá mờ có độ xuyên thấu, phản chiếu bóng ướt trên các hồ nước, độ sâu trường ảnh nông, không có người, không có văn bản, không có hình mờ.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336949567_zvlxkz_HRIpeW1bEAAfM1w.jpg" width="600" alt="Tiếp thị sản phẩm - Tác phẩm điêu khắc thành phố thu nhỏ bằng đá thạch cao - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336949534_2yt4qm_HRIpeWzaUAARjiM.jpg" width="600" alt="Tiếp thị sản phẩm - Tác phẩm điêu khắc thành phố thu nhỏ bằng đá thạch cao - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250583569_uio9zw_HRBjItTa8AA-k9J.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Gấu Bắc Cực hoạt hình trên tảng băng trôi - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250584278_h0wmtf_HRBjehfaAAEEQgi.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Gấu Bắc Cực hoạt hình trên tảng băng trôi - Image 4">
+<img src="https://cms-assets.youmind.com/media/1788336949701_7r1fhx_HRIpeWubsAAocu2.jpg" width="600" alt="Tiếp thị sản phẩm - Tác phẩm điêu khắc thành phố thu nhỏ bằng đá thạch cao - Image 3">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu)
-- **Nguồn:** [Twitter Post](https://x.com/shunchi_uu/status/2094284015528476835#reversed-0)
-- **Đã xuất bản:** 31 tháng 8, 2026
+- **Tác giả:** [HiAPI](https://x.com/hiapi_ai)
+- **Nguồn:** [Twitter Post](https://x.com/hiapi_ai/status/2094783564248449456#reversed-0)
+- **Đã xuất bản:** 1 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33062)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33257)**
 
 ---
 
-### No. 86: Truyện tranh / Bảng phân cảnh - Bảng thiết kế nhân vật thời trang cao cấp
+### No. 91: Tiếp thị sản phẩm - Ảnh chân dung thời trang biên tập màu đỏ rượu vang
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Tạo bảng thiết kế ý tưởng nhân vật cao cấp với bố cục màn hình rộng, tuân thủ phong cách nghệ thuật thời trang cao cấp từ hình ảnh tham chiếu.
+Một câu lệnh tạo ảnh chân dung thời trang cao cấp sử dụng khuôn mặt tham chiếu để tạo ra một người mẫu nữ mặc bộ suit màu đỏ rượu vang sang trọng trên nền studio.
 
 #### 📝 Câu lệnh
 
 ```
-{argument name="character name" default="Maeve"}: Tạo một {argument name="subject" default="BẢNG THIẾT KẾ Ý TƯỞNG NHÂN VẬT thời trang cao cấp"} hiện đại, đẳng cấp với bố cục màn hình rộng {argument name="aspect ratio" default="16:9"} trên nền trắng tinh khiết. HÌNH ẢNH THAM CHIẾU ĐƯỢC ĐÍNH KÈM XÁC ĐỊNH PHONG CÁCH NGHỆ THUẬT — hãy coi đó là quy chuẩn phong cách nghiêm ngặt và tái tạo chính xác cách thể hiện của hình ảnh đó
+Tạo một bức chân dung thời trang biên tập cao cấp, siêu thực bằng cách sử dụng khuôn mặt tôi đã tải lên làm tài liệu tham chiếu DUY NHẤT cho nhân vật nữ chính. Bảo toàn chính xác danh tính khuôn mặt và vẻ ngoài tự nhiên của tôi — bao gồm cấu trúc khuôn mặt, tông da, mắt, lông mày, mũi, môi, đường viền hàm, râu/lông mặt, kiểu tóc và tỷ lệ khuôn mặt. Giữ cho tôi có thể nhận diện được ngay lập tức. Không được làm đẹp, thay đổi hình dáng, nữ tính hóa, làm già đi, trẻ hóa hoặc thay đổi các đặc điểm khuôn mặt của tôi.
+
+Tái tạo bố cục tổng thể, phong cách, kiểu chữ và thẩm mỹ biên tập tinh tế của hình ảnh tham chiếu, nhưng chuyển đổi nhân vật thành một người mẫu thời trang nữ đầy tự tin.
+
+Tư thế & bố cục: Chân dung toàn thân, đứng thẳng ở chính giữa, hai chân mở tự nhiên, hai tay đặt tự tin gần eo/túi quần, tư thế thả lỏng đầy quyền lực, nhìn thẳng vào ống kính với biểu cảm bình tĩnh, tinh tế. Máy ảnh đặt ngang tầm mắt, hiển thị trọn vẹn vóc dáng.
+
+Trang phục: Bộ suit thời trang may đo sang trọng màu {argument name="suit color" default="đỏ rượu vang/đỏ vang"} với áo blazer cấu trúc dáng lửng, vai sắc sảo, ve áo thanh lịch, chiết eo vừa vặn và quần ống rộng cạp cao đồng bộ. Thêm các dải vải màu đỏ rượu vang dài ấn tượng rủ xuống từ tay áo, tạo nên hình bóng thời trang cao cấp đầy nghệ thuật. Giày cao gót mũi nhọn tối giản màu đen.
+
+Phông nền: Nền studio biên tập sang trọng, sạch sẽ với dải màu chuyển từ trắng sang xám nhạt. Kiểu chữ serif màu đỏ rượu vang lớn, thanh lịch phía sau nhân vật với nội dung “{argument name="magazine text" default="WORN"}”, bị che khuất một phần bởi người mẫu. Thêm một đường cong màu đỏ rượu vang mỏng quét qua bố cục một cách nghệ thuật.
+
+Thiết kế tạp chí: Ở chính giữa phía trên, văn bản serif màu trắng thanh lịch ghi “{argument name="brand name" default="Velora"}”. Thêm nội dung biên tập nhỏ tinh tế màu đỏ rượu vang ở phần dưới, bao gồm:
+“by moments”
+“Not worn by people, worn by life.”
+“Available now — online & in store”
+
+Giữ cho kiểu chữ tinh tế, tối giản, lấy cảm hứng từ tạp chí thời trang, với khoảng trắng rộng rãi.
+
+Ánh sáng: Ánh sáng studio cao cấp dịu nhẹ, đổ bóng định hướng tinh tế, kết cấu da chân thực, chi tiết khuôn mặt tự nhiên, các điểm nhấn nhẹ nhàng trên vải màu đỏ rượu vang, dải tông màu điện ảnh, nhiếp ảnh chiến dịch thời trang cao cấp.
+
+Nhiếp ảnh: Ảnh chân thực, siêu chi tiết, kết cấu vải thực tế, lỗ chân lông tự nhiên, giải phẫu chính xác, bàn tay và ngón tay thực tế, chi tiết khuôn mặt sắc nét, phân loại màu sắc tinh tế, chiến dịch thời trang sang trọng, thẩm mỹ biên tập đương đại châu Âu.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -4213,45 +4483,32 @@ Tạo bảng thiết kế ý tưởng nhân vật cao cấp với bố cục mà
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250569771_ypxwmk_HRBKn58bYAA9RZy.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Bảng thiết kế nhân vật thời trang cao cấp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336895460_rg6qvi_HRIYrCRaMAER9sU.jpg" width="600" alt="Tiếp thị sản phẩm - Ảnh chân dung thời trang biên tập màu đỏ rượu vang - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [PixieVerse](https://x.com/itsPixieVerse)
-- **Nguồn:** [Twitter Post](https://x.com/itsPixieVerse/status/2094259323459584473)
-- **Đã xuất bản:** 31 tháng 8, 2026
+- **Tác giả:** [Aniya Intelligence](https://x.com/aniyaintel)
+- **Nguồn:** [Twitter Post](https://x.com/aniyaintel/status/2094763914227855578)
+- **Đã xuất bản:** 1 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33046)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33198)**
 
 ---
 
-### No. 87: Truyện tranh / Bảng phân cảnh - Storyboard Nhà máy Công nghiệp
+### No. 92: Tiếp thị sản phẩm - Poster quảng cáo nước tăng lực Electric
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một storyboard bốn khung hình chân thực mô tả một nữ doanh nhân đến thăm nhà máy gia công kim loại và xây dựng lòng tin với một thợ máy lớn tuổi.
+Một prompt quảng cáo chuyên nghiệp cho thương hiệu nước tăng lực, với hình ảnh trung tâm là chai nước màu xanh dương cùng các vòng quỹ đạo điện và hiệu ứng tia sét.
 
 #### 📝 Câu lệnh
 
 ```
-Mục tiêu: Tạo một storyboard điện ảnh gồm 4 khung hình cho một bộ phim ngắn về chủ đề công nghiệp - doanh nghiệp, mô tả cảnh ghé thăm một nhà máy cơ khí truyền thống và xây dựng lòng tin với người thợ thủ công.
-
-Khung hình: Hình ảnh ngang tỷ lệ 16:9 được chia chính xác thành 4 khung bằng nhau theo lưới 2×2, ngăn cách bởi các đường kẻ trắng sạch sẽ. Chất lượng ảnh chân thực như phim điện ảnh, tông màu công nghiệp trầm, độ sâu trường ảnh nông, ánh sáng cửa sổ tự nhiên, độ tương phản cao, kết cấu bụi và kim loại tinh tế, không có chú thích hoặc văn bản.
-
-Bối cảnh: Một nhà máy gia công kim loại cũ của Nhật Bản với đầy đủ máy tiện thủ công, máy phay, giá để dụng cụ, phoi kim loại trên sàn, cửa sổ lưới lớn, sàn bê tông mòn, không khí xưởng mờ ảo, tông màu xám lạnh và thép.
-
-Nhân vật: Sử dụng {argument name="main character" default="một nữ doanh nhân trẻ người Nhật"} mặc bộ vest màu xanh navy và áo sơ mi trắng, tóc buộc gọn gàng, phong thái chuyên nghiệp, điềm tĩnh. Bao gồm {argument name="craftsman" default="một thợ máy lớn tuổi người Nhật"} mặc áo khoác bảo hộ màu xám và đội mũ tối màu, khuôn mặt dày dạn sương gió, biểu cảm ấm áp.
-
-Bố cục khung hình và danh sách cảnh quay: Chính xác 4 khung hình. Khung 1, trên cùng bên trái: cận cảnh cực đại một máy tiện đang hoạt động, phôi hình trụ đang quay bị cắt bởi mũi dao, phoi kim loại xoắn sáng loáng bay ra, bàn tay đeo găng của người thợ gần máy, ánh sáng bên kịch tính và hiệu ứng nhòe chuyển động mạnh trên kim loại đang quay. Khung 2, trên cùng bên phải: cảnh toàn dọc lối đi của nhà máy, nữ doanh nhân trẻ bước đi tự tin về phía máy quay giữa các hàng máy công nghiệp cũ trong khi người thợ máy lớn tuổi đang làm việc ở phía sau, độ sâu điện ảnh và các đường phối cảnh mạnh mẽ. Khung 3, dưới cùng bên trái: chân dung cận cảnh nữ doanh nhân trẻ hướng về phía máy quay, biểu cảm nghiêm túc và suy tư, hậu cảnh nhà máy bị làm mờ, ánh sáng cửa sổ dịu nhẹ trên khuôn mặt, chuyên nghiệp nhưng đầy tính nhân văn. Khung 4, dưới cùng bên phải: cảnh trung của nữ doanh nhân và người thợ máy lớn tuổi đang bắt tay bên trong xưởng, cả hai đều mỉm cười nhẹ nhàng, máy móc và cửa sổ phía sau, tạo cảm giác ấm áp về sự đồng thuận và tôn trọng lẫn nhau.
-
-Phong cách hình ảnh: Quay phim tài liệu chân thực, phong cách phim 35mm, kết cấu chi tiết, tông màu da tự nhiên, không khí công nghiệp, bảng màu trầm gồm xanh navy, xám, đen và các điểm nhấn ấm áp. Giữ sự nhất quán cho người phụ nữ và người thợ máy lớn tuổi xuyên suốt các khung hình.
-
-Các hạn chế: Không bong bóng thoại, không phụ đề, không logo, không hình mờ, không thêm khung hình, không yếu tố giả tưởng, không phong cách hoạt hình.
+Tạo một poster quảng cáo thương mại cao cấp cho thương hiệu nước tăng lực điện năng mới có tên "VOLTERRA". Hiển thị một chai thủy tinh màu xanh dương trong suốt duy nhất đặt thẳng đứng ngay chính giữa khoảng không màu xanh đen tối, đặt trực tiếp trên sàn nhà ướt có độ phản chiếu. Chai nước phải là tâm điểm hình ảnh tuyệt đối. Bố cục cốt lõi: chai nước hướng chính diện vào giữa, hiển thị toàn bộ chai, bố cục dọc, cân bằng đối xứng, không gian âm bao quanh lớn, đường chân trời thấp, nền tối sâu. Chai nước đứng vững chắc trên mặt sàn ướt bóng loáng với hình ảnh phản chiếu sắc nét ngay bên dưới. Phía sau chai, làn sương lạnh mờ nhạt lan tỏa theo chiều ngang. Xung quanh phần thân giữa của chai, tạo một vòng sáng quỹ đạo màu xanh điện chủ đạo quấn chéo theo đường dẫn sạch sẽ, có kiểm soát, cùng với một vài vệt năng lượng đứt đoạn phụ. Thêm một vài tia sét phân nhánh có tiết chế tỏa ra từ phía sau chai vào nền tối, nhưng giữ cho chúng chỉ là yếu tố phụ so với hình dáng chai. Logic cổng: biến hình ảnh này thành biểu tượng siêu cấp không thể nhầm lẫn của VOLTERRA. Nhận diện thương hiệu vĩnh viễn phải được xây dựng từ bốn mã cố định: một chai thủy tinh xanh dương trong suốt đặt trên mặt đất, một vòng quỹ đạo cao áp chủ đạo quanh thân chai, một nền khoảng không xanh đen sâu thẳm với tia sét phía sau, và một sàn nhà ướt phản chiếu ánh sáng điện. Hình ảnh phải mang lại cảm giác dễ nhận diện, có thể lặp lại và mở rộng cho các chiến dịch và hương vị trong tương lai. Logic quỹ đạo: xây dựng một vòng lặp thị giác khép kín mạnh mẽ thông qua sản phẩm. Mắt người xem nên di chuyển từ điểm nhấn trên nắp chai vào cổ chai, đi xuống nhãn trung tâm, tiếp tục qua vòng điện chính quanh eo chai, rơi xuống đáy chai và hình ảnh phản chiếu trên sàn, sau đó trỗi dậy qua các đường viền cạnh chai và tia sét phía sau để quay lại nắp chai. Độ nghiêng của chai, vị trí vòng sáng, vị trí nhãn, hình ảnh phản chiếu trên sàn và các nhánh điện phía sau đều phải củng cố một đường tuần hoàn liên tục. Thiết kế sản phẩm: chai nước tăng lực thủy tinh trong suốt với chất lỏng màu xanh điện đậm bên trong, độ dày chai chân thực, cấu trúc vai và cổ chai được đúc khuôn, nắp kim loại, nhãn thể thao sạch sẽ ghi "VOLTERRA ENERGY", ngôn ngữ logo màu trắng bạc và chi tiết biểu tượng góc cạnh tinh tế. Hiển thị các giọt ngưng tụ dày đặc, hạt nước nhỏ, lớp sương giá nhẹ trên bề mặt, độ cong chất lỏng bên trong chân thực và sự khúc xạ sạch sẽ qua chất lỏng màu xanh. Nhãn phải luôn dễ đọc và có độ phân giải sắc nét. Ánh sáng: nguồn sáng chính đến từ vòng điện và các cung tia sét, tạo ra ánh sáng xanh trắng cường độ cao trên các cạnh chai, vành nắp, giọt nước và đường viền nhãn. Thêm một đèn spotlight lạnh nhẹ phía trên để tách biệt phần đỉnh chai khỏi nền. Giữ các vùng bóng tối sâu nhưng vẫn rõ nét. Sàn ướt phải bắt được các tia phản chiếu điện sáng và hình ảnh phản chiếu chai sạch sẽ mà không gây rối mắt. Hiệu ứng năng lượng: sử dụng điện năng xanh trắng cao áp với lõi trắng sáng và hiệu ứng tỏa sáng màu xanh cyan bên ngoài. Một vòng chính quấn quanh eo chai theo đường chéo và đóng vai trò là cử chỉ năng lượng thương hiệu chính. Thêm một vài cung điện đứt đoạn có kiểm soát đánh ra ngoài và xuống phía sàn, cùng với các tia lửa nhỏ và giọt nước rải rác gần thân chai. Giữ cho mọi năng lượng sạch sẽ, có hướng và hỗ trợ hình dáng chai thay vì che khuất nó. Môi trường: khoảng không tối như studio, sương mù xanh nhẹ, sương lạnh thấp, sàn ướt phản chiếu, không thành phố, không đám đông, không đạo cụ thừa, không mảnh vụn. Môi trường chỉ tồn tại để làm nổi bật chai nước và bầu không khí điện năng. Vật liệu và kết cấu: chai thủy tinh chân thực, độ ngưng tụ bóng loáng, độ trong suốt của chất lỏng lạnh, kết cấu nhãn in, hiệu ứng plasma điện, phản chiếu sàn ướt và sự khuếch tán sương mù tinh tế. Tất cả vật liệu phải tuân theo vật lý ánh sáng thực tế và giữ được độ sạch sẽ cực cao. Hệ màu: nền xanh đêm và đen chủ đạo, chai nước xanh điện là tâm điểm, tia sét trắng xanh, ánh sáng cyan, các điểm nhấn nhãn bạc trắng tinh tế. Không có màu ấm. Giữ bảng màu lạnh, tràn đầy năng lượng và độ tương phản cao. Kiểu chữ và bố cục: không tiêu đề phụ, không khẩu hiệu, không nội dung văn bản, không rối mắt đồ họa. Chỉ nhãn chai mang thương hiệu. Bố cục phải hoạt động như một hình ảnh chủ đạo thuần túy. Chất lượng hình ảnh và quy tắc vật lý: độ sắc nét thương mại cực cao trên các cạnh chai, nắp, nhãn, giọt nước và các cung điện sáng nhất; phản chiếu chân thực; phối cảnh chai đặt trên mặt đất; không có đốm đen; không có bóng đổ đục; không biến dạng hình dáng chai; không có logo không đọc được; không có hiệu ứng tỏa sáng quá mức che khuất chi tiết; không có vẻ ngoài nhựa giả; không có watermark. Prompt phủ định: chai lơ lửng, tia sét hoạt hình, chai chi tiết thấp, thủy tinh biến dạng, nắp vỡ, nhãn không đọc được, sương mù xanh đục, tỏa sáng quá mức, mảng đen chết, ánh sáng cam ấm, nền lộn xộn, sản phẩm thừa, bàn tay, cảnh thành phố, phong cách minh họa, vẻ ngoài đồ chơi CGI, độ phân giải thấp, văn bản ngẫu nhiên, watermark.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -4259,55 +4516,33 @@ Các hạn chế: Không bong bóng thoại, không phụ đề, không logo, kh
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250587860_ms637g_HRA0cP9aoAAFAGL.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Storyboard Nhà máy Công nghiệp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336907203_uq6lpa_HRHfAqjakAADD6y.jpg" width="600" alt="Tiếp thị sản phẩm - Poster quảng cáo nước tăng lực Electric - Image 1">
 </div>
 
-#### 📌 Chi tiết
-
-- **Tác giả:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm)
-- **Nguồn:** [Twitter Post](https://x.com/tanabe_fragm/status/2094232444090327199#reversed-0)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33061)**
-
----
-
-### No. 88: Truyện tranh / Bảng phân cảnh - Tranh vẽ màu nước Anime nhân vật mặc Kimono hút thuốc
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Tạo ra một khung cảnh anime màu nước dọc nhẹ nhàng với hình ảnh một nhân vật mặc kimono đang hút thuốc bên cửa sổ cùng làn khói hương.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một bức minh họa anime màu nước dọc tinh tế về một thanh niên phi giới tính, thanh tú trong một căn phòng truyền thống Nhật Bản, đang ngồi trên sàn gỗ cạnh cửa sổ mở lúc hoàng hôn. Nhân vật có {argument name="hair color" default="xanh xám nhạt"} mái tóc rối dài ngang vai với một bím tóc dài buông lơi ở một bên, làn da nhợt nhạt, những đường nét thanh tú, đôi mắt khép hờ, nhìn từ góc nghiêng bên trái. Nhân vật mặc một chiếc kimono trắng rộng bên trong chiếc áo khoác haori màu chàm đậm với những nếp gấp mềm mại, ngồi thư thái với một đầu gối co lên và lớp vải bao quanh. Tay phải cầm một chiếc tẩu thuốc kiểu kiseru dài, mảnh theo chiều ngang gần miệng, với một dải khói mỏng nhẹ nhàng bay lên theo đường cong chữ S duyên dáng. Ở tiền cảnh gần góc dưới bên phải, hãy thêm chính xác một lư hương tròn chứa một khoanh nhang muỗi màu xanh lá cây với một đốm lửa nhỏ màu cam, tạo ra dải khói thứ hai uốn lượn mờ ảo. Phông nền chủ yếu là giấy trắng ngà ấm áp, với khung cửa sổ gỗ tối màu đơn giản ở cạnh phải và một chút hình ảnh mặt nước xa xa cùng mặt trời lặn màu cam bên ngoài. Sử dụng nét vẽ mực thoáng đãng, các mảng màu xanh xám nhạt, bóng đổ màu be tinh tế, các đường phác thảo giống như bút chì có thể nhìn thấy, nhiều không gian âm, bầu không khí u buồn nhẹ nhàng, không có văn bản hoặc hình mờ.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
+##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250590224_baxger_HRAb1kba8AAVOMw.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Tranh vẽ màu nước Anime nhân vật mặc Kimono hút thuốc - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336907216_enqf9a_HRHfCN9b0AAgEvt.jpg" width="600" alt="Tiếp thị sản phẩm - Poster quảng cáo nước tăng lực Electric - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336907212_ogjqzi_HRHfCNyaoAAEaj_.jpg" width="600" alt="Tiếp thị sản phẩm - Poster quảng cáo nước tăng lực Electric - Image 3">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [🐹🐹](https://x.com/hmst_yyyy)
-- **Nguồn:** [Twitter Post](https://x.com/hmst_yyyy/status/2094204439737545168#reversed-0)
-- **Đã xuất bản:** 30 tháng 8, 2026
+- **Tác giả:** [Loriel.AI](https://x.com/ou_zhen599)
+- **Nguồn:** [Twitter Post](https://x.com/ou_zhen599/status/2094700556686340166)
+- **Đã xuất bản:** 1 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33058)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33214)**
 
 ---
 
-### No. 89: Tiếp thị sản phẩm - Poster Quảng cáo Skincare Bền vững
+### No. 93: Tiếp thị sản phẩm - Poster Quảng cáo Skincare Bền vững
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4360,7 +4595,7 @@ Các ràng buộc: Không thêm khung ngoài 7 bảng hình ảnh đã liệt k�
 
 ---
 
-### No. 90: Tiếp thị sản phẩm - Chân dung biên tập thời trang cao cấp
+### No. 94: Tiếp thị sản phẩm - Chân dung biên tập thời trang cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4396,7 +4631,7 @@ Phong cách: chiến dịch thời trang nam cao cấp, nhiếp ảnh biên tậ
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250525965_6zn25d_HRHTxo8WUAA_6oG.jpg" width="600" alt="Tiếp thị sản phẩm - Chân dung biên tập thời trang cao cấp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336927210_qcpcgh_HRHTxo8WUAA_6oG.jpg" width="600" alt="Tiếp thị sản phẩm - Chân dung biên tập thời trang cao cấp - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -4410,7 +4645,7 @@ Phong cách: chiến dịch thời trang nam cao cấp, nhiếp ảnh biên tậ
 
 ---
 
-### No. 91: Tiếp thị sản phẩm - Quy tắc nhất quán về trang phục nâng cao
+### No. 95: Tiếp thị sản phẩm - Quy tắc nhất quán về trang phục nâng cao
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4461,58 +4696,19 @@ Quy tắc tủ đồ được bảo vệ — Ưu tiên hàng đầu: Hãy coi m�
 
 ---
 
-### No. 92: Tiếp thị sản phẩm - Nhiếp ảnh nội thất tàu điện đô thị hiện đại
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một gợi ý nhiếp ảnh du lịch thanh bình cho nội thất tàu điện đô thị hiện đại, tập trung vào tính thẩm mỹ tối giản và ánh sáng ban ngày tự nhiên, tươi sáng.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một bức ảnh du lịch cao cấp, thanh bình về nội thất của một toa tàu điện đô thị hiện đại vào ban ngày. Hiển thị một toa tàu màu trắng sáng sạch sẽ với những ô cửa sổ lớn rực rỡ ánh sáng tự nhiên dịu nhẹ, một hàng ghế đúc màu xanh trắng trống trải dọc theo cửa sổ, với một chiếc ghế màu cam nổi bật, các cột dọc bằng thép không gỉ, thanh vịn trên cao và nhiều tay nắm treo hình tam giác màu xanh và cam. Sử dụng bố cục nhiếp ảnh tài liệu góc rộng nhẹ với các đường dẫn hướng mạnh mẽ, độ sâu trường ảnh mềm mại, độ phơi sáng cao (high-key) thoáng đãng, các phản chiếu tinh tế trên cửa sổ và kim loại, tông màu pastel nhẹ nhàng, kết cấu chân thực, hạt phim tinh tế, bầu không khí tối giản tĩnh lặng, nhiếp ảnh du lịch chân thực, thẩm mỹ biên tập tinh tế, những khiếm khuyết tự nhiên, bố cục dọc 4:5, không có người, không có logo, không có hình mờ. Tạo một hình minh họa nhật ký du lịch cổ điển tối giản về cùng nội thất tàu điện đô thị hiện đại đó: một hàng ghế trống màu xanh trắng bên cạnh các cửa sổ lớn, một chiếc ghế màu cam nổi bật, các cột thép không gỉ mảnh, thanh vịn trên cao và vài tay nắm treo hình tam giác. Vẽ bằng các đường nét mực không hoàn hảo tinh tế kết hợp với các mảng màu nước mềm mại tông xanh trầm, cam nhạt, xám ấm và kem. Đặt hình minh họa trên giấy màu ngà ấm hơi cũ với các sợi giấy có thể nhìn thấy, vân giấy tinh tế, các cạnh vẽ tay không đều, các lỗi in nhỏ và nhiều khoảng trắng thanh lịch. Thêm kiểu chữ biên tập tinh tế với nội dung “CITY RIDE” cùng phụ đề nhỏ “A quiet journey through the light.” bên dưới. Thẩm mỹ tạp chí du lịch Nhật Bản đương đại, tâm trạng hoài cổ tĩnh lặng, thiết kế đồ họa tối giản tinh tế, cảm giác thủ công, bố cục cân đối, định dạng dọc 4:5, không có logo, không có hình mờ.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250539420_06xbdx_HRG9bpsbQAAjSqz.jpg" width="600" alt="Tiếp thị sản phẩm - Nhiếp ảnh nội thất tàu điện đô thị hiện đại - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250539600_ojlcwv_HRG9eSubYAAFhbQ.jpg" width="600" alt="Tiếp thị sản phẩm - Nhiếp ảnh nội thất tàu điện đô thị hiện đại - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Taaruk](https://x.com/Taaruk_)
-- **Nguồn:** [Twitter Post](https://x.com/Taaruk_/status/2094663659951702414)
-- **Đã xuất bản:** 1 tháng 9, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33120)**
-
----
-
-### No. 93: Tiếp thị sản phẩm - Minh họa đường nét biên tập tối giản
+### No. 96: Tiếp thị sản phẩm - Ảnh chân dung đội mũ rộng vành trên bãi biển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một câu lệnh tinh tế để tạo ra các hình minh họa theo phong cách tạp chí nghệ thuật đương đại với những đường nét thanh mảnh và các mảng màu đậm.
+Một bức ảnh chân dung thời trang dọc đầy chân thực về một cô gái trẻ đội mũ rơm và mặc áo ren trắng trên bãi biển nhiệt đới.
 
 #### 📝 Câu lệnh
 
 ```
-Hình minh họa biên tập trang nhã về {argument name="subject" default="[SUBJECT]"}, kết hợp giữa nét vẽ đường viền tinh tế với một hoặc hai {argument name="color style" default="mảng màu đơn sắc đậm"}, các khu vực chọn lọc được để dang dở một cách có chủ đích, sự cân bằng tinh tế giữa chi tiết và khoảng trống, nền trắng trơn, thẩm mỹ tạp chí nghệ thuật đương đại.
+Tạo một bức ảnh chân dung dọc đầy chân thực trên bãi biển về một cô gái trẻ với các đặc điểm {argument name="ethnicity" default="Đông Á"} đang đứng bên bờ biển nhiệt đới màu xanh ngọc dưới bầu trời trong xanh với vài đám mây trắng nhẹ nhàng. Cô ấy được chụp từ phần thân trên trở lên trong tư thế quay lưng ba phần tư, quay đầu về phía máy ảnh với nụ cười nhẹ nhàng, điềm tĩnh và ánh mắt thư thái. Cô ấy có mái tóc {argument name="hair color" default="đen"} được búi thấp lỏng lẻo, với vài sợi tóc bay trong gió trên má. Cô ấy đội một chiếc mũ rơm rộng vành tự nhiên với kết cấu đan hở và viền màu xanh navy đậm, một tay nhẹ nhàng giữ vành mũ. Chiếc mũ tạo ra những bóng đổ dạng lưới chấm bi tinh tế trên khuôn mặt, vai, cổ và lưng trên của cô ấy. Trang phục của cô là chiếc áo blouse mùa hè trễ vai bằng ren đục lỗ màu trắng với họa tiết hoa thêu cắt khoét và cổ áo xếp bèo, lộ ra dây áo bơi hoặc áo camisole mỏng trên một bên vai. Sử dụng ánh sáng mặt trời rực rỡ giữa trưa, màu sắc tự nhiên sắc nét, độ sâu trường ảnh nông, đường chân trời đại dương được làm mờ nhẹ và hòn đảo xa xa ở phía bên trái, kết cấu da chân thực, phong cách biên tập thời trang kỳ nghỉ bãi biển, bố cục dọc 9:16, chủ thể được đặt hơi lệch về bên phải, không có văn bản, không có hình mờ.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -4520,39 +4716,21 @@ Hình minh họa biên tập trang nhã về {argument name="subject" default="[
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250533477_uk2nvc_HRGyyUlbwAAkwIA.jpg" width="600" alt="Tiếp thị sản phẩm - Minh họa đường nét biên tập tối giản - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250533505_1o2baz_HRGyyUMaYAAy64P.jpg" width="600" alt="Tiếp thị sản phẩm - Minh họa đường nét biên tập tối giản - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250533725_zot3ta_HRGyyUAbsAAXrLo.jpg" width="600" alt="Tiếp thị sản phẩm - Minh họa đường nét biên tập tối giản - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250534052_qcws8v_HRGyyUDbIAA3Xsm.jpg" width="600" alt="Tiếp thị sản phẩm - Minh họa đường nét biên tập tối giản - Image 4">
+<img src="https://cms-assets.youmind.com/media/1788336947076_ltvh5m_HRG0y3Ea8AADQ80.jpg" width="600" alt="Tiếp thị sản phẩm - Ảnh chân dung đội mũ rộng vành trên bãi biển - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Aniya Intelligence](https://x.com/aniyaintel)
-- **Nguồn:** [Twitter Post](https://x.com/aniyaintel/status/2094651888771944616)
+- **Tác giả:** [愛生あさい（実在しないモデルの研究中）](https://x.com/A101asAI)
+- **Nguồn:** [Twitter Post](https://x.com/A101asAI/status/2094654810201248151#reversed-1)
 - **Đã xuất bản:** 1 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33113)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33157)**
 
 ---
 
-### No. 94: Tiếp thị sản phẩm - Poster du lịch toàn cầu thống nhất
+### No. 97: Tiếp thị sản phẩm - Poster du lịch toàn cầu thống nhất
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4603,7 +4781,7 @@ Bộ sưu tập poster du lịch mùa đông và ven biển theo phong cách bi�
 
 ---
 
-### No. 95: Tiếp thị sản phẩm - Người phụ nữ khổng lồ phá vỡ bức tường
+### No. 98: Tiếp thị sản phẩm - Người phụ nữ khổng lồ phá vỡ bức tường
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4643,24 +4821,41 @@ Tạo một bức ảnh điện ảnh siêu thực, chân thực cao độ về 
 
 ---
 
-### No. 96: Tiếp thị sản phẩm - Nhiếp ảnh thời trang biên tập theo phong cách tan chảy
+### No. 99: Tiếp thị sản phẩm - Ảnh chân dung thời trang nghỉ dưỡng trên bậc thang đá
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một câu lệnh chuyên nghiệp dành cho nhiếp ảnh thời trang cao cấp, kết hợp hiệu ứng vệt mực 'tan chảy' trong khi vẫn giữ được độ sắc nét của khuôn mặt và kết cấu chân thực.
+Một gợi ý nhiếp ảnh du lịch sống động mô tả một phụ nữ tóc vàng mặc sarong xanh và áo trắng đang ngồi trên những bậc thang đá cổ dưới ánh nắng gay gắt.
 
 #### 📝 Câu lệnh
 
 ```
-Ảnh chụp thời trang biên tập toàn thân siêu thực của một {argument name="subject" default="chàng trai trẻ ngoài 20 tuổi"} điển trai, người hoàn toàn nguyên bản, với khuôn mặt thực tế thu hút tự nhiên, mái tóc đen nhánh hơi gợn sóng, lông mày rậm, đôi mắt nâu sẫm sâu thẳm, sống mũi thẳng, xương gò má nổi bật, đường viền hàm nam tính sắc nét và râu quai nón tự nhiên tinh tế.
-Anh ấy đứng thoải mái ở giữa một studio tối giản, nhìn hơi xuống dưới với nụ cười nhẹ tự tin, hai tay thả lỏng trong túi quần, một chân hơi bắt chéo trong tư thế tự nhiên, không gượng ép.
-Anh ấy mặc một chiếc {argument name="outfit" default="áo sơ mi vải lanh dáng rộng màu xanh navy đậm, hơi mở cúc ở ngực với tay áo xắn lên một cách tự nhiên, kết hợp với quần vải lanh trắng dáng suông"} và một chiếc đồng hồ đeo tay bằng bạc tinh tế. Thời trang sang trọng, thanh lịch, nam tính và tinh tế.
-Phông nền là một {argument name="background" default="bức tường trát vữa có kết cấu màu xám ấm mềm mại"} với ánh sáng studio khuếch tán nhẹ nhàng và những bóng đổ tinh tế. Bao quanh chủ thể bằng hiệu ứng vệt mực / sơn chảy dọc nghệ thuật, bắt đầu từ xung quanh vai và kéo dài xuống dọc theo hình dáng cơ thể. Các vệt này trông giống như những đường sơn ướt hoặc than chì mảnh, tạo nên hiệu ứng "ảnh tan chảy" trong tạp chí thời trang, trong khi khuôn mặt và phần thân trên của người đàn ông vẫn cực kỳ sắc nét và chân thực.
-Lỗ chân lông tự nhiên, sợi tóc chân thực, kết cấu vải chi tiết, giải phẫu chính xác, bàn tay thực tế, ánh sáng điện ảnh, nhiếp ảnh tạp chí thời trang cao cấp, bố cục tinh tế, bảng màu trung tính trầm, độ sâu trường ảnh nông, siêu chi tiết, chân thực, 8K, chân dung dọc, 9:16.
-Negative prompt: hoạt hình, anime, vẻ ngoài CGI, da nhựa, cơ thể quá cơ bắp, khuôn mặt biến dạng, bàn tay xấu, thừa ngón tay, thừa chi tiết cơ thể, cơ thể trùng lặp, khuôn mặt mờ, đôi mắt không tự nhiên, chỉnh sửa quá mức, văn bản, hình mờ, logo, chữ ký.
+Chủ thể:
+{argument name="subject" default="Sarong xanh trên bậc thang đá"}
+
+Chủ thể chính:
+Nhân vật được đặt hơi lệch về phía bên trái trung tâm. Một bức ảnh dọc tại {argument name="location" default="cầu thang đá bên cạnh một tòa nhà cổ màu vàng đất"} với một phụ nữ tóc vàng đang ngồi nghiêng, vắt chéo chân. Trang phục gồm {argument name="outfit" default="áo croptop trắng và sarong họa tiết hoa màu xanh nhạt"}, cùng một chiếc túi đính cườm trắng ở phía bên trái dưới ánh nắng gay gắt.
+
+Nhân vật/Biểu cảm:
+Gương mặt trái xoan thanh tú với chiếc cằm nhỏ, đôi mắt nâu sẫm dài, đuôi mắt hơi xếch và đôi lông mày mỏng hình vòng cung. Sống mũi thanh mảnh với đầu mũi nhỏ, đôi môi căng mọng màu san hô bóng. Kẻ mắt kéo dài từ đuôi mắt và đánh phấn má hồng nhẹ nhàng. Mái tóc vàng mật ong uốn sóng nhẹ xõa dài xuống dưới ngực, rẽ ngôi giữa, với phần tóc mái thưa rủ xuống trán. Cô nghiêng đầu nhẹ nhìn vào ống kính, đôi môi hé mở.
+
+Trang phục/Tư thế:
+Mặc áo camisole trắng và chân váy quấn màu xanh. Chiếc áo camisole gân mảnh màu trắng kem có dây vai mảnh, cổ chữ V sâu, thắt nơ ở giữa dưới ngực và các đường bèo nhún nhỏ ở gấu áo. Một chiếc sarong mỏng màu xanh nhạt với họa tiết thực vật màu trắng được thắt ở eo, xẻ tà rộng một bên để lộ đùi. Ngồi chéo trên các bậc thang đá, vắt chéo hai chân dài về phía trước bên phải khung hình, một tay đặt trên đầu gối và tay kia đặt trên bậc thang. Một chiếc túi đính cườm dệt màu trắng với dây xích vàng được đặt ở phía bên trái.
+
+Bối cảnh/Ánh sáng:
+Các bậc thang đá ở bên trái và bức tường màu vàng đất ở bên phải hậu cảnh, với nguồn sáng chính là ánh nắng trực tiếp gay gắt từ phía trên bên trái. Những bức tường trát vữa màu vàng đất trầy xước và loang lổ, các bậc thang đá thô, một cánh cửa màu xanh lá cây đậm, các chậu hoa màu nâu, chậu gốm màu xanh nhạt và những dây leo treo. Ánh nắng gay gắt từ phía trên bên trái tạo ra những điểm nhấn mạnh trên tóc, vai và chân, đổ bóng sắc nét lên tường và các bậc thang.
+
+Bố cục/Máy ảnh:
+Máy ảnh được đặt ở tầm ngang đầu gối, cùng độ cao với vị trí ngồi. Đôi chân được lấy cận cảnh, kéo dài về phía mép khung hình, tập trung vào nhân vật. Bố cục dọc 2:3, chụp từ cùng độ cao với người ngồi, bao quát từ các chậu cây phía trên đến bàn chân. Nhân vật nằm ở trung tâm bên trái, đôi chân duỗi dài là tiền cảnh lớn ở phía dưới bên phải, và chiếc túi ở phía dưới bên trái. Đôi chân kéo dài ra ngoài khung hình, và các bậc thang đá ở hậu cảnh trải dài theo đường chéo vào khoảng không.
+
+Kết cấu/Phong cách:
+Nhiếp ảnh thời trang du lịch chân thực, độ phân giải cao với tông màu ấm. Mô tả chi tiết chất liệu vải gân, sarong trong suốt, hạt cườm dệt, đá cũ và vữa dưới ánh sáng tự nhiên mạnh.
+
+Phủ định:
+Không thay đổi độ xẻ tà lớn của chiếc sarong xanh hoặc tỷ lệ tiền cảnh của đôi chân dài.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -4668,247 +4863,21 @@ Negative prompt: hoạt hình, anime, vẻ ngoài CGI, da nhựa, cơ thể quá
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250533142_lyarme_HRGXidWbkAA57G0.jpg" width="600" alt="Tiếp thị sản phẩm - Nhiếp ảnh thời trang biên tập theo phong cách tan chảy - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788250550415_lr7bpz_HQzQgGHb0AAaCtI.jpg" width="600" alt="Tiếp thị sản phẩm - Ảnh chân dung thời trang nghỉ dưỡng trên bậc thang đá - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [HeisenLegacy](https://x.com/MohdAdnanA86218)
-- **Nguồn:** [Twitter Post](https://x.com/MohdAdnanA86218/status/2094621930955632669)
+- **Tác giả:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
+- **Nguồn:** [Twitter Post](https://x.com/CyberTotal2026/status/2094626046159253661)
 - **Đã xuất bản:** 1 tháng 9, 2026
-- **Ngôn ngữ:** en
+- **Ngôn ngữ:** ja
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33112)**
-
----
-
-### No. 97: Tiếp thị sản phẩm - Chân dung studio: Người thật và phiên bản Mini-Me
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Tạo ảnh chân dung studio toàn thân đầy phong cách, kết hợp một người đàn ông chân thực với phiên bản hoạt hình 3D thu nhỏ của chính anh ấy.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một bức chân dung studio toàn thân siêu thực, hiển thị chính xác hai phiên bản của cùng một {argument name="character identity" default="người đàn ông da đen trưởng thành"} đứng cạnh nhau trên phông nền chụp ảnh màu be ấm áp liền mạch. Bên trái là phiên bản người thật đầy đủ kích thước: cao lớn, phong cách, tự tin, tóc đen cắt tỉa gọn gàng, khuôn mặt cạo sạch sẽ, đeo kính râm góc cạnh màu đen, nhìn xuống phiên bản nhỏ hơn với biểu cảm bình tĩnh và điềm đạm. Bên phải là một phiên bản hoạt hình 3D cách điệu thu nhỏ của cùng người đàn ông đó, cao bằng khoảng một phần ba người thật, với cái đầu quá khổ, đôi mắt to biểu cảm, các đường nét khuôn mặt trẻ trung tròn trịa, tóc đen ngắn và tư thế tự tin đầy cuốn hút, đang nhìn lên phiên bản người thật. Cả hai nhân vật đều mặc cùng một bộ trang phục: áo sơ mi dài tay cài cúc màu {argument name="shirt color" default="xanh navy"} đậm với tay áo xắn lên đến cẳng tay, quần tây may đo màu {argument name="trouser color" default="nâu lạc đà"}, thắt lưng da màu nâu với khóa kim loại, giày tây đánh bóng màu nâu và đồng hồ đeo tay bằng vàng. Người thật đứng với hai tay đút túi quần, hai chân hơi tách ra; phiên bản hoạt hình thu nhỏ cũng đứng với hai tay đút túi, mô phỏng lại tư thế đó. Sử dụng ánh sáng studio chuyên nghiệp với bóng đổ mềm mại trên sàn, nền gradient màu nâu rám nắng ấm áp, bố cục biên tập thời trang cao cấp, kết cấu vải chân thực sắc nét trên người thật, kết xuất 3D bóng bẩy chất lượng cao kiểu Pixar cho phiên bản thu nhỏ, độ tương phản quy mô hài hòa, khung hình dọc 2:3, hiển thị toàn thân từ đầu đến chân, không có văn bản, không có logo, không có người thừa, không có đạo cụ.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250579736_j0cb93_HREVUYcWUAAyqYM.jpg" width="600" alt="Tiếp thị sản phẩm - Chân dung studio: Người thật và phiên bản Mini-Me - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Abkr Sadiq](https://x.com/abs_uiux)
-- **Nguồn:** [Twitter Post](https://x.com/abs_uiux/status/2094478755393646772#reversed-0)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33156)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33129)**
 
 ---
 
-### No. 98: Tiếp thị sản phẩm - Chân dung thời trang phơi sáng kép màu ngọc lục bảo
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh tạo ảnh chân dung biên tập dọc, tạo ra hình ảnh thời trang phơi sáng kép siêu thực với các vệt mực màu nước và sàn nhà phản chiếu.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một bức chân dung thời trang biên tập dọc cao cấp với bố cục nghệ thuật phơi sáng kép siêu thực. Một cô gái trẻ bước đi đầy tự tin về phía máy ảnh trong tư thế toàn thân, hai tay đút vào túi trước của chiếc quần jeans đen cạp cao, mặc áo thun đen trơn tay ngắn ôm sát và đi giày thể thao trắng. Cô ấy có {argument name="hair style" default="mái tóc nâu sẫm gợn sóng dài, bồng bềnh, hơi rối với phần tóc mái mềm mại"}, đường nét khuôn mặt trẻ trung thanh tú, làn da sáng đến trung bình ấm áp, trang điểm tự nhiên tinh tế và {argument name="eyewear" default="kính gọng mảnh hình tròn"}. Phía sau và phía trên cô ấy, hãy hòa trộn một bức chân dung cận cảnh lớn hơn nhiều của cùng cô gái đó vào nền, để lộ khuôn mặt và đôi vai với biểu cảm bình tĩnh, dịu dàng, nhìn thẳng vào người xem. Bố cục chứa chính xác hai hình ảnh của cùng một cô gái: một bức chân dung cận cảnh đầu và vai bán trong suốt lớn ở nền phía trên và một hình dáng toàn thân đang đi bộ nhỏ hơn ở trung tâm phía tiền cảnh. Bao quanh cả hai hình ảnh bằng những đám mây mực màu nước đầy kịch tính, các vệt bắn, giọt chảy và kết cấu khói với {argument name="main ink color" default="màu xanh ngọc lục bảo đậm"}, đen, xám than và trắng, lan tỏa ra bên ngoài như một vầng hào quang trừu tượng. Sử dụng nền giấy kết cấu màu trắng nhạt với các thớ giấy có thể nhìn thấy, các vết mực loang không đều, vệt sơn dọc và các dấu bắn tung tóe rải rác. Thêm một sàn nhà ướt phản chiếu bóng loáng ở phía dưới, phản chiếu nhẹ nhàng mực xanh và đen cùng phần thân dưới. Ánh sáng mang phong cách điện ảnh và biên tập, với các điểm nhấn ánh nắng dịu nhẹ trên tóc, kết cấu da chân thực, chi tiết khuôn mặt sắc nét và lớp hoàn thiện như bìa tạp chí cao cấp. Giữ chủ thể ở trung tâm, khung hình dọc 9:16, nhìn thấy toàn thân từ đầu đến chân, chân dung lớn được cắt gần mép trên, không văn bản, không logo, không hình mờ.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250576340_sdawkx_HRECLsjbwAAXPvP.jpg" width="600" alt="Tiếp thị sản phẩm - Chân dung thời trang phơi sáng kép màu ngọc lục bảo - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Laraib Fatima‎](https://x.com/AiwithLariab)
-- **Nguồn:** [Twitter Post](https://x.com/AiwithLariab/status/2094457818283941933#reversed-0)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33153)**
-
----
-
-### No. 99: Tiếp thị sản phẩm - Chuyển đổi nhận diện theo phong cách biên tập cổ điển
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh phức tạp để biến ảnh chụp người thật thành tranh minh họa biên tập cổ điển với các kết cấu khắc họa, đồng thời bảo toàn chính xác nhận diện khuôn mặt của họ.
-
-#### 📝 Câu lệnh
-
-```
-Sử dụng ảnh đã tải lên làm tài liệu tham khảo DUY NHẤT về nhận diện của nhân vật.
-
-Chuyển đổi nhân vật trong ảnh tham khảo thành một bức chân dung minh họa cách điệu cao cấp, chi tiết, phù hợp với phong cách thị giác của tác phẩm mục tiêu.
-
-QUAN TRỌNG — NHẬN DIỆN:
-Bảo toàn nhận diện khuôn mặt dễ nhận biết của nhân vật từ ảnh tham khảo đã tải lên:
-hình dáng khuôn mặt, mắt, lông mày, mũi, môi, tông màu da, tỷ lệ khuôn mặt và diện mạo tổng thể.
-Kết quả phải giống rõ rệt với nhân vật trong ảnh tham khảo đã tải lên.
-
-PHONG CÁCH NGHỆ THUẬT:
-Tạo ra một bức tranh minh họa biên tập cổ điển tinh tế với thẩm mỹ khắc họa vẽ tay / truyện tranh / in khắc phức tạp.
-
-Sử dụng:
-- các đường nét mực đen cực kỳ chi tiết
-- kỹ thuật đan chéo (cross-hatching) và chấm điểm (stippling) tinh xảo
-- kết cấu minh họa khắc họa
-- đổ bóng bằng mực màu được phân lớp cẩn thận
-- các tông màu {argument name="hair color" default="đỏ đồng đậm"} cho tóc
-- các chi tiết trang trí cầu kỳ
-- tác phẩm nghệ thuật áp phích cổ điển thanh lịch
-- kết xuất khuôn mặt chi tiết cao
-- các đặc điểm khuôn mặt mang tính nghệ thuật nhưng vẫn dễ nhận biết
-
-CHÂN DUNG:
-Tạo một bức chân dung cận cảnh tập trung vào nhân vật từ khoảng ngực/vai trở lên.
-
-Thể hiện nhân vật với biểu cảm tự tin, điềm tĩnh và tinh tế.
-
-Thêm {argument name="eyewear" default="kính mát tròn quá khổ"} với gọng vàng cầu kỳ và tròng kính màu đỏ tươi/hồng, phù hợp với vẻ ngoài đặc trưng của tác phẩm tham khảo.
-
-Tóc cần được minh họa đẹp mắt với các lọn tóc chi tiết, uyển chuyển và các đường cong khắc họa trang trí, đồng thời vẫn dựa trên kiểu tóc và diện mạo của nhân vật trong ảnh tham khảo đã tải lên.
-
-TRANG PHỤC:
-Khoác lên nhân vật {argument name="clothing style" default="bộ trang phục cổ điển cầu kỳ"} với các họa tiết thêu trang trí màu xanh mòng két đậm, đỏ tươi đậm, xanh dương và vàng, các họa tiết hoa văn phức tạp, hoa văn filigree và các chi tiết trang trí giống như trang sức.
-
-NỀN:
-Sử dụng nền gấm trang trí màu đen/than chì tối, lấp đầy bằng các họa tiết hoa và trang trí cuộn xoáy phức tạp với các tông màu đen, xám và vàng trầm tinh tế.
-
-BỐ CỤC:
-Chân dung đối xứng chính giữa.
-Đầu và vai chiếm ưu thế trong khung hình.
-Bố cục áp phích đồ họa mạnh mẽ.
-Tác phẩm nghệ thuật chi tiết cao bao phủ toàn bộ hình ảnh.
-Không có ảnh tham khảo nhỏ chèn vào.
-
-VĂN BẢN:
-Thêm tên đầy đủ của nhân vật bằng kiểu chữ in hoa đậm, kích thước rất lớn trên nền phía trên, đặt một phần phía sau đầu.
-
-Tên phải tự động dựa trên nhân vật/tài liệu tham khảo được cung cấp.
-Nếu không thể xác định tên của nhân vật, hãy để trống khu vực đó thay vì tự ý đặt tên.
-
-KHÔNG thêm các từ ngữ, logo, hình mờ hoặc văn bản ngẫu nhiên không liên quan.
-
-DIỆN MẠO CUỐI CÙNG:
-Hình ảnh cuối cùng phải trông giống như một tấm áp phích minh họa cổ điển sang trọng được thiết kế chuyên nghiệp — KHÔNG phải là ảnh chụp và KHÔNG phải là phim hoạt hình đơn giản.
-
-Nó phải kết hợp nhận diện khuôn mặt dễ nhận biết từ ảnh tham khảo đã tải lên với ngôn ngữ thị giác tổng thể chính xác của ví dụ được cung cấp:
-khắc họa cổ điển cầu kỳ, minh họa mực màu, kính mát quá khổ đầy kịch tính, trang phục công phu, v.v.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250531616_lsmi7h_HRC7xcFaoAA8z6e.jpg" width="600" alt="Tiếp thị sản phẩm - Chuyển đổi nhận diện theo phong cách biên tập cổ điển - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Elsa Ai](https://x.com/ElsaSofia__AI)
-- **Nguồn:** [Twitter Post](https://x.com/ElsaSofia__AI/status/2094380460021539085)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33111)**
-
----
-
-### No. 100: Tiếp thị sản phẩm - Thiết kế Poster quảng cáo thiết bị điện tử cao cấp
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một câu lệnh (prompt) có cấu trúc chặt chẽ để tạo poster quảng cáo cao cấp, sử dụng phép ẩn dụ động vật cho công nghệ máy ảnh, với hình ảnh tích hợp ống kính macro trên mắt tắc kè hoa.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một poster quảng cáo flagship cao cấp cho thương hiệu máy ảnh compact nguyên bản có tên "LUXAR", với mẫu máy chủ đạo mang tên "VISTA M". Sử dụng phong cách nhiếp ảnh macro siêu thực về động vật hoang dã kết hợp sản phẩm, với độ hoàn thiện chuẩn in ấn dành cho quảng cáo thiết bị điện tử cao cấp. Biểu tượng cốt lõi của thương hiệu phải là hình ảnh hồ sơ của một con vật sống, trong đó mắt của nó được thay thế bằng một ống kính máy ảnh tích hợp hoàn hảo, biến tầm nhìn thích ứng thành một phép ẩn dụ vật lý cho sản phẩm. Bố cục cốt lõi: giữ nguyên logic cấu trúc chính xác của một poster dọc với ba vùng. 70% phía trên: hình ảnh macro cực cận cảnh bên hông của một con tắc kè hoa hướng sang trái, được cắt cúp chặt chẽ sao cho phần mõm đi vào từ giữa bên trái và thân kéo dài về phía cạnh phải. Khu vực mắt được thay thế bằng một ống kính máy ảnh hướng về phía trước đầy chân thực, được nhúng liền mạch vào giải phẫu của loài bò sát. Phía trên bên trái: một khối tiêu đề thương hiệu đậm với logo màu đỏ, một dòng tagline ngắn màu trắng và bốn dấu ngoặc vuông màu trắng bao quanh khu vực tiêu đề. 25% phía dưới: ba chiếc máy ảnh compact hướng về phía trước được căn chỉnh theo chiều ngang trên một bề mặt phản chiếu nhạt. 18% dưới cùng: một dải thông tin kỹ thuật màu đen với tên model lớn ở giữa bên phải và văn bản tính năng nhỏ hơn ở bên trái và bên phải. Logic cổng: biến hệ thống hình ảnh chính xác này thành biểu tượng thương hiệu không thể nhầm lẫn của LUXAR. Nhận diện vĩnh viễn phải được xây dựng từ bốn mã cố định: hồ sơ động vật macro, ống kính máy ảnh thay thế mắt, dòng sản phẩm ba màu ở phía dưới và dải thông số kỹ thuật màu đen làm nền tảng cho quảng cáo. Hình ảnh phải tạo cảm giác có thể sở hữu ngay lập tức, có khả năng lặp lại và mở rộng trên toàn bộ loạt chiến dịch, nơi các loài động vật khác nhau thể hiện các công nghệ hình ảnh khác nhau. Logic quỹ đạo: xây dựng một vòng lặp hình ảnh khép kín mạnh mẽ trên toàn bộ poster. Mắt người xem nên di chuyển từ khối tiêu đề phía trên bên trái vào ống kính-mắt, theo đường mõm và đường hàm của tắc kè hoa, quét xuống ba chiếc máy ảnh sản phẩm, khóa vào tâm ống kính đã căn chỉnh của chúng, di chuyển qua dải thông số kỹ thuật màu đen và quay trở lại ống kính đã nhúng thông qua đường viền cổ của con vật và phần nền bị làm mờ. Điểm nhấn ống kính, hồ sơ khuôn mặt, khoảng cách dòng máy ảnh và các khối kiểu chữ đều phải củng cố một đường lưu thông liên tục. Phép ẩn dụ chủ đạo: tắc kè hoa phải thể hiện được quang học thích ứng, lấy nét nhạy bén và độ chính xác thị giác. Sự tích hợp ống kính-mắt phải mang lại cảm giác hợp lý về mặt cơ học và hòa quyện về mặt sinh học mà không gây cảm giác ghê rợn, biến dạng hay kinh dị. Phép ẩn dụ phải dễ đọc, sạch sẽ và mang tính thương mại ngay lập tức. Chi tiết động vật: kết xuất tắc kè hoa với kết cấu vi mô dày đặc, các mảng vảy màu xanh lá cây-ngọc lam óng ánh, các đường gờ tối màu hơn, da khô chân thực, các nốt sần nhỏ, răng cưa tự nhiên ở hàm và khối lượng hộp sọ đáng tin cậy. Giải phẫu hốc mắt phải chuyển tiếp sạch sẽ vào vỏ ống kính. Sinh vật phải tạo cảm giác tĩnh lặng, cảnh giác và chân thực về mặt vật lý. Chi tiết ống kính: ống kính được nhúng phải cực kỳ chân thực, với các thấu kính đồng tâm, nòng kim loại đen, các ký hiệu kỹ thuật được khắc tinh tế, phản xạ lớp phủ màu tím-xanh, độ sâu khẩu độ có thể nhìn thấy và hình học tròn sắc nét. Ống kính phải có tỷ lệ tự nhiên với đầu tắc kè hoa trong khi vẫn dễ dàng nhận diện là thiết bị quang học cao cấp. Ánh sáng: ánh sáng macro định hướng mềm từ phía trước bên trái, chất lượng trung bình-mềm, với sự phân tách điểm nhấn được kiểm soát trên kết cấu vảy, vành ống kính và đường nét khuôn mặt. Ánh sáng phụ từ phía trước bên phải với cường độ thấp hơn để giữ lại chi tiết ở phía đổ bóng. Các máy ảnh sản phẩm bên dưới nên nhận được ánh sáng kiểu studio phía trước sạch sẽ hơn với các dải điểm nhấn sắc nét và phản xạ mặt bàn được tiết chế. Độ tương phản nên ở mức trung bình-mạnh, với các tông màu trung tính dễ đọc và không có màu đen bị bết. Hệ màu: nền màu ô liu-be trầm, da tắc kè hoa màu xanh lá cây-ngọc lam, lõi ống kính màu đen, điểm nhấn thương hiệu màu đỏ ở phía trên bên trái và ba màu thân máy sản phẩm bên dưới: xanh cobalt đậm, đen satin và đỏ thẫm kim loại tối. Dải thông số kỹ thuật dưới cùng màu đen với các điểm nhấn văn bản màu trắng và đỏ. Bảng màu phải mang lại cảm giác tự nhiên-công nghệ, tiết chế và tập trung vào sản phẩm. Trưng bày sản phẩm: hiển thị ba chiếc máy ảnh compact hướng về phía trước trên dải dưới, cách đều nhau, cùng model, kích thước ống kính giống hệt nhau, với thân máy màu xanh dương, đen và đỏ burgundy. Máy ảnh phải có các cạnh được gia công, vỏ kim loại mờ, kính ống kính chân thực, thương hiệu tối giản và tỷ lệ compact cao cấp. Thêm các phản xạ gương tinh tế ngay bên dưới mỗi máy ảnh. Kiểu chữ và bố cục: khối tiêu đề phía trên bên trái: LUXAR See Beyond Focus. Sử dụng dấu ngoặc vuông màu trắng xung quanh khu vực tiêu đề này. Dải đen phía dưới: tên model lớn: VISTA M. Cột tính năng bên trái: Touchscreen OLED, Creative Filters, 4K Motion Capture, Interchangeable Lens Ready, 24 MP Sensor, ISO 100-12800. Đoạn văn bên phải: một dòng ngắn nguyên bản về hình ảnh thích ứng, kỹ thuật compact và phản hồi thị giác nhanh. Tất cả từ ngữ phải là tiếng Anh nguyên bản. Vật liệu và kết cấu: độ sắc nét cực cao trên vảy bò sát, vỏ ống kính, phản xạ thủy tinh, cạnh máy ảnh sản phẩm và kiểu chữ. Bảo tồn độ nhám da bò sát chân thực, bụi phụ đề trên các cạnh vảy, thân máy ảnh sơn mờ, kính ống kính bóng và độ tương phản dải in sạch sẽ. Mọi thứ phải tuân theo vật lý quang học và ánh sáng thực tế. Độ sâu trường ảnh: độ sâu trường ảnh macro rất nông ở vùng động vật phía trên, với ống kính-mắt và các vảy mặt gần nhất sắc nét đến mức tối đa trong khi các cành cây nền tan biến một cách mượt mà. Hàng sản phẩm phía dưới phải giữ nguyên độ sắc nét hoàn toàn theo phong cách studio-sản phẩm sạch sẽ. Chất lượng hình ảnh và quy tắc vật lý: độ rõ nét thương mại độ phân giải cao, không có hiện tượng mờ đục trên ống kính chủ đạo, không có giải phẫu bị hỏng, không có thêm chi, không có khuôn mặt bò sát bị biến dạng, không có máy ảnh lơ lửng, không có phản xạ lộn xộn, không có đốm đen, không có văn bản không thể đọc được, không có đạo cụ ngẫu nhiên, không có nhãn hiệu thực tế bị sao chép, không có hình mờ. Negative prompt: logo Canon thực, slogan bị sao chép, tên model bị sao chép, bò sát hoạt hình, đột biến kinh dị, máu me, hàm bị gãy, vảy bị biến dạng, ống kính bị cong, văn bản không thể đọc được, thân máy ảnh chi tiết thấp, macro độ phân giải thấp, bóng đổ đục, dải đen chết, bố cục lộn xộn, sản phẩm phụ ngẫu nhiên, da trông giống nhựa, phong cách minh họa, hình mờ.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250555982_204fm6_HRCypV_aEAA8Voi.jpg" width="600" alt="Tiếp thị sản phẩm - Thiết kế Poster quảng cáo thiết bị điện tử cao cấp - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Loriel.AI](https://x.com/ou_zhen599)
-- **Nguồn:** [Twitter Post](https://x.com/ou_zhen599/status/2094370271818027242)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33137)**
-
----
-
-### No. 101: Tiếp thị sản phẩm - Chân dung thiếu nữ mặc sườn xám trên ghế sofa theo phong cách điện ảnh
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Tạo ra một bức chân dung thời trang điện ảnh khổ dọc, hẹp, mô tả một người phụ nữ đang nằm trên chiếc ghế sofa cổ điển trong ánh sáng khuếch tán dịu nhẹ.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một bức chân dung điện ảnh khổ dọc 1:3 với {argument name="subject" default="một người phụ nữ trẻ Đông Á xinh đẹp"} đang nằm nghiêng trên chiếc ghế sofa bọc vải hoa cổ điển, đầu tựa lên đôi bàn tay đan vào nhau dựa vào thành ghế, ánh mắt nhìn dịu dàng về phía máy ảnh. Cô ấy mặc {argument name="outfit" default="chiếc váy sườn xám lụa màu nhạt không tay với họa tiết hoa màu nước trầm, cổ cao và xẻ tà cao đến đùi"}; mái tóc đen được búi thấp lỏng lẻo với những lọn tóc buông xõa ôm lấy khuôn mặt, kết hợp cùng đôi bông tai tinh tế và phong cách trang điểm lãng mạn tự nhiên. Tư thế thanh lịch và gần gũi: phần thân trên cuộn tròn gần tay vịn ghế, lộ một bên vai trần, chiếc váy dài rủ xuống theo khung hình, một chân lộ ra một phần qua đường xẻ ở tiền cảnh phía dưới. Sử dụng {argument name="lighting style" default="ánh sáng cửa sổ khuếch tán ấm áp với hiệu ứng mờ ảo"}, lấy nét mềm, độ sâu trường ảnh nông, hạt phim mơ màng, tông màu be và kem trầm, cùng bầu không khí hoài cổ của những bức ảnh tạp chí boudoir. Bố cục với khuôn mặt ở một phần ba phía trên bên trái, cơ thể kéo dài theo đường chéo xuống dưới trong khung hình rất hẹp, ánh sáng trắng quá mức dọc theo cạnh phải như ánh sáng rò rỉ qua rèm cửa, và hiệu ứng làm mờ tối ở tiền cảnh bên trái. Hậu cảnh tối giản: bức tường màu be mờ, bóng đổ dịu nhẹ và kết cấu vải cổ điển. Ảnh chân thực, cảm giác ống kính chân dung 85mm, độ sâu trường ảnh f/1.4, độ mềm mại như tranh vẽ, không có văn bản, không có hình mờ, không có người thừa.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788250577837_oza8xw_HRCp5qlbgAAKO1s.jpg" width="600" alt="Tiếp thị sản phẩm - Chân dung thiếu nữ mặc sườn xám trên ghế sofa theo phong cách điện ảnh - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [BubbleBrain](https://x.com/BubbleBrain)
-- **Nguồn:** [Twitter Post](https://x.com/BubbleBrain/status/2094360697971102080#reversed-0)
-- **Đã xuất bản:** 31 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33154)**
-
----
-
-### No. 102: Hình ảnh chính thương mại điện tử - So sánh lưới 3D của đôn để chân
+### No. 100: Hình ảnh chính thương mại điện tử - So sánh lưới 3D của đôn để chân
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4953,7 +4922,7 @@ Tạo một hình ảnh trực quan kiến trúc chân thực so sánh hai chi�
 
 ---
 
-### No. 103: Hình ảnh chính thương mại điện tử - Corset màu xám bạc nhạt và chân váy maxi
+### No. 101: Hình ảnh chính thương mại điện tử - Corset màu xám bạc nhạt và chân váy maxi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5004,7 +4973,7 @@ QUY TẮC TRANG PHỤC ĐƯỢC BẢO VỆ — ƯU TIÊN CAO NHẤT: Hãy coi m�
 
 ---
 
-### No. 104: Hình ảnh chính thương mại điện tử - So sánh chân dung trang sức AI dạng 6 khung hình
+### No. 102: Hình ảnh chính thương mại điện tử - So sánh chân dung trang sức AI dạng 6 khung hình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5050,7 +5019,7 @@ Các ràng buộc: Không thêm bất kỳ tiêu đề nào bên ngoài sáu khu
 
 ---
 
-### No. 105: Hình ảnh chính thương mại điện tử - Quảng cáo thương mại đồng hồ đeo tay cao cấp
+### No. 103: Hình ảnh chính thương mại điện tử - Quảng cáo thương mại đồng hồ đeo tay cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5096,7 +5065,7 @@ Chú trọng tối đa vào vật liệu chân thực và các chi tiết nhỏ:
 
 ---
 
-### No. 106: Hình ảnh chính thương mại điện tử - Áp phích chiến dịch chăm sóc da cao cấp
+### No. 104: Hình ảnh chính thương mại điện tử - Áp phích chiến dịch chăm sóc da cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5141,7 +5110,7 @@ Tạo một áp phích chăm sóc da cao cấp cho một thương hiệu giả �
 
 ---
 
-### No. 107: Hình ảnh chính thương mại điện tử - Chụp ảnh thương mại nước hoa cao cấp
+### No. 105: Hình ảnh chính thương mại điện tử - Chụp ảnh thương mại nước hoa cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5181,7 +5150,7 @@ Một câu lệnh (prompt) chuyên nghiệp dành cho chụp ảnh sản phẩm 
 
 ---
 
-### No. 108: Hình ảnh chính thương mại điện tử - Chân dung lễ tân thân thiện
+### No. 106: Hình ảnh chính thương mại điện tử - Chân dung lễ tân thân thiện
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5215,7 +5184,7 @@ Tạo một bức ảnh chân dung dọc chân thực về một phụ nữ tr�
 
 ---
 
-### No. 109: Hình ảnh chính thương mại điện tử - Tô mì Shoyu Ramen chân thực
+### No. 107: Hình ảnh chính thương mại điện tử - Tô mì Shoyu Ramen chân thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5249,7 +5218,7 @@ Tạo một bức ảnh vuông, siêu chân thực về một tô {argument name
 
 ---
 
-### No. 110: Hình ảnh chính thương mại điện tử - Quảng cáo Serum cao cấp
+### No. 108: Hình ảnh chính thương mại điện tử - Quảng cáo Serum cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5283,7 +5252,7 @@ Tạo một quảng cáo sản phẩm chăm sóc da cao cấp đậm chất đi�
 
 ---
 
-### No. 111: Hình ảnh chính thương mại điện tử - Áo khoác Bomber kỹ thuật phong cách Cyberpunk
+### No. 109: Hình ảnh chính thương mại điện tử - Áo khoác Bomber kỹ thuật phong cách Cyberpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5353,7 +5322,7 @@ BẢN ĐỒ MẶT CƠ THỂ ĐIỀU KIỆN THEO GÓC NHÌN: góc nhìn phía tr�
 
 ---
 
-### No. 112: Hình ảnh chính thương mại điện tử - Đĩa sứ nghệ thuật Elfina Fantasy
+### No. 110: Hình ảnh chính thương mại điện tử - Đĩa sứ nghệ thuật Elfina Fantasy
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5387,7 +5356,7 @@ Tạo một bức ảnh sản phẩm theo chiều dọc đầy tinh tế về ch
 
 ---
 
-### No. 113: Hình ảnh chính thương mại điện tử - Ảnh chụp thực tế món Tamago Kake Gohan
+### No. 111: Hình ảnh chính thương mại điện tử - Ảnh chụp thực tế món Tamago Kake Gohan
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5421,7 +5390,7 @@ Tạo một bức ảnh chụp món ăn chân thực về {argument name="dish" 
 
 ---
 
-### No. 114: Hình ảnh chính thương mại điện tử - Ảnh chụp sản phẩm nước hoa sang trọng tối giản
+### No. 112: Hình ảnh chính thương mại điện tử - Ảnh chụp sản phẩm nước hoa sang trọng tối giản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5455,7 +5424,7 @@ Tạo một bức ảnh sản phẩm sang trọng tối giản với một {argu
 
 ---
 
-### No. 115: Hình ảnh chính thương mại điện tử - Ảnh chụp sản phẩm Codex Silver Token
+### No. 113: Hình ảnh chính thương mại điện tử - Ảnh chụp sản phẩm Codex Silver Token
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5489,7 +5458,7 @@ Tạo một bức ảnh chụp sản phẩm macro cao cấp cho {argument name="
 
 ---
 
-### No. 116: Hình ảnh chính thương mại điện tử - Mô hình robot Totoro phát sáng trong tiểu cảnh
+### No. 114: Hình ảnh chính thương mại điện tử - Mô hình robot Totoro phát sáng trong tiểu cảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5523,7 +5492,7 @@ Tạo một bức ảnh sản phẩm mô hình sưu tầm cao cấp theo phong c
 
 ---
 
-### No. 117: Hình ảnh chính thương mại điện tử - Bảng tham chiếu súng trường chiến thuật bốn góc nhìn
+### No. 115: Hình ảnh chính thương mại điện tử - Bảng tham chiếu súng trường chiến thuật bốn góc nhìn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5567,7 +5536,7 @@ Các hạn chế: Giữ cho vũ khí ở trạng thái trông như chưa nạp �
 
 ---
 
-### No. 118: Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm chăm sóc da cao cấp
+### No. 116: Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm chăm sóc da cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5607,19 +5576,31 @@ Gợi ý chụp ảnh sản phẩm cao cấp cho chai mỹ phẩm bằng thủy 
 
 ---
 
-### No. 119: Hình ảnh chính thương mại điện tử - Ảnh chụp món Tonkatsu bóng bẩy
+### No. 117: Tài sản trò chơi - Ảnh chụp màn hình chỉnh sửa nhân vật Gấu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một câu lệnh (prompt) cận cảnh chân thực để tạo hình ảnh đĩa tonkatsu Nhật Bản kèm bắp cải thái sợi và nước sốt đậm đà.
+Tạo ảnh chụp màn hình giao diện chỉnh sửa hình ảnh AI tối giản, hiển thị hai phiên bản của linh vật gấu vẽ tay dễ thương kèm bong bóng hướng dẫn chỉnh sửa bằng tiếng Nhật.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức ảnh chụp cận cảnh chân thực về món {argument name="dish name" default="tonkatsu với nước sốt demi-glace đậm đà"} của Nhật Bản được phục vụ trên một chiếc đĩa gốm mộc mạc hình bầu dục. Chủ thể chính là một miếng thịt heo chiên xù được cắt thành đúng 5 miếng hình chữ nhật dày, xếp chéo từ góc dưới bên trái sang góc trên bên phải, với lớp vỏ panko vàng giòn và phần thịt heo nhạt màu lộ ra ở các khe cắt. Rưới một lớp nước sốt màu nâu đỏ đậm, đặc và bóng bẩy lên chính giữa cả 5 miếng thịt, để nước sốt tràn xuống nửa dưới của đĩa, tạo hiệu ứng phản chiếu ánh sáng rực rỡ và kết cấu hơi sệt. Phía sau miếng thịt ở góc trên bên trái, thêm một phần {argument name="side garnish" default="bắp cải trắng"} thái sợi nhuyễn với đúng 3 sợi cà rốt mỏng màu cam bên trên. Sử dụng độ sâu trường ảnh nông, phong cách nhiếp ảnh nhà hàng macro, ánh sáng tự nhiên ấm áp, độ chi tiết cao, kết cấu hấp dẫn và góc nhìn từ trên xuống hơi nghiêng. Chiếc đĩa nên là loại gốm đá màu xám be với viền tối màu và các đốm nhỏ tinh tế, đặt trên bàn gỗ tối màu với một chút hiệu ứng làm mờ nền màu cam ấm áp. Không văn bản, không dụng cụ ăn uống, không bàn tay, không thêm món phụ, không cơm, không sốt cà ri riêng biệt với nước sốt.
+Mục tiêu: Tạo bố cục giống như ảnh chụp màn hình sạch sẽ, hiển thị biến thể chỉnh sửa hình ảnh AI của một nhân vật gấu đơn giản, với kết quả gốc/tham chiếu nhỏ hơn ở phía trên và kết quả đã chỉnh sửa lớn hơn ở phía dưới.
+
+Khung hình: Khung hình ngang rộng, khoảng 1200×960 px, nền trắng xám rất nhạt với nhiều khoảng trống. Cảm giác giao diện tối giản, giống như không gian làm việc của trình tạo ảnh/trò chuyện.
+
+Bố cục: Đặt chính xác 2 thẻ minh họa gấu trên khung hình. Thẻ 1 nhỏ và nằm ở góc phần tư phía trên bên phải, với vùng ảnh màu trắng bo tròn. Thẻ 2 lớn hơn nhiều, nằm ở phía dưới bên trái/trung tâm, cũng nằm trong vùng ảnh màu trắng bo tròn. Giữa chúng, hơi thấp hơn chú gấu nhỏ phía trên, đặt chính xác 1 bong bóng trò chuyện bo tròn màu xanh nhạt chứa văn bản hướng dẫn bằng tiếng Nhật. Trên thẻ ảnh lớn phía dưới, bao gồm chính xác 2 nút điều khiển giao diện người dùng màu xám mờ nhỏ: một nút hình viên thuốc bo tròn ở phía dưới bên trái có nhãn 「編集」 và một nút biểu tượng hình tròn ở phía dưới bên phải với biểu tượng mũi tên tải lên/chia sẻ đơn giản.
+
+Nội dung văn bản: Bong bóng trò chuyện duy nhất phải ghi chính xác: {argument name="edit instruction text" default="頬の横から首にかけてのあたりを、もっと細くしてください。"}
+
+Chi tiết chủ thể: Chủ thể là chính xác 2 phiên bản của cùng một nhân vật giống gấu, vẽ tay, dễ thương, đứng thẳng. Nhân vật có bộ lông màu trắng kem, đường viền phác thảo màu đen dày, tai tròn với các dấu nhỏ bên trong tai, mắt tròn rộng với đồng tử đen, mũi hình bầu dục màu đen lớn, miệng nằm ngang thẳng nhỏ xíu, má hồng hình tròn trên cả hai má, cánh tay ngắn buông thõng, chân ngắn mập mạp và các đường ngón chân nhỏ. Chú gấu phía trên nhỏ hơn và hơi mảnh mai hơn với cơ thể thẳng đứng hơn. Chú gấu phía dưới lớn hơn và nằm ở trung tâm thẻ của nó, với đầu và cơ thể tròn trịa, vùng cổ/má thu hẹp, tư thế đối xứng đơn giản và biểu cảm trống rỗng hơi mơ hồ.
+
+Phong cách hình ảnh: Minh họa linh vật vẽ nguệch ngoạc tối giản, đường viền mực đen thô, kết cấu giấy hoặc vải canvas tinh tế, màu tô trắng kem mềm mại, các vòng tròn má màu hồng nhạt, không có bóng đổ ngoại trừ độ mềm mại rất nhẹ của thẻ/giao diện người dùng. Hình ảnh tổng thể trông giống như ảnh chụp màn hình giao diện chỉnh sửa hình ảnh GPT thông thường, không phải áp phích bóng bẩy.
+
+Các ràng buộc: Sử dụng chính xác 2 hình minh họa gấu, chính xác 1 bong bóng trò chuyện tiếng Nhật và chính xác 2 nút điều khiển giao diện người dùng. Giữ cho nền trống trải, duy trì vị trí bất đối xứng, tránh thêm các nhân vật thừa, văn bản thừa, hình mờ hoặc các yếu tố trang trí.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -5627,33 +5608,33 @@ Tạo một bức ảnh chụp cận cảnh chân thực về món {argument nam
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1787386285360_6b4hpv_HQP59-mb0AAlY07.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Ảnh chụp món Tonkatsu bóng bẩy - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336940855_bnbv76_HRL6Z81bYAAE3g3.jpg" width="600" alt="Tài sản trò chơi - Ảnh chụp màn hình chỉnh sửa nhân vật Gấu - Image 1">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [小泉勝志郎](https://x.com/koi_zoom1)
-- **Nguồn:** [Twitter Post](https://x.com/koi_zoom1/status/2090789500230537702#reversed-0)
-- **Đã xuất bản:** 21 tháng 8, 2026
+- **Tác giả:** [しゅんち(小柴俊太郎)@神戸AI漫画家](https://x.com/shunchi_uu)
+- **Nguồn:** [Twitter Post](https://x.com/shunchi_uu/status/2095013203889770910#reversed-0)
+- **Đã xuất bản:** 2 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=32291)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33247)**
 
 ---
 
-### No. 120: Hình ảnh chính thương mại điện tử - Ảnh chụp sản phẩm lò vi sóng phong cách tối giản ấm áp
+### No. 118: Tài sản trò chơi - Trải nghiệm game bắn súng kinh dị sinh tồn đầy ám ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một khung cảnh thiết bị nhà bếp cao cấp chân thực với chiếc lò vi sóng hiện đại tỏa ánh sáng ấm áp trên mặt bàn đá.
+Tạo ảnh chụp màn hình game kinh dị góc nhìn thứ nhất đầy điện ảnh với quái vật ở cự ly gần, giao diện HUD súng lục và bối cảnh công nghiệp đổ nát.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức ảnh chụp sản phẩm điện ảnh chân thực về chiếc lò vi sóng để bàn hiện đại, kiểu dáng đẹp trong căn bếp tối giản ấm áp. Lò vi sóng là chủ thể chính duy nhất, được đặt hơi lệch về bên phải trên mặt bàn đá, với phần thân kim loại màu be đồng hình chữ nhật bo tròn, cửa trước bằng kính đen, viền chrome mỏng, chân đế nhỏ và bảng điều khiển ở bên phải. Bảng điều khiển có màn hình kỹ thuật số màu trắng dịu hiển thị {argument name="timer display" default="0:50"} phía trên một núm xoay kim loại tròn lớn được bao quanh bởi các vạch chia nhỏ tối giản và các biểu tượng kiểu cộng/trừ. Qua cửa sổ lò vi sóng đục lỗ tối màu, hãy thể hiện ánh sáng màu hổ phách ấm áp bên trong chiếu sáng một chiếc bát gốm nông đặt ở giữa bàn xoay. Không gian bếp xung quanh yên tĩnh và sang trọng: một cửa sổ lớn bên trái với tán lá xanh mờ ảo bên ngoài, ánh nắng mặt trời đổ bóng hình lá mềm mại trên mặt bàn, một bình gốm cắm cành lá phía sau lò vi sóng bên trái, một chiếc bát gốm trống trên mặt bàn ở tiền cảnh bên trái và một kệ gỗ treo tường ở phía sau chứa hai cuốn sách chồng lên nhau, một chiếc bình tròn, một chồng đĩa nhỏ và một chậu cây leo ở phía xa bên phải. Sử dụng tông màu trung tính, kết cấu lì, ánh sáng bên dịu nhẹ của giờ vàng, độ sâu trường ảnh nông, phản chiếu chân thực trên kính và kim loại, hạt phim tinh tế, dải tương phản động cao và bố cục quảng cáo thiết bị gia dụng cao cấp. Không có người, không có logo, không có thêm văn bản nào ngoài bộ hẹn giờ kỹ thuật số.
+Tạo ảnh chụp màn hình trò chơi điện tử kinh dị sinh tồn góc nhìn thứ nhất đầy gai góc trong một sân công nghiệp đổ nát, như được chụp từ một tựa game FPS điện ảnh. Người xem cầm một khẩu súng lục bán tự động màu đen ở tiền cảnh phía dưới bên phải, nhắm vào một kẻ thù hình người kỳ dị đang đứng cực kỳ gần ở trung tâm. Sinh vật này đang khom lưng, ướt át và phân hủy, với cái đầu sần sùi giống ký sinh trùng được bao phủ bởi chất hữu cơ màu nâu đen bóng loáng, những xúc tu lủng lẳng, mô ngực gân guốc lộ ra và chiếc áo khoác rách rưới tối màu. Môi trường là một con hẻm nhà máy gạch và bê tông bỏ hoang bẩn thỉu với mặt đường lát đá cuội ướt át, vũng nước, vết rỉ sét, vết máu, mảnh vụn rải rác và mưa lớn hoặc nước chảy vệt dài trên hình ảnh. Bao gồm chính xác 1 bồn chứa hoặc silo kim loại hình trụ lớn bị gỉ sét được nâng đỡ trên những chiếc chân mảnh ở phía trên bên phải, chính xác 1 cửa sổ công nghiệp hình vòm lớn trên bức tường gạch bên trái, chính xác 1 chiếc xe tối màu hiển thị một phần ở con hẻm phía sau và chính xác 3 cột kim loại thẳng đứng nổi bật xung quanh khu vực bồn chứa. Sử dụng khung hình rộng 16:9, chiều cao camera thấp, hiệu ứng méo hình của ống kính góc rộng đầy ấn tượng, độ tương phản cao, nhòe chuyển động, các vết bẩn trên kính, độ khuếch tán mạnh, nhòe sắc sai và kết cấu render game chân thực được xử lý quá mức. Thêm giao diện HUD mờ tối giản: ở phía dưới bên trái hiển thị nhãn “HEALTH” phía trên con số “32”; ở phía dưới bên phải hiển thị chỉ báo đạn nhỏ với “AMMO” và các con số “18” và “123”. Tâm trạng tổng thể: ngột ngạt, ẩm ướt, rỉ sét, bệnh hoạn, hỗn loạn, giống như {argument name="game style" default="một game bắn súng kinh dị sinh tồn góc nhìn thứ nhất hiện đại"}; làm cho khung cảnh mang lại cảm giác như một cuộc chạm trán cự ly gần căng thẳng với {argument name="enemy type" default="một thây ma ký sinh kỳ dị"} tại {argument name="location" default="một sân công nghiệp bỏ hoang"}. Sử dụng {argument name="lighting" default="ánh sáng u ám lạnh lẽo với những phản chiếu ướt át gay gắt"} và {argument name="image treatment" default="độ khuếch tán cực mạnh, bụi bẩn, vệt mưa và các hiệu ứng tạo tác giống như ảnh do GPT tạo ra"}.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -5661,17 +5642,121 @@ Tạo một bức ảnh chụp sản phẩm điện ảnh chân thực về chi�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1787213826998_symoib_HQGc6kIbwAAl0wk.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Ảnh chụp sản phẩm lò vi sóng phong cách tối giản ấm áp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788336938725_wklnso_HRKAgcKWMAAXiDB.jpg" width="600" alt="Tài sản trò chơi - Trải nghiệm game bắn súng kinh dị sinh tồn đầy ám ảnh - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336938696_mojxtr_HRKAnxtWsAENUWM.jpg" width="600" alt="Tài sản trò chơi - Trải nghiệm game bắn súng kinh dị sinh tồn đầy ám ảnh - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336938745_z03yh6_HRKAq5uXsAALHEz.jpg" width="600" alt="Tài sản trò chơi - Trải nghiệm game bắn súng kinh dị sinh tồn đầy ám ảnh - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336939492_kzf8w2_HRKAs5JX0AAFE5p.jpg" width="600" alt="Tài sản trò chơi - Trải nghiệm game bắn súng kinh dị sinh tồn đầy ám ảnh - Image 4">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Deepanshu Sharma](https://x.com/deepanshusharmx)
-- **Nguồn:** [Twitter Post](https://x.com/deepanshusharmx/status/2090135314346262623#reversed-0)
-- **Đã xuất bản:** 19 tháng 8, 2026
+- **Tác giả:** [Linus Mixson](https://x.com/LinusMixson)
+- **Nguồn:** [Twitter Post](https://x.com/LinusMixson/status/2095000042394525795#reversed-0)
+- **Đã xuất bản:** 2 tháng 9, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=32058)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33243)**
+
+---
+
+### No. 119: Tài sản trò chơi - Xem trước ảnh chân dung 3D của nhân vật đặt cạnh nhau
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Tạo hai bản xem trước chân dung phong cách 3D trực diện khớp nhau từ một nhân vật tham chiếu để kiểm tra quy trình ghép đầu và thân.
+
+#### 📝 Câu lệnh
+
+```
+Sử dụng REFERENCE_0 làm cơ sở nhân vật, chuyển đổi chủ thể thành bản xem trước mô hình 3D sạch sẽ, phù hợp để kiểm tra việc ghép đầu và thân. Điều chỉnh tư thế nhân vật thành dạng chân dung nửa thân trên hướng về phía trước, đơn giản hóa hình dáng, đồng thời làm rõ phần kết nối giữa đầu và cổ. Giữ nguyên các đặc điểm từ bản tham chiếu như khuôn mặt giống búp bê đầy ám ảnh, các gai nhọn giống sừng ở hai bên, trang phục quấn vải, các sợi dây buông thõng và kết cấu vải sờn cũ. Đặt chính xác 2 bản sao giống hệt nhau của nhân vật đã kết xuất cạnh nhau, một bên trái và một bên phải, với tỷ lệ và tư thế đồng nhất để so sánh. Sử dụng nền {argument name="background color" default="dark charcoal gray"}, ánh sáng studio dịu nhẹ và phong cách kết xuất/quang trắc (photogrammetry) thay vì minh họa bóng bẩy. Cắt khung hình ngang rộng chỉ hiển thị phần đầu, vai và thân trên. Tránh thêm văn bản, logo, đạo cụ hoặc các nhân vật phụ khác.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336947601_w7fjz3_HRJFRf-bYAAK_Vn.jpg" width="600" alt="Tài sản trò chơi - Xem trước ảnh chân dung 3D của nhân vật đặt cạnh nhau - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336947511_39hqsi_HRJFYtVbAAAJVuZ.jpg" width="600" alt="Tài sản trò chơi - Xem trước ảnh chân dung 3D của nhân vật đặt cạnh nhau - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [KOBATAKA｜Vibe Modeling](https://x.com/shion_takk)
+- **Nguồn:** [Twitter Post](https://x.com/shion_takk/status/2094814128347197754#reversed-0)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33255)**
+
+---
+
+### No. 120: Tài sản trò chơi - Hình bóng võ sĩ Samurai đơn độc
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một bức tranh kỹ thuật số tối giản, đậm chất điện ảnh về một võ sĩ samurai dưới dạng hình bóng trên nền trời hoàng hôn u tối, điểm xuyết bởi tàn lửa và khói.
+
+#### 📝 Câu lệnh
+
+```
+Cảnh quay rộng tối giản đậm chất điện ảnh về một {argument name="subject" default="võ sĩ samurai đơn độc"} hiện lên dưới dạng hình bóng trong bóng tối gần như bao trùm, đứng trên đỉnh một sườn đồi cỏ dốc lúc hoàng hôn. Võ sĩ được khắc họa như một hình bóng đen tuyền trên nền {argument name="background color" default="bầu trời hoàng hôn màu xanh mòng két xám nhạt, không bão hòa"} — không nhìn rõ chi tiết khuôn mặt, chỉ thấy đường nét đặc trưng của chiếc mũ kabuto với hai chiếc sừng cong dài (mào wakidate) vươn lên, và một thanh katana được cầm thấp, hướng ra ngoài trong tư thế sẵn sàng.
+
+Nhân vật đứng hơi khom người về phía trước trong tư thế mệt mỏi, đầy vết tích chiến trận, bộ giáp rách nát và những mảnh vải lỏng lẻo làm vỡ các cạnh của hình bóng. Dưới chân võ sĩ, một hàng lửa nhỏ và những tàn lửa màu cam rực cháy dọc theo sườn đồi, liếm lên trên nhưng không tỏa sáng lên chính nhân vật — ngọn lửa trông như những đốm vàng và cam nóng chảy rải rác trên nền đen. Những làn khói mờ nhạt bay chéo từ phía sau lưng chiến binh, gợi lên hình ảnh bộ giáp đang âm ỉ cháy hoặc tro bụi bay theo.
+
+Bố cục bị chi phối bởi không gian âm: toàn bộ một phần ba phía dưới và đường chéo bên trái của khung hình là sườn đồi đen đặc, với những ngọn cỏ thưa thớt chỉ vừa đủ bắt lấy ánh sáng xung quanh dọc theo mép sườn dốc. Bầu trời chiếm hai phần ba phía trên, phẳng lặng và đầy tâm trạng với hạt phim tinh tế cùng tông màu xanh lam-xanh lục lạnh lẽo, hoàn toàn không có mây hay chi tiết nào.
+
+Phong cách: {argument name="art style" default="tranh kỹ thuật số phong cách tối tăm, đầy tâm trạng"}, bố cục chiaroscuro tối giản, giả tưởng lịch sử Nhật Bản đậm chất điện ảnh, bảng màu xanh mòng két và đen trầm với các điểm nhấn lửa màu cam ấm áp, không gian âm dày đặc, kết cấu hạt phim, ánh sáng hoàng hôn u buồn, theo phong cách một thước phim anime trầm mặc hoặc nghệ thuật chủ đạo lấy cảm hứng từ Ghost of Tsushima
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336920218_z45h94_HRIT5xHboAA8Yjt.jpg" width="600" alt="Tài sản trò chơi - Hình bóng võ sĩ Samurai đơn độc - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788336920234_2z3sli_HRIT5xZawAAyuCJ.jpg" width="600" alt="Tài sản trò chơi - Hình bóng võ sĩ Samurai đơn độc - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Al-Shamus](https://x.com/im_shahid7)
+- **Nguồn:** [Twitter Post](https://x.com/im_shahid7/status/2094758669443559787)
+- **Đã xuất bản:** 1 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/gpt-image-2-prompts?id=33227)**
 
 ---
 
@@ -5681,7 +5766,7 @@ Tạo một bức ảnh chụp sản phẩm điện ảnh chân thực về chi�
 
 <div align="center">
 
-### 🎯 16515 câu lệnh khác không hiển thị ở đây
+### 🎯 16588 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5744,6 +5829,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-02T01:50:22.788Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-02T15:32:47.715Z</sub>
 
 </div>
