@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **17311** |
+| 📝 คำสั่งทั้งหมด | **17398** |
 | ⭐ แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 10 กันยายน พ.ศ. 2569 เวลา 1 นาฬิกา 56 นาที 47 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 10 กันยายน พ.ศ. 2569 เวลา 15 นาฬิกา 25 นาที 33 วินาที UTC** |
 
 </div>
 
@@ -525,7 +525,41 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### No. 1: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายแฟชั่นแนวเออร์เบินสุดโฉบเฉี่ยว
+### No. 1: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตเงาในช่วงโกลเด้นอาวร์
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ภาพพอร์ตเทรตแนวภาพยนตร์ช่วงพระอาทิตย์ตกของชายชาวเอเชียใต้ โดยเน้นการรักษาอัตลักษณ์บุคคลอย่างเคร่งครัด
+
+#### 📝 คำสั่ง
+
+```
+ภาพพอร์ตเทรตโคลสอัพแนวภาพยนตร์ที่สมจริงเป็นพิเศษในมุมข้างหันขวาของ {argument name="subject" default="ชายหนุ่มชาวเอเชียใต้"} กลางแจ้งในช่วง {argument name="time of day" default="พระอาทิตย์ตกดินช่วงโกลเด้นอาวร์ที่อบอุ่น"} โปรดใช้ภาพอ้างอิงใบหน้าที่ฉันอัปโหลดเพื่อรักษาอัตลักษณ์ให้ตรงกัน 100% ทั้งโครงหน้า สัดส่วนใบหน้า เครา หนวด พื้นผิวผิวหนัง และทรงผม ห้ามปรับแต่งให้สวยเกินจริง ห้ามทำให้ผิวขาวขึ้น และห้ามปรับรูปหน้า คัดลอกเฉพาะท่าทางและองค์ประกอบจากภาพอ้างอิงต้นแบบเท่านั้น ถ่ายตั้งแต่ช่วงหน้าอกส่วนบนและไหล่ขึ้นไป ตัวหันข้างไปทางขวาทั้งหมด ศีรษะตรงโดยเชิดคางขึ้นเล็กน้อย หลับตาลงเบาๆ ริมฝีปากผ่อนคลาย และแสดงสีหน้าสงบนิ่ง {argument name="clothing" default="เสื้อยืดคอกลมสีดำด้านทรงโอเวอร์ไซส์"} ท้องฟ้าช่วงพระอาทิตย์ตกที่เปิดโล่งพร้อมการไล่เฉดสีส้มพีชและสีเหลืองอำพันที่อบอุ่น ขอบฟ้าเบลอเล็กน้อย แสงย้อนจากพระอาทิตย์ตกที่รุนแรงสร้างเงาที่ดูมืดและมีอารมณ์ร่วม ใบหน้าต้องคงความมืดไว้ ไม่สว่างหรือมีแสงส่องจากด้านหน้า มีแสงขอบสีทองอุ่นๆ บางๆ ตัดเส้นผม หน้าผาก จมูก ริมฝีปาก เครา แนวขากรรไกร และไหล่ ใช้เลนส์ 85mm DSLR, f/1.8, ระยะชัดลึกตื้น, การเปิดรับแสงแบบ Low-key, เงาลึก, เกรนฟิล์มละเอียด, การปรับสีแบบภาพยนตร์, ความละเอียดสูงระดับ 12k ที่สมจริงเป็นพิเศษ, ภาพถ่ายธรรมชาติ, อัตราส่วนภาพแนวตั้ง 3:4
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789029034484_61yayl_HR0uNB9bcAA0JS-.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตเงาในช่วงโกลเด้นอาวร์ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Muhammad Jamil](https://x.com/JamilAI55)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/JamilAI55/status/2097883811053031584)
+- **เผยแพร่เมื่อ:** 10 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34123)**
+
+---
+
+### No. 2: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายแฟชั่นแนวเออร์เบินสุดโฉบเฉี่ยว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -545,7 +579,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942279135_ueepc4_HRwjd12acAAcatz.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายแฟชั่นแนวเออร์เบินสุดโฉบเฉี่ยว - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029035579_3yv0jo_HRwjd12acAAcatz.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายแฟชั่นแนวเออร์เบินสุดโฉบเฉี่ยว - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -559,7 +593,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 2: โปรไฟล์ / รูปประจำตัว - เทพพยากรณ์ดิจิทัลผู้ปิดตา
+### No. 3: โปรไฟล์ / รูปประจำตัว - เทพพยากรณ์ดิจิทัลผู้ปิดตา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -593,7 +627,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 3: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่ในห้องนอนที่สมจริง
+### No. 4: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่ในห้องนอนที่สมจริง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -627,7 +661,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 4: โปรไฟล์ / รูปประจำตัว - ปรับแต่งภาพพอร์ตเทรตด้วยท่าทางขี้เล่น
+### No. 5: โปรไฟล์ / รูปประจำตัว - ปรับแต่งภาพพอร์ตเทรตด้วยท่าทางขี้เล่น
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -672,7 +706,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 5: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตฟิล์มเกรนละมุนชวนฝัน
+### No. 6: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตฟิล์มเกรนละมุนชวนฝัน
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -692,7 +726,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942298106_a2gmq1_HRv1v03bYAAj1bY.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตฟิล์มเกรนละมุนชวนฝัน - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029072558_ui6ya8_HRv1v03bYAAj1bY.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตฟิล์มเกรนละมุนชวนฝัน - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -706,7 +740,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 6: โปรไฟล์ / รูปประจำตัว - การเปลี่ยนภาพถ่ายให้เป็นภาพพอร์ตเทรตแฟชั่นสตูดิโอ
+### No. 7: โปรไฟล์ / รูปประจำตัว - การเปลี่ยนภาพถ่ายให้เป็นภาพพอร์ตเทรตแฟชั่นสตูดิโอ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -726,13 +760,13 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942282544_1jlit8_HRvxyygbcAAbe0D.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - การเปลี่ยนภาพถ่ายให้เป็นภาพพอร์ตเทรตแฟชั่นสตูดิโอ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029007002_2ua1cj_HRvxyygbcAAbe0D.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - การเปลี่ยนภาพถ่ายให้เป็นภาพพอร์ตเทรตแฟชั่นสตูดิโอ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942282532_x4tfc8_HRvxyyiboAAscBk.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - การเปลี่ยนภาพถ่ายให้เป็นภาพพอร์ตเทรตแฟชั่นสตูดิโอ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1789029006922_su5ah9_HRvxyyiboAAscBk.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - การเปลี่ยนภาพถ่ายให้เป็นภาพพอร์ตเทรตแฟชั่นสตูดิโอ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -746,7 +780,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 7: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวแคนดิดบนระเบียงที่สมจริงสุดๆ
+### No. 8: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวแคนดิดบนระเบียงที่สมจริงสุดๆ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -766,13 +800,13 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942280697_ayouj4_HRvlgp9bkAAQXaW.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวแคนดิดบนระเบียงที่สมจริงสุดๆ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029023578_vy0icv_HRvlgp9bkAAQXaW.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวแคนดิดบนระเบียงที่สมจริงสุดๆ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942280722_925ero_HRvlhNBbgAEtDdq.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวแคนดิดบนระเบียงที่สมจริงสุดๆ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1789029023554_bb11p1_HRvlhNBbgAEtDdq.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวแคนดิดบนระเบียงที่สมจริงสุดๆ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -783,40 +817,6 @@ by {argument name="author" default="Steve Jobs"}
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=33942)**
-
----
-
-### No. 8: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตชุดกี่เพ้าในฝัน
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์สำหรับภาพถ่ายพอร์ตเทรตนางแบบในชุดกี่เพ้า พร้อมเอฟเฟกต์แสงฟุ้งละมุนและมุมกล้องมุมสูงที่ให้ความรู้สึกชวนฝัน
-
-#### 📝 คำสั่ง
-
-```
-9:16, สวมใส่ {argument name="clothing" default="ชุดกี่เพ้า"}, {argument name="lighting" default="แสงฟุ้งละมุน"}, เบลอแบบชวนฝัน, ภาพมุมสูงมองลงมา, {argument name="model type" default="นางแบบรูปร่างสูงโปร่ง"}, แต่งหน้าประณีต, ใบหน้าสวยคมแบบนางจิ้งจอก
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942271047_fnzjql_HRvdLStaoAAAkSy.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตชุดกี่เพ้าในฝัน - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [BubbleBrain](https://x.com/BubbleBrain)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/BubbleBrain/status/2097513469172129825)
-- **เผยแพร่เมื่อ:** 9 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=33931)**
 
 ---
 
@@ -840,7 +840,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942307991_skna27_HRvVMMsaAAA2FPv.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - การสร้างภาพตัวตนผ่านการแชท - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029057376_fqmepw_HRvVMMsaAAA2FPv.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - การสร้างภาพตัวตนผ่านการแชท - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -888,93 +888,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 11: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตอินฟลูเอนเซอร์สไตล์ญี่ปุ่น
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ระดับมืออาชีพสำหรับอินฟลูเอนเซอร์ชาวไต้หวันที่มีลุคเป็นธรรมชาติ โครงหน้าเรียวสวยแบบจิ้งจอก และความงามในสไตล์ญี่ปุ่น
-
-#### 📝 คำสั่ง
-
-```
-อินฟลูเอนเซอร์หญิงวัยผู้ใหญ่ชาว {argument name="nationality" default="ไต้หวัน"} ในสไตล์ {argument name="portrait style" default="Instagram"} ดูเป็นผู้ใหญ่ชัดเจน มีผิวขาวโทนเย็นแบบพอร์ซเลนและมีกระจางๆ ตามธรรมชาติที่สันจมูกและแก้ม เธอมี {argument name="facial features" default="ใบหน้าเรียวเล็กแบบจิ้งจอกที่ดูเท่และประณีต"}: รูปหน้าแคบและได้รูป มีแนวกรามที่ชัดเจนและคางเล็กที่ดูเรียวแหลมแต่ไม่แหลมจนเกินไป คิ้วเรียวบางตามธรรมชาติพร้อมส่วนโค้งที่นุ่มนวล ดวงตาเรียวยาวพร้อมชั้นตาพับเล็กน้อย หัวตาชัดเจนและหางตาเชิดขึ้นเล็กน้อย สายตาดูนิ่ง เย็นชา และห่างเหินเล็กน้อย จมูกเรียวตรงพร้อมปลายจมูกมนเล็กน้อย ริมฝีปากได้รูป โดยริมฝีปากบนบางกว่าริมฝีปากล่างเล็กน้อย มุมปากผ่อนคลายตามธรรมชาติ ไม่ใช่ใบหน้าอินฟลูเอนเซอร์ที่ดูหรูหราหรือแต่งหน้าจัด แต่เป็นลุคสาวญี่ปุ่นที่ดูเป็นธรรมชาติ มีความเป็นผู้ใหญ่เล็กน้อย ดูเท่ มีเอกลักษณ์และดูดี สัดส่วนร่างกายเพรียวบางและสูงโปร่ง 9:16
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942281025_zogxnk_HRvLtZnbEAAH4_e.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตอินฟลูเอนเซอร์สไตล์ญี่ปุ่น - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [BubbleBrain](https://x.com/BubbleBrain)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/BubbleBrain/status/2097496212001948053)
-- **เผยแพร่เมื่อ:** 9 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=33943)**
-
----
-
-### No. 12: โปรไฟล์ / รูปประจำตัว - คู่มืออ้างอิงรูปแบบการถ่ายภาพ
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์เวิร์กโฟลว์สำหรับ GPT Image 2.5 ที่ใช้รูปภาพแนบเป็นข้อมูลอ้างอิงสำหรับแสงและองค์ประกอบภาพ โดยยังคงอนุญาตให้มีการออกแบบตัวละครใหม่ได้
-
-#### 📝 คำสั่ง
-
-```
-ใช้รูปภาพที่แนบมาเป็นข้อมูลอ้างอิงสำหรับรูปแบบการถ่ายภาพ โดยให้คงความสัมพันธ์ของการเปิดรับแสง ทิศทางของแสง พื้นผิวของเสื้อผ้า และจังหวะขององค์ประกอบภาพเอาไว้ แต่ให้ทำการออกแบบตัวละครและชุดสีตามธีมใหม่ ตัวแบบควรเป็น {argument name="subject" default="adult"} และห้ามคัดลอกใบหน้าของบุคคลในภาพอ้างอิง หลังจากสร้างภาพเสร็จแล้ว ให้ตรวจสอบกับภาพต้นฉบับว่ามีการเปลี่ยนแปลงแสง ทำให้เสื้อผ้าดูหนาขึ้น หรือทำให้ผิวเรียบเนียนเกินจริงโดยไม่ได้รับอนุญาตหรือไม่
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942288291_1ovagz_HRu3ie-bwAATJ-v.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - คู่มืออ้างอิงรูปแบบการถ่ายภาพ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942288262_4l3hll_HRu3ie5bEAA6mRU.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - คู่มืออ้างอิงรูปแบบการถ่ายภาพ - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942288331_u3xx6d_HRu3ie6awAALmnX.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - คู่มืออ้างอิงรูปแบบการถ่ายภาพ - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942290704_znjngd_HRu3ie6aQAA5vPA.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - คู่มืออ้างอิงรูปแบบการถ่ายภาพ - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [南鸢 nuyoah](https://x.com/nanyuan0412)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/nanyuan0412/status/2097486896750338125)
-- **เผยแพร่เมื่อ:** 9 กันยายน 2569
-- **ภาษา:** zh
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=33952)**
-
----
-
-### No. 13: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสะท้อนตัวตน AI ในรูปแบบมนุษย์
+### No. 11: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสะท้อนตัวตน AI ในรูปแบบมนุษย์
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -993,7 +907,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942301958_eh9suo_HRu-rWabkAABIwE.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสะท้อนตัวตน AI ในรูปแบบมนุษย์ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029044643_srwnah_HRu-rWabkAABIwE.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสะท้อนตัวตน AI ในรูปแบบมนุษย์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1007,7 +921,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 14: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายแฟชั่นชุดสูทลายตารางสุดเนี้ยบ
+### No. 12: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายแฟชั่นชุดสูทลายตารางสุดเนี้ยบ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1027,7 +941,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942309062_wbcztx_HRusr1hXQAAMAJb.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายแฟชั่นชุดสูทลายตารางสุดเนี้ยบ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029018863_arby09_HRusr1hXQAAMAJb.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายแฟชั่นชุดสูทลายตารางสุดเนี้ยบ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1041,7 +955,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 15: โปรไฟล์ / รูปประจำตัว - เปรียบเทียบ GPT Image 2 กับ 2.5 ในธีมอวกาศ
+### No. 13: โปรไฟล์ / รูปประจำตัว - เปรียบเทียบ GPT Image 2 กับ 2.5 ในธีมอวกาศ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1099,7 +1013,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 16: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตสตูดิโอสไตล์ภาพยนตร์ด้วยแสงคู่
+### No. 14: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตสตูดิโอสไตล์ภาพยนตร์ด้วยแสงคู่
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1133,7 +1047,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 17: โปรไฟล์ / รูปประจำตัว - การฟื้นฟูและลงสีภาพถ่ายบุคคลวินเทจ
+### No. 15: โปรไฟล์ / รูปประจำตัว - การฟื้นฟูและลงสีภาพถ่ายบุคคลวินเทจ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1190,7 +1104,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผู้พิพากษาสีแดงเพลิงแห่งโลกอนาคต
+### No. 16: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผู้พิพากษาสีแดงเพลิงแห่งโลกอนาคต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1242,7 +1156,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตแฟชั่นสตูดิโอแบบทูโทน
+### No. 17: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตแฟชั่นสตูดิโอแบบทูโทน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1287,7 +1201,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 20: โปรไฟล์ / รูปประจำตัว - ภาพเงาดำของชายหนุ่มกับดวงจันทร์ยักษ์ยามค่ำคืน
+### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพเงาดำของชายหนุ่มกับดวงจันทร์ยักษ์ยามค่ำคืน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1321,7 +1235,132 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 21: โพสต์บนโซเชียลมีเดีย - เจ้าหญิงนางฟ้าสีแดงชาดในวิหารดอกไม้
+### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตริมชายฝั่งช่วงโกลเด้นอาวร์
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+คำสั่งสร้างภาพพอร์ตเทรตไลฟ์สไตล์แนวภาพยนตร์ สำหรับสร้างภาพชายหนุ่มสุดเท่นั่งบนบันไดหินริมชายฝั่งในช่วงพระอาทิตย์ตก
+
+#### 📝 คำสั่ง
+
+```
+สร้างภาพพอร์ตเทรตท่องเที่ยวแนวภาพยนตร์ที่สมจริงสูงของ {argument name="subject" default="ชายหนุ่มสุดเท่ผมหยักศกสีเข้ม มีหนวดเคราจางๆ และผิวสีแทนปานกลาง"} ที่กำลังนั่งผ่อนคลายบนบันไดหินเก่าขรุขระบนหน้าผาริมชายฝั่งในช่วงพระอาทิตย์ตกดินโกลเด้นอาวร์ เขาอยู่กึ่งกลางในครึ่งล่างของเฟรมแนวตั้ง นั่งแยกขา ข้อศอกวางบนเข่า มือประสานกันหลวมๆ มองออกไปทางขวาด้วยสีหน้าสงบและมั่นใจ เขาสวมใส่ {argument name="outfit" default="เสื้อเชิ้ตผ้าลินินสีครีมทรงหลวมลายทางแนวตั้ง กางเกงลินินขากว้างสีเบจ รองเท้าผ้าใบสีขาว แว่นตากันแดดทรงเอวิเอเตอร์ และนาฬิกาข้อมือสีดำ"} ด้านหลังของเขาเป็นแนวชายฝั่งหินสไตล์เมดิเตอร์เรเนียนที่ดูน่าทึ่ง โดยมีหน้าผาทอดยาวออกไปทางด้านขวา มหาสมุทรที่สงบนิ่งทางด้านซ้าย พุ่มไม้เตี้ยและพืชพรรณริมชายฝั่งที่แห้งแล้งในฉากหน้า และดวงอาทิตย์ที่อยู่ใกล้ขอบฟ้าทอดแสงสีทองสว่างไสวสะท้อนบนผืนน้ำ ท้องฟ้าเต็มไปด้วยเมฆสีส้มอบอุ่นและหมอกบรรยากาศที่นุ่มนวล ใช้แสงย้อนธรรมชาติ แสงขอบที่อบอุ่นบนเส้นผมและหัวไหล่ พื้นผิวผิวหนังที่สมจริง ระยะชัดลึกตื้นถึงปานกลาง พื้นผิวหินที่มีรายละเอียด คอนทราสต์แบบฟิล์มนุ่มนวล การปรับโทนสีส้มและสีอำพันที่อบอุ่น และสุนทรียศาสตร์ของการถ่ายภาพไลฟ์สไตล์ระดับพรีเมียม องค์ประกอบภาพพอร์ตเทรตแนวตั้ง อัตราส่วนภาพ 2:3 ถ่ายที่ระดับสายตาพร้อมความรู้สึกแบบเลนส์เทเลโฟโต้เล็กน้อย ไม่มีข้อความ ไม่มีลายน้ำ และไม่มีบุคคลอื่นในภาพ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788855327430_ly395k_HRqvHgHaQAAvLHD.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตริมชายฝั่งช่วงโกลเด้นอาวร์ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Faymas](https://x.com/Faymas_ai)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Faymas_ai/status/2097181644985901271#reversed-0)
+- **เผยแพร่เมื่อ:** 8 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=33835)**
+
+---
+
+### No. 20: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตใบหน้าสไตล์วินเทจในช่วง Golden Hour
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+คำสั่ง (Prompt) ที่เน้นการรักษาเอกลักษณ์ของใบหน้าจากภาพอ้างอิง พร้อมสร้างภาพพอร์ตเทรตสไตล์วินเทจแบบภาพยนตร์ในช่วงแสง Golden Hour
+
+#### 📝 คำสั่ง
+
+```
+ใช้ภาพอ้างอิงที่อัปโหลดเป็นตัวกำหนดเอกลักษณ์และใบหน้าอย่างเคร่งครัด โดยต้องรักษาเอกลักษณ์ใบหน้าของผู้หญิงในภาพให้มีความแม่นยำ 100% ใบหน้าของเธอจะต้องดูเหมือนกับในภาพอ้างอิงทุกประการ รวมถึงโครงสร้างใบหน้า สัดส่วน ดวงตา คิ้ว จมูก ริมฝีปาก แก้ม แนวขากรรไกร โทนสีผิว พื้นผิวผิวตามธรรมชาติ และรายละเอียดเฉพาะตัวบนใบหน้า ห้ามดัดแปลง ปรับแต่งให้สวยขึ้น ปรับเปลี่ยนรูปทรง ทำให้ดูแก่หรือเด็กขึ้น หรือตีความใบหน้าของเธอใหม่ สร้างภาพพอร์ตเทรตสไตล์วินเทจแบบภาพยนตร์ในช่วงแสง Golden Hour ที่สมจริงเป็นพิเศษของหญิงคนเดิมที่กำลังนั่งอยู่ภายในอาคารข้างๆ {argument name="background" default="ประตูไม้เก่าที่ผุพัง"} ผมสีน้ำตาลเข้มของเธอ {argument name="hair style" default="รวบเป็นมวยสูงแบบยุ่งๆ อย่างหลวมๆ"} โดยมีปอยผมธรรมชาติหลุดลุ่ยลงมาล้อมรอบใบหน้าและลำคอของเธออย่างนุ่มนวล เธออยู่ในท่าหันข้างสามส่วนอย่างสง่างาม กำลังมองไปทางซ้ายด้วยสีหน้าสงบและครุ่นคิด เธอสวม {argument name="clothing" default="เสื้อไหมพรมถักสีน้ำตาล/เบจตัวใหญ่แบบเรียบง่าย"} ที่มีพื้นผิวผ้าถักทอที่สมจริงอย่างยิ่ง แสงแดดอุ่นๆ ในช่วงปลายบ่ายส่องเข้ามาจากด้านข้าง ทำให้ใบหน้า ผม และเสื้อของเธอสว่างไสวด้วยโทนสีทองเข้ม พร้อมทอดเงาที่เป็นรูปทรงศีรษะและมวยผมยุ่งๆ ของเธอลงบนประตูไม้เก่าด้านหลังอย่างชัดเจน สภาพแวดล้อมเป็นภายในอาคารสไตล์รัสติกที่เก่าแก่ มีผนังปูนฉาบที่แตกร้าวและลอกร่อน แผ่นไม้ที่ดูทรุดโทรม ร่องรอยความไม่สมบูรณ์แบบเล็กน้อย และกรอบรูปวินเทจบนผนัง บรรยากาศแห่งความโหยหาอดีต พื้นผิวผิวธรรมชาติที่สมจริง รูขุมขนที่ชัดเจน เกรนฟิล์มจางๆ พาเลตต์สีเอิร์ธโทนที่อบอุ่น เงาที่ลึก คอนทราสต์แบบภาพยนตร์ แสงแดดสีทองแบบมีมิติ ระยะชัดลึกที่ตื้น โบเก้ธรรมชาติที่นุ่มนวล ภาพถ่ายพอร์ตเทรตเชิงบรรณาธิการ เลนส์ 50mm, f/1.8, HDR, รายละเอียดสูง, สมจริงเหมือนภาพถ่าย, องค์ประกอบภาพแบบภาพยนตร์, การแทนที่ใบหน้าความละเอียด 8K, ห้ามออกแบบใบหน้าใหม่, ห้ามใช้ฟิลเตอร์ความงาม, ห้ามปรับผิวให้เนียนเกินจริง, ห้ามเปลี่ยนสัดส่วนใบหน้า, ห้ามเปลี่ยนดวงตา จมูก ริมฝีปาก คิ้ว แนวขากรรไกร หรือโครงสร้างแก้ม Negative prompt: การ์ตูน, อนิเมะ, CGI, งานเรนเดอร์ 3D, ผิวพลาสติก, ฟิลเตอร์ความงาม, ใบหน้าที่เนียนเกินจริง, เอกลักษณ์ที่ถูกเปลี่ยน, คนละคน, การสลับใบหน้า, การสร้างใบหน้าใหม่, สัดส่วนใบหน้าที่เปลี่ยนไป, การแต่งหน้าจัดเกินไป, ใบหน้าที่บิดเบี้ยว, ดวงตาไม่สมมาตร, มือที่ผิดรูป, นิ้วเกิน, ผมที่ไม่สมจริง, สีที่สดเกินจริง, แสงประดิษฐ์ที่แข็งกระด้าง, ภาพเบลอ, ความละเอียดต่ำ, ลายน้ำ, ข้อความ, โลโก้
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788855298972_f1pygi_HRquunjaUAAMMak.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตใบหน้าสไตล์วินเทจในช่วง Golden Hour - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [ZorviaLux](https://x.com/ZorviaLux)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/ZorviaLux/status/2097180706741026978)
+- **เผยแพร่เมื่อ:** 8 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=33804)**
+
+---
+
+### No. 21: โพสต์บนโซเชียลมีเดีย - Miniature World Inside a Tangerine
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A complex macro photography prompt depicting tiny humans living inside a peeled tangerine, focused on realistic light transmission through citrus segments.
+
+#### 📝 คำสั่ง
+
+```
+Macro cinematic photography inside a {argument name="fruit" default="peeled tangerine"} resting on a dark stone surface. The peel folds outward like petals, forming a cave. Overhead, the citrus segments arch into a translucent orange dome, while the white pith reads like pale plaster.
+{argument name="occupants" default="Three figures, each about two centimeters tall"}, inhabit the cave: one lies on a citrus segment as if it were a bed; one climbs upward along the white pith ridge between two segments as if it were a staircase; one stands at the cave entrance looking out into darkness. A single tangerine seed lies on the ground, scaled like a massive millstone. Every membrane layer and every individual juice vesicle is fully resolved.
+A {argument name="lighting" default="single low-angle sun"} is positioned behind the fruit and is the only light source, producing true transmitted light through the citrus flesh. The orange brightness of the dome must come from light physically passing through the fruit itself, not from any artificial glow effect. Individual juice vesicles illuminate one by one in transmission, while thicker pith appears as darker veins. The cave floor is illuminated only by this transmitted light. Outside the cave entrance is completely black. No fill light.
+Anamorphic 2.39:1, anamorphic lens with macro adapter, f/4. Sparse defocused light points outside the cave appear as vertically oval bokeh with subtle horizontal anamorphic stretch. Deep focus, focus stacked.
+Kodak Vision3 500T motion picture negative, tungsten white balance, warm saturated transmitted orange highlights with deep cyan shadows. Black Pro-Mist 1/4. Strong transmitted-light edges along the thinnest parts of the fruit show visible red halation.
+Overall exposure reduced by one stop. The darkness outside the cave remains truly black. Fine film grain, more visible in the shadows. No digital sharpening, no HDR, no orange-and-teal grading, no lens-flare effects, no artificial glow, no CGI plastic texture.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789029036058_lv9sco_HRziPXvbMAA4nRd.png" width="600" alt="โพสต์บนโซเชียลมีเดีย - Miniature World Inside a Tangerine - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789029035902_ci958i_HRziQpAaQAAk4rM.png" width="600" alt="โพสต์บนโซเชียลมีเดีย - Miniature World Inside a Tangerine - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789029035897_thhubb_HRziSahbYAAv-Rm.png" width="600" alt="โพสต์บนโซเชียลมีเดีย - Miniature World Inside a Tangerine - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789029037213_eli82q_HRziTgcbkAAIjUD.png" width="600" alt="โพสต์บนโซเชียลมีเดีย - Miniature World Inside a Tangerine - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Johnny Wang](https://x.com/JohnnyWang8802)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/JohnnyWang8802/status/2097800514633429315)
+- **เผยแพร่เมื่อ:** 9 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34143)**
+
+---
+
+### No. 22: โพสต์บนโซเชียลมีเดีย - เจ้าหญิงนางฟ้าสีแดงชาดในวิหารดอกไม้
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1373,7 +1412,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 22: โพสต์บนโซเชียลมีเดีย - เปรียบเทียบโมเดลรูปภาพ GPT แบบ 3 ช่อง
+### No. 23: โพสต์บนโซเชียลมีเดีย - เปรียบเทียบโมเดลรูปภาพ GPT แบบ 3 ช่อง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1421,40 +1460,6 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 23: โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างภาพซ้อนทับสไตล์วาดมือ
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์เชิงสร้างสรรค์ที่ออกแบบมาสำหรับ GPT Image 2.5 เพื่อเพิ่มภาพซ้อนทับสไตล์วาดมือที่ดูมีสไตล์และเป็นกันเอง โดยใช้เส้นสีขาวคล้ายปากกาในการวาดเส้นขอบ พร้อมเพิ่มข้อความประกอบคล้ายบันทึกประจำวันเพื่อความรู้สึกที่เป็นส่วนตัว
-
-#### 📝 คำสั่ง
-
-```
-เพิ่มภาพซ้อนทับสไตล์วาดมือลงบนรูปภาพ โดยให้ผลลัพธ์ออกมาดูมีสไตล์ ผ่อนคลาย และดูเป็นธรรมชาติ กฎการวาด: ใช้เส้นวาดมือสีขาวที่ดูเหมือนวาดด้วยปากกา รักษาความเป็นเส้นที่ดูหยาบ ไม่สม่ำเสมอเล็กน้อย และเป็นเส้นเดียว เพิ่มเส้นที่ลากตามขอบด้านนอกของวัตถุ ใช้ลูกศรและเส้นประเพื่อนำสายตาผู้ชม กฎของข้อความ: ใช้ {argument name="text style" default="hand-drawn text"} โดยให้มีความสั้นกระชับเหมือนความคิดที่กระซิบออกมาจากใจ โทนของข้อความควรเป็น {argument name="tone" default="diary-like"} เน้นความกระชับและอารมณ์ความรู้สึก ส่วนความคิดเห็นควรเป็น {argument name="comments" default="positive and gentle"} การตกแต่ง: เพิ่มรายละเอียดเล็กๆ น้อยๆ เช่น ควัน ประกายไฟ รูปหัวใจ และใบหน้าอีโมติคอนขนาดเล็ก อย่าใส่เยอะเกินไปและควรเว้น "พื้นที่ว่าง" เอาไว้บ้าง
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942306759_dzpoa0_HRvf3rrawAAW1pv.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สำหรับสร้างภาพซ้อนทับสไตล์วาดมือ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [ヒロNe｜AIイラスト](https://x.com/glum_ai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/glum_ai/status/2097565667272839599)
-- **เผยแพร่เมื่อ:** 9 กันยายน 2569
-- **ภาษา:** ja
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=33970)**
-
----
-
 ### No. 24: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นไลฟ์สไตล์ไมอามีในยุค 1980
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
@@ -1475,7 +1480,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942279672_7tci74_HRwC47sa4AAeZBl.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นไลฟ์สไตล์ไมอามีในยุค 1980 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029005977_ywtaqq_HRwC47sa4AAeZBl.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นไลฟ์สไตล์ไมอามีในยุค 1980 - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1509,13 +1514,13 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942275494_hzh6mo_HRv3D8ra0AAaDAE.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นชุดเดรสสีแดงที่สมจริงเป็นพิเศษ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029024244_coejbh_HRv3D8ra0AAaDAE.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นชุดเดรสสีแดงที่สมจริงเป็นพิเศษ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942275537_p5yj96_HRv3E-8bsAAxvsf.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นชุดเดรสสีแดงที่สมจริงเป็นพิเศษ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1789029024282_7vg3sa_HRv3E-8bsAAxvsf.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นชุดเดรสสีแดงที่สมจริงเป็นพิเศษ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1577,47 +1582,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 27: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตท่องเที่ยวแนวแคนดิด ณ ชายฝั่งยุโรป
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-คำสั่ง (Prompt) สำหรับสร้างภาพพอร์ตเทรตสไตล์ท่องเที่ยวที่สมจริง ของหญิงสาวที่ยืนอยู่หน้าวิหารหินเก่าแก่บนเกาะชายฝั่งที่เป็นโขดหิน
-
-#### 📝 คำสั่ง
-
-```
-ภาพถ่ายพอร์ตเทรตท่องเที่ยวแนวแคนดิดที่สมจริงของ {argument name="subject" default="หญิงสาวชาวเอเชียตะวันออก"} ยืนอยู่บน {argument name="location" default="ชายหาดเงียบสงบข้างโขดหินขนาดใหญ่ที่มีมอสขึ้นปกคลุม"} โดยมี {argument name="landmark" default="วิหารหินเก่าแก่และสถาปัตยกรรมคล้ายปราสาทในยุคกลาง"} อันงดงามตั้งตระหง่านอยู่บนเกาะที่เป็นโขดหินด้านหลังเธอ เธอมีผมยาวตรงสีน้ำตาลเข้มทิ้งตัวลงมาอย่างเป็นธรรมชาติที่ไหล่ข้างหนึ่ง ใบหน้าดูอ่อนเยาว์และมีรอยยิ้มที่อบอุ่นขณะมองตรงมาที่กล้อง เธอสวมเสื้อโค้ทตัวยาวสีดำขนาดใหญ่โดยเอามือล้วงกระเป๋าไว้อย่างสบายๆ สวมทับชุดสีอ่อน มีผ้าพันคอผืนใหญ่สีครีมขาวพันรอบคออย่างอบอุ่น ห้อยลงมาด้านหน้าพร้อมสัญลักษณ์ดีไซเนอร์สีดำเล็กๆ ใกล้ปลายผ้า มองเห็นสายสะพายกระเป๋าแบบโซ่เล็กน้อย องค์ประกอบภาพเน้นตัวบุคคลที่ด้านหน้า ในขณะที่วิหารเก่าแก่ขนาดใหญ่เป็นฉากหลังที่โดดเด่น ล้อมรอบด้วยกำแพงหินโบราณ หน้าผาหิน หาดทราย และบรรยากาศชายฝั่งที่เงียบสงบ มีรถยนต์และผู้คนจำนวนเล็กน้อยในระยะไกลช่วยเพิ่มความสมจริงให้กับฉาก แสงธรรมชาติยามเย็นที่นุ่มนวลและท้องฟ้าสีฟ้าอ่อนใสสร้างบรรยากาศการท่องเที่ยวในยุโรปที่เงียบสงบ ภาพถ่ายสมจริงพิเศษ ภาพถ่ายท่องเที่ยวแนวแคนดิดที่เป็นธรรมชาติ ผิวสัมผัสสมจริง รายละเอียดเนื้อผ้าสมจริง แสงแบบภาพยนตร์ที่นุ่มนวล สุนทรียภาพแบบกล้องสมาร์ทโฟนเล็กน้อย การปรับสีที่ดูชวนฝัน สัดส่วนที่เป็นธรรมชาติ สถาปัตยกรรมที่มีรายละเอียด บรรยากาศชายฝั่งที่เงียบสงบ องค์ประกอบภาพแนวตั้ง อัตราส่วนภาพ 3:4
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942272775_tqfpdv_HRvuwVcasAAwAwf.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตท่องเที่ยวแนวแคนดิด ณ ชายฝั่งยุโรป - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942272782_00vw81_HRvuxTBacAA10A6.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตท่องเที่ยวแนวแคนดิด ณ ชายฝั่งยุโรป - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/saniaspeaks_/status/2097532595814940683)
-- **เผยแพร่เมื่อ:** 9 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=33933)**
-
----
-
-### No. 28: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแคนดิดของเพื่อนนักศึกษาในรั้วมหาวิทยาลัยญี่ปุ่น
+### No. 27: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแคนดิดของเพื่อนนักศึกษาในรั้วมหาวิทยาลัยญี่ปุ่น
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1651,7 +1616,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 29: โพสต์บนโซเชียลมีเดีย - คอลลาจภาพถ่ายสไตล์ภาพยนตร์บันทึกประจำวันของนักเรียนหญิง
+### No. 28: โพสต์บนโซเชียลมีเดีย - คอลลาจภาพถ่ายสไตล์ภาพยนตร์บันทึกประจำวันของนักเรียนหญิง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1704,7 +1669,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 30: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายป่าโปร่งความละเอียดสูง
+### No. 29: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายป่าโปร่งความละเอียดสูง
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1744,7 +1709,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 31: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายสินค้าการ์ดสะสมสำหรับสตรีมเมอร์
+### No. 30: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายสินค้าการ์ดสะสมสำหรับสตรีมเมอร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1778,7 +1743,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 32: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตชุดฮั่นฝูริมสระบัวยามพระอาทิตย์ตก
+### No. 31: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายพอร์ตเทรตชุดฮั่นฝูริมสระบัวยามพระอาทิตย์ตก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1812,7 +1777,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 33: โพสต์บนโซเชียลมีเดีย - การถ่ายภาพผลิตภัณฑ์สกินแคร์ระดับมืออาชีพ
+### No. 32: โพสต์บนโซเชียลมีเดีย - การถ่ายภาพผลิตภัณฑ์สกินแคร์ระดับมืออาชีพ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1857,13 +1822,13 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942312152_pqu1gu_HRvYdeLasAAZE1c.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - การถ่ายภาพผลิตภัณฑ์สกินแคร์ระดับมืออาชีพ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029081490_6sfvnu_HRvYdeLasAAZE1c.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - การถ่ายภาพผลิตภัณฑ์สกินแคร์ระดับมืออาชีพ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942312173_we3jk7_HRvYd_GbAAAviCb.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - การถ่ายภาพผลิตภัณฑ์สกินแคร์ระดับมืออาชีพ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1789029081473_nefs42_HRvYd_GbAAAviCb.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - การถ่ายภาพผลิตภัณฑ์สกินแคร์ระดับมืออาชีพ - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -1877,7 +1842,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 34: โพสต์บนโซเชียลมีเดีย - สไปรท์ชีท GIF ตัวละครการ์ตูน
+### No. 33: โพสต์บนโซเชียลมีเดีย - สไปรท์ชีท GIF ตัวละครการ์ตูน
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1896,7 +1861,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942286670_rawgu5_HRvYtLBawAA4oRK.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - สไปรท์ชีท GIF ตัวละครการ์ตูน - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029046464_x0lkan_HRvYtLBawAA4oRK.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - สไปรท์ชีท GIF ตัวละครการ์ตูน - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1910,7 +1875,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 35: โพสต์บนโซเชียลมีเดีย - ฉากการไลฟ์สดของอินฟลูเอนเซอร์
+### No. 34: โพสต์บนโซเชียลมีเดีย - ฉากการไลฟ์สดของอินฟลูเอนเซอร์
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1930,7 +1895,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942297094_myr7m6_HRvV8TeasAAEHnQ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ฉากการไลฟ์สดของอินฟลูเอนเซอร์ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029025826_5dq4ia_HRvV8TeasAAEHnQ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ฉากการไลฟ์สดของอินฟลูเอนเซอร์ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1944,7 +1909,111 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 36: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพจำลองหัวใจเทียมแบบโปร่งใสในมุมมองแยกส่วน
+### No. 35: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตแนวภาพยนตร์ของขุนนางโบราณ Elon
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพพอร์ตเทรตแนวภาพยนตร์ที่สมจริง โดยนำบุคคลสำคัญด้านเทคโนโลยีในยุคปัจจุบันไปอยู่ในฉากอารยธรรมริมแม่น้ำยุคโบราณ
+
+#### 📝 คำสั่ง
+
+```
+สร้างภาพพอร์ตเทรตทางประวัติศาสตร์แนวภาพยนตร์ที่สมจริงของ {argument name="character name" default="Elon Musk"} ในจินตนาการใหม่ให้เป็นพ่อค้าขุนนางผู้มั่งคั่งในยุคเมโสโปเตเมียหรืออียิปต์โบราณ ยืนอยู่ในเมืองริมแม่น้ำที่อาบไปด้วยแสงแดด จัดวางภาพแบบครึ่งตัวในส่วนหน้า ค่อนไปทางซ้ายเล็กน้อย สายตามองไปทางขวาบนอย่างมั่นใจด้วยสีหน้าเรียบเฉยและจริงจัง เขาสวมเสื้อทูนิคผ้าลินินหยาบสีขาวนวลแขนรุ่ย สวมผ้าคลุมไหล่ลวดลายสีน้ำตาลเข้มพาดบ่า สวมสร้อยคอลูกปัดและทองคำหลายชั้น และกำไลทองคำสลักลวดลายประดับหินสีน้ำเงินที่ข้อมือทั้งสองข้าง มือถือแผ่นดินเหนียวที่มีอักษรรูปลิ่มจารึกไว้แนบกับหน้าอก ฉากหลังเป็นเมืองท่าในทะเลทรายยุคโบราณในช่วงเวลาโกลเด้นอาวร์: มีเสาหินแกะสลักสัญลักษณ์คล้ายอักษรภาพอยู่ทางซ้ายสุด มีต้นปาล์มและอาคารอิฐโคลนอยู่ด้านหลัง มีแม่น้ำกว้างหรือคลองอยู่ทางขวาพร้อมเรือใบไม้ลำเล็กๆ มีคนงานกำลังขนย้ายและวางบล็อกหิน และมีสถานที่ก่อสร้างซิกกูรัตหรือสิ่งก่อสร้างคล้ายพีระมิดที่มีนั่งร้านอยู่ไกลๆ ในบรรยากาศที่เลือนราง ใช้แสงแดดสีอำพันอันอบอุ่น บรรยากาศที่มีฝุ่นละออง ฉากหลังเบลออย่างนุ่มนวล แสงขอบรอบตัวบุคคล พื้นผิวผิวหนังที่สมจริง ระยะชัดลึกตื้น องค์ประกอบภาพแบบภาพยนตร์ระดับมหากาพย์ ให้ลุคแบบเลนส์ 35mm anamorphic รายละเอียดสูง สีสันเป็นธรรมชาติ ไม่มีวัตถุสมัยใหม่ ไม่มีข้อความทับ และไม่มีลายน้ำ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788942336137_25n7rt_HRvG0PFaoAAKdRS.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตแนวภาพยนตร์ของขุนนางโบราณ Elon - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Linx_OKX | 我爱Misa](https://x.com/hetzerLin)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/hetzerLin/status/2097488659641708999#reversed-0)
+- **เผยแพร่เมื่อ:** 9 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34015)**
+
+---
+
+### No. 36: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Research Paper Academic Poster
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A prompt to transform an attached research paper into a professional academic poster following specific conference regulations.
+
+#### 📝 คำสั่ง
+
+```
+Research the poster regulations for presentation at the {argument name="conference name" default="2026 Neuroscience Conference"} and transform the attached paper into a poster accordingly.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789029055465_961vg3_HR0qIogbQAAO5DF.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Research Paper Academic Poster - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Daichi Konno / 紺野 大地](https://x.com/_daichikonno)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/_daichikonno/status/2097880100587135480)
+- **เผยแพร่เมื่อ:** 10 กันยายน 2569
+- **ภาษา:** ja
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34145)**
+
+---
+
+### No. 37: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - 3D Diagrams and Visual Layouts
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 คำอธิบาย
+
+A comprehensive prompt setup to generate clean 3D graphic design layouts, informational diagrams, and matte-texture presentation slides.
+
+#### 📝 คำสั่ง
+
+```
+You are an information editor, diagram designer, and 3D art director.
+- Compare 3 visual proposals matching the content, and adopt the most intuitive option.
+- Explain using objects or materials specific to the subject. Use books, bamboo slips, or paper for classical literature; parts or assembly for manufacturing.
+- Elegant matte materials, soft lighting, and natural depth. Use 3D representations to convey sequence, relationships, and changes.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789029059595_eeotu5_HRz-Q5LasAAI4Qh.png" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - 3D Diagrams and Visual Layouts - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [あきらパパ【生成AI活用エンジニア&３児のパパ】](https://x.com/akira_papa_IT)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/akira_papa_IT/status/2097832162586407176)
+- **เผยแพร่เมื่อ:** 9 กันยายน 2569
+- **ภาษา:** ja
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34148)**
+
+---
+
+### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพจำลองหัวใจเทียมแบบโปร่งใสในมุมมองแยกส่วน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1998,7 +2067,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 37: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - เปลี่ยนภาพร่างผลิตภัณฑ์ด้วย AI ให้เป็นโคมไฟสมจริง
+### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - เปลี่ยนภาพร่างผลิตภัณฑ์ด้วย AI ให้เป็นโคมไฟสมจริง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2032,7 +2101,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - แผ่นรายละเอียดหน้าต่างระเบียงสไตล์ญี่ปุ่น
+### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - แผ่นรายละเอียดหน้าต่างระเบียงสไตล์ญี่ปุ่น
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2078,7 +2147,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การสร้างอินโฟกราฟิกนโยบายสไตล์ญี่ปุ่นขึ้นใหม่ให้เหมือนต้นฉบับ
+### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การสร้างอินโฟกราฟิกนโยบายสไตล์ญี่ปุ่นขึ้นใหม่ให้เหมือนต้นฉบับ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2112,7 +2181,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพหน้าจออินโฟกราฟิกเรื่องกบฏอันสื่อของ ChatGPT
+### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพหน้าจออินโฟกราฟิกเรื่องกบฏอันสื่อของ ChatGPT
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2168,7 +2237,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพตัดขวางอาคารกระจกผ่านแว่นขยาย
+### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพตัดขวางอาคารกระจกผ่านแว่นขยาย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2222,7 +2291,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - UI การแปลงภาพร่างแม่มดให้เป็นภาพแฟนตาซี
+### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - UI การแปลงภาพร่างแม่มดให้เป็นภาพแฟนตาซี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2270,7 +2339,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพเปรียบเทียบการวิเคราะห์ทรงผม
+### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพเปรียบเทียบการวิเคราะห์ทรงผม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2304,7 +2373,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การออกแบบหน้าปก PPT สไตล์บรรณาธิการ
+### No. 46: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การออกแบบหน้าปก PPT สไตล์บรรณาธิการ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2350,7 +2419,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ฉากเชื้อโรคบนผักผลไม้สกปรกในห้องครัว
+### No. 47: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ฉากเชื้อโรคบนผักผลไม้สกปรกในห้องครัว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2390,7 +2459,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 46: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - เปลี่ยนภาพภูเขาไฟฟูจิให้เป็นภาพวาดสีน้ำ
+### No. 48: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - เปลี่ยนภาพภูเขาไฟฟูจิให้เป็นภาพวาดสีน้ำ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2424,7 +2493,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 47: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ขั้นตอนการวาดภาพพอร์ตเทรตด้วยดินสอกราไฟต์
+### No. 49: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ขั้นตอนการวาดภาพพอร์ตเทรตด้วยดินสอกราไฟต์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2468,7 +2537,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 48: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ตารางขั้นตอนการทำอเมริกันแพนเค้ก
+### No. 50: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ตารางขั้นตอนการทำอเมริกันแพนเค้ก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2512,7 +2581,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 49: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกเวิร์กโฟลว์ PPT แบบแก้ไขได้
+### No. 51: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกเวิร์กโฟลว์ PPT แบบแก้ไขได้
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2571,81 +2640,47 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 50: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - เรื่องราวภาพวาดในสมุดบันทึกเมนูอาหาร
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์สร้างสรรค์ที่จะเปลี่ยนวัตถุดิบอาหารให้กลายเป็นภาพวาดลายเส้นที่มีเสน่ห์ เหมือนหลุดออกมาจากหน้ากระดาษสมุดบันทึกเมนูอาหารสุดคลาสสิก พร้อมลายเส้นหมึกและคำบรรยายที่เขียนด้วยลายมือ
-
-#### 📝 คำสั่ง
-
-```
-เปลี่ยนวัตถุดิบหลักให้กลายเป็นเรื่องราวผ่านภาพวาด {argument name="frame count" default="4–6 ช่องภาพขนาดเล็ก"} โดยยังคงเอกลักษณ์ของวัตถุดิบเดิมไว้ แต่ตีความใหม่ในรูปแบบภาพวาดลายเส้นที่มีเสน่ห์ แสดงให้เห็นถึงส่วนประกอบ ขั้นตอนการเตรียม พื้นผิว และหน้าตาของอาหารเมื่อเสร็จสมบูรณ์
-
-ใช้ {argument name="background style" default="พื้นหลังกระดาษสีครีมโทนอบอุ่น"} พร้อมลายเส้นหมึกที่ละเอียดอ่อน คำบรรยายด้วยลายมือ ลูกศรขนาดเล็ก ภาพร่างส่วนประกอบต่างๆ สัญลักษณ์การตวง และพื้นผิวงานพิมพ์ที่มีความไม่สมบูรณ์แบบอย่างมีศิลปะ
-
-จัดวางองค์ประกอบให้รู้สึกเหมือนหน้ากระดาษจาก {argument name="illustration style" default="สมุดบันทึกเมนูอาหารเก่า"} ที่ดูมีความเป็นศิลปะ ชาญฉลาด ชวนให้คิดถึงวันวาน และผ่านการคัดสรรมาเป็นอย่างดี
-
-อย่าเพียงแค่คัดลอกภาพถ่าย แต่จงเปลี่ยนวัตถุดิบนั้นให้กลายเป็นเรื่องราวที่ถ่ายทอดผ่านภาพวาด
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788769178719_ddx895_HRlqK8fakAAPxYU.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - เรื่องราวภาพวาดในสมุดบันทึกเมนูอาหาร - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788769178697_ibbc13_HRlqK8faMAAlSww.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - เรื่องราวภาพวาดในสมุดบันทึกเมนูอาหาร - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [simeon-sanai](https://x.com/Naiknelofar788)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Naiknelofar788/status/2096823849702785331)
-- **เผยแพร่เมื่อ:** 7 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=33677)**
-
----
-
-### No. 51: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ใบปลิวงานศิลปะร่วมสมัย
+### No. 52: ภาพขนาดย่อของ YouTube - Authentic Everyday Person Vlog Thumbnail
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-พรอมต์สไตล์มินิมอลที่สะอาดตาสำหรับการออกแบบโปสเตอร์งานศิลปะ ที่ผสมผสานวัตถุเรขาคณิตนามธรรมเข้ากับภาพถ่ายสถาปัตยกรรมและการจัดวางตัวอักษรที่ทันสมัย
+A detailed prompt for generating realistic, non-idealized portraits of ordinary women, intentionally avoiding AI symmetry for authentic YouTube vlog thumbnails.
 
 #### 📝 คำสั่ง
 
 ```
-[ข้อมูลกิจกรรม]
-- ชื่อกิจกรรม: {argument name="event name" default="Margin and Structure"}
-- วันและเวลา: {argument name="date" default="12 ตุลาคม – 24 พฤศจิกายน 2026"}
-- สถานที่: {argument name="venue" default="พิพิธภัณฑสถานแห่งชาติศิลปะสมัยใหม่"}
+Please generate a YouTube thumbnail image. {argument name="use case" default="vlog video"}
 
-[คุณภาพ ทิศทาง และองค์ประกอบภาพ]
-- สไตล์: โปสเตอร์สำหรับนิทรรศการศิลปะร่วมสมัยหรือกิจกรรมการออกแบบสมัยใหม่ โดยเน้นการจัดวางแบบบรรณาธิการที่สะอาดตาและมินิมอล
-- องค์ประกอบภาพ: ภาพถ่ายที่จัดองค์ประกอบอย่างสวยงาม โดยมีวัตถุศิลปะเรขาคณิตนามธรรม หรือพื้นที่สถาปัตยกรรมคอนกรีตและกระจก ซึ่งให้ความรู้สึกถึงความเงียบสงบและความชาญฉลาด
-- การจัดวางตัวอักษร (สำหรับ GPT-image / Nano Banana Pro): ชื่อกิจกรรม "{argument name="event name" default="Margin and Structure"}", วันที่ "{argument name="date" default="12 ตุลาคม – 24 พฤศจิกายน 2026"}" และข้อมูลสถานที่ "{argument name="venue" default="พิพิธภัณฑสถานแห่งชาติศิลปะสมัยใหม่"}" ถูกจัดวางไว้อย่างสวยงามในพื้นที่ว่างโดยใช้ฟอนต์แบบไม่มีหัว (sans-serif) ที่มีความทันสมัยและดูดี ข้อความต้องกลมกลืนไปกับภาพโดยไม่บดบังความสวยงามโดยรวม
-- แสงและสี: พื้นที่ที่เน้นสีขาวสะอาดตา แสงธรรมชาติโทนเย็นพร้อมการไล่เฉดแสงที่นุ่มนวล และใช้โทนสีกลางโดยมีสีเน้น (เช่น สีกรมท่าหรือสีเทาเข้ม)
+The person to be used for the thumbnail should be an adult woman in a realistic photograph. 
 
-[ข้อกำหนดด้านการจัดวางและผลลัพธ์ (จำเป็น)]
-- แสดงผลงานออกแบบที่เสร็จสมบูรณ์โดยเต็มพื้นที่แคนวาส คำอธิบายฉากภายในงานออกแบบ (ผนัง พื้นที่ เงา ฯลฯ) สามารถเป็นไปตามคำแนะนำหลักได้
-- ข้อห้าม: ห้ามแสดงภาพถ่ายโปสเตอร์ที่ใส่กรอบ, ภาพถ่ายโปสเตอร์ที่แปะอยู่บนผนัง, ภาพจำลอง (mockup) ที่วางบนโต๊ะหรือกระดาษ, การบิดเบือนมุมมองของขอบกระดาษ หรือการใส่เงาตกกระทบ (drop shadow)
-- แสดงผลงานออกแบบ 2D แบบแบนที่เสร็จสมบูรณ์โดยเต็มพื้นที่แคนวาส องค์ประกอบฉากภายในงานออกแบบ (ผนัง ห้อง เงา) ตามที่อธิบายไว้ข้างต้นสามารถทำได้ ห้ามทำภาพจำลองโปสเตอร์โดยเด็ดขาด: ห้ามมีกรอบรูป, ห้ามมีภาพโปสเตอร์บนผนังหรือบนโต๊ะ, ห้ามมีการบิดเบือนมุมมองหรือเงาตกกระทบที่ขอบของงานศิลปะ
+Do not make them a so-called "beauty," "model face," or "celebrity-like well-featured face." Make it an ordinary-looking woman you would actually see in daily life. There should be a sense of cleanliness and approachability, but the facial features should not be ideally arranged. 
 
-- สัดส่วนภาพ: --ar 3:4
+Do not intentionally make the face perfectly symmetrical. Leave natural asymmetries and individual differences found in real humans. 
+
+- Slightly vary the height, angle, thickness, and shape of the left and right eyebrows.
+- Do not perfectly align the size, opening, and position of the left and right eyes.
+- Do not make the bridge of the nose perfectly straight or symmetrical; add slight asymmetry to the tip and nostrils.
+- Add natural asymmetry to the height of the corners of the mouth, thickness of the lips, and lip outline.
+- Do not make the contours or cheek volume perfectly identical on both sides.
+- Do not over-correct teeth alignment, skin, pores, fine hair, or fine wrinkles.
+- In the vertical direction of the face, do not arrange the spacing between eyes, nose, and mouth too perfectly like the golden ratio. 
+
+Maintain skin cleanliness but avoid excessive skin-beautifying processing. Leave realistic details like pores, slight unevenness in color, small spots or dark circles, and subtle skin texture appropriately. 
+
+Makeup should be thin and natural for everyday wear. Avoid beauty expressions that make the face look too well-ordered, such as contouring, strong highlights, or excessive eye makeup. 
+
+Hairstyles and clothing should not be perfect styling like an advertising model, but general, clean, everyday items. Leave a small amount of stray hairs or natural messiness in the hair. 
+
+Expressions should not be forced advertising smiles, but natural expressions with some ambiguity. Avoid perfect smiles or symmetrical smiles. 
+
+The photograph should look like a natural shot taken by chance in an everyday space. Instead of uniform lighting like a studio shoot, leave slight differences in light and shadow from natural window light or indoor lighting. Do not align posture, face angle, or shoulder height evenly. 
+
+Overall, prioritize "a very ordinary adult woman who seems to exist" rather than "the ideal woman imagined by AI." 
+
+Avoid elements: perfect face, symmetrical face, beautiful model, glamorous, celebrity-like, ideal proportions, golden ratio face, flawless skin, porcelain skin, doll-like face, perfect teeth, perfectly shaped eyebrows, perfectly symmetrical eyes, sharp jawline, V-shaped face, excessive beauty retouching, fashion model look, influencer look, overly polished advertising photography
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -2653,57 +2688,35 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788855310093_9jt5qb_HRkDeDnacAAQ8aU.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ใบปลิวงานศิลปะร่วมสมัย - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [AI Guide-Note - 実務で使えるAI活用メディア](https://x.com/AIGuideNote)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/AIGuideNote/status/2096710919900582307)
-- **เผยแพร่เมื่อ:** 6 กันยายน 2569
-- **ภาษา:** ja
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=33672)**
-
----
-
-### No. 52: ภาพขนาดย่อของ YouTube - ภาพหน้าจอ UI เกม 3D RPG
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์แบบละเอียดสำหรับการสร้างภาพหน้าจอเกม 3D โอเพนเวิลด์ที่สมจริง พร้อมองค์ประกอบ UI เช่น มินิแมพ แถบพลังชีวิต และคำบรรยายบทสนทนา
-
-#### 📝 คำสั่ง
-
-```
-โปรดจับภาพหน้าจอที่สมจริงจากเกม 3D โอเพนเวิลด์ยุคใหม่ที่สมมติขึ้นในแนว {argument name="game genre" default="romance RPG"} โดยนำเสนอจากมุมมองบุคคลที่หนึ่งของตัวเอกชาย บน {argument name="location" default="ชายหาด"} {argument name="character" default="Morrigan Aensland จาก Darkstalkers"} กำลังชวนตัวเอกให้มาช่วยเธอทาครีมกันแดด รูปแบบภาพโดยรวมต้องโดดเด่นด้วยตัวละคร 3D สไตล์การ์ตูนคุณภาพสูงผสมผสานกับกราฟิกระดับ Unreal Engine 5 เพื่อให้ได้ความคมชัดของภาพระดับ AAA โดยต้องประกอบไปด้วยการสร้างโมเดลตัวละครที่ละเอียดเป็นพิเศษ การลงเงาผิวที่สมจริง แสงแบบภาพยนตร์ วัสดุแบบ PBR พื้นผิวเสื้อผ้าที่มีความแม่นยำสูง และสภาพแวดล้อมในห้องเรียนที่ได้รับการเรนเดอร์อย่างประณีต ภาพสุดท้ายต้องดูเหมือนภาพหน้าจอจากเกมที่เล่นได้จริง รวมถึงมีอินเทอร์เฟซผู้ใช้ของเกมที่ครบถ้วน ได้แก่ มินิแมพ การแสดงภารกิจ แถบสถานะตัวละคร คำสั่งโต้ตอบ คำบรรยายบทสนทนา องค์ประกอบ HUD และอื่นๆ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942270977_8ylr3f_HRwgb9iaUAAcewg.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพหน้าจอ UI เกม 3D RPG - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029058855_02349s_HR0nUmVaAAAIcGO.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - Authentic Everyday Person Vlog Thumbnail - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942271159_zyqqko_HRwgg-ObEAAcuwA.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพหน้าจอ UI เกม 3D RPG - Image 2">
+<img src="https://cms-assets.youmind.com/media/1789029059107_4xogs1_HR0nWLqbYAAyDCs.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - Authentic Everyday Person Vlog Thumbnail - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789029058918_am0tps_HR0omesagAALxQh.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - Authentic Everyday Person Vlog Thumbnail - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789029060246_risf8g_HR0ooF2bYAELBy-.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - Authentic Everyday Person Vlog Thumbnail - Image 4">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [underwood](https://x.com/underwoodxie96)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/underwoodxie96/status/2097587863139537262)
-- **เผยแพร่เมื่อ:** 9 กันยายน 2569
-- **ภาษา:** en
+- **ผู้เขียน:** [Koudai Nakahara](https://x.com/YEKPtVxjDg42909)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/YEKPtVxjDg42909/status/2097877697720734016)
+- **เผยแพร่เมื่อ:** 10 กันยายน 2569
+- **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=33930)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34144)**
 
 ---
 
@@ -4024,41 +4037,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 84: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตแนวภาพยนตร์ของขุนนางโบราณ Elon
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์สำหรับสร้างภาพพอร์ตเทรตแนวภาพยนตร์ที่สมจริง โดยนำบุคคลสำคัญด้านเทคโนโลยีในยุคปัจจุบันไปอยู่ในฉากอารยธรรมริมแม่น้ำยุคโบราณ
-
-#### 📝 คำสั่ง
-
-```
-สร้างภาพพอร์ตเทรตทางประวัติศาสตร์แนวภาพยนตร์ที่สมจริงของ {argument name="character name" default="Elon Musk"} ในจินตนาการใหม่ให้เป็นพ่อค้าขุนนางผู้มั่งคั่งในยุคเมโสโปเตเมียหรืออียิปต์โบราณ ยืนอยู่ในเมืองริมแม่น้ำที่อาบไปด้วยแสงแดด จัดวางภาพแบบครึ่งตัวในส่วนหน้า ค่อนไปทางซ้ายเล็กน้อย สายตามองไปทางขวาบนอย่างมั่นใจด้วยสีหน้าเรียบเฉยและจริงจัง เขาสวมเสื้อทูนิคผ้าลินินหยาบสีขาวนวลแขนรุ่ย สวมผ้าคลุมไหล่ลวดลายสีน้ำตาลเข้มพาดบ่า สวมสร้อยคอลูกปัดและทองคำหลายชั้น และกำไลทองคำสลักลวดลายประดับหินสีน้ำเงินที่ข้อมือทั้งสองข้าง มือถือแผ่นดินเหนียวที่มีอักษรรูปลิ่มจารึกไว้แนบกับหน้าอก ฉากหลังเป็นเมืองท่าในทะเลทรายยุคโบราณในช่วงเวลาโกลเด้นอาวร์: มีเสาหินแกะสลักสัญลักษณ์คล้ายอักษรภาพอยู่ทางซ้ายสุด มีต้นปาล์มและอาคารอิฐโคลนอยู่ด้านหลัง มีแม่น้ำกว้างหรือคลองอยู่ทางขวาพร้อมเรือใบไม้ลำเล็กๆ มีคนงานกำลังขนย้ายและวางบล็อกหิน และมีสถานที่ก่อสร้างซิกกูรัตหรือสิ่งก่อสร้างคล้ายพีระมิดที่มีนั่งร้านอยู่ไกลๆ ในบรรยากาศที่เลือนราง ใช้แสงแดดสีอำพันอันอบอุ่น บรรยากาศที่มีฝุ่นละออง ฉากหลังเบลออย่างนุ่มนวล แสงขอบรอบตัวบุคคล พื้นผิวผิวหนังที่สมจริง ระยะชัดลึกตื้น องค์ประกอบภาพแบบภาพยนตร์ระดับมหากาพย์ ให้ลุคแบบเลนส์ 35mm anamorphic รายละเอียดสูง สีสันเป็นธรรมชาติ ไม่มีวัตถุสมัยใหม่ ไม่มีข้อความทับ และไม่มีลายน้ำ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942336137_25n7rt_HRvG0PFaoAAKdRS.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตแนวภาพยนตร์ของขุนนางโบราณ Elon - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Linx_OKX | 我爱Misa](https://x.com/hetzerLin)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/hetzerLin/status/2097488659641708999#reversed-0)
-- **เผยแพร่เมื่อ:** 9 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34015)**
-
----
-
-### No. 85: คอมิก / สตอรี่บอร์ด - การฟื้นฟูภาพมังงะแบบไร้สัญญาณรบกวน (Grain-Free)
+### No. 84: คอมิก / สตอรี่บอร์ด - การฟื้นฟูภาพมังงะแบบไร้สัญญาณรบกวน (Grain-Free)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4092,7 +4071,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 86: คอมิก / สตอรี่บอร์ด - แผ่นภาพมุมมองสตูดิโอ 3x3 ที่สอดคล้องกัน
+### No. 85: คอมิก / สตอรี่บอร์ด - แผ่นภาพมุมมองสตูดิโอ 3x3 ที่สอดคล้องกัน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4140,7 +4119,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 87: คอมิก / สตอรี่บอร์ด - สาวน้อยกิโมโนท่ามกลางซากุระแห่งสรวงสวรรค์
+### No. 86: คอมิก / สตอรี่บอร์ด - สาวน้อยกิโมโนท่ามกลางซากุระแห่งสรวงสวรรค์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4174,7 +4153,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 88: คอมิก / สตอรี่บอร์ด - หญิงสาวในมังงะขาวดำกับแมวจรจัด
+### No. 87: คอมิก / สตอรี่บอร์ด - หญิงสาวในมังงะขาวดำกับแมวจรจัด
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4227,7 +4206,75 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 89: การตลาดผลิตภัณฑ์ - โฆษณาเปรียบเทียบ Rhode Lip Treatment
+### No. 88: การตลาดผลิตภัณฑ์ - Venus Soap Holder Bathroom Interior Design
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+Generates a creative product concept visualization for a Venus-themed soap holder, including a reference painting, a pencil sketch, and a realistic photo of the product in a bathroom setting.
+
+#### 📝 คำสั่ง
+
+```
+Generate a 16:9 horizontal bathroom design presentation image. On the left, place a partial painting reference of the character's head and golden long hair from {argument name="artwork" default="'The Birth of Venus'"}. In the middle, show a pencil sketch of a matching seashell soap holder. On the right, show the product in use on a washstand. A wide and shallow scallop-shaped white porcelain soap dish with radial texture, featuring a small Venus figure standing on the back edge with long golden hair and wearing a white classical robe that fully covers the body. In the dish is a used {argument name="main color" default="pale peach"} bar of soap with rounded edges and a few water droplets and thin soap film on the surface and inside the dish. Render a pearl-white glazed finish, subtle material inconsistencies, and realistic contact shadows, alongside a linen towel and part of a faucet. The sketch and object should be consistent, with no text, logos, or URLs.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789029046700_8whfs7_HR03jdzboAAozby.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Venus Soap Holder Bathroom Interior Design - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Cell 细胞](https://x.com/cellinlab)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/cellinlab/status/2097894087420793124)
+- **เผยแพร่เมื่อ:** 10 กันยายน 2569
+- **ภาษา:** zh
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34154)**
+
+---
+
+### No. 89: การตลาดผลิตภัณฑ์ - Mondrian Style Storage Cabinet Design
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A prompt that transforms Piet Mondrian's famous abstract art into a functional desktop storage cabinet design with 3D depth and realism.
+
+#### 📝 คำสั่ง
+
+```
+Generate a 16:9 horizontal desktop design presentation. On the left, place a painting reference of {argument name="art reference" default="Mondrian's 'Composition with Red, Blue and Yellow'"}. In the middle, show the front grid and perspective pencil sketch of a desktop storage cabinet, and on the right, show the final effect in use. The cabinet is made of ivory-white painted wood, with thick black divider strips forming an asymmetrical rectangular grid. Large red drawers, small blue drawers, small yellow drawers, and white compartments form the front. The red drawer is pulled open, containing {argument name="storage items" default="headphones and coiled cables"}; the yellow drawer is slightly pulled out, revealing an eraser. Drawers must have realistic side walls, thickness, and internal space, aligning with their respective openings. Show fine wood grain, contact shadows, and desktop wear, with natural side lighting. The sketch must match the cabinet layout, with no text, logos, or URLs.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789029052509_4cp0ol_HR0mZDjboAAhFo3.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Mondrian Style Storage Cabinet Design - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Cell 细胞](https://x.com/cellinlab)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/cellinlab/status/2097875217100296362)
+- **เผยแพร่เมื่อ:** 10 กันยายน 2569
+- **ภาษา:** zh
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34156)**
+
+---
+
+### No. 90: การตลาดผลิตภัณฑ์ - โฆษณาเปรียบเทียบ Rhode Lip Treatment
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4275,7 +4322,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 90: การตลาดผลิตภัณฑ์ - โปสเตอร์โปรโมชั่นทัวร์ออนเซ็นและอาหารรสเลิศช่วงฤดูใบไม้ร่วง
+### No. 91: การตลาดผลิตภัณฑ์ - โปสเตอร์โปรโมชั่นทัวร์ออนเซ็นและอาหารรสเลิศช่วงฤดูใบไม้ร่วง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4325,7 +4372,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 91: การตลาดผลิตภัณฑ์ - ป้ายโฆษณารามูเนะสไตล์ธรรมชาติ
+### No. 92: การตลาดผลิตภัณฑ์ - ป้ายโฆษณารามูเนะสไตล์ธรรมชาติ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4359,7 +4406,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 92: การตลาดผลิตภัณฑ์ - สร้างภาพโปรโมทห้องสมจริงจากภาพสเก็ตช์
+### No. 93: การตลาดผลิตภัณฑ์ - สร้างภาพโปรโมทห้องสมจริงจากภาพสเก็ตช์
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4393,7 +4440,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 93: การตลาดผลิตภัณฑ์ - โปสเตอร์เปิดตัว GPT Image 2.5 สไตล์อนิเมะ
+### No. 94: การตลาดผลิตภัณฑ์ - โปสเตอร์เปิดตัว GPT Image 2.5 สไตล์อนิเมะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4443,7 +4490,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 94: การตลาดผลิตภัณฑ์ - ปรับแต่งเล็บโทนกุหลาบละมุน
+### No. 95: การตลาดผลิตภัณฑ์ - ปรับแต่งเล็บโทนกุหลาบละมุน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4483,7 +4530,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 95: การตลาดผลิตภัณฑ์ - โปสเตอร์นางอัปสราเหินเวหาแห่งตุนหวง
+### No. 96: การตลาดผลิตภัณฑ์ - โปสเตอร์นางอัปสราเหินเวหาแห่งตุนหวง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4529,40 +4576,6 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 96: การตลาดผลิตภัณฑ์ - ป้าย AI Gateway สไตล์วินเทจ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-คำสั่ง (Prompt) สั้นๆ ที่ได้ผลดีสำหรับการสร้างป้ายสไตล์วินเทจสำหรับ 'AI Gateway' เหมาะสำหรับการสร้างแบรนด์ที่เน้นความย้อนยุคหรือการจัดแสดงเชิงศิลปะ
-
-#### 📝 คำสั่ง
-
-```
-{argument name="subject" default="AI Gateway"} ป้ายสไตล์วินเทจ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942268747_1rvce6_HRvLOHHaIAA-nOE.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ป้าย AI Gateway สไตล์วินเทจ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Vercel Developers](https://x.com/vercel_dev)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/vercel_dev/status/2097493498245304802)
-- **เผยแพร่เมื่อ:** 9 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=33927)**
-
----
-
 ### No. 97: การตลาดผลิตภัณฑ์ - การสร้างภาพไลฟ์สไตล์พร้อมการจัดวางสินค้า
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
@@ -4582,7 +4595,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942277570_gvj3fo_HRvBtnraAAAChs3.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - การสร้างภาพไลฟ์สไตล์พร้อมการจัดวางสินค้า - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029005307_j2vgpe_HRvBtnraAAAChs3.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - การสร้างภาพไลฟ์สไตล์พร้อมการจัดวางสินค้า - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4596,51 +4609,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 98: การตลาดผลิตภัณฑ์ - จากภาพถ่ายแมวสู่โปสเตอร์เรขาคณิต
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-สร้างสรรค์องค์ประกอบแบบแบ่งส่วน โดยมีภาพถ่ายแมวตลกๆ ที่สมจริงขณะนั่งหน้าแล็ปท็อปอยู่ด้านบน และเวอร์ชันโปสเตอร์เรขาคณิตสไตล์ Bauhaus ที่สะอาดตาอยู่ด้านล่าง
-
-#### 📝 คำสั่ง
-
-```
-เป้าหมาย: สร้างงานออกแบบแนวตั้งแบบ 2 ส่วนที่เปลี่ยนภาพถ่ายแมวแสนอบอุ่นให้กลายเป็นภาพประกอบโปสเตอร์เรขาคณิตแบบมินิมอล
-
-ผืนผ้าใบ: องค์ประกอบแนวตั้งสัดส่วน 3:4 ขนาด 900 x 1200 แบ่งครึ่งตามแนวนอนออกเป็น 2 ส่วนพอดี ส่วนบนกินพื้นที่ประมาณ 52% ของความสูงและเป็นภาพถ่ายที่สมจริงโทนอบอุ่น ส่วนล่างกินพื้นที่ประมาณ 48% และเป็นพื้นที่สำหรับภาพประกอบโปสเตอร์สไตล์แกลเลอรีบนพื้นหลังสีขาวนวล
-
-ส่วนบน: แสดงภาพแมวขนฟูสีขาวตัวหนึ่งนั่งอยู่ที่โต๊ะไม้ในโฮมออฟฟิศที่ดูอบอุ่น แมวนั่งหันหน้าตรงอยู่หลังแล็ปท็อปสีเงินที่เปิดอยู่ทางด้านซ้ายของภาพ โดยเห็นคีย์บอร์ดเพียงเล็กน้อยที่ขอบด้านล่าง แมวมีกระดาษโน้ตสีขาวรูปสี่เหลี่ยมจัตุรัสแปะทับดวงตาทั้งสองข้าง บนกระดาษแต่ละใบวาดรูปดวงตาการ์ตูนสีดำเรียบง่ายพร้อมขนตายาว ทำให้ดูตลกเหมือนกำลังเบิกตากว้าง พื้นหลังเบลออย่างนุ่มนวล โดยมีเก้าอี้ทำงานสีดำ 1 ตัววางอยู่ตรงกลางด้านหลังแมว ต้นไม้ใบเขียว 1 ต้นทางด้านซ้าย และชั้นวางหนังสือไม้ 1 ตู้ทางด้านขวาที่มีหนังสือและของตกแต่งแบบไม่ชัดเจน แสงเป็นสีทอง นุ่มนวล ระยะชัดลึกตื้น บรรยากาศภายในบ้านที่แสนสบาย รายละเอียดขนสมจริง
-
-ส่วนล่าง: บนพื้นหลังสีขาวนวลที่สะอาดตา ให้วางภาพประกอบโปสเตอร์แบบเวกเตอร์ขนาดเล็กไว้ตรงกลางโดยได้รับแรงบันดาลใจจากภาพด้านบน ภาพประกอบประกอบด้วยแมวการ์ตูนสีขาว 1 ตัว, เงาแล็ปท็อปสีดำ 1 เครื่องทางด้านซ้าย, กระดาษโน้ตตาการ์ตูนสี่เหลี่ยม 2 ใบแปะทับดวงตาของแมว และอุ้งเท้าของแมวที่วางอยู่บนคีย์บอร์ด ใช้เส้นขอบสีส้มที่คมชัดและรูปทรงกราฟิกแบบแบน เพิ่มข้อความพาดหัวแนวตั้งขนาดใหญ่ {argument name="headline text" default="LOOK"} ด้วยตัวอักษรสีส้มทรงสูงแบบแคบที่ด้านซ้ายบนของภาพประกอบ เพิ่มคำบรรยายขนาดเล็กแบบซ้อนกันทางด้านขวาว่า {argument name="side caption" default="GOOD THINGS AHEAD"} โดยมีเส้นแนวตั้งสีดำบางๆ อยู่ข้างๆ และเส้นขีดเส้นใต้สั้นๆ อยู่ด้านล่าง
-
-องค์ประกอบเรขาคณิตในโปสเตอร์ด้านล่าง: ใส่ส่วนเน้นสีแบบบล็อกนามธรรมจำนวน 8 จุดพอดี ได้แก่ สี่เหลี่ยมผืนผ้าสีส้มขนาดใหญ่ 1 รูปหลังตัวแมว, วงกลมสีเหลือง 1 รูปหลังด้านขวาบนของแมว, สี่เหลี่ยมจัตุรัสสีฟ้าไซแอน 1 รูปทับวงกลมสีเหลือง, สี่เหลี่ยมจัตุรัสสีม่วงแดงขนาดเล็ก 1 รูปด้านบน, สี่เหลี่ยมจัตุรัสสีฟ้าไซแอนขนาดเล็ก 1 รูปที่มุมซ้ายล่าง, สี่เหลี่ยมผืนผ้าแนวนอนสีเหลืองขนาดเล็ก 1 รูปข้างๆ, แถบแนวนอนสีเหลืองยาว 1 แถบที่ด้านล่าง และสี่เหลี่ยมผืนผ้าสีน้ำเงินขนาดเล็ก 1 รูปที่ปลายด้านขวาล่างของแถบนั้น เพิ่มเครื่องหมายกากบาทสีดำขนาดเล็กสำหรับจัดตำแหน่งไว้ใกล้กับพาดหัว
-
-สไตล์ภาพ: ส่วนบนควรเป็นภาพถ่ายที่สมจริงโทนอบอุ่น ส่วนล่างควรเป็นงานศิลปะโปสเตอร์เรขาคณิตสไตล์ Bauhaus ที่สะอาดตาด้วยสีส้ม สีเหลือง สีฟ้าไซแอน สีม่วงแดง สีดำ และสีขาว คงพื้นที่ว่าง (Negative Space) ไว้ให้มากในส่วนล่าง เส้นเวกเตอร์คมชัด ดีไซน์แบบบรรณาธิการที่ดูสนุกสนาน ไม่มีสัตว์ตัวอื่น ไม่มีข้อความอื่น และไม่มีลายน้ำ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942331490_1ku2iq_HRu3coHaIAAqciB.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - จากภาพถ่ายแมวสู่โปสเตอร์เรขาคณิต - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [小小东](https://x.com/xiaoxiaodong01)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2097472773795012706#reversed-0)
-- **เผยแพร่เมื่อ:** 8 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34008)**
-
----
-
-### No. 99: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแคนดิดหญิงสาวช้อปปิ้งในซูเปอร์มาร์เก็ตเกาหลี
+### No. 98: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแคนดิดหญิงสาวช้อปปิ้งในซูเปอร์มาร์เก็ตเกาหลี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4692,7 +4661,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 100: ภาพหลักสำหรับอีคอมเมิร์ซ - แจกันดินเผาโบราณแตกหัก
+### No. 99: ภาพหลักสำหรับอีคอมเมิร์ซ - แจกันดินเผาโบราณแตกหัก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4732,7 +4701,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 101: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแฟชั่นสตรีทแวร์เต็มตัว
+### No. 100: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแฟชั่นสตรีทแวร์เต็มตัว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4779,7 +4748,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 102: ภาพหลักสำหรับอีคอมเมิร์ซ - ตารางจัดวางสินค้าแบบ Flat Lay สำหรับร้านค้าออนไลน์สไตล์บูติก
+### No. 101: ภาพหลักสำหรับอีคอมเมิร์ซ - ตารางจัดวางสินค้าแบบ Flat Lay สำหรับร้านค้าออนไลน์สไตล์บูติก
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4829,7 +4798,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 103: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพเชิงพาณิชย์สำหรับสมูทตี้เบอร์รี่สีชมพู
+### No. 102: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพเชิงพาณิชย์สำหรับสมูทตี้เบอร์รี่สีชมพู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4863,7 +4832,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 104: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพมาโครเครื่องดื่มสีชมพู
+### No. 103: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพมาโครเครื่องดื่มสีชมพู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4897,7 +4866,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 105: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายโฆษณาสินค้าแบบมืออาชีพ
+### No. 104: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายโฆษณาสินค้าแบบมืออาชีพ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4937,7 +4906,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 106: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพระยะใกล้ของลาเต้น้ำผึ้งเย็นที่กำลังถูกคน
+### No. 105: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพระยะใกล้ของลาเต้น้ำผึ้งเย็นที่กำลังถูกคน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4971,7 +4940,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 107: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาสเปรย์สำหรับสุนัขโกลเด้นรีทรีฟเวอร์
+### No. 106: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาสเปรย์สำหรับสุนัขโกลเด้นรีทรีฟเวอร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5005,7 +4974,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 108: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพพอร์ตเทรตในสตูดิโอแบบซอฟต์พร้อมอุปกรณ์สีชมพู
+### No. 107: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพพอร์ตเทรตในสตูดิโอแบบซอฟต์พร้อมอุปกรณ์สีชมพู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5039,7 +5008,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 109: ภาพหลักสำหรับอีคอมเมิร์ซ - โปสเตอร์โฆษณาเครื่องดื่มระดับพรีเมียม
+### No. 108: ภาพหลักสำหรับอีคอมเมิร์ซ - โปสเตอร์โฆษณาเครื่องดื่มระดับพรีเมียม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5072,7 +5041,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 110: ภาพหลักสำหรับอีคอมเมิร์ซ - เทมเพลตโฆษณาสินค้าสำหรับนาฬิกาหรู
+### No. 109: ภาพหลักสำหรับอีคอมเมิร์ซ - เทมเพลตโฆษณาสินค้าสำหรับนาฬิกาหรู
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5123,7 +5092,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 111: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาผลิตภัณฑ์สกินแคร์ระดับลักชูรี
+### No. 110: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาผลิตภัณฑ์สกินแคร์ระดับลักชูรี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5163,7 +5132,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 112: ภาพหลักสำหรับอีคอมเมิร์ซ - ประติมากรรมเมืองจำลองจากหินอะลาบาสเตอร์
+### No. 111: ภาพหลักสำหรับอีคอมเมิร์ซ - ประติมากรรมเมืองจำลองจากหินอะลาบาสเตอร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5209,7 +5178,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 113: ภาพหลักสำหรับอีคอมเมิร์ซ - กฎการรักษาความสม่ำเสมอของตู้เสื้อผ้าขั้นสูง
+### No. 112: ภาพหลักสำหรับอีคอมเมิร์ซ - กฎการรักษาความสม่ำเสมอของตู้เสื้อผ้าขั้นสูง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5260,7 +5229,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 114: ภาพหลักสำหรับอีคอมเมิร์ซ - การเปรียบเทียบ Mesh ของเก้าอี้วางเท้า 3D
+### No. 113: ภาพหลักสำหรับอีคอมเมิร์ซ - การเปรียบเทียบ Mesh ของเก้าอี้วางเท้า 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5305,24 +5274,29 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 115: สินทรัพย์เกม - Pixel Art Animation Sprite Sheet
+### No. 114: สินทรัพย์เกม - 2D Game Animation Sprite Sheet Generator
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-สร้าง Sprite Sheet สไตล์ Pixel Art ที่พร้อมใช้งานในเกมสำหรับตัวละคร โดยประกอบด้วย 4 ท่าทางที่แตกต่างกัน ได้แก่ วิ่ง, กระโดด, หมุนตัวโจมตี และล้ม โดยอ้างอิงจากรูปภาพต้นแบบ
+A highly precise prompt for creating 2D game character animation sprite sheets in a 4x4 grid, focusing on character consistency and frame alignment.
 
 #### 📝 คำสั่ง
 
 ```
-รักษาใบหน้า ทรงผม เสื้อผ้า โทนสี และรูปร่างของตัวละครที่แนบมาให้คงเดิม และสร้างภาพ Sprite Sheet เดียวที่มีท่าทาง Pixel Art 4 แบบที่เหมาะสำหรับเกม โดยแต่ละท่ามีสูงสุด 4 เฟรม {argument name="frame size" default="ขนาดแต่ละเฟรมคือ 256x256px"}
-- {argument name="motion 1" default="วิ่ง: โน้มตัวไปข้างหน้าและขยับแขนขาไปมาสลับกันด้วยท่าทางที่ชัดเจน"}
-- {argument name="motion 2" default="กระโดด: ย่อตัว -> กระโดดขึ้น -> กางแขนและขาออกกลางอากาศ -> ลงสู่พื้น"}
-- หมุนตัวโจมตี: หมุนตัวทั้งร่างหนึ่งรอบ: ด้านหน้า -> ด้านข้าง -> ด้านหลัง -> อีกด้านหนึ่ง
-- ล้ม: สะดุด -> เอียงตัวไปด้านข้าง -> ล้มตัวลงนอน -> หลับตาและหยุดนิ่ง
-จัดเรียงท่าทางหนึ่งท่าต่อหนึ่งแถวในแนวนอน โดยรักษาขนาด ตำแหน่งเท้า จุดศูนย์กลาง และสัดส่วนให้คงที่ในทุกช่อง พื้นหลังต้องเป็นสีทึบล้วน ห้ามใช้เงา ข้อความ กรอบ ตัวเลข UI การเบลอ ความโปร่งแสง ไล่เฉดสี หรือการลบรอยหยัก (Anti-aliasing) ตรวจสอบให้แน่ใจว่าท่าทางแบบวนซ้ำสามารถเชื่อมต่อกันได้อย่างเป็นธรรมชาติจากจุดเริ่มต้นจนถึงจุดสิ้นสุด
+Referencing this character, create a 2D animation sprite sheet for a game. The content is "{argument name="action" default="fill in action"}". 
+
+Represent one continuous action across a total of 16 frames in a 4x4 grid.
+
+[Sprite Sheet Specifications] - Square canvas - 4 columns x 4 rows, total 16 frames - All 16 cells are exactly the same size - Ensure at least 10px margins on top, bottom, left, and right of each cell - No borders, grid lines, numbers, text, symbols, or UI required - Background is a single solid white color unified across all frames - Arrange frames in chronological order from top-left to right, and top row to bottom row.
+
+[Most Important: Fixed Size and Position] - Unify character scale across all 16 frames - No zooming in or out - Fix the ground baseline at the same height - Ensure the character's center position does not move significantly between frames - Change poses only as needed for movement.
+
+[Most Important: Fit Entirely Within Cells] - Everything including hair, clothes, limbs, weapons, accessories, effects, afterglow, and particles must fit inside each cell - Do not exceed cell boundaries - Do not violate the 10px margin safety area - Even if the action is large, do not adjust by shrinking the character - If necessary, keep effects or arm swings moderate to fit within the cell.
+
+[Drawing Strategy] - Clear silhouette readable as a 2D game sprite - Movement that connects naturally between frames - Prioritize continuity without breaking as animation material rather than a single illustration - Unify detail density, lines, coloring, and shading for each frame.
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -5330,21 +5304,27 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942302037_opsoch_HRwUfy9akAAttE3.jpg" width="600" alt="สินทรัพย์เกม - Pixel Art Animation Sprite Sheet - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029057361_wn8ppj_HRzfqcvaoAAI5gk.jpg" width="600" alt="สินทรัพย์เกม - 2D Game Animation Sprite Sheet Generator - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789029057394_srfmku_HRzfqwpbsAAu5G_.jpg" width="600" alt="สินทรัพย์เกม - 2D Game Animation Sprite Sheet Generator - Image 2">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [布留川英一 / Hidekazu Furukawa](https://x.com/npaka123)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/npaka123/status/2097574111518375970)
+- **ผู้เขียน:** [SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136)
 - **เผยแพร่เมื่อ:** 9 กันยายน 2569
 - **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=33963)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34141)**
 
 ---
 
-### No. 116: สินทรัพย์เกม - สไปรต์ชีทท่าทางการต่อสู้ของตัวละคร
+### No. 115: สินทรัพย์เกม - สไปรต์ชีทท่าทางการต่อสู้ของตัวละคร
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5364,7 +5344,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942305362_dbxlyr_HRwSI5iaAAAfB2G.jpg" width="600" alt="สินทรัพย์เกม - สไปรต์ชีทท่าทางการต่อสู้ของตัวละคร - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029057366_2p63te_HRwSI5iaAAAfB2G.jpg" width="600" alt="สินทรัพย์เกม - สไปรต์ชีทท่าทางการต่อสู้ของตัวละคร - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5378,7 +5358,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 117: สินทรัพย์เกม - แผ่นสติกเกอร์อีโมจิ 3D
+### No. 116: สินทรัพย์เกม - แผ่นสติกเกอร์อีโมจิ 3D
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5398,7 +5378,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942289059_oo383r_HRwCF0SbsAE5IJP.jpg" width="600" alt="สินทรัพย์เกม - แผ่นสติกเกอร์อีโมจิ 3D - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029048622_329hr3_HRwCF0SbsAE5IJP.jpg" width="600" alt="สินทรัพย์เกม - แผ่นสติกเกอร์อีโมจิ 3D - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -5412,7 +5392,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 118: สินทรัพย์เกม - ตุ๊กตาปลาวาฬในสตูดิโอออกแบบที่โตเกียว
+### No. 117: สินทรัพย์เกม - ตุ๊กตาปลาวาฬในสตูดิโอออกแบบที่โตเกียว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5464,7 +5444,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 119: สินทรัพย์เกม - Sprite Sheet แอนิเมชันการต่อสู้ของมาสคอตจิบิ
+### No. 118: สินทรัพย์เกม - Sprite Sheet แอนิเมชันการต่อสู้ของมาสคอตจิบิ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5508,7 +5488,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 120: สินทรัพย์เกม - การเปลี่ยนโฉมอาคารให้ดูล้ำสมัย
+### No. 119: สินทรัพย์เกม - การเปลี่ยนโฉมอาคารให้ดูล้ำสมัย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5542,13 +5522,75 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
+### No. 120: สินทรัพย์เกม - Pixel Art Skateboard Girl Sprite Sheet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+สร้าง Sprite Sheet สไตล์พิกเซลอาร์ตย้อนยุคขนาด 4x4 ของสาวสตรีทแวร์ที่กำลังเล่นสเก็ตบอร์ดเป็นลำดับท่าทาง สำหรับใช้ทำภาพเคลื่อนไหว GIF หรือเป็นสินทรัพย์ในเกม
+
+#### 📝 คำสั่ง
+
+```
+เป้าหมาย: สร้าง Sprite Sheet สไตล์พิกเซลอาร์ตขนาด 4x4 ที่สะอาดตาของ {argument name="character name" default="สาวสตรีทสุดเท่"} กำลังเล่นสเก็ตบอร์ด เหมาะสำหรับการนำไปทำภาพเคลื่อนไหว GIF
+
+ผืนผ้าใบ: ผืนผ้าใบสี่เหลี่ยมจัตุรัส พื้นหลังสีขาวหรือโปร่งใส ไม่มีขอบ ไม่มีข้อความ ไม่มีลายน้ำ จัดเรียง Sprite เต็มตัวแยกกันจำนวน 16 ภาพในตารางขนาด 4 คอลัมน์ 4 แถวอย่างเป็นระเบียบ โดยแต่ละ Sprite จะต้องแยกจากกันด้วยขนาดที่สม่ำเสมอและมีพื้นที่ว่างที่เหมาะสม
+
+สไตล์ภาพ: พิกเซลอาร์ตย้อนยุคคุณภาพสูง ขอบคมชัด พาเลตต์สีจำกัด การลงเงาแบบเซลเฉดดิ้งที่นุ่มนวล สัดส่วนตัวละครแบบจิบิน่ารัก ใบหน้าแสดงอารมณ์ การเคลื่อนไหวของเส้นผมที่ดูมีชีวิตชีวา และให้ความรู้สึกเหมือน Sprite Sheet ของตัวละครในวิดีโอเกม
+
+รายละเอียดตัวละคร: สาวสตรีทแวร์วัยรุ่นที่มี {argument name="hair color" default="ผมยาวสีบลอนด์ยุ่งๆ"} ปลิวไสวตามการเคลื่อนไหว ดวงตาสีฟ้าเล็กๆ ผิวสีพีช ต่างหูห่วงเงิน สร้อยคอโซ่เงินเส้นหนา เสื้อบอมเบอร์แจ็คเก็ตสีเขียวมะกอกเข้มตัวใหญ่ เสื้อครอปท็อปสีดำ กางเกงขายาวทรงหลวมสีดำ และรองเท้าผ้าใบสีขาว รักษาความสม่ำเสมอของสัดส่วนและชุดของเธอให้คงที่ในทุกเฟรม
+
+รายละเอียดสเก็ตบอร์ด: สเก็ตบอร์ดสีดำขอบไม้สีน้ำตาล ล้อสีเบจขนาดเล็ก และทรัคแบบพิกเซล มุมของบอร์ดจะเปลี่ยนไปตามท่าทาง แต่ดีไซน์โดยรวมยังคงเดิม
+
+จำนวนและท่าทางของ Sprite: รวมทั้งหมด 16 Sprite เรียงจากซ้ายไปขวา บนลงล่าง:
+1. ยืนตัวตรงบนสเก็ตบอร์ด กำลังไถไปข้างหน้า ผมปลิวไปทางซ้าย
+2. เริ่มย่อตัวลงบนบอร์ด เข่างอ มือข้างหนึ่งอยู่ต่ำ
+3. ย่อตัวลงลึกเพื่อเตรียมเล่นท่า โน้มตัวไปข้างหน้า
+4. ย่อตัวต่ำมาก ใบหน้าจดจ่อ มือข้างหนึ่งอยู่ใกล้บอร์ด
+5. ไถบอร์ดโดยเอียงขึ้นเล็กน้อย ย่อตัวและทรงตัว
+6. ดีดบอร์ดขึ้น เท้าหน้ายกขึ้น ผมปลิว
+7. ท่ากลางอากาศโดยบอร์ดเอียงในแนวทแยง กางแขนเพื่อทรงตัว
+8. ท่ากลางอากาศที่สูงขึ้น บอร์ดเอียงชัน แลบลิ้นออกมาอย่างขี้เล่น
+9. ท่ากระโดดสูงสุด กางแขนกว้าง แลบลิ้น บอร์ดไขว้ในแนวทแยงใต้ตัวเธอ
+10. ลงจากท่า บอร์ดเกือบขนานกับพื้น แขนเหยียดออก
+11. ท่าลงจอดแบบย่อตัว บอร์ดเอียงเล็กน้อย สีหน้าจดจ่อ
+12. ทรงตัวหลังลงจอด ยืนย่อตัวและกางแขนออก
+13. ไถบอร์ดต่อหลังลงจอดพร้อมรอยเส้นการเคลื่อนไหวเล็กๆ ข้างล้อ
+14. ลุกขึ้นจากการย่อตัวขณะไถไปข้างหน้า มุมมองด้านข้าง
+15. ท่าไถบอร์ดตัวตรง มุมมองด้านข้าง สีหน้าผ่อนคลาย
+16. ท่าไถบอร์ดจากมุมมองด้านหลัง เห็นแผ่นหลังและผมที่ปลิวไสว
+
+ข้อจำกัด: รักษาตัวละครและขนาดของ Sprite ทั้ง 16 ภาพให้เหมือนกัน จัดวางในรูปแบบตารางที่เรียบร้อย หลีกเลี่ยงอุปกรณ์ประกอบฉากเพิ่มเติม หลีกเลี่ยงฉากหลัง และทำให้ Sprite Sheet อ่านง่ายในฐานะลำดับภาพเคลื่อนไหว
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788942351044_vtooqo_HRvNJ0QaIAAj66r.jpg" width="600" alt="สินทรัพย์เกม - Pixel Art Skateboard Girl Sprite Sheet - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [AA - AerialAlias🇯🇵](https://x.com/aerialaliastgst)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/aerialaliastgst/status/2097496668778455170#reversed-0)
+- **เผยแพร่เมื่อ:** 9 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34034)**
+
+---
+
 ---
 
 ## 📚 มีคำสั่งเพิ่มเติม
 
 <div align="center">
 
-### 🎯 17191 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 17278 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5611,6 +5653,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-09-10T01:56:47.834Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-09-10T15:25:33.222Z</sub>
 
 </div>
