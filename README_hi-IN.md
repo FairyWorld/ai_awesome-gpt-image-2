@@ -139,9 +139,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **17398** |
+| 📝 कुल प्रॉम्पट्स | **17419** |
 | ⭐ विशेष | **6** |
-| 🔄 अंतिम अपडेट | **शुक्रवार, 11 सितंबर 2026 को 1:55:21 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **शुक्रवार, 11 सितंबर 2026 को 3:27:41 pm UTC बजे** |
 
 </div>
 
@@ -1303,24 +1303,19 @@ VR हेडसेट का एक हाई-टेक एक्सप्लो
 
 ---
 
-### No. 21: सोशल मीडिया पोस्ट - Miniature World Inside a Tangerine
+### No. 21: सोशल मीडिया पोस्ट - धूप में कार के अंदर ली गई कैंडिड सेल्फी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A complex macro photography prompt depicting tiny humans living inside a peeled tangerine, focused on realistic light transmission through citrus segments.
+तेज सीधी धूप में कार के अंदर एक युवती की कैंडिड स्मार्टफोन सेल्फी के लिए एक अल्ट्रा-रियलिस्टिक प्रॉम्प्ट, जिसमें प्राकृतिक त्वचा की बनावट और बालों का विवरण शामिल है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Macro cinematic photography inside a {argument name="fruit" default="peeled tangerine"} resting on a dark stone surface. The peel folds outward like petals, forming a cave. Overhead, the citrus segments arch into a translucent orange dome, while the white pith reads like pale plaster.
-{argument name="occupants" default="Three figures, each about two centimeters tall"}, inhabit the cave: one lies on a citrus segment as if it were a bed; one climbs upward along the white pith ridge between two segments as if it were a staircase; one stands at the cave entrance looking out into darkness. A single tangerine seed lies on the ground, scaled like a massive millstone. Every membrane layer and every individual juice vesicle is fully resolved.
-A {argument name="lighting" default="single low-angle sun"} is positioned behind the fruit and is the only light source, producing true transmitted light through the citrus flesh. The orange brightness of the dome must come from light physically passing through the fruit itself, not from any artificial glow effect. Individual juice vesicles illuminate one by one in transmission, while thicker pith appears as darker veins. The cave floor is illuminated only by this transmitted light. Outside the cave entrance is completely black. No fill light.
-Anamorphic 2.39:1, anamorphic lens with macro adapter, f/4. Sparse defocused light points outside the cave appear as vertically oval bokeh with subtle horizontal anamorphic stretch. Deep focus, focus stacked.
-Kodak Vision3 500T motion picture negative, tungsten white balance, warm saturated transmitted orange highlights with deep cyan shadows. Black Pro-Mist 1/4. Strong transmitted-light edges along the thinnest parts of the fruit show visible red halation.
-Overall exposure reduced by one stop. The darkness outside the cave remains truly black. Fine film grain, more visible in the shadows. No digital sharpening, no HDR, no orange-and-teal grading, no lens-flare effects, no artificial glow, no CGI plastic texture.
+एक {argument name="subject" default="युवती"} की अल्ट्रा-रियलिस्टिक कैंडिड सेल्फी, जो एक {argument name="location" default="कार"} के अंदर बैठी है, जिसे स्मार्टफोन कैमरे से थोड़े निचले फ्रंट-फेसिंग एंगल से कैप्चर किया गया है। उसके लंबे, सीधे, रेशमी गहरे भूरे बाल दोनों कंधों पर स्वाभाविक रूप से गिर रहे हैं, चेहरे के आसपास हल्के बिखरे हुए बाल, नाजुक युवा विशेषताएं, गोरी प्राकृतिक त्वचा, गहरी भूरी आंखें, हल्का मेकअप और एक प्यारी चंचल बंद होंठों वाली मुस्कान है। उसने एक ओवरसाइज्ड सफेद ग्राफिक टी-शर्ट और एक नाजुक चांदी का ब्रेसलेट पहना है। एक हाथ कैमरे की ओर उठा हुआ है, जो अंगूठे और तर्जनी का उपयोग करके एक आंख के चारों ओर एक चंचल हाथ का इशारा बना रहा है, जबकि अन्य उंगलियां ऊपर की ओर फैली हुई हैं। वह हाथ के इशारे से एक आंख को थोड़ा सिकोड़ती है और स्वाभाविक रूप से मुस्कुराती है, जिससे एक मजेदार, लापरवाह अभिव्यक्ति बनती है। कार की खिड़की से तेज सीधी धूप अंदर आ रही है, जो उसके चेहरे को रोशन कर रही है और उसके बालों और त्वचा पर सुनहरी चमक पैदा कर रही है। उसके चारों ओर कार का गहरा इंटीरियर है, जिसमें काली चमड़े की सीटें और खिड़की के फ्रेम दिखाई दे रहे हैं। खुली साइड विंडो के माध्यम से, हल्के सफेद बादलों के साथ एक जीवंत नीला आकाश दिखाई दे रहा है। प्राकृतिक धूप और गहरे इंटीरियर की छाया एक मजबूत कंट्रास्ट पैदा करती है। प्रामाणिक स्मार्टफोन फोटोग्राफी, कैजुअल सोशल-मीडिया सेल्फी एस्थेटिक, प्राकृतिक त्वचा की बनावट, यथार्थवादी बाल, यथार्थवादी हाथ और उंगलियां, गर्म धूप, हाई डायनेमिक रेंज, सूक्ष्म लेंस खामियां, कैंडिड युवा वातावरण, फोटो-रियलिस्टिक, अत्यधिक विस्तृत, स्पष्ट चेहरा, प्राकृतिक अनुपात, वर्टिकल 4:5 कंपोजिशन।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -1328,39 +1323,288 @@ Overall exposure reduced by one stop. The darkness outside the cave remains trul
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029036058_lv9sco_HRziPXvbMAA4nRd.png" width="600" alt="सोशल मीडिया पोस्ट - Miniature World Inside a Tangerine - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789113116191_5c9d69_HR59QMFaYAAMRoo.jpg" width="600" alt="सोशल मीडिया पोस्ट - धूप में कार के अंदर ली गई कैंडिड सेल्फी - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Aqsa](https://x.com/Aqsahere_)
+- **स्रोत:** [Twitter Post](https://x.com/Aqsahere_/status/2098252202582372525)
+- **प्रकाशित:** 11 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34316)**
+
+---
+
+### No. 22: सोशल मीडिया पोस्ट - मुस्कुराती हुई बेंटो शॉप साइन पोर्ट्रेट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+एक जापानी बेंटो शॉप के बाहर हाथ से लिखे एक्रिलिक प्रोत्साहन साइन को पकड़े हुए एक युवती का फोटो-यथार्थवादी स्ट्रीट पोर्ट्रेट।
+
+#### 📝 प्रॉम्पट
+
+```
+दोपहर की तेज धूप में एक व्यस्त बेंटो शॉप के बाहर खड़ी मुस्कुराती हुई एक युवा जापानी महिला की अत्यधिक यथार्थवादी वर्टिकल स्मार्टफोन फोटो बनाएं। उसके बाल छोटे, चमकदार और काले बॉब कट में हैं, हल्का मेकअप, गुलाबी गाल, गुलाबी लिपस्टिक है और उसकी नजरें सीधे कैमरे की ओर हैं। उसने झालरदार पेस्टल गुलाबी हॉल्टर एप्रन-स्टाइल ड्रेस पहनी है जिसमें रफल्ड स्ट्रैप्स और कमर पर एक बो है। उसने छाती के स्तर पर दोनों हाथों में एक पारभासी फ्रॉस्टेड एक्रिलिक साइन पकड़ा हुआ है, जिसके कोनों में स्क्रू के छेद दिखाई दे रहे हैं और सामने की तरफ मार्कर से हाथ से लिखा हुआ आर्ट है। साइन में ठीक 4 मुख्य तत्व हैं: 1 गुलाबी नाम का टेक्स्ट {argument name="character name text" default="ANRIさん"}, 1 नीला प्रोत्साहन वाक्यांश {argument name="message text" default="今日も頑張ってください!"}, 2 गुलाबी दिल के डूडल, और चावल, साइड डिश और सब्जियों के साथ 1 छोटा रंगीन कार्टून बेंटो बॉक्स चित्रण। बैकग्राउंड: स्टोरफ्रंट की कांच की खिड़कियां जिनमें सड़क का प्रतिबिंब दिख रहा है, अंदर अलमारियां और उत्पाद डिस्प्ले, प्रवेश द्वार के आसपास जापानी बेंटो पोस्टर और मेनू बोर्ड, जिसमें बाईं ओर एक वर्टिकल गुलाबी और सफेद बैनर है जिस पर बड़े काले जापानी अक्षरों में बेंटो लिखा है। उथले डेप्थ ऑफ फील्ड का उपयोग करें लेकिन महिला और साइन को स्पष्ट रखें। लाइटिंग प्राकृतिक, धूप से भरी, खुशनुमा और थोड़ी चमकदार होनी चाहिए, जिसमें यथार्थवादी त्वचा बनावट, एक्रिलिक बोर्ड पर प्रतिबिंब और कैंडिड सोशल-मीडिया-फोटो फ्रेमिंग हो। अतिरिक्त लोग, अग्रभूमि में अतिरिक्त साइन, वॉटरमार्क या असंबंधित टेक्स्ट न जोड़ें।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113123964_lfxvge_HR5II11bIAEPjMg.jpg" width="600" alt="सोशल मीडिया पोस्ट - मुस्कुराती हुई बेंटो शॉप साइन पोर्ट्रेट - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [vevrier90333](https://x.com/vevrier9033833)
+- **स्रोत:** [Twitter Post](https://x.com/vevrier9033833/status/2098193807120716198#reversed-0)
+- **प्रकाशित:** 10 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34330)**
+
+---
+
+### No. 23: सोशल मीडिया पोस्ट - Golden Deer Morning Felt Transformation
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+एक धुंधले सुनहरे जंगल के हिरण की तस्वीर और एक मिनिमलिस्ट नीडल-फेल्ट ऊन चित्रण की तुलना करने वाला स्प्लिट-स्क्रीन दृश्य बनाता है।
+
+#### 📝 प्रॉम्पट
+
+```
+लक्ष्य: एक दो-पैनल वाली क्षैतिज तुलना छवि बनाएं जो एक वास्तविक प्रकृति की तस्वीर को एक मिनिमलिस्ट नीडल-फेल्ट चित्रण में बदलते हुए दिखाए।
+
+कैनवास: 16:9 का चौड़ा कैनवास जिसे लंबवत रूप से दो समान भागों में विभाजित किया गया है, जिसके बीच में एक साफ सीधी रेखा है।
+
+बायां पैनल: गोल्डन-आवर (सुनहरे समय) के जंगल के घास के मैदान की एक यथार्थवादी तस्वीर। अग्रभूमि में ठीक 5 हिरण दिखाएं: सबसे बाईं ओर चलता हुआ 1 हिरण, बाईं-मध्य में चरता हुआ 1 हिरण, बीच में चरता हुआ 1 हिरण, मध्य-दाईं ओर खड़ा 1 छोटा हिरण, और सबसे दाईं ओर खड़ा 1 बड़ा हिरण। घास का मैदान ओस से भीगी हरी घास से ढका है, जिसमें गर्म पीली धूप और सुबह की हल्की धुंध है। पृष्ठभूमि में, गहरे सदाबहार पेड़ एक घना जंगल सिल्हूट बनाते हैं, जिसमें ऊपरी दाईं ओर अतिरिक्त पत्तेदार शाखाएं हैं। सूर्य की तेज किरणें ऊपरी दाईं ओर से पेड़ों के बीच से तिरछी होकर आती हैं, जो एक शांत सिनेमाई वातावरण बनाती हैं।
+
+दायां पैनल: एक गर्म ऑफ-व्हाइट टेक्सचर वाले पेपर बैकग्राउंड पर उसी दृश्य की एक नरम हस्तनिर्मित नीडल-फेल्ट ऊन की पुनर्व्याख्या, जिसमें काफी खाली जगह हो। फेल्ट दृश्य को ऊपरी-मध्य क्षेत्र में क्षैतिज रूप से केंद्रित करें। बाएं पैनल की व्यवस्था से मेल खाते हुए ठीक 5 छोटे फेल्ट हिरण दिखाएं: सबसे बाईं ओर खड़ा 1 हिरण, बाईं-मध्य में चरता हुआ 1 हिरण, केंद्र में चरता हुआ 1 नारंगी-भूरा हिरण, मध्य-दाईं ओर खड़ा 1 छोटा हिरण, और सबसे दाईं ओर खड़ा 1 बड़ा हिरण। उन्हें फजी हल्के हरे रंग की फेल्ट घास की एक पतली पट्टी पर रखें। उनके ऊपर, एक साधारण गोल फेल्ट सूर्य और 2 नरम क्षैतिज फेल्ट बादल के टुकड़े शामिल करें। फेल्ट घास के नीचे, एक नाजुक ग्रे-ब्राउन लिपि में {argument name="caption text" default="A kinder morning ♡"} लिखा हुआ हस्तलिखित टेक्स्ट जोड़ें।
+
+दृश्य शैली: गर्म हीलिंग सौंदर्य, पर्याप्त व्हाइट स्पेस, आरामदायक ऊन-फेल्ट टेक्सचर, नरम किनारे, म्यूट अर्थी रंग और एक शांत काव्यात्मक मूड को मिलाएं। बाईं ओर का हिस्सा फोटोग्राफिक और वायुमंडलीय दिखना चाहिए; दाईं ओर का हिस्सा दिखाई देने वाले रेशों और न्यूनतम संरचना के साथ एक हस्तनिर्मित फेल्ट चित्रण जैसा दिखना चाहिए।
+
+सीमाएं: स्प्लिट-स्क्रीन लेआउट बनाए रखें, प्रत्येक तरफ ठीक 5 हिरण, कोई अतिरिक्त जानवर नहीं, कोई बॉर्डर नहीं, कोई वॉटरमार्क नहीं, कैप्शन के अलावा कोई अतिरिक्त टेक्स्ट नहीं।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113125214_ig0i2n_HR4JccraIAAUu8D.jpg" width="600" alt="सोशल मीडिया पोस्ट - Golden Deer Morning Felt Transformation - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029035902_ci958i_HRziQpAaQAAk4rM.png" width="600" alt="सोशल मीडिया पोस्ट - Miniature World Inside a Tangerine - Image 2">
+<img src="https://cms-assets.youmind.com/media/1789113125220_aus41n_HR4JcbDbsAADPa5.jpg" width="600" alt="सोशल मीडिया पोस्ट - Golden Deer Morning Felt Transformation - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029035897_thhubb_HRziSahbYAAv-Rm.png" width="600" alt="सोशल मीडिया पोस्ट - Miniature World Inside a Tangerine - Image 3">
+<img src="https://cms-assets.youmind.com/media/1789113125229_gmn3qk_HR4JcbJawAAdJlM.jpg" width="600" alt="सोशल मीडिया पोस्ट - Golden Deer Morning Felt Transformation - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029037213_eli82q_HRziTgcbkAAIjUD.png" width="600" alt="सोशल मीडिया पोस्ट - Miniature World Inside a Tangerine - Image 4">
+<img src="https://cms-assets.youmind.com/media/1789113127477_m8tok2_HR4JcbKbUAA5NjV.jpg" width="600" alt="सोशल मीडिया पोस्ट - Golden Deer Morning Felt Transformation - Image 4">
 </div>
 
 #### 📌 विवरण
 
-- **लेखक:** [Johnny Wang](https://x.com/JohnnyWang8802)
-- **स्रोत:** [Twitter Post](https://x.com/JohnnyWang8802/status/2097800514633429315)
-- **प्रकाशित:** 9 सितंबर 2026
+- **लेखक:** [小小东](https://x.com/xiaoxiaodong01)
+- **स्रोत:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2098125338484342869#reversed-0)
+- **प्रकाशित:** 10 सितंबर 2026
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34143)**
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34333)**
 
 ---
 
-### No. 22: सोशल मीडिया पोस्ट - पुष्प कैथेड्रल में क्रिमसन एंजेल प्रिंसेस
+### No. 24: सोशल मीडिया पोस्ट - कोरियन-प्रेरित समर लाइफस्टाइल पोर्ट्रेट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+गर्मियों की सड़क पर एक युवती के कैंडिड, लाइफस्टाइल-शैली के पोर्ट्रेट को बनाने के लिए एक विस्तृत प्रॉम्प्ट, जिसमें कोरियन मिनिमलिस्ट फैशन और हल्की धूप का चित्रण है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक उज्ज्वल गर्मियों के दिन {argument name="subject" default="शांत, पेड़ों से घिरी सड़क पर खड़ी एक युवती"} का अल्ट्रा-रियलिस्टिक आउटडोर लाइफस्टाइल पोर्ट्रेट। उसके लंबे, रेशमी गहरे भूरे बाल हैं जिनमें हल्के प्राकृतिक वेव हैं, साथ ही सॉफ्ट कर्टेन बैंग्स और चेहरे को फ्रेम करती लटें हैं। उसके चेहरे के नैन-नक्श नाजुक और युवा हैं, त्वचा साफ और प्राकृतिक है, भूरी आँखें हैं, हल्का मेकअप है, और होंठों पर एक प्यारी सी चंचल मुस्कान है।
+उसने {argument name="clothing" default="साफ-सुथरे मिनिमलिस्ट स्टाइल वाली फिटेड सफेद स्लीवलेस स्क्वायर-नेक ड्रेस"} पहनी है। एक हल्का बेज रंग का निटेड कार्डिगन लापरवाही से एक हाथ पर डाला हुआ है। उसने सोने की चेन और गोल्ड हार्डवेयर वाला एक छोटा, सुरुचिपूर्ण सफेद क्विल्टेड हैंडबैग लिया हुआ है। उसने एक नाजुक पेंडेंट नेकलेस और एक साधारण अंगूठी पहनी है।
+वह अपने दोनों हाथों से {argument name="drink" default="हल्के हरे रंग की आइस्ड माचा ड्रिंक से भरा एक पारदर्शी प्लास्टिक कप"} अपने मुंह के पास पकड़े हुए है, जैसे वह बस पीने ही वाली हो। कप पर हाथ से लिखा हुआ एक साधारण कैफे लेबल है।
+पृष्ठभूमि में हरे-भरे पेड़, एक शांत पक्का रास्ता, सुरुचिपूर्ण पत्थर और धातु की बाड़, और पत्तियों के बीच से आंशिक रूप से दिखाई देने वाले वास्तुशिल्प विवरण हैं। पेड़ों के बीच से छनकर आती उज्ज्वल प्राकृतिक रोशनी, पूरे दृश्य पर सुंदर धूप और हल्की परछाइयां बना रही है।
+कोरियन-प्रेरित मिनिमलिस्ट फैशन फोटोग्राफी, कैंडिड स्ट्रीट-स्टाइल एस्थेटिक, गर्मियों का हल्का वातावरण, प्राकृतिक दिन की रोशनी, यथार्थवादी त्वचा बनावट, बालों की विस्तृत लटें, कपड़ों और हैंडबैग की यथार्थवादी बनावट, हल्का गर्म कलर ग्रेडिंग, उथली डेप्थ ऑफ फील्ड, सौम्य बैकग्राउंड बोकेह, ऑथेंटिक स्मार्टफोन फोटोग्राफी, फोटो-रियलिस्टिक, हाई रेजोल्यूशन, प्राकृतिक शारीरिक अनुपात, वर्टिकल 4:5 कंपोजिशन।
+कार्टून, एनीमे, सीजीआई, प्लास्टिक जैसी त्वचा, अत्यधिक मेकअप, बिगड़ा हुआ चेहरा, असममित आँखें, विकृत हाथ, अतिरिक्त उंगलियां, विकृत ड्रिंक कप, टेढ़ा-मेढ़ा हैंडबैग, अवास्तविक बाल, अप्राकृतिक शारीरिक अनुपात, अत्यधिक सैचुरेटेड रंग, कठोर परछाइयां, धुंधला विषय, अत्यधिक रीटचिंग, टेक्स्ट आर्टिफैक्ट्स, वॉटरमार्क।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113112913_g5rhtg_HR23kg9asAAQJtT.jpg" width="600" alt="सोशल मीडिया पोस्ट - कोरियन-प्रेरित समर लाइफस्टाइल पोर्ट्रेट - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Aqsa](https://x.com/Aqsahere_)
+- **स्रोत:** [Twitter Post](https://x.com/Aqsahere_/status/2098034850599240044)
+- **प्रकाशित:** 10 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34310)**
+
+---
+
+### No. 25: सोशल मीडिया पोस्ट - Serene Four-Panel Woman Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A detailed prompt for creating a tranquil four-panel collage of a young woman with long wavy hair, featuring various expressions and angles to tell a graceful visual story.
+
+#### 📝 प्रॉम्पट
+
+```
+This image presents a serene {argument name="layout" default="four-panel photo collage"} featuring a {argument name="subject" default="young woman"} with {argument name="hair style" default="long, dark wavy hair"} and soft bangs, dressed in a light, sheer garment. In the top-left panel, she faces forward with a gentle, warm smile, her eyes engaging the camera directly. The top-right panel captures her glancing back over her shoulder against a background dappled with soft, abstract light patterns. In the bottom-left panel, she is depicted in a peaceful moment with her eyes gently closed, highlighting a calm and contemplative mood. Finally, the bottom-right panel shows her looking thoughtfully toward the side with a soft expression, completing a cohesive visual narrative centered on grace, natural beauty, and tranquility.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113118178_wb40sl_HR1R5OWaEAA-Bmy.jpg" width="600" alt="सोशल मीडिया पोस्ट - Serene Four-Panel Woman Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113117933_oz700f_HR1R5O8a0AAFhrr.jpg" width="600" alt="सोशल मीडिया पोस्ट - Serene Four-Panel Woman Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113117966_3fw36k_HR1R5OubcAA7VLY.jpg" width="600" alt="सोशल मीडिया पोस्ट - Serene Four-Panel Woman Portrait - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113118753_3syrec_HR1R5Oib0AAtiEL.jpg" width="600" alt="सोशल मीडिया पोस्ट - Serene Four-Panel Woman Portrait - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Aniya Intelligence](https://x.com/aniyaintel)
+- **स्रोत:** [Twitter Post](https://x.com/aniyaintel/status/2097923059147804833)
+- **प्रकाशित:** 10 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34212)**
+
+---
+
+### No. 26: सोशल मीडिया पोस्ट - मैचिंग 3D बॉबलहेड के साथ महिला
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+सोशल मीडिया या कैरेक्टर कॉन्सेप्ट विज़ुअल्स के लिए एक महिला और उसके 3D कैरिकेचर का यथार्थवादी स्टूडियो पोर्ट्रेट तैयार करें।
+
+#### 📝 प्रॉम्पट
+
+```
+4:5 वर्टिकल आस्पेक्ट रेशियो में एक हाई-रिज़ॉल्यूशन, अल्ट्रा-रियलिस्टिक स्टूडियो कंपोज़िशन बनाएं, जिसमें दो विषय हों: एक वास्तविक युवा महिला और उसके बगल में खड़ी उसी महिला का 3D बॉबलहेड कैरिकेचर। वास्तविक महिला लंबी है और दाईं ओर खड़ी है, जिसके लंबे थोड़े बिखरे हुए गहरे भूरे रंग के लहरदार बाल, विस्पी बैंग्स, गोल पतले फ्रेम वाले चश्मे, शांत लेकिन हल्की डांट वाली अभिव्यक्ति और एक कैज़ुअल आत्मविश्वासपूर्ण पोज़ है। उसने छोटे बटन वाले हल्के नीले रंग की शॉर्ट-स्लीव पोलो शर्ट, हाई-वेस्ट ढीली सफेद वाइड-लेग पैंट, सफेद मोज़े और सफेद स्नीकर्स पहने हैं। उसका बायां हाथ उसकी कमर पर है और उसने एक सादी सफेद बेसबॉल कैप पकड़ी हुई है, और उसका दाहिना हाथ आगे की ओर मुड़ा हुआ है जिसकी तर्जनी उंगली कैरिकेचर की ओर इशारा कर रही है। कैरिकेचर बाईं ओर वास्तविक महिला की ऊंचाई के लगभग एक-तिहाई हिस्से पर खड़ा है, जिसका सिर बड़ा, शरीर छोटा, मैचिंग गोल चश्मे के पीछे बड़ी चमकदार अभिव्यंजक आंखें, वही लंबे गहरे लहरदार बाल और बैंग्स, एक प्यारी शरारती मुस्कान, और दोनों हाथों को पीछे छिपाए हुए थोड़ी शर्मीली मुद्रा है। कैरिकेचर को भी वही कपड़े पहनाएं: हल्के नीले रंग की पोलो शर्ट, सफेद हाई-वेस्ट पैंट और सफेद स्नीकर्स। {argument name="character appearance" default="लंबे गहरे भूरे लहरदार बाल, विस्पी बैंग्स और गोल चश्मे वाली एक युवा पूर्वी एशियाई महिला"}, {argument name="shirt color" default="हल्का नीला"}, {argument name="pants color" default="सफेद"}, {argument name="real woman pose" default="एक हाथ कमर पर सफेद कैप पकड़े हुए और दूसरा हाथ नीचे की ओर इशारा करते हुए खड़े होना"}, और {argument name="caricature expression" default="ऊपर की ओर देखते हुए प्यारी शरारती मुस्कान"} का उपयोग करें। दृश्य को एक साफ सीमलेस ग्रे स्टूडियो में सेट करें जिसमें सॉफ्ट ग्रेडिएंट बैकग्राउंड, चिकना कंक्रीट फर्श, दोनों आकृतियों के नीचे सूक्ष्म छाया, यथार्थवादी फोटोग्राफिक लाइटिंग, स्पष्ट फैब्रिक डिटेल, प्राकृतिक त्वचा बनावट और एक पॉलिश्ड प्रीमियम एडिटोरियल लुक हो। बॉबलहेड को स्टाइलिश लेकिन भौतिक रूप से उपस्थित रखें और एक उच्च-गुणवत्ता वाली 3D आकृति के रूप में रेंडर करें, जबकि वास्तविक महिला फोटो-रियलिस्टिक बनी रहे। कोई टेक्स्ट नहीं, कोई लोगो नहीं, कोई अतिरिक्त व्यक्ति नहीं, कोई वॉटरमार्क नहीं।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113124805_g4vki1_HR1PVYMaAAAKPis.jpg" width="600" alt="सोशल मीडिया पोस्ट - मैचिंग 3D बॉबलहेड के साथ महिला - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113125138_nbaxny_HR1PVYPa4AAL2j8.jpg" width="600" alt="सोशल मीडिया पोस्ट - मैचिंग 3D बॉबलहेड के साथ महिला - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Laraib Fatima‎](https://x.com/AiwithLariab)
+- **स्रोत:** [Twitter Post](https://x.com/AiwithLariab/status/2097920554074562834#reversed-0)
+- **प्रकाशित:** 10 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34332)**
+
+---
+
+### No. 27: सोशल मीडिया पोस्ट - तटीय सड़क की सहज यात्रा की तस्वीर
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+सूर्यास्त के समय कार के अंदर से ली गई, तटीय सड़क पर खड़ी एक महिला की सहज यात्रा की तस्वीर के लिए एक यथार्थवादी प्रॉम्प्ट।
+
+#### 📝 प्रॉम्पट
+
+```
+एक पूरी तरह से नई {argument name="subject" default="युवा एशियाई महिला"} की अत्यधिक यथार्थवादी सहज तस्वीर, जो {argument name="time of day" default="सूर्यास्त"} के समय एक {argument name="location" default="सुंदर तटीय सड़क"} के किनारे खड़ी है, जिसे कार के अंदर से यात्री-साइड की खिड़की के माध्यम से खींचा गया है। उसके लंबे, प्राकृतिक रूप से बिखरे हुए गहरे भूरे बाल शाम की हवा में उड़ रहे हैं, चेहरे पर एक शांत और थोड़ी दूरस्थ अभिव्यक्ति है, और उसने एक साधारण कैज़ुअल टॉप के ऊपर गहरे रंग की ओवरसाइज़्ड जैकेट पहनी है। वह कार के बाहर सड़क के किनारे लगी धातु की रेलिंग के पास खड़ी है, उसका शरीर कैमरे से थोड़ा दूर है जबकि वह उसे फोटो खींचने वाले व्यक्ति की ओर वापस देख रही है। कैमरा वाहन के अंदर नीचे और तिरछे कोण पर स्थित है, जिसमें घुमावदार कार की खिड़की का फ्रेम, आंतरिक दरवाजा और साइड मिरर अग्रभूमि में आंशिक रूप से दिखाई दे रहे हैं। फ्रेमिंग अपूर्ण है और यह एक नियोजित पोर्ट्रेट के बजाय एक सहज यात्रा की तस्वीर जैसा महसूस होता है। उसके पीछे खड़ी ढलानों, घुमावदार सड़क, बिखरे हुए घरों, चट्टानी तटरेखा और क्षितिज की ओर फैले शांत समुद्र के पानी के साथ एक बिल्कुल अलग तटीय परिदृश्य है। सूरज क्षितिज के पास है, जो उसके बालों और परिदृश्य पर नरम सुनहरी चमक पैदा कर रहा है जबकि कार का अधिकांश आंतरिक हिस्सा अंधेरे में है। प्राकृतिक स्मार्टफोन/कॉम्पैक्ट डिजिटल-कैमरा फोटोग्राफी, यथार्थवादी लेंस विरूपण और परिप्रेक्ष्य, सूक्ष्म हैंडहेल्ड खामियां, प्रामाणिक त्वचा बनावट, अलग-अलग उड़ते हुए बाल, यथार्थवादी कपड़ों के रेशे और सिलवटें, प्राकृतिक चेहरे की विषमता, हल्का वायुमंडलीय धुंध, कम कंट्रास्ट, सौम्य सूर्यास्त के रंग, हल्का डिजिटल शोर, बहुत सूक्ष्म फिल्म ग्रेन, यथार्थवादी डायनेमिक रेंज, थोड़ी अपूर्ण एक्सपोज़र, नरम बैकग्राउंड ब्लर, कोई स्टूडियो लाइटिंग नहीं, कोई ब्यूटी-फिल्टर स्किन नहीं, कोई अत्यधिक शार्पनिंग नहीं, कोई कृत्रिम CGI उपस्थिति नहीं। यह छवि रोड ट्रिप के दौरान सहजता से ली गई एक वास्तविक तस्वीर जैसी महसूस होनी चाहिए। अत्यधिक यथार्थवादी, वर्टिकल 3:4 कंपोजिशन।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113116328_6qnun6_HRwWIXRbcAA5K6c.jpg" width="600" alt="सोशल मीडिया पोस्ट - तटीय सड़क की सहज यात्रा की तस्वीर - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113116296_rqzne0_HRwWIWIbUAAxlAk.jpg" width="600" alt="सोशल मीडिया पोस्ट - तटीय सड़क की सहज यात्रा की तस्वीर - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Nicole](https://x.com/nicolecreats)
+- **स्रोत:** [Twitter Post](https://x.com/nicolecreats/status/2097802476594315569)
+- **प्रकाशित:** 9 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34315)**
+
+---
+
+### No. 28: सोशल मीडिया पोस्ट - पुष्प कैथेड्रल में क्रिमसन एंजेल प्रिंसेस
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1412,7 +1656,7 @@ Overall exposure reduced by one stop. The darkness outside the cave remains trul
 
 ---
 
-### No. 23: सोशल मीडिया पोस्ट - तीन-पैनल GPT इमेज मॉडल तुलना
+### No. 29: सोशल मीडिया पोस्ट - तीन-पैनल GPT इमेज मॉडल तुलना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1460,7 +1704,7 @@ Overall exposure reduced by one stop. The darkness outside the cave remains trul
 
 ---
 
-### No. 24: सोशल मीडिया पोस्ट - 1980 के दशक का मियामी लाइफस्टाइल फैशन पोर्ट्रेट
+### No. 30: सोशल मीडिया पोस्ट - 1980 के दशक का मियामी लाइफस्टाइल फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1494,7 +1738,7 @@ Overall exposure reduced by one stop. The darkness outside the cave remains trul
 
 ---
 
-### No. 25: सोशल मीडिया पोस्ट - अति-यथार्थवादी रेड ड्रेस फैशन पोर्ट्रेट
+### No. 31: सोशल मीडिया पोस्ट - अति-यथार्थवादी रेड ड्रेस फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1534,7 +1778,7 @@ Overall exposure reduced by one stop. The darkness outside the cave remains trul
 
 ---
 
-### No. 26: सोशल मीडिया पोस्ट - अंडरवाटर AI मॉडल तुलना
+### No. 32: सोशल मीडिया पोस्ट - अंडरवाटर AI मॉडल तुलना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1582,7 +1826,7 @@ Overall exposure reduced by one stop. The darkness outside the cave remains trul
 
 ---
 
-### No. 27: सोशल मीडिया पोस्ट - जापानी कैंपस के दोस्तों की कैंडिड तस्वीरें
+### No. 33: सोशल मीडिया पोस्ट - जापानी कैंपस के दोस्तों की कैंडिड तस्वीरें
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1616,7 +1860,7 @@ Overall exposure reduced by one stop. The darkness outside the cave remains trul
 
 ---
 
-### No. 28: सोशल मीडिया पोस्ट - सिनेमैटिक स्कूलगर्ल डायरी कोलाज
+### No. 34: सोशल मीडिया पोस्ट - सिनेमैटिक स्कूलगर्ल डायरी कोलाज
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1669,7 +1913,7 @@ Overall exposure reduced by one stop. The darkness outside the cave remains trul
 
 ---
 
-### No. 29: सोशल मीडिया पोस्ट - हाई रेजोल्यूशन फॉरेस्ट क्लियरिंग फोटो
+### No. 35: सोशल मीडिया पोस्ट - हाई रेजोल्यूशन फॉरेस्ट क्लियरिंग फोटो
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1709,7 +1953,7 @@ GPT Image 2.5 का उपयोग करके हाई-रेजोल्�
 
 ---
 
-### No. 30: सोशल मीडिया पोस्ट - स्ट्रीमर ट्रेडिंग कार्ड प्रोडक्ट शॉट
+### No. 36: सोशल मीडिया पोस्ट - स्ट्रीमर ट्रेडिंग कार्ड प्रोडक्ट शॉट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1743,19 +1987,19 @@ GPT Image 2.5 का उपयोग करके हाई-रेजोल्�
 
 ---
 
-### No. 31: सोशल मीडिया पोस्ट - कमल तालाब हानफू सूर्यास्त पोर्ट्रेट
+### No. 37: इन्फोग्राफिक / शैक्षिक विज़ुअल - Technical Product Infographic Overlay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-सूर्यास्त के समय एक क्लासिक चीनी उद्यान में कमल पकड़े हुए एक महिला का उदासीन सिनेमाई हानफू पोर्ट्रेट तैयार करता है।
+Generates a professional technical infographic with blueprint-style overlays, including dimensions and diagrams for product design visualization.
 
 #### 📝 प्रॉम्पट
 
 ```
-सूर्यास्त के समय कमल के तालाब के किनारे पत्थर की रेलिंग पर नंगे पैर बैठी, रोमांटिक प्राचीन चीनी हानफू शैली में एक युवा पूर्वी एशियाई महिला की एक वर्टिकल सिनेमाई पोर्ट्रेट फोटो बनाएं। उसने लेयर्ड गॉज स्लीव्स, नाजुक फूलों की कढ़ाई, हल्के आड़ू-गुलाबी रंग का इनर चोली और पैरों के चारों ओर फैले लंबे कपड़े वाला एक बहता हुआ पारभासी हल्का गुलाबी रेशमी हानफू पहना है। उसके {argument name="hair color" default="black"} बालों को विस्पी बैंग्स और छोटे गुलाबी-सफेद फूलों के हेयर ऑर्नामेंट्स और रिबन के साथ ढीले ढंग से स्टाइल किया गया है। वह दोनों हाथों में एक लंबी हरी डंठल पर एक बड़ा गुलाबी कमल का फूल पकड़े हुए, कैमरे की ओर एक कोमल, स्वप्निल भाव के साथ मुस्कुरा रही है। सेटिंग एक क्लासिक चीनी गार्डन पैविलियन कॉरिडोर है: दाईं ओर गहरा लकड़ी का दरवाजा और खंभा, बाईं ओर ग्रे पत्थर की दीवार और रेलिंग, उसके पीछे हरे कमल के पत्तों और बिखरे हुए फूलों से भरा तालाब, पानी के पार दूर पैविलियन की रूपरेखा और पेड़। गर्म सुनहरी सूर्यास्त की रोशनी क्षितिज पर कम चमक रही है, जो तालाब में प्रतिबिंबित हो रही है और पारभासी कपड़े को बैकलाइट कर रही है, जिससे एक धुंधला उदासीन वातावरण बन रहा है। दाईं ओर के लकड़ी के खंभे पर वर्टिकल चीनी सुलेख शामिल करें जिसमें {argument name="pillar calligraphy" default="荷风送香气"} लिखा हो। दृश्य ग्रेन, हल्की कोमलता, गर्म फीके रंगों, सूक्ष्म लेंस फ्लेयर, सूरज के पास हल्की ओवरएक्सपोज़र और निचले बाएं किनारे के पास {argument name="date stamp" default="05 21 '99"} पढ़ने वाली एक छोटी नारंगी फिल्म डेट स्टैम्प के साथ एक एनालॉग फिल्म लुक का उपयोग करें। रचना फुल-बॉडी सीटेड होनी चाहिए, थोड़ा दाईं ओर केंद्रित, पोर्ट्रेट ओरिएंटेशन 9:16, अंतरंग और सुरुचिपूर्ण, जिसमें कोई आधुनिक वस्तु, कोई अतिरिक्त व्यक्ति, कोई वॉटरमार्क और कोई विकृत हाथ या पैर नहीं होने चाहिए।
+Premium technical infographic of {argument name="product" default="[Apple 18 pro ]"}. Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality. Clear, elegant, and informative composition. Include a sketch box in the upper left corner with the title "{argument name="title" default="[Apple 18 pro]"}
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -1763,187 +2007,27 @@ GPT Image 2.5 का उपयोग करके हाई-रेजोल्�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942341647_eu816u_HRvd4QHaYAAfacu.jpg" width="600" alt="सोशल मीडिया पोस्ट - कमल तालाब हानफू सूर्यास्त पोर्ट्रेट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [DeepBlue深藍](https://x.com/DeepBlueX0)
-- **स्रोत:** [Twitter Post](https://x.com/DeepBlueX0/status/2097514020622541265#reversed-0)
-- **प्रकाशित:** 9 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34022)**
-
----
-
-### No. 32: सोशल मीडिया पोस्ट - प्रोफेशनल स्किनकेयर रिव्यू प्रोडक्ट फोटोग्राफी
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-GPT Image 2.5 में एक महिला इन्फ्लुएंसर के साथ प्रोफेशनल स्किनकेयर प्रोडक्ट फोटोग्राफी बनाने के लिए एक अत्यधिक विस्तृत प्रॉम्प्ट, जो यथार्थवादी बनावट और सटीक लेबल रेंडरिंग पर केंद्रित है।
-
-#### 📝 प्रॉम्पट
-
-```
-फोटो: एक {argument name="subject" default="27 वर्षीय छोटे बालों वाली महिला इन्फ्लुएंसर"} जो एक यथार्थवादी ब्यूटी कंटेंट शॉट के लिए कैमरे के सामने कॉस्मेटिक्स पेश कर रही है। वर्टिकल, 9:16 आस्पेक्ट रेशियो।
-
-व्यक्ति:
-गहरे भूरे रंग के छोटे बाल, कानों और गर्दन के आसपास साफ-सुथरे। स्वस्थ चमक के साथ नेचुरल मेकअप। ऐसी बनावट जो त्वचा के दाने (skin grain) को बरकरार रखती है। सादे आइवरी रंग का टॉप पहने हुए, कैमरे की ओर एक दोस्ताना मुस्कान के साथ देख रही है।
-
-एक्शन/प्रोडक्ट:
-एक हाथ से अपने गाल के पास एक छोटी फ्रॉस्टेड ग्लास सीरम की बोतल पकड़े हुए, जबकि दूसरे हाथ की हथेली से उसे सहारा दे रही है। बोतल में {argument name="liquid color" default="हल्के गुलाबी"} रंग का लिक्विड है और सफेद ढक्कन है। लेबल सीधे कैमरे की ओर है और उंगलियां टेक्स्ट को नहीं ढक रही हैं। चेहरा और प्रोडक्ट एक-दूसरे के ऊपर नहीं हैं; दोनों स्पष्ट रूप से दिखाई दे रहे हैं।
-
-प्रोडक्ट लेबल:
-एक काल्पनिक स्किनकेयर ब्रांड "{argument name="brand name" default="NUVÉA"}" के लिए एक तैयार रिटेल पैकेज। बोतल के सामने सीधे एक मैट आइवरी आयताकार लेबल लगाया गया है। महीन कागज की बनावट दिखाई दे रही है, जिसके किनारे घुमावदार सतह पर स्वाभाविक रूप से चिपके हुए हैं।
-
-लेबल पर निम्नलिखित टेक्स्ट को बिल्कुल और केवल एक बार प्रिंट करें:
-ऊपर: "NUVÉA"
-बीच में: "HYDRATING SERUM"
-उसके नीचे: "Niacinamide 5%"
-सबसे नीचे: "30 mL / 1.0 fl oz"
-
-ब्रांड का नाम थोड़े बड़े और सोफिस्टिकेटेड सेरिफ फॉन्ट में है। प्रोडक्ट का नाम और अन्य जानकारी छोटे और स्पष्ट सैन्स-सेरिफ फॉन्ट में हैं। उचित स्पेसिंग और मार्जिन के साथ गहरे चारकोल रंग के टेक्स्ट का उपयोग करें। एक पतली डस्टी पिंक लाइन शामिल करें। प्रिंट को बोतल के परिप्रेक्ष्य और वक्रता के साथ स्वाभाविक रूप से एकीकृत करें; तैरते हुए टेक्स्ट या सबटाइटल से बचें। सुनिश्चित करें कि रिफ्लेक्शन टेक्स्ट को धुंधला न करें। कोई भी ऐसा निशान या टेक्स्ट न जोड़ें जो निर्दिष्ट नहीं है।
-
-कंपोजिशन/बैकग्राउंड:
-आंखों के स्तर पर लिया गया चेस्ट-अप पोर्ट्रेट। पूरे बाल, दोनों हाथ और प्रोडक्ट फ्रेम के भीतर हैं। चेहरा और प्रोडक्ट केंद्र के पास समान गहराई पर हैं, दोनों फोकस में हैं। प्रोडक्ट इतना बड़ा है कि लेबल पढ़ा जा सके। बैकग्राउंड एक चमकदार बेज रंग का कमरा है जिसमें सॉफ्ट-फोकस वैनिटी और छोटे पौधे हैं।
-
-लाइटिंग/फिनिश:
-एक कोण से आती हुई सॉफ्ट नेचुरल विंडो लाइट, जो चेहरे पर हल्की छाया बनाती है। सूक्ष्म ग्लास रिफ्लेक्शन, नेचुरल स्किन और फैब्रिक टेक्सचर। सोशल मीडिया ब्यूटी रिव्यू के स्क्रीन-ग्रैब जैसा एक साफ और नेचुरल पल।
-
-सीमाएं: एक व्यक्ति। हाथों और बोतल के आकार का नेचुरल और सटीक चित्रण। अत्यधिक स्किन स्मूथिंग, प्लास्टिक जैसी त्वचा या कठोर लाइटिंग से बचें। केवल लेबल पर टेक्स्ट। कोई सबटाइटल, वॉटरमार्क या UI नहीं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029081490_6sfvnu_HRvYdeLasAAZE1c.jpg" width="600" alt="सोशल मीडिया पोस्ट - प्रोफेशनल स्किनकेयर रिव्यू प्रोडक्ट फोटोग्राफी - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789113111185_qdhjmx_HR1UG5dboAEUYF1.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - Technical Product Infographic Overlay - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029081473_nefs42_HRvYd_GbAAAviCb.jpg" width="600" alt="सोशल मीडिया पोस्ट - प्रोफेशनल स्किनकेयर रिव्यू प्रोडक्ट फोटोग्राफी - Image 2">
+<img src="https://cms-assets.youmind.com/media/1789113111179_aehk7i_HR1UG5UbEAAD7eg.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - Technical Product Infographic Overlay - Image 2">
 </div>
 
 #### 📌 विवरण
 
-- **लेखक:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm)
-- **स्रोत:** [Twitter Post](https://x.com/tanabe_fragm/status/2097509537565859923)
-- **प्रकाशित:** 9 सितंबर 2026
-- **भाषाएं:** ja
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=33981)**
-
----
-
-### No. 33: सोशल मीडिया पोस्ट - कार्टून कैरेक्टर GIF स्प्राइट शीट
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 विवरण
-
-GPT Image 2.5 के लिए डिज़ाइन किया गया एक तकनीकी प्रॉम्प्ट, जो एक कैरेक्टर की निरंतर एनीमेशन वाली 4x4 स्प्राइट शीट तैयार करता है, जो स्मूथ कस्टम GIF बनाने के लिए एकदम सही है।
-
-#### 📝 प्रॉम्पट
-
-```
-इमेज में दिए गए कैरेक्टर के कार्टून लाइन स्टाइल में हाफ-बॉडी GIF इमोजी पैक के लिए फ्रेम्स जनरेट करें, यह सुनिश्चित करते हुए कि हेडवियर और हेयरस्टाइल सही हों। कुल 16 छोटी इमेज जनरेट करने के लिए 4x4 लेआउट का उपयोग करें। ये 16 इमेज "ब्लोइंग अ किस" (फ्लाइंग किस) एनीमेशन के निरंतर विभाजित एक्शन को दर्शाती हैं, जिन्हें एक पूर्ण, स्मूथ लूप में जोड़ा जा सकता है जहाँ अंतिम फ्रेम वापस पहले फ्रेम पर आ जाता है। सभी 16 इमेज में इमेज से मेल खाते फॉन्ट में "I love you" टेक्स्ट शामिल होना चाहिए। आसान कटिंग के लिए 16 इमेज के बीच पर्याप्त व्हाइट स्पेस रखें, यह सुनिश्चित करते हुए कि प्रत्येक इमेज अपने क्षेत्र के भीतर रहे। मूल इमेज की हूबहू नकल न करें; केवल कैरेक्टर का उपयोग करें। बैकग्राउंड बिना किसी डिवाइडर लाइन के पूरी तरह सफेद होना चाहिए। आस्पेक्ट रेशियो 1:1।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029046464_x0lkan_HRvYtLBawAA4oRK.jpg" width="600" alt="सोशल मीडिया पोस्ट - कार्टून कैरेक्टर GIF स्प्राइट शीट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Gorden Sun](https://x.com/Gorden_Sun)
-- **स्रोत:** [Twitter Post](https://x.com/Gorden_Sun/status/2097508341992083824)
-- **प्रकाशित:** 9 सितंबर 2026
-- **भाषाएं:** zh
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=33950)**
-
----
-
-### No. 34: सोशल मीडिया पोस्ट - इन्फ्लुएंसर लाइव स्ट्रीम सीन
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-चीनी इन्फ्लुएंसर्स को दर्शाने वाले एक यथार्थवादी स्प्लिट-स्क्रीन लाइव स्ट्रीमिंग इंटरफ़ेस को जनरेट करने के लिए एक नेचुरल लैंग्वेज प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-"{argument name="platform" default="Douyin"} लाइव ब्रॉडकास्ट इंटरफ़ेस, दो चीनी महिला इन्फ्लुएंसर्स एक स्प्लिट-स्क्रीन लाइव स्ट्रीम में हैं।"
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029025826_5dq4ia_HRvV8TeasAAEHnQ.jpg" width="600" alt="सोशल मीडिया पोस्ट - इन्फ्लुएंसर लाइव स्ट्रीम सीन - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [LinearUncle](https://x.com/LinearUncle)
-- **स्रोत:** [Twitter Post](https://x.com/LinearUncle/status/2097506201621942396)
-- **प्रकाशित:** 9 सितंबर 2026
-- **भाषाएं:** zh
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=33957)**
-
----
-
-### No. 35: सोशल मीडिया पोस्ट - प्राचीन कुलीन एलन का सिनेमैटिक पोर्ट्रेट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक आधुनिक टेक हस्ती को प्राचीन नदी-तट सभ्यता के दृश्य में स्थापित करने वाला एक फोटो-रियलिस्टिक सिनेमैटिक पोर्ट्रेट प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-एक सिनेमैटिक फोटो-रियलिस्टिक ऐतिहासिक पोर्ट्रेट बनाएं जिसमें {argument name="character name" default="Elon Musk"} को एक धनी प्राचीन मेसोपोटामिया या मिस्र-युग के कुलीन व्यापारी के रूप में पुनर्कल्पित किया गया हो, जो धूप से सराबोर नदी के किनारे वाले शहर में खड़ा है। उन्हें कमर से ऊपर तक अग्रभूमि (foreground) में दिखाएं, थोड़ा बाईं ओर केंद्रित, जो आत्मविश्वास के साथ ऊपर दाईं ओर शांत और गंभीर अभिव्यक्ति के साथ देख रहे हैं। उन्होंने फटी हुई आस्तीन वाला ऑफ-व्हाइट खुरदरा लिनन ट्यूनिक, एक कंधे पर गहरे भूरे रंग का पैटर्न वाला शॉल, मोतियों और सोने के हार, और दोनों कलाइयों पर नीले पत्थरों वाले कई नक्काशीदार सोने के कंगन पहने हुए हैं। उनके हाथों में कीलाक्षर (cuneiform) जैसी लिखावट वाली एक मिट्टी की पट्टिका है जिसे उन्होंने अपनी छाती के करीब पकड़ा हुआ है। वातावरण गोल्डन आवर (सुनहरी घड़ी) का एक प्राचीन रेगिस्तानी बंदरगाह शहर है: सुदूर बाईं ओर चित्रलिपि-शैली के प्रतीकों वाला एक नक्काशीदार पत्थर का खंभा, पृष्ठभूमि में ताड़ के पेड़ और मिट्टी की ईंटों की इमारतें, दाईं ओर एक चौड़ी नदी या नहर जिसमें छोटी लकड़ी की नावें हैं, श्रमिक पत्थर के ब्लॉक ले जा रहे हैं और ढेर लगा रहे हैं, और धुंधली दूरी में मचान के साथ एक सीढ़ीदार ज़िगुरत या पिरामिड जैसी निर्माण साइट है। गर्म एम्बर धूप, धूल भरा वातावरण, हल्का बैकग्राउंड ब्लर, आकृति के चारों ओर सूक्ष्म रिम लाइट, यथार्थवादी त्वचा बनावट, उथला डेप्थ ऑफ फील्ड, एपिक फिल्म स्टिल कंपोजिशन, 35mm एनामोर्फिक लुक, उच्च विवरण, प्राकृतिक रंग, कोई आधुनिक वस्तु नहीं, कोई टेक्स्ट ओवरले नहीं, कोई वॉटरमार्क नहीं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942336137_25n7rt_HRvG0PFaoAAKdRS.jpg" width="600" alt="सोशल मीडिया पोस्ट - प्राचीन कुलीन एलन का सिनेमैटिक पोर्ट्रेट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Linx_OKX | 我爱Misa](https://x.com/hetzerLin)
-- **स्रोत:** [Twitter Post](https://x.com/hetzerLin/status/2097488659641708999#reversed-0)
-- **प्रकाशित:** 9 सितंबर 2026
+- **लेखक:** [Al-Shamus](https://x.com/im_shahid7)
+- **स्रोत:** [Twitter Post](https://x.com/im_shahid7/status/2097925502493508013)
+- **प्रकाशित:** 10 सितंबर 2026
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34015)**
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34210)**
 
 ---
 
-### No. 36: इन्फोग्राफिक / शैक्षिक विज़ुअल - Research Paper Academic Poster
+### No. 38: इन्फोग्राफिक / शैक्षिक विज़ुअल - Research Paper Academic Poster
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1977,7 +2061,7 @@ Research the poster regulations for presentation at the {argument name="conferen
 
 ---
 
-### No. 37: इन्फोग्राफिक / शैक्षिक विज़ुअल - 3D Diagrams and Visual Layouts
+### No. 39: इन्फोग्राफिक / शैक्षिक विज़ुअल - 3D Diagrams and Visual Layouts
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2013,7 +2097,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 38: इन्फोग्राफिक / शैक्षिक विज़ुअल - विस्फोटित पारदर्शी कृत्रिम हृदय
+### No. 40: इन्फोग्राफिक / शैक्षिक विज़ुअल - विस्फोटित पारदर्शी कृत्रिम हृदय
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2067,7 +2151,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 39: इन्फोग्राफिक / शैक्षिक विज़ुअल - AI प्रोडक्ट स्केच से लैंप रेंडर
+### No. 41: इन्फोग्राफिक / शैक्षिक विज़ुअल - AI प्रोडक्ट स्केच से लैंप रेंडर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2101,7 +2185,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 40: इन्फोग्राफिक / शैक्षिक विज़ुअल - जापानी कॉरिडोर विंडो डिटेल शीट
+### No. 42: इन्फोग्राफिक / शैक्षिक विज़ुअल - जापानी कॉरिडोर विंडो डिटेल शीट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2147,7 +2231,7 @@ REFERENCE_0 को आर्किटेक्चरल स्रोत के �
 
 ---
 
-### No. 41: इन्फोग्राफिक / शैक्षिक विज़ुअल - जापानी नीति इन्फोग्राफिक की सटीक पुनर्रचना
+### No. 43: इन्फोग्राफिक / शैक्षिक विज़ुअल - जापानी नीति इन्फोग्राफिक की सटीक पुनर्रचना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2181,7 +2265,7 @@ REFERENCE_0 को एकमात्र स्रोत के रूप मे
 
 ---
 
-### No. 42: इन्फोग्राफिक / शैक्षिक विज़ुअल - ChatGPT An Lushan इन्फोग्राफिक स्क्रीनशॉट
+### No. 44: इन्फोग्राफिक / शैक्षिक विज़ुअल - ChatGPT An Lushan इन्फोग्राफिक स्क्रीनशॉट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2237,7 +2321,7 @@ An Lushan Rebellion (安史之乱) के बारे में एक वि�
 
 ---
 
-### No. 43: इन्फोग्राफिक / शैक्षिक विज़ुअल - मैग्निफाइड ग्लास बिल्डिंग कटअवे
+### No. 45: इन्फोग्राफिक / शैक्षिक विज़ुअल - मैग्निफाइड ग्लास बिल्डिंग कटअवे
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2291,7 +2375,7 @@ An Lushan Rebellion (安史之乱) के बारे में एक वि�
 
 ---
 
-### No. 44: इन्फोग्राफिक / शैक्षिक विज़ुअल - Witch Sketch से Fantasy Result UI
+### No. 46: इन्फोग्राफिक / शैक्षिक विज़ुअल - Witch Sketch से Fantasy Result UI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2339,7 +2423,7 @@ UI विवरण: बाईं ओर नीचे बड़े जनरे�
 
 ---
 
-### No. 45: इन्फोग्राफिक / शैक्षिक विज़ुअल - हेयरस्टाइल विश्लेषण तुलना पोर्ट्रेट
+### No. 47: इन्फोग्राफिक / शैक्षिक विज़ुअल - हेयरस्टाइल विश्लेषण तुलना पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2373,7 +2457,7 @@ UI विवरण: बाईं ओर नीचे बड़े जनरे�
 
 ---
 
-### No. 46: इन्फोग्राफिक / शैक्षिक विज़ुअल - संपादकीय PPT कवर डिज़ाइन
+### No. 48: इन्फोग्राफिक / शैक्षिक विज़ुअल - संपादकीय PPT कवर डिज़ाइन
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2419,7 +2503,7 @@ UI विवरण: बाईं ओर नीचे बड़े जनरे�
 
 ---
 
-### No. 47: इन्फोग्राफिक / शैक्षिक विज़ुअल - गंदे उत्पाद और कीटाणुओं वाला किचन दृश्य
+### No. 49: इन्फोग्राफिक / शैक्षिक विज़ुअल - गंदे उत्पाद और कीटाणुओं वाला किचन दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2459,7 +2543,7 @@ UI विवरण: बाईं ओर नीचे बड़े जनरे�
 
 ---
 
-### No. 48: इन्फोग्राफिक / शैक्षिक विज़ुअल - माउंट फ़ूजी वॉटरकलर ट्रांसफॉर्मेशन
+### No. 50: इन्फोग्राफिक / शैक्षिक विज़ुअल - माउंट फ़ूजी वॉटरकलर ट्रांसफॉर्मेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2493,7 +2577,7 @@ UI विवरण: बाईं ओर नीचे बड़े जनरे�
 
 ---
 
-### No. 49: इन्फोग्राफिक / शैक्षिक विज़ुअल - ग्रेफाइट पोर्ट्रेट ड्राइंग प्रोग्रेशन
+### No. 51: इन्फोग्राफिक / शैक्षिक विज़ुअल - ग्रेफाइट पोर्ट्रेट ड्राइंग प्रोग्रेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2537,190 +2621,7 @@ UI विवरण: बाईं ओर नीचे बड़े जनरे�
 
 ---
 
-### No. 50: इन्फोग्राफिक / शैक्षिक विज़ुअल - अमेरिकन पैनकेक बनाने की प्रक्रिया का ग्रिड
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-फूड फोटोग्राफी का एक निर्देश जो 2x2 ग्रिड डिज़ाइन करता है, जिसमें बैटर तैयार करने से लेकर अंतिम सर्विंग तक फ्लफी पैनकेक बनाने की पूरी प्रक्रिया दिखाई गई है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक अल्ट्रा-रियलिस्टिक फूड फोटोग्राफी कोलाज बनाएं जो {argument name="grid style" default="2×2 ग्रिड"} में हो, जिसमें फ्लफी {argument name="food item" default="अमेरिकन पैनकेक"} बनाने की पूरी प्रक्रिया दिखाई गई हो, जो संदर्भ रचना (reference composition) से मेल खाती हो।
-
-ऊपर-बाएं: एक लकड़ी की रसोई की मेज जिस पर एक बड़ा सफेद सिरेमिक कटोरा है, जिसमें स्मूथ पैनकेक बैटर भरा है, जिसके चारों ओर करीने से व्यवस्थित सामग्री है: एक कच्चे अंडे वाला छोटा कटोरा, एक कप सफेद मैदा, मक्खन के साथ एक छोटी डिश, दूध का एक कांच का जार, बेकिंग पाउडर का एक छोटा कटोरा, अंडे का टूटा हुआ छिलका और एक धातु का व्हिस्क। गर्म प्राकृतिक रसोई की रोशनी, यथार्थवादी बनावट, साफ ओवरहेड कंपोजिशन।
-
-ऊपर-दाएं: स्टोवटॉप पर रखे काले नॉन-स्टिक फ्राइंग पैन का क्लोज-अप। बेज रंग का ओवन ग्लव पहने एक हाथ एक करछुल (ladle) पकड़े हुए है और गर्म पैन के केंद्र में गाढ़ा हल्का पैनकेक बैटर डाल रहा है। पैन के चारों ओर दिखाई देती भाप और मक्खन की छोटी बूंदें। गर्म लकड़ी की रसोई की पृष्ठभूमि, यथार्थवादी खाना पकाने की क्रिया।
-
-नीचे-बाएं: उसी काले कड़ाही में पक रहे दो मोटे फ्लफी पैनकेक। एक पैनकेक सुनहरा भूरा और आंशिक रूप से पका हुआ है, जबकि दूसरे को स्पैटुला से पलटा जा रहा है। पैन से उठती हल्की भाप, यथार्थवादी बुलबुले और कुरकुरे किनारे, गर्म प्राकृतिक रोशनी।
-
-नीचे-दाएं: एक प्लेट पर खूबसूरती से रखे गए कई मोटे, फ्लफी, सुनहरे-भूरे रंग के अमेरिकन पैनकेक की अंतिम सर्विंग, जिसमें नरम हवादार परतें और पूरी तरह से भूरी सतह दिखाई दे रही है। स्वादिष्ट क्लोज-अप फूड फोटोग्राफी, गर्म टोन, यथार्थवादी बनावट और सूक्ष्म हाइलाइट्स।
-
-शैली: फोटो-रियलिस्टिक, प्रीमियम फूड फोटोग्राफी, प्राकृतिक गर्म रसोई की रोशनी, यथार्थवादी सामग्री, जहां उपयुक्त हो वहां उथली गहराई (shallow depth of field), विस्तृत बनावट, प्रामाणिक खाना पकाने का माहौल, साफ 2×2 स्प्लिट कंपोजिशन, सभी पैनलों में सुसंगत कुकवेयर और सामग्री, उच्च विवरण, 8K, कोई टेक्स्ट नहीं, कोई लेबल नहीं, कोई वॉटरमार्क नहीं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942283315_suu5y0_HRp3yLoaYAAU3uu.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - अमेरिकन पैनकेक बनाने की प्रक्रिया का ग्रिड - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Dua Fatima](https://x.com/DuaFatimaAi)
-- **स्रोत:** [Twitter Post](https://x.com/DuaFatimaAi/status/2097120308381819110)
-- **प्रकाशित:** 8 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=33814)**
-
----
-
-### No. 51: इन्फोग्राफिक / शैक्षिक विज़ुअल - संपादन योग्य PPT वर्कफ़्लो इन्फोग्राफ़िक
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक बेहतरीन चीनी टेक इन्फोग्राफ़िक जो संपादन योग्य PowerPoint Slides बनाने के लिए तीन-चरणीय Image2 और GPT-6 वर्कफ़्लो को दर्शाता है।
-
-#### 📝 प्रॉम्पट
-
-```
-लक्ष्य: एक डार्क फ्यूचुरिस्टिक चीनी वर्कफ़्लो इन्फोग्राफ़िक स्लाइड बनाएं जो दिखाए कि कैसे लिखित सामग्री और इमेज को एक उन्नत संपादन योग्य PPT में बदला जाए, जिसमें प्रीमियम टेक प्रेजेंटेशन का सौंदर्य हो।
-
-कैनवास: वाइड 16:9 हॉरिजॉन्टल स्लाइड, गहरा नेवी/ब्लैक बैकग्राउंड जिसमें सूक्ष्म सर्किट-लाइन टेक्सचर, पतली चमकती बॉर्डर, सियान और गोल्ड नियॉन एक्सेंट, सॉफ्ट ब्लूम हाइलाइट्स, और क्लीन कॉर्पोरेट SaaS स्टाइल हो।
-
-मुख्य हेडलाइन: ऊपर केंद्र में, {argument name="headline text" default="文稿 + 配图 → 高级可编辑PPT"} का उपयोग करें। “文稿” को गोल्ड में, “配图” को सियान में, और बाकी को सफ़ेद रंग में हाइलाइट करें। हेडलाइन के नीचे एक छोटा सियान लेंस फ्लेयर जोड़ें।
-
-टॉप वर्कफ़्लो लेआउट: ऊपरी आधे हिस्से में 3 बड़े राउंडेड रेक्टेंगुलर कार्ड रखें, जो बाएं से दाएं जाने वाली एक चमकती हॉरिजॉन्टल प्रोसेस लाइन और तीरों से जुड़े हों।
-1. कार्ड 1: पीला नंबर्ड सर्कल “1”, टाइटल “ChatGPT”, सबटाइटल “理清文字结构”, तीन डॉट्स वाला बड़ा गोल्ड चैट-बबल आइकन।
-2. कार्ड 2: सियान नंबर्ड सर्कल “2”, टाइटल “Image2”, सबटाइटल “生成整页视觉稿”, छोटा मॉक विज़ुअल प्रीव्यू जिसमें ठीक 3 इनर पैनल हों: एक लैंडस्केप इमेज, एक मिनी बार-चार्ट/टेक्स्ट पैनल, और दूसरी लैंडस्केप इमेज।
-3. कार्ड 3: पीला नंबर्ड सर्कल “3”, टाइटल “GPT-6”, सबटाइटल “拆层成可编辑PPT”, गोल्ड बेस आइकन के ऊपर लेयर्ड फ्लोटिंग नीली शीट्स।
-
-केंद्रीय प्रदर्शन: निचले मध्य-बाएं भाग में, राउंडेड कोनों और चमक के साथ एक बड़ा झुका हुआ PPT स्लाइड मॉकअप बनाएं। स्लाइड टाइटल टेक्स्ट: {argument name="demo slide title" default="未来城市：智能与可持续的融合"}। स्लाइड सबटाइटल: {argument name="demo slide subtitle" default="技术创新 · 绿色发展 · 生态共生"}। स्लाइड के अंदर, सूर्यास्त के समय एक सिनेमाई पहाड़ी झील का लैंडस्केप और दाईं ओर एक छोटा इनसेट सिटी स्काईलाइन इमेज दिखाएं।
-
-स्लाइड के अंदर मेट्रिक पंक्ति: स्लाइड के निचले हिस्से में ठीक 3 मेट्रिक आइटम दिखाएं: सियान में क्लिपबोर्ड आइकन के साथ “35% 能源效率提升”, गोल्ड में शील्ड/चेक आइकन के साथ “60% 碳排放降低”, और गोल्ड में ग्लोब आइकन के साथ “2026 全面落地目标”。
-
-लेयर कन्वर्जन इफ़ेक्ट: केंद्रीय स्लाइड के दाईं ओर, स्लाइड को कई पारभासी संपादन योग्य लेयर्स में विभाजित होते हुए दिखाएं, लगभग 7 दृश्य स्टैक्ड पैनल, जिसमें स्लाइड से लेयर्स की ओर बहते हुए सियान और गोल्ड डेटा पार्टिकल्स हों।
-
-संपादन योग्य आउटपुट सूची: दाईं ओर, अलग की गई लेयर्स से पतली लाइनों द्वारा जुड़े हुए ठीक 4 स्टैक्ड राउंडेड कार्ड बनाएं:
-1. “标题文本” और छोटा टेक्स्ट “副标题文本”, आइकन: बड़ा अक्षर T।
-2. “流程图节点” और छोटा टेक्स्ट “可编辑 · 可调整”, आइकन: फ्लोचार्ट नोड्स।
-3. “图片占位符” और छोटा टेक्स्ट “替换 · 缩放 · 裁剪”, आइकन: इमेज प्लेसहोल्डर।
-4. “布局与样式” और छोटा टेक्स्ट “母版 · 主题 · 动画”, आइकन: लेआउट ग्रिड।
-
-निचला स्लोगन: नीचे केंद्र में, डॉट सेपरेटर्स के साथ गोल्ड चीनी अक्षरों में, {argument name="bottom slogan" default="好看 · 能改 · 复用"} का उपयोग करें।
-
-विज़ुअल स्टाइल: हाई-रिज़ॉल्यूशन प्रेजेंटेशन इन्फोग्राफ़िक, स्पष्ट वेक्टर-जैसा UI, चमकदार सियान और वार्म गोल्ड स्ट्रोक्स, ग्लासमोर्फिज्म कार्ड्स, सूक्ष्म गहराई और परिप्रेक्ष्य, आधुनिक चीनी टाइपोग्राफी, क्लीन स्पेसिंग, कोई लोग नहीं, कोई लोगो नहीं, कोई वॉटरमार्क नहीं। सूचीबद्ध सभी टेक्स्ट को स्पष्ट रखें और सटीक संख्या बनाए रखें: 3 टॉप वर्कफ़्लो कार्ड, 3 मेट्रिक आइटम, 4 संपादन योग्य-आउटपुट कार्ड, और 7 दृश्य अलग लेयर पैनल।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788855329138_v8uy5d_HRmkD-MaUAA4VFB.jpg" width="600" alt="इन्फोग्राफिक / शैक्षिक विज़ुअल - संपादन योग्य PPT वर्कफ़्लो इन्फोग्राफ़िक - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [SuSu_酥酥👅](https://x.com/NFT_Chen)
-- **स्रोत:** [Twitter Post](https://x.com/NFT_Chen/status/2096887500300296416#reversed-0)
-- **प्रकाशित:** 7 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=33837)**
-
----
-
-### No. 52: YouTube थंबनेल - Authentic Everyday Person Vlog Thumbnail
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-A detailed prompt for generating realistic, non-idealized portraits of ordinary women, intentionally avoiding AI symmetry for authentic YouTube vlog thumbnails.
-
-#### 📝 प्रॉम्पट
-
-```
-Please generate a YouTube thumbnail image. {argument name="use case" default="vlog video"}
-
-The person to be used for the thumbnail should be an adult woman in a realistic photograph. 
-
-Do not make them a so-called "beauty," "model face," or "celebrity-like well-featured face." Make it an ordinary-looking woman you would actually see in daily life. There should be a sense of cleanliness and approachability, but the facial features should not be ideally arranged. 
-
-Do not intentionally make the face perfectly symmetrical. Leave natural asymmetries and individual differences found in real humans. 
-
-- Slightly vary the height, angle, thickness, and shape of the left and right eyebrows.
-- Do not perfectly align the size, opening, and position of the left and right eyes.
-- Do not make the bridge of the nose perfectly straight or symmetrical; add slight asymmetry to the tip and nostrils.
-- Add natural asymmetry to the height of the corners of the mouth, thickness of the lips, and lip outline.
-- Do not make the contours or cheek volume perfectly identical on both sides.
-- Do not over-correct teeth alignment, skin, pores, fine hair, or fine wrinkles.
-- In the vertical direction of the face, do not arrange the spacing between eyes, nose, and mouth too perfectly like the golden ratio. 
-
-Maintain skin cleanliness but avoid excessive skin-beautifying processing. Leave realistic details like pores, slight unevenness in color, small spots or dark circles, and subtle skin texture appropriately. 
-
-Makeup should be thin and natural for everyday wear. Avoid beauty expressions that make the face look too well-ordered, such as contouring, strong highlights, or excessive eye makeup. 
-
-Hairstyles and clothing should not be perfect styling like an advertising model, but general, clean, everyday items. Leave a small amount of stray hairs or natural messiness in the hair. 
-
-Expressions should not be forced advertising smiles, but natural expressions with some ambiguity. Avoid perfect smiles or symmetrical smiles. 
-
-The photograph should look like a natural shot taken by chance in an everyday space. Instead of uniform lighting like a studio shoot, leave slight differences in light and shadow from natural window light or indoor lighting. Do not align posture, face angle, or shoulder height evenly. 
-
-Overall, prioritize "a very ordinary adult woman who seems to exist" rather than "the ideal woman imagined by AI." 
-
-Avoid elements: perfect face, symmetrical face, beautiful model, glamorous, celebrity-like, ideal proportions, golden ratio face, flawless skin, porcelain skin, doll-like face, perfect teeth, perfectly shaped eyebrows, perfectly symmetrical eyes, sharp jawline, V-shaped face, excessive beauty retouching, fashion model look, influencer look, overly polished advertising photography
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029058855_02349s_HR0nUmVaAAAIcGO.jpg" width="600" alt="YouTube थंबनेल - Authentic Everyday Person Vlog Thumbnail - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029059107_4xogs1_HR0nWLqbYAAyDCs.jpg" width="600" alt="YouTube थंबनेल - Authentic Everyday Person Vlog Thumbnail - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029058918_am0tps_HR0omesagAALxQh.jpg" width="600" alt="YouTube थंबनेल - Authentic Everyday Person Vlog Thumbnail - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029060246_risf8g_HR0ooF2bYAELBy-.jpg" width="600" alt="YouTube थंबनेल - Authentic Everyday Person Vlog Thumbnail - Image 4">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Koudai Nakahara](https://x.com/YEKPtVxjDg42909)
-- **स्रोत:** [Twitter Post](https://x.com/YEKPtVxjDg42909/status/2097877697720734016)
-- **प्रकाशित:** 10 सितंबर 2026
-- **भाषाएं:** ja
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34144)**
-
----
-
-### No. 53: YouTube थंबनेल - Cyber Idol VTuber टीज़र स्टोरीबोर्ड
+### No. 52: YouTube थंबनेल - Cyber Idol VTuber टीज़र स्टोरीबोर्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2783,7 +2684,7 @@ Avoid elements: perfect face, symmetrical face, beautiful model, glamorous, cele
 
 ---
 
-### No. 54: YouTube थंबनेल - एनीमे लूनर एक्लिप्स स्वॉर्ड्सवूमन पोस्टर
+### No. 53: YouTube थंबनेल - एनीमे लूनर एक्लिप्स स्वॉर्ड्सवूमन पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2833,7 +2734,7 @@ Avoid elements: perfect face, symmetrical face, beautiful model, glamorous, cele
 
 ---
 
-### No. 55: YouTube थंबनेल - Vocaloid MV स्टाइल कैरेक्टर ग्रिड
+### No. 54: YouTube थंबनेल - Vocaloid MV स्टाइल कैरेक्टर ग्रिड
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2867,7 +2768,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 56: YouTube थंबनेल - भविष्यवादी तैरते शहर 'नेबुला' का चित्रण
+### No. 55: YouTube थंबनेल - भविष्यवादी तैरते शहर 'नेबुला' का चित्रण
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2906,7 +2807,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 57: YouTube थंबनेल - रेट्रो सिंथवेव पॉडकास्ट होस्ट
+### No. 56: YouTube थंबनेल - रेट्रो सिंथवेव पॉडकास्ट होस्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2940,7 +2841,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 58: YouTube थंबनेल - सिनेमैटिक डेजर्ट रिंग ऑफ फायर एल्बम कवर
+### No. 57: YouTube थंबनेल - सिनेमैटिक डेजर्ट रिंग ऑफ फायर एल्बम कवर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2979,7 +2880,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 59: YouTube थंबनेल - साइबरपंक डॉग-ईयर्ड स्वॉर्डवूमन
+### No. 58: YouTube थंबनेल - साइबरपंक डॉग-ईयर्ड स्वॉर्डवूमन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3019,7 +2920,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 60: YouTube थंबनेल - साइबरपंक सिटी पार्कौर MV
+### No. 59: YouTube थंबनेल - साइबरपंक सिटी पार्कौर MV
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3057,7 +2958,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 61: YouTube थंबनेल - शीतकालीन गोधूलि बेला में लालटेन की फोटोग्राफी
+### No. 60: YouTube थंबनेल - शीतकालीन गोधूलि बेला में लालटेन की फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3091,7 +2992,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 62: YouTube थंबनेल - Miami Night डांस कवर
+### No. 61: YouTube थंबनेल - Miami Night डांस कवर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3139,7 +3040,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 63: YouTube थंबनेल - पायरेट फंक प्लेलिस्ट कवर
+### No. 62: YouTube थंबनेल - पायरेट फंक प्लेलिस्ट कवर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3173,7 +3074,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 64: YouTube थंबनेल - Sony Headphones रिव्यू थंबनेल
+### No. 63: YouTube थंबनेल - Sony Headphones रिव्यू थंबनेल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3207,7 +3108,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 65: YouTube थंबनेल - सिनेमैटिक एक्शन मूवी पोर्ट्रेट
+### No. 64: YouTube थंबनेल - सिनेमैटिक एक्शन मूवी पोर्ट्रेट
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3253,7 +3154,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 66: YouTube थंबनेल - YouTube लाइव डिबेट का स्क्रीनशॉट
+### No. 65: YouTube थंबनेल - YouTube लाइव डिबेट का स्क्रीनशॉट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3287,7 +3188,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 67: YouTube थंबनेल - Anime Losing Heroines Classroom Still
+### No. 66: YouTube थंबनेल - Anime Losing Heroines Classroom Still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3335,7 +3236,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 68: YouTube थंबनेल - Anime Losing Heroines क्लासरूम की विजुअल
+### No. 67: YouTube थंबनेल - Anime Losing Heroines क्लासरूम की विजुअल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3369,7 +3270,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 69: YouTube थंबनेल - Anime Classroom Losing Heroines Key Visual
+### No. 68: YouTube थंबनेल - Anime Classroom Losing Heroines Key Visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3403,7 +3304,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 70: YouTube थंबनेल - Anime Classroom Losing Heroines Key Visual
+### No. 69: YouTube थंबनेल - Anime Classroom Losing Heroines Key Visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3437,7 +3338,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 71: YouTube थंबनेल - Anime Classroom Losing Heroine Key Visual
+### No. 70: YouTube थंबनेल - Anime Classroom Losing Heroine Key Visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3485,7 +3386,352 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 72: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक गोथिक लोलिता 3x3 एनीमे स्टिल्स
+### No. 71: YouTube थंबनेल - एनीमे क्लासरूम रोमांटिक कॉमेडी की विज़ुअल
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+तीन छात्रों, जापानी शीर्षक टाइपोग्राफी और रोमांटिक कॉमेडी की विज़ुअल के लिए कैरेक्टर-नोट ओवरले के साथ एक वाइडस्क्रीन एनीमे क्लासरूम प्रमोशनल दृश्य जेनरेट करता है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक पॉलिश की हुई वाइडस्क्रीन एनीमे की विज़ुअल बनाएं, जो {argument name="anime title" default="負けヒロインが多すぎる!"} नामक रोमांटिक स्कूल कॉमेडी के लिए हो। कैनवास 16:9 का है, जिसमें देर दोपहर की हल्की रोशनी वाला सिनेमाई क्लासरूम का इंटीरियर है, साथ ही बड़ी खुली खिड़कियां, कंक्रीट के खंभे, बालकनी की रेलिंग, और बाहर दूर नीला आसमान और शहर/पहाड़ों का दृश्य है। डेस्क पर बैठे ठीक 3 हाई-स्कूल छात्रों को दिखाएं: 1) सामने बाईं ओर, मुख्य नायिका, {argument name="heroine hair color" default="गहरे नेवी-ब्लू"} कंधे तक के बिखरे बालों, नीली आंखों, गुलाबी गालों, सफेद शॉर्ट-स्लीव स्कूल शर्ट और नीली बो टाई वाली एक खुशमिजाज किशोरी, जो एक हाथ पर झुककर शरारती मुस्कान के साथ देख रही है; 2) केंद्र में, छोटे गहरे भूरे बालों, सफेद शॉर्ट-स्लीव स्कूल शर्ट और हरी टाई वाला एक घबराया हुआ किशोर लड़का, जो पसीने की बूंदों और अजीब भावों के साथ नायिका की ओर तिरछी नजर से देख रहा है; 3) दाईं ओर, छोटे वाइन-रेड बॉब कट बालों और हेयर क्लिप्स वाली एक छोटी और अंतर्मुखी किशोरी, जो एक हल्के पैटर्न वाली किताब या नोटबुक के पीछे आधी छिपी हुई है और परेशान या शर्मीली दिख रही है। डेस्क पर ठीक 5 दृश्य वस्तुएं शामिल करें: नीले बालों वाली लड़की के सामने एक गुलाबी लंच बॉक्स, एक गुलाबी कपड़े की पोटली, स्ट्रॉ और स्ट्रॉबेरी ग्राफिक वाला एक छोटा दही का कार्टन, सामने दाईं ओर एक बड़ा गहरा नेवी स्कूल बैग, और लाल बालों वाली लड़की की किताब/नोटबुक। मैगज़ीन-पोस्टर स्टाइल की टाइपोग्राफी और हस्तलिखित कैरेक्टर नोट्स जोड़ें: ऊपर बाईं ओर जापानी शीर्षक "負けヒロインが多すぎる!" नीले और गुलाबी रंग में, जिसके साथ छोटा अंग्रेजी सबटाइटल "MAKEINE Too Many Losing Heroines!" हो; बाईं ओर नायिका के पास हस्तलिखित नोट "やっぱ 私は負けヒロイン なんだよね〜" एक घुमावदार तीर के साथ; लड़के के पास छोटा टेक्स्ट "また 始まった…"; उसके पीछे दीवार के पोस्टर पर जापानी कॉपी "負けても、きっと、青春は、終わらない。" अंग्रेजी सबटाइटल "Too Many Losing Heroines!" के साथ; ऊपर दाईं ओर दीवार पर टेक्स्ट "それでも、好きな気持ちは、きっと、負けじゃない。"; लाल बालों वाली लड़की के पास छोटा नोट "別に 気にしてない" एक घुमावदार तीर के साथ। नाजुक उच्च-गुणवत्ता वाली एनीमे लाइनवर्क, प्राकृतिक स्किन शेडिंग, सूक्ष्म डेप्थ ऑफ फील्ड, साफ आधुनिक टीवी-एनीमे रेंडरिंग, ठंडी छाया, गर्म धूप की हाइलाइट्स, यथार्थवादी क्लासरूम परिप्रेक्ष्य का उपयोग करें, कोई फिल्म ग्रेन नहीं, कोई वॉटरमार्क नहीं, और सभी पात्रों को मॉडल के अनुसार और भावनात्मक रूप से सुसंगत रखें।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787299936238_0xtp6v_HQHKuJcX0AA-4Jv.jpg" width="600" alt="YouTube थंबनेल - एनीमे क्लासरूम रोमांटिक कॉमेडी की विज़ुअल - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Mirochill](https://x.com/mirochill)
+- **स्रोत:** [Twitter Post](https://x.com/mirochill/status/2090181179978944551#reversed-0)
+- **प्रकाशित:** 19 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=32091)**
+
+---
+
+### No. 72: कॉमिक / स्टोरीबोर्ड - गोधूलि बेला में एनीमे ट्रेन और माउंट फ़ूजी
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+एक उदास एनीमे ट्रेन के अंदर का दृश्य, जिसमें एक अकेली गॉथिक लड़की पेस्टल माउंट फ़ूजी सूर्यास्त के सामने सिल्हूट के रूप में दिखाई दे रही है, जो सिनेमाई वॉलपेपर आर्ट के लिए उपयोगी है।
+
+#### 📝 प्रॉम्पट
+
+```
+गोधूलि बेला में एक शांत ट्रेन के अंदर का सिनेमाई एनीमे-शैली का चित्रण तैयार करें, जिसमें एक उदास और स्वप्निल वातावरण हो। यह दृश्य लगभग खाली कम्यूटर ट्रेन के अंदर से लिया गया है, जिसमें एक लंबी गहरे नीले रंग की बेंच और बड़ी आयताकार खिड़कियां दिखाई दे रही हैं। बेंच के दाईं ओर एक छोटी किशोरी बैठी है, जिसके हाथ उसकी गोद में मुड़े हुए हैं, और वह शांत, अकेले भाव के साथ थोड़ा बगल में देख रही है। उसने पूरी तरह से काले रंग की गॉथिक-प्रेरित पोशाक पहनी है: काली बेरेट, रिबन विवरण वाली डार्क ब्लाउज, लंबी काली स्कर्ट, गहरे मोज़े और काले फीते वाले जूते; उसके {argument name="hair color" default="black"} बाल दो लंबी चोटियों में बंधे हैं, और उसकी त्वचा गोरी है और चेहरे के नैन-नक्श नाजुक एनीमे शैली में हैं। ट्रेन की खिड़कियों के बाहर, एक शांत जापानी झील का परिदृश्य दिखाएं, जिसमें दूर केंद्र में {argument name="mountain" default="Mount Fuji"} हो, जो पानी में धीरे से प्रतिबिंबित हो रहा हो, और किनारे पर छोटे शिवालयों के सिल्हूट और पेड़ों की चोटियां हों। बाहर का आकाश पेस्टल गोधूलि बेला जैसा है जिसमें लैवेंडर-नीले रंग के शेड्स, गुलाबी बादल और ऊपरी बाईं खिड़की के पास चमकता हुआ एक बड़ा गोल {argument name="sun or moon" default="pink setting sun"} है; ऊपर बाईं ओर कुछ गुलाबी चेरी ब्लॉसम की शाखाएं और पंखुड़ियां शामिल करें। ट्रेन के अंदर, रोशनी को बहुत मंद और ठंडा रखें, जिसमें लड़की का अधिकांश हिस्सा बाहर के चमकते दृश्यों के सामने छाया में हो। छत के पास स्पष्ट रूप से तीन लटकते हुए ट्रेन स्ट्रैप्स, बेंच के पीछे एक बड़ी मल्टी-पेन खिड़की और दाईं ओर लंबी संकरी खिड़कियों वाला एक ट्रेन का दरवाजा शामिल करें। 16:9 के वाइड कंपोजिशन, सॉफ्ट पेंटरली सेल-शेडेड एनीमे रेंडरिंग, म्यूट नेवी इंटीरियर शैडो, पेस्टल गुलाबी और नीले बाहरी प्रकाश का उपयोग करें, कोई टेक्स्ट, कोई वॉटरमार्क, कोई अतिरिक्त यात्री नहीं।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113124326_zwiqs3_HR6tFIFXcAwQg-M.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - गोधूलि बेला में एनीमे ट्रेन और माउंट फ़ूजी - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113124492_59uxct_HR6tFIJXcAYfSXe.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - गोधूलि बेला में एनीमे ट्रेन और माउंट फ़ूजी - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Chiyo](https://x.com/Chiyo_memo_)
+- **स्रोत:** [Twitter Post](https://x.com/Chiyo_memo_/status/2098304867223687367#reversed-0)
+- **प्रकाशित:** 11 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34331)**
+
+---
+
+### No. 73: कॉमिक / स्टोरीबोर्ड - क्लाउड फ्रेंड स्क्रैपबुक पोस्टर
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+एक मनमोहक वर्टिकल पोस्टर जिसमें नीले आसमान में मुस्कुराते हुए बादल के साथ नौ-भागों वाला हाथ से बना क्लाउड-थीम वाला मूड बोर्ड है।
+
+#### 📝 प्रॉम्पट
+
+```
+लक्ष्य: एक प्यारे क्लाउड कैरेक्टर के बारे में दो-भागों वाला एक मनमोहक एस्थेटिक पोस्टर बनाएं, जिसमें ऊपर असली आसमान की फोटो और नीचे हाथ से बनी स्क्रैपबुक गाइड हो।
+
+कैनवास: वर्टिकल 3:4 पोस्टर। ऊपरी आधा हिस्सा एक यथार्थवादी आउटडोर आसमान की तस्वीर है; निचला आधा हिस्सा हल्के दानेदार टेक्सचर वाला क्रीम पेपर इलस्ट्रेशन पैनल है।
+
+ऊपरी दृश्य: कुछ छोटे सफेद बादलों के साथ एक चमकीला नीला दिन का आसमान। केंद्र में, एक फूले हुए सफेद बादल को सरल ब्लैक ग्राफिक फीचर्स का उपयोग करके एक फ्रेंडली कैरेक्टर में बदल दिया गया है: ठीक 2 डॉट वाली आंखें, 1 मुड़ा हुआ मुस्कुराता हुआ मुंह, और बाएं और दाएं तरफ से ऊपर की ओर मुड़ी हुई 2 हड्डी जैसी भुजाएं। मूड हल्का, हवादार, सुकून भरा और बचकाना है। प्राकृतिक धूप का उपयोग करें और आसमान को खुला रखें।
+
+निचला पैनल शीर्षक: शीर्ष के पास केंद्र में हस्तलिखित शीर्षक: {argument name="title text" default="Cloud Friend"}। शीर्षक के बाईं ओर एक छोटा नीला तारा, दाईं ओर एक लाल दिल, छोटी नीली चमक और नीचे एक लहरदार नीली रेखा जोड़ें।
+
+निचला लेआउट: 3-बाय-3 ग्रिड में ठीक 9 छोटे सचित्र विगनेट्स व्यवस्थित करें, जिनमें से प्रत्येक के नीचे एक हस्तलिखित क्रमांकित कैप्शन हो। स्टाइल गर्म ऑफ-व्हाइट पेपर पर रंगीन पेंसिल, क्रेयॉन और स्याही जैसा दिखना चाहिए।
+
+नौ विगनेट्स और कैप्शन:
+1. “hello!” — एक रफ नीले स्क्रिबल पैच के अंदर एक छोटा मुस्कुराता हुआ क्लाउड कैरेक्टर, जिसमें दो काली भुजाएं और एक छोटा लाल दिल है।
+2. “happy face” — 2 काली डॉट वाली आंखों, 1 काली मुस्कान और 2 हल्के गुलाबी ब्लश सर्कल्स से बना एक सरल चेहरा।
+3. “arms up” — चीयरिंग जेस्चर की तरह ऊपर उठी हुई दो अलग-अलग काली हड्डी जैसी भुजाएं, जिसमें छोटे नीले मोशन मार्क्स और एक लाल डूडल एक्सेंट है।
+4. “very blue” — टेक्सचर वाले नीले क्रेयॉन आसमान का एक गोल आयत जिसमें ठीक 2 छोटे सफेद बादल हैं।
+5. “soft & fluffy” — एक फूले हुए बादल की आउटलाइन का हल्का ग्रे पेंसिल स्केच, जिसमें एक छोटा लाल दिल है।
+6. “warm sun” — छोटी विकिरण वाली किरणों के साथ एक पीला-नारंगी गोलाकार सूरज।
+7. “gentle breeze” — एक छोटे भंवर और लाल डूडल एक्सेंट के साथ हल्के नीले रंग की बहती हवा की रेखाएं।
+8. “daydream view” — ठीक 2 हरे पेड़ों, एक हरी ग्राउंड लाइन और एक छोटे लाल छत वाले घर की आउटलाइन के साथ एक छोटा सरल लैंडस्केप।
+9. “good mood” — एक हंसमुख डूडल क्लस्टर जिसमें 1 नीला तारा, 1 गुलाबी दिल, 1 मिंट ग्रीन बादल, छोटी डॉट्स और लाल एक्सेंट लाइनें हैं।
+
+फुटर टेक्स्ट: नीचे की ओर केंद्र में छोटे हस्तलिखित अक्षरों में: {argument name="footer quote" default="Look up. Little joys are floating around."} जिसके बाद एक छोटा लाल दिल और नीले डॉट्स हैं।
+
+विजुअल स्टाइल: ऊपरी आधे हिस्से में यथार्थवादी फोटोग्राफी को निचले आधे हिस्से में सरल हस्तलिखित जर्नलिंग के साथ मिलाएं। हल्के नीले, क्रीम, काले, पेस्टल गुलाबी, पीले, मिंट और लाल एक्सेंट का उपयोग करें। सभी टेक्स्ट को हस्तलिखित, अपूर्ण, कैजुअल और आकर्षक रखें।
+
+सीमाएं: सटीक दो-पैनल संरचना, 9 क्रमांकित विगनेट्स की सटीक संख्या और फ्रेंडली मिनिमलिस्ट क्लाउड फेस को बनाए रखें। अतिरिक्त कैरेक्टर, लोगो, वॉटरमार्क या घने टेक्स्ट से बचें।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113120604_i8nxl6_HR347KhaUAA1H6V.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - क्लाउड फ्रेंड स्क्रैपबुक पोस्टर - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [小小东](https://x.com/xiaoxiaodong01)
+- **स्रोत:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2098107456379662554#reversed-0)
+- **प्रकाशित:** 10 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34321)**
+
+---
+
+### No. 74: कॉमिक / स्टोरीबोर्ड - Museum of Lost Tomorrows वैचारिक दृश्य
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+खोए हुए सपनों और वैकल्पिक भविष्य के कांच के बक्सों को प्रदर्शित करने वाले एक भूमिगत संग्रहालय के लिए एक सिनेमाई प्रॉम्प्ट, जिसमें वॉल्यूमेट्रिक लाइटिंग और भावनात्मक वातावरण है।
+
+#### 📝 प्रॉम्पट
+
+```
+{
+  "title": "The Museum of Lost Tomorrows",
+  "image_description": "एक विशाल {argument name=\"location\" default=\"एक भूले-बिसरे शहर के नीचे छिपा हुआ भूमिगत संग्रहालय\"}। वास्तुकला लुभावनी है, जिसमें विशाल कांच की छतों से छनकर आती गर्म सुनहरी रोशनी से जगमगाते अंतहीन संगमरमर के गलियारे हैं। हजारों कांच के डिस्प्ले केस दूर तक फैले हुए हैं। हर केस के अंदर एक ऐसा भविष्य है जो कभी घटित नहीं हुआ। एक में शादी का जोड़ा है जिसे कभी नहीं पहना गया। दूसरे में नोबेल पुरस्कार का पदक है जिसे कभी हासिल नहीं किया गया। एक और में एक ऐसे संगीतकार का धूल भरा गिटार है जिसने बहुत जल्दी हार मान ली थी, जिसके बगल में एक सोल्ड-आउट वर्ल्ड टूर का पोस्टर है। आगंतुक चुपचाप संग्रहालय में घूम रहे हैं, अपनी आंखों में आंसू लिए प्रदर्शनों को देख रहे हैं।",
+  "main_subject": {
+    "character": "एक युवक जो अकेला खड़ा है",
+    "appearance": "गहरा ओवरकोट, थोड़े घिसे हुए जूते, थकी हुई आंखें",
+    "expression": "हैरान और भावुक",
+    "focus": "शार्प फोकस"
+  },
+  "story_element": {
+    "twist": "संग्रहालय के अंत में, उसे एक पूरा कमरा मिलता है जो उसके अपने छोड़े गए सपनों को समर्पित है।",
+    "question": "अगर आप उस जीवन को देख सकते जो आपने लगभग जी लिया होता, तो आप क्या करते?"
+  },
+  "environment": {
+    "location": "भूमिगत संग्रहालय",
+    "lighting": "सुनहरी सिनेमाई लाइटिंग",
+    "atmosphere": "शांत, भावनात्मक, पवित्र"
+  },
+  "cinematography": {
+    "camera": "ARRI Alexa 65",
+    "lens": "50mm एनामोर्फिक",
+    "shot_type": "वाइड सिनेमाई शॉट",
+    "depth_of_field": "उथला (Shallow)",
+    "composition": "पुरस्कार विजेता कहानी कहने वाला फ्रेम"
+  },
+  "mood": [
+    "दिल तोड़ने वाला",
+    "विचारोत्तेजक",
+    "उदासीन",
+    "सुंदर"
+  ],
+  "style": {
+    "reference": "क्रिस्टोफर नोलन और डेनिस विलेन्यूवे का संगम",
+    "quality": "अल्ट्रा फोटो-रियलिस्टिक",
+    "resolution": "8K",
+    "film_grain": true,
+    "volumetric_lighting": true
+  }
+}
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113117731_dedtgp_HR3fUw9awAAdMNt.png" width="600" alt="कॉमिक / स्टोरीबोर्ड - Museum of Lost Tomorrows वैचारिक दृश्य - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
+- **स्रोत:** [Twitter Post](https://x.com/SheBuildsAI_/status/2098078552193384859)
+- **प्रकाशित:** 10 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34317)**
+
+---
+
+### No. 75: कॉमिक / स्टोरीबोर्ड - The Last Train Home सिनेमाई दृश्य
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+पहाड़ों में खोए एक सुनसान बर्फीले रेलवे स्टेशन के लिए एक बेहद खूबसूरत सिनेमाई प्रॉम्प्ट, जिसमें एक रहस्यमयी चमकती हुई पुरानी ट्रेन दिखाई गई है।
+
+#### 📝 प्रॉम्पट
+
+```
+{
+  "title": "The Last Train Home",
+  "image_description": "एक लुभावना सिनेमाई दृश्य, जिसमें {argument name=\"location\" default=\"पहाड़ों में खोया एक सुनसान रेलवे स्टेशन\"} है। खाली प्लेटफॉर्म पर घना कोहरा छाया हुआ है। पुरानी लैंप धुंध के बीच से गर्म सुनहरी रोशनी बिखेर रहे हैं। गहरे ऊनी कोट में एक अकेला यात्री पुराने चमड़े के सूटकेस के पास खड़ा है। कोहरे से धीरे-धीरे एक प्राचीन ट्रेन बाहर निकलती है। हर खिड़की से हल्की रोशनी आ रही है। स्टेशन के चारों ओर बर्फ खामोशी से गिर रही है। प्लेटफॉर्म के ऊपर एक पुराना साइनबोर्ड लटका है जिस पर लिखा है: HOME। यात्री की आँखों में भावनाएँ भर आती हैं जब उसे एहसास होता है कि यह ट्रेन अस्तित्व में नहीं होनी चाहिए।",
+  "story_element": {
+    "twist": "यह ट्रेन केवल एक बार दिखाई देती है, किसी व्यक्ति की मृत्यु से ठीक एक घंटे पहले।"
+  },
+  "environment": {
+    "location": "पहाड़ों का भुला-बिसरा रेलवे स्टेशन",
+    "weather": "बर्फबारी और घना कोहरा",
+    "time": "आधी रात"
+  },
+  "cinematography": {
+    "shot_type": "वाइड सिनेमाई शॉट",
+    "camera": "ARRI Alexa 65",
+    "lens": "50mm एनामोर्फिक",
+    "composition": "सममित कहानी कहने वाला फ्रेम"
+  },
+  "lighting": {
+    "type": "ठंडी चांदनी के साथ मिश्रित गर्म विंटेज लैंप",
+    "effects": [
+      "वॉल्यूमेट्रिक कोहरा",
+      "बर्फ के कण",
+      "वायुमंडलीय चमक"
+    ]
+  },
+  "mood": [
+    "भावुक",
+    "रहस्यमयी",
+    "खट्टा-मीठा",
+    "उदासीन"
+  ],
+  "quality": {
+    "style": "पुरस्कार विजेता सिनेमाई मास्टरपीस",
+    "realism": "अल्ट्रा फोटो-यथार्थवादी",
+    "resolution": "8K",
+    "IMAX_quality": true,
+    "film_grain": true
+  }
+}
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113116188_b7au0q_HR2abiobIAAjIXT.png" width="600" alt="कॉमिक / स्टोरीबोर्ड - The Last Train Home सिनेमाई दृश्य - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
+- **स्रोत:** [Twitter Post](https://x.com/SheBuildsAI_/status/2098002802375303462)
+- **प्रकाशित:** 10 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34314)**
+
+---
+
+### No. 76: कॉमिक / स्टोरीबोर्ड - अंडेडेड वैम्पायर किंग थ्रोन
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+एक डार्क फैंटेसी कॉन्सेप्ट-आर्ट प्रॉम्प्ट, जिसे प्रेतवाधित कैथेड्रल थ्रोन रूम में स्पेक्ट्रल सेनाओं और अशुभ शिलालेखों के साथ एक गॉथिक अंडेडेड सम्राट को जेनरेट करने के लिए डिज़ाइन किया गया है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक खंडहर हो चुके कैथेड्रल थ्रोन रूम के अंदर सिंहासन पर बैठे {argument name="character name" default="an undead vampire king"} का एक अति-विस्तृत डार्क फैंटेसी गॉथिक चित्रण तैयार करें। मुख्य आकृति एक पीला, शव जैसा सम्राट है जिसके लंबे लहराते {argument name="hair color" default="white hair"}, चमकती लाल आँखें, मुँह से बहता खून और एक टेढ़ा-मेढ़ा काला ताज है। उसने खोपड़ियों, कांटों, जंजीरों, लाल रत्नों और फटे हुए गहरे लाल-काले शाही लबादे से ढका हुआ अलंकृत काला कवच पहना है। वह गर्व के साथ खोपड़ियों से जड़े पत्थर के सिंहासन पर बैठा है, एक हाथ आर्मरेस्ट पर है और दूसरा एक लंबी औपचारिक तलवार को पकड़े हुए है जिसमें खोपड़ी का पोमेल, गॉथिक क्रॉसगार्ड, लाल रत्न और पीला ब्लेड है। उसे स्पष्ट रूप से दिखाई देने वाली 9 अलौकिक आकृतियों या प्राणियों से घेरें: पीछे तलवार लिए तैरता 1 बड़ा पारभासी भूतिया योद्धा, चांदनी वाले मेहराब के पास 1 छोटा तैरता हुआ भूत, मध्यभूमि में सीढ़ियों और बालकनी पर 4 धुंधली मानवीय आत्माएं, नीचे दाईं ओर हथियार लिए 2 बख्तरबंद स्पेक्ट्रल सैनिक, और नीचे बाईं ओर अग्रभूमि में 1 गुर्राता हुआ भूतिया भेड़िया। दृश्य को टूटे हुए नुकीले मेहराबों, ऊंचे स्तंभों, मोमबत्तियों, जंजीरों, फटी हुई सीढ़ियों, खोपड़ियों और फटे हुए लाल बैनरों वाले एक विशाल काले पत्थर के कैथेड्रल में सेट करें। स्पष्ट रूप से पढ़ने योग्य 3 बैनर या पत्थर के शिलालेख शामिल करें: बाईं ओर लटके बैनर पर लिखा है {argument name="left banner text" default="BLOOD BEYOND DEATH"}, दाईं ओर लटके बैनर पर लिखा है {argument name="right banner text" default="KINGS DIE BUT LEGENDS HAUNT FOREVER"}, और नीचे बाईं ओर पत्थर के ब्लॉक पर लिखा है {argument name="stone inscription" default="SWORDS REMEMBER WHAT MEN FORGET"}। विशाल मेहराब के माध्यम से, एक दूर का गॉथिक किला, एक मेहराबदार पुल, उड़ते हुए चमगादड़, तूफानी बादल, ठंडी धुंध और एक विशाल गहरा लाल रक्त चंद्रमा दिखाएं। सिनेमाई लो-एंगल कंपोजिशन, हाइपररियल डिजिटल पेंटिंग, जटिल कॉन्सेप्ट-आर्ट डिटेल, गहरे लाल रंग के लहजे के साथ विपरीत ठंडी नीली-ग्रे धुंध, नाटकीय चांदनी, मोमबत्ती की चमक, वॉल्यूमेट्रिक मिस्ट, कवच की तेज हाइलाइट्स, मैकाब्रे शाही वातावरण का उपयोग करें, कोई आधुनिक वस्तु नहीं, कोई कार्टून शैली नहीं।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113122277_di5p03_HR1vMAGbkAAltLK.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - अंडेडेड वैम्पायर किंग थ्रोन - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Lee Penkman](https://x.com/LeeLeepenkman)
+- **स्रोत:** [Twitter Post](https://x.com/LeeLeepenkman/status/2097966510111432791#reversed-0)
+- **प्रकाशित:** 10 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34327)**
+
+---
+
+### No. 77: कॉमिक / स्टोरीबोर्ड - Hand-drawn travel journal illustration
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A detailed prompt to transform a reference photograph into a traditional hand-drawn travel journal sketch using watercolor and colored pencil aesthetics on aged paper.
+
+#### 📝 प्रॉम्पट
+
+```
+Transform the reference photograph into a delicate {argument name="style" default="hand-drawn travel journal illustration"} while preserving the original composition, architecture, people, trees, grass, road, and overall perspective. Use a traditional colored-pencil and watercolor sketch aesthetic on warm, slightly aged cream paper. Keep the buildings recognizable but simplify them into expressive hand-drawn shapes, with visible pencil strokes, loose watercolor washes, subtle paper grain, imperfect outlines, and gentle cross-hatching. Preserve the peaceful {argument name="atmosphere" default="rainy-day"} atmosphere, soft overcast sky, warm beige and muted buildings, fresh green lawn, scattered people walking with umbrellas, wet pavement, trees, benches, puddles, and distant cars. Use a muted vintage travel-sketch palette with natural imperfections and understated colors. Place the illustration in the lower portion of the page with generous cream-colored negative space around it. Add elegant handwritten typography above: ‘{argument name="heading" default="Rainy Days"}’, and below: — Quiet moments —. Minimal, nostalgic, artistic travel magazine aesthetic, analog photography transformed into a personal sketchbook memory, sophisticated and authentic, no photorealism.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113114721_dynjxc_HR1SmTGakAAv97s.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - Hand-drawn travel journal illustration - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Selina](https://x.com/selinatasnim1)
+- **स्रोत:** [Twitter Post](https://x.com/selinatasnim1/status/2097923838449516732)
+- **प्रकाशित:** 10 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34219)**
+
+---
+
+### No. 78: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक गोथिक लोलिता 3x3 एनीमे स्टिल्स
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3540,7 +3786,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 73: कॉमिक / स्टोरीबोर्ड - उकियो-ए (Ukiyo-e) ओर्फ़ियस माउंटेन पाथ
+### No. 79: कॉमिक / स्टोरीबोर्ड - उकियो-ए (Ukiyo-e) ओर्फ़ियस माउंटेन पाथ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3592,7 +3838,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 74: कॉमिक / स्टोरीबोर्ड - कप्पा गर्ल और स्केयरक्रो विच
+### No. 80: कॉमिक / स्टोरीबोर्ड - कप्पा गर्ल और स्केयरक्रो विच
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3632,7 +3878,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 75: कॉमिक / स्टोरीबोर्ड - शोजि डोर व्हिस्परिंग एनीमे सीन
+### No. 81: कॉमिक / स्टोरीबोर्ड - शोजि डोर व्हिस्परिंग एनीमे सीन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3666,7 +3912,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 76: कॉमिक / स्टोरीबोर्ड - खरगोश जेंटलमैन कैरेक्टर शीट
+### No. 82: कॉमिक / स्टोरीबोर्ड - खरगोश जेंटलमैन कैरेक्टर शीट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3712,7 +3958,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 77: कॉमिक / स्टोरीबोर्ड - नौ-पैनल एनीमे स्टोरीबोर्ड कोलाज
+### No. 83: कॉमिक / स्टोरीबोर्ड - नौ-पैनल एनीमे स्टोरीबोर्ड कोलाज
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3773,7 +4019,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 78: कॉमिक / स्टोरीबोर्ड - रेट्रो वूशिया (Wuxia) बिहाइंड-द-सीन स्टिल
+### No. 84: कॉमिक / स्टोरीबोर्ड - रेट्रो वूशिया (Wuxia) बिहाइंड-द-सीन स्टिल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3825,7 +4071,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 79: कॉमिक / स्टोरीबोर्ड - अलंकृत गुलाबी बालों वाली समुराई राजकुमारी
+### No. 85: कॉमिक / स्टोरीबोर्ड - अलंकृत गुलाबी बालों वाली समुराई राजकुमारी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3859,7 +4105,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 80: कॉमिक / स्टोरीबोर्ड - तांग राजवंश के शाही भोज की सिनेमैटोग्राफी
+### No. 86: कॉमिक / स्टोरीबोर्ड - तांग राजवंश के शाही भोज की सिनेमैटोग्राफी
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3893,7 +4139,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 81: कॉमिक / स्टोरीबोर्ड - योद्धा बनाम फायर ड्रैगन फैंटेसी आर्ट
+### No. 87: कॉमिक / स्टोरीबोर्ड - योद्धा बनाम फायर ड्रैगन फैंटेसी आर्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3927,7 +4173,7 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 82: कॉमिक / स्टोरीबोर्ड - पांच-पेज मंगा गुणवत्ता तुलना
+### No. 88: कॉमिक / स्टोरीबोर्ड - पांच-पेज मंगा गुणवत्ता तुलना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3983,39 +4229,19 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 
 ---
 
-### No. 83: कॉमिक / स्टोरीबोर्ड - नीले एनीमे कैरेक्टर रिडिज़ाइन शीट
+### No. 89: प्रोडक्ट मार्केटिंग - एडिटोरियल फैशन मेन्सवियर पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक्सप्रेशन, टर्नअराउंड व्यू, विवरण, पैलेट और समस्या विश्लेषण पैनल के साथ एक पॉलिश नीले-थीम वाली एनीमे स्कूलगर्ल कैरेक्टर रिडिज़ाइन शीट बनाने के लिए एक विस्तृत प्रॉम्प्ट।
+हाई-फैशन मेन्सवियर अभियानों के लिए एक साफ, परिष्कृत पोर्ट्रेट प्रॉम्प्ट, जो प्राकृतिक रोशनी, स्पष्ट विवरण और प्रीमियम मैगज़ीन एस्थेटिक्स पर केंद्रित है।
 
 #### 📝 प्रॉम्पट
 
 ```
-लक्ष्य: नीले-थीम वाली स्कूलगर्ल मैस्कॉट के लिए एक पॉलिश एनीमे कैरेक्टर रिडिज़ाइन प्रेजेंटेशन शीट बनाएं, जिसमें एक बड़ी केंद्रीय इलस्ट्रेशन के चारों ओर लेबल किए गए डिज़ाइन-विश्लेषण पैनल हों।
-
-कैनवास: वर्गाकार 1:1 व्हाइट प्रेजेंटेशन बोर्ड, साफ एडिटोरियल लेआउट, हल्के नीले रंग के एक्सेंट, पतली हल्की-ग्रे डिवाइडर लाइनें, हाई-रिज़ॉल्यूशन एनीमे आर्ट, स्पष्ट लेकिन हाथ से बनाई गई (हैंड-ड्रॉन) फील।
-
-मुख्य विषय: एक प्यारी टीनेज एनीमे लड़की जिसका नाम {argument name="character name" default="Blue Ribbon"} है, जो केंद्र में शर्मीली और आकर्षक मुद्रा में बैठी है, एक हाथ गाल पर और पैर आगे की ओर मुड़े हुए हैं। उसके लंबे जीवंत {argument name="hair color" default="blue"} ट्विन-टेल बाल हैं, जिसमें कुछ बिखरे हुए बाल हैं, चमकदार नीली आँखें, हल्का ब्लश, छोटी खुली मुस्कान और नाजुक चेहरे की विशेषताएं हैं। पोशाक में सफेद ट्रिम के साथ नेवी-ब्लू नाविक स्कूल यूनिफॉर्म, छाती पर बड़े आकार का हल्का नीला रिबन, सफेद फ्रिल्स के साथ प्लीटेड स्कर्ट, सफेद धारियों वाली जांघ-ऊंची नीली मोज़े, और छोटे नीले रिबन विवरण के साथ काले लोफर्स हैं। सूक्ष्म स्किन टोन और पेंटरली हाइलाइट्स के साथ मोनोक्रोम नीले पैलेट का उपयोग करें।
-
-लेआउट: बड़ी तैयार रिडिज़ाइन इलस्ट्रेशन को केंद्र से थोड़ा बाईं ओर रखें, जो कैनवास के अधिकांश हिस्से पर कब्जा कर ले। इसे संरचित संदर्भ पैनलों से घेरें: ऊपर-बाएं मूल डिज़ाइन पैनल, बाएं कॉलम में समस्या कार्ड, ऊपर-दाएं एक्सप्रेशन सेट, दाएं-मध्य टर्नअराउंड, दाएं-निचले विवरण क्लोज़अप, और नीचे-दाएं कलर पैलेट। सजावटी एक्सेंट के रूप में छोटे नीले दिल के डूडल और हाथ से लिखे जापानी-शैली के नोट्स जोड़ें।
-
-अनुभाग और सटीक गिने गए तत्व:
-- ऊपर-बायां पैनल: 1 मूल चिबी-शैली का नीला कैरेक्टर ड्राइंग, जिसे जापानी में “元のデザイン” और छोटे अंग्रेजी उपशीर्षक “Original” के साथ लेबल किया गया है।
-- बाएं कॉलम की समस्याएं: ठीक 3 क्रमांकित समस्या कार्ड जिन्हें 1, 2, और 3 लेबल किया गया है। कार्ड 1 में एक छोटा चेहरा स्केच है और लिखा है कि आंखों का एक्सप्रेशन कमजोर है। कार्ड 2 में पीछे/सिल्हूट स्केच है और लिखा है कि सिल्हूट नीरस है। कार्ड 3 में कपड़े/पोज़ स्केच है और लिखा है कि पोज़ और पोशाक में आकर्षण की कमी है।
-- ऊपर-दाएं एक्सप्रेशन: ठीक 3 गोल-कोने वाले चेहरे के क्लोज़अप जिन्हें “表情集 Expressions” लेबल किया गया है: 1 बंद आंखों के साथ मुस्कुराते हुए, 1 चौड़ी आंखों और खुले छोटे मुंह के साथ आश्चर्यचकित, 1 नींद में या तिरछी नज़र से रूठते हुए।
-- दाएं-मध्य टर्नअराउंड: ठीक 3 फुल-बॉडी व्यू जिन्हें “三面図 Turnaround” लेबल किया गया है: सामने, साइड, पीछे, जो प्रत्येक कोण से एक ही पोशाक और लंबे ट्विन-टेल बाल दिखाते हैं।
-- दाएं-निचले विवरण: ठीक 3 वर्गाकार क्लोज़अप पैनल जिन्हें “ディテール Details” लेबल किया गया है: 1 आंख का विवरण, 1 छाती के रिबन का विवरण, 1 स्कर्ट फ्रिल का विवरण।
-- नीचे-दाएं कलर पैलेट: ठीक 5 गोलाकार कलर स्वैच: गहरा नीला, रॉयल ब्लू, हल्का नीला, बहुत हल्का नीला, और हल्का स्किन-पिंक।
-
-दृश्य टेक्स्ट शैली: छोटे अंग्रेजी उपशीर्षक के साथ साफ जापानी हेडिंग का उपयोग करें, जिसमें “Original”, “Issues”, “Expressions”, “Turnaround”, “Details”, और “Color Palette” शामिल हैं। कैरेक्टर के चारों ओर हाथ से लिखे जापानी कैचफ्रेज़ शामिल करें, जैसे {argument name="main handwritten note" default="もっと好きになれるわたしに"}, साथ ही नीचे के नोट्स जिनका अर्थ है “I have loved you since then” और “Unchanged blue, cuter.” छोटा अंग्रेजी फुटर टेक्स्ट जोड़ें: “CHARACTER REDESIGN / SAME BLUE, A BRIGHTER ME.”
-
-दृश्य शैली: आधुनिक जापानी एनीमे इलस्ट्रेशन, चमकदार आंखें, वॉटरकलर-जैसे ग्रेडिएंट के साथ मिश्रित सॉफ्ट सेल शेडिंग, नाजुक नीली लाइनवर्क, सूक्ष्म पेपर टेक्सचर, साफ UI-जैसा कैरेक्टर शीट डिज़ाइन, संतुलित नेगेटिव स्पेस, कोई भारी बैकग्राउंड नहीं। अंतिम डिज़ाइन को सरल मूल स्केच की तुलना में अधिक आकर्षक, अभिव्यंजक और पॉलिश बनाएं।
-
-सीमाएं: ऊपर दिए गए सटीक पैनल काउंट को बनाए रखें, नीले-और-सफेद दृश्य पहचान को बनाए रखें, अतिरिक्त कैरेक्टर से बचें, अव्यवस्था से बचें, कोई वॉटरमार्क नहीं, कोई फोटो-रियलिज्म नहीं, कोई 3D रेंडरिंग नहीं।
+एक आकर्षक {argument name="subject" default="युवा पुरुष"} का फोटो-रियलिस्टिक एडिटोरियल फैशन पोर्ट्रेट, जिसके घने, करीने से स्टाइल किए गए गहरे भूरे बाल, छोटी सुव्यवस्थित दाढ़ी और मूंछें, गर्मजोशी भरी आत्मविश्वासपूर्ण मुस्कान और प्राकृतिक मर्दाना विशेषताएं हैं। वह कैमरे की ओर मुंह करके खड़ा है, हाथ बांधे हुए, उसने एक शानदार {argument name="clothing" default="गहरे बरगंडी रंग का चंकी-निट टर्टलनेक स्वेटर"} और एक क्लासिक काली लग्जरी कलाई घड़ी पहनी है। नाटकीय प्राकृतिक धूप बगल से आ रही है, जो उसके पीछे एक न्यूनतम सफेद और हल्के-ग्रे रंग की दीवार पर मजबूत ज्यामितीय छाया बना रही है। साफ परिष्कृत स्टूडियो/अपार्टमेंट सेटिंग, हाई-फैशन मेन्सवियर अभियान एस्थेटिक, गर्म प्राकृतिक त्वचा टोन, यथार्थवादी त्वचा बनावट, विस्तृत निट फैब्रिक, चेहरे के स्पष्ट विवरण, सिनेमाई लाइटिंग, उथली गहराई (shallow depth of field), सूक्ष्म कंट्रास्ट, प्रीमियम मैगज़ीन फोटोग्राफी, 85mm पोर्ट्रेट लेंस, f/2.8, अल्ट्रा-रियलिस्टिक, उच्च रिज़ॉल्यूशन, वर्टिकल कंपोजिशन, केंद्रित फ्रेमिंग।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -4023,33 +4249,37 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942348153_wgy0q0_HRvHUvhbUAAXiQe.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - नीले एनीमे कैरेक्टर रिडिज़ाइन शीट - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789113111224_xibqfa_HR57b20bkAAd1cg.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - एडिटोरियल फैशन मेन्सवियर पोर्ट्रेट - Image 1">
 </div>
 
 #### 📌 विवरण
 
-- **लेखक:** [SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN)
-- **स्रोत:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/2097490599771615332#reversed-1)
-- **प्रकाशित:** 9 सितंबर 2026
+- **लेखक:** [Aijaz](https://x.com/iamsofiaijaz)
+- **स्रोत:** [Twitter Post](https://x.com/iamsofiaijaz/status/2098250202075533588)
+- **प्रकाशित:** 11 सितंबर 2026
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34029)**
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34308)**
 
 ---
 
-### No. 84: कॉमिक / स्टोरीबोर्ड - ग्रेन-फ्री मांगा इमेज रेस्टोरेशन
+### No. 90: प्रोडक्ट मार्केटिंग - सिनेमैटिक लक्ज़री फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक रेफरेंस मांगा-शैली की इमेज को उसकी सटीक संरचना और टेक्स्ट को सुरक्षित रखते हुए, उसे साफ, अधिक स्पष्ट और कम ग्रेनी (grainy) रूप में रिस्टोर करता है।
+एक युवा पुरुष के हाई-एंड, ओल्ड-मनी एस्थेटिक पोर्ट्रेट के लिए अत्यधिक विस्तृत प्रॉम्प्ट, जिसे एक मिनिमलिस्ट सफेद बेडरूम में परिष्कृत लाइटिंग के साथ तैयार किया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-दी गई रेफरेंस इमेज का उपयोग करके, उसी संरचना को उच्च-गुणवत्ता वाले संस्करण के रूप में साफ और पुनर्जीवित करें। मूल लेआउट, जापानी टेक्स्ट, मांगा इलस्ट्रेशन स्टाइल, रंग, लाइटिंग, पात्रों, वस्तुओं, बॉर्डर और सभी पठनीय टाइपोग्राफी को बिल्कुल रेफरेंस के अनुसार सुरक्षित रखते हुए, ग्रिटी/नॉइजी टेक्सचर, कम्प्रेशन आर्टिफैक्ट्स, स्पेकलिंग और रफ ग्रेन को हटा दें। दो-भाग वाले पेज स्ट्रक्चर को अपरिवर्तित रखें: ऊपर वाला जापानी टेक्स्ट पैनल और नीचे वाला टैवर्न इलस्ट्रेशन। किसी भी चीज़ को रीडिज़ाइन न करें, क्रॉप न करें, नए तत्व न जोड़ें, टेक्स्ट का अनुवाद न करें या दृश्य न बदलें; इसे केवल एक रिस्टोर किए गए हाई-रिज़ॉल्यूशन प्रिंट की तरह स्मूथ, शार्प, क्लीन और अधिक पॉलिश बनाएं। {argument name="cleanup strength" default="strong grain and artifact removal with preserved ink detail"} लागू करें।
+अल्ट्रा-रियलिस्टिक सिनेमैटिक लक्ज़री फैशन फोटोग्राफ, जिसमें {argument name="subject" default="20 के दशक की शुरुआत में एक बेहद आकर्षक युवा पुरुष"} एक {argument name="setting" default="बेदाग मिनिमलिस्ट सफेद बेडरूम"} में आत्मविश्वास के साथ आराम कर रहा है। उसके घने, प्राकृतिक रूप से लहराते गहरे काले बाल, मजबूत और सुस्पष्ट भौहें, गहरी अभिव्यंजक गहरे भूरे रंग की आँखें, एक सीधी तराशी हुई नाक, उभरी हुई गाल की हड्डियाँ, एक तीखी मर्दाना जॉलाइन और हल्की प्राकृतिक स्टबल है। उसने एक {argument name="clothing" default="बेहद एलिगेंट आइवरी निट स्वेटर के साथ टेलर्ड क्रीम ट्राउज़र"} पहना है, जो एक परिष्कृत मोनोक्रोमैटिक ओल्ड-मनी एस्थेटिक बनाता है।
+
+बेडरूम में साफ-सुथरी सफेद दीवारें, मुलायम सफेद लिनन की बेडशीट, मिनिमलिस्ट फर्नीचर, फर्श से छत तक के पारभासी पर्दे और खिड़की से छनकर आती गर्म प्राकृतिक धूप है, जो कमरे में प्रकाश और छाया के नाजुक पैटर्न बनाती है। वह खिड़की के पास बिस्तर के बगल में खड़ा है, एक हाथ लापरवाही से पर्दे पर टिका है, और शांतिपूर्ण, आत्मनिरीक्षण भाव के साथ धूप की ओर देख रहा है।
+
+सॉफ्ट मॉर्निंग एटमॉस्फियर, एयरी कंपोजिशन, वार्म हाइलाइट्स, सूक्ष्म छायाएं, प्राकृतिक त्वचा की बनावट, यथार्थवादी कपड़े का विवरण, परिष्कृत एडिटोरियल स्टाइलिंग, लक्ज़री लाइफस्टाइल मैगज़ीन एस्थेटिक, सिनेमैटिक डेप्थ ऑफ फील्ड, 85mm लेंस, f/1.8, सॉफ्ट बोकेह, फोटो-रियलिस्टिक, HDR, अल्ट्रा-डिटेल्ड, 8K, एलिगेंट न्यूट्रल टोन, शांत और कालातीत मूड, कोई कृत्रिम दिखने वाली त्वचा नहीं, कोई अतिरंजित विशेषताएं नहीं, कोई टेक्स्ट नहीं, कोई वॉटरमार्क नहीं।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -4057,47 +4287,43 @@ GPT Image 2.5 के लिए एक कैरेक्टर ट्रां�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942334061_ttcgl4_HRu5BEcaIAAyL_4.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - ग्रेन-फ्री मांगा इमेज रेस्टोरेशन - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789113112888_yw36e7_HR5omccaQAAxz9N.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - सिनेमैटिक लक्ज़री फैशन पोर्ट्रेट - Image 1">
 </div>
 
 #### 📌 विवरण
 
-- **लेखक:** [生ビール](https://x.com/wmoto_ai)
-- **स्रोत:** [Twitter Post](https://x.com/wmoto_ai/status/2097473530116108301#reversed-2)
-- **प्रकाशित:** 8 सितंबर 2026
+- **लेखक:** [HeisenLegacy](https://x.com/MohdAdnanA86218)
+- **स्रोत:** [Twitter Post](https://x.com/MohdAdnanA86218/status/2098229495706832938)
+- **प्रकाशित:** 11 सितंबर 2026
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34014)**
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34311)**
 
 ---
 
-### No. 85: कॉमिक / स्टोरीबोर्ड - संगत 3x3 स्टूडियो व्यू शीट
+### No. 91: प्रोडक्ट मार्केटिंग - विंबलडन मोशन डिप्टिक पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एकल कैरेक्टर रेफरेंस से फोटो-रियलिस्टिक 3x3 मल्टी-एंगल स्टूडियो व्यू शीट बनाता है, जो पहचान और पोज़ की निरंतरता को बनाए रखता है।
+एक यथार्थवादी विंबलडन रैली और एक डिस्ट्रेस्ड एडिटोरियल पोस्टर चित्रण को मिलाकर एक स्प्लिट-स्क्रीन टेनिस आर्टवर्क तैयार करता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-REFERENCE_0 को कैरेक्टर बेस के रूप में उपयोग करते हुए, एक 16:9 सराउंडिंग-एनवायरनमेंट 3x3 व्यू शीट जेनरेट करें जो व्यक्ति की पहचान, पोशाक, पोज़ की ऊर्जा और शारीरिक अनुपात को सभी कोणों पर सुसंगत रखे।
+लक्ष्य: विंबलडन टेनिस के बारे में एक विस्तृत एडिटोरियल स्पोर्ट्स डिप्टिक बनाएं, जिसमें बाईं ओर एक यथार्थवादी मैच का दृश्य और दाईं ओर एक रफ पेपर-कट इलस्ट्रेशन पोस्टर हो।
 
-लक्ष्य: एक सुसंगत फोटो स्टूडियो वातावरण में एक ही विषय को कई कैमरा दिशाओं से दिखाएं, जैसे कि उसे व्यक्ति के चारों ओर से कैप्चर किया गया हो।
+कैनवास: क्षैतिज 16:9 कंपोजिशन, जिसे बिल्कुल 2 समान लंबवत पैनलों में विभाजित किया गया है। बायां पैनल तेज धूप में घास का एक भीड़भाड़ वाला आउटडोर टेनिस स्टेडियम है; दायां पैनल पर्याप्त नेगेटिव स्पेस के साथ एक ऑफ-व्हाइट टेक्सचर्ड पोस्टर पेज है।
 
-कैनवास और लेआउट: एक डार्क हेडर बार और पतली सफेद सीमाओं द्वारा अलग किए गए ठीक 9 पैनलों के एक साफ 3x3 ग्रिड के साथ एक चौड़ी क्षैतिज 16:9 छवि बनाएं। शीर्ष पर केंद्रित जापानी शीर्षक {argument name="title text" default="周辺景観 3x3ビュー"} जोड़ें।
+बायां पैनल: एक यथार्थवादी, थोड़ा पेंटरली फोटोग्राफ-शैली वाली विंबलडन ग्रास-कोर्ट रैली दिखाएं। इसमें स्पष्ट रूप से 2 टेनिस खिलाड़ी दिखाई देने चाहिए: 1 अग्रभूमि (foreground) में खिलाड़ी जो पूरी तरह सफेद कपड़ों में है, नेट की ओर बाएं से दाएं दौड़ रहा है और लंगिंग कर रहा है, हाथ में रैकेट है, और 1 पृष्ठभूमि (background) में प्रतिद्वंद्वी जो सफेद कपड़ों में दूर बेसलाइन के पास इंतजार कर रहा है। निचले मध्य में एक काला नेट, सफेद कोर्ट लाइनों के साथ घिसी हुई हरी घास, गहरे हरे रंग की स्टेडियम की दीवारें, गहरे रंग की वर्दी में बॉल किड्स और अधिकारी, और ऊपरी स्टैंड में दर्शकों की घनी भीड़ शामिल करें। बीच में एक गहरा हरा स्कोरबोर्ड जोड़ें जिसमें Rolex ब्रांडिंग हो और मैच का विवरण पढ़ने योग्य हो: “Marin CILIC” के नीचे “Roger FEDERER”, स्कोर जो Cilic 2 0 और Federer 2 30 का संकेत दे, साथ ही छोटी मैच-स्टेट लाइनें। अग्रभूमि वाले खिलाड़ी को गतिशील रखें, जमीन के करीब, सफेद हेडबैंड, सफेद शर्ट और शॉर्ट्स, सफेद मोजे और छोटे लाल एक्सेंट वाले जूतों के साथ।
 
-आवश्यक 9 पैनल और लेबल: प्रत्येक पैनल के ऊपरी-बाएँ कोने में सफेद जापानी टेक्स्ट के साथ एक काला गोल लेबल लगाएं। बाएं से दाएं, ऊपर से नीचे व्यवस्थित इन ठीक 9 लेबल वाले दृश्यों का उपयोग करें: 1) 「左後方」, 2) 「背面」, 3) 「右後方」, 4) 「左側面」, 5) 「正面」, 6) 「右側面」, 7) 「左前方」, 8) 「俯瞰」, 9) 「右前方」。
+दायां पैनल: टेक्सचर्ड क्रीम पेपर पर एक मिनिमलिस्ट विंटेज टेनिस पोस्टर बनाएं। ऊपरी केंद्र-दाईं ओर, गहरे वन हरे रंग (dark forest green) में बड़े रफ ब्रश अक्षरों में {argument name="headline text" default="Still in Motion"} लिखें, जो तिरछा हो और जिसके किनारे डिस्ट्रेस्ड (घिसे हुए) हों। इसके नीचे, सफेद रंग में एक सिंगल फेसेटेड कोलाज-शैली का टेनिस खिलाड़ी बनाएं, जो दाईं ओर दौड़ रहा हो, क्षैतिज रूप से फैला हुआ हो, एक हाथ पीछे और रैकेट वाला हाथ एक छोटी पीली टेनिस गेंद की ओर बढ़ा हुआ हो। कोणीय फटे हुए कागज के आकार, दृश्यमान पेपर ग्रेन, टैन स्किन के टुकड़े, ग्रे छाया, और पैरों के नीचे गहरे हरे रंग के ग्रास-स्ट्रोक मार्क्स का उपयोग करें। ठीक 2 छोटे टाइपोग्राफी ब्लॉक जोड़ें: चित्रित खिलाड़ी के बाईं ओर, स्टैक्ड टेक्स्ट {argument name="left small text" default="Same\nGame\nA Deeper\nYou"} जिसके नीचे एक छोटी क्षैतिज रेखा हो; चित्रित खिलाड़ी के दाईं ओर, स्टैक्ड टेक्स्ट {argument name="right small text" default="TENNIS\nLIVES\nDIFFERENTLY\nHERE."} जिसके नीचे एक छोटी क्षैतिज रेखा हो।
 
-दृश्य परिवर्तन: मूल रेफरेंस को एक यथार्थवादी बिहाइंड-द-सीन्स स्टूडियो सेटअप में विस्तारित करें। रेफरेंस से बेज सीमलेस पेपर बैकड्रॉप को बनाए रखें, लेकिन आसपास के स्टूडियो को दिखाएं: लाइट स्टैंड, सॉफ्टबॉक्स लाइट्स, ट्राइपॉड पर कैमरा, ग्रे कंक्रीट का फर्श, एक गमले वाला पौधा, एक स्टेप लैडर, लैपटॉप/मॉनिटर के साथ एक रोलिंग इक्विपमेंट कार्ट, केबल और कार्डबोर्ड बॉक्स। ये वस्तुएं दृष्टिकोण के अनुसार अलग-अलग कोणों से सुसंगत रूप से दिखाई देनी चाहिए।
+विजुअल स्टाइल: बाईं ओर एक विस्तृत, डॉक्यूमेंट्री टेनिस फोटोग्राफ और दाईं ओर एक रफ इलस्ट्रेटेड एस्थेटिक के बीच कंट्रास्ट रखें। विंबलडन रंगों का उपयोग करें: गहरा हरा, ग्रास ग्रीन, सफेद, क्रीम, म्यूटेड पीला, टैन और काला। गति, एथलेटिक तनाव, टेक्सचर्ड घास, डिस्ट्रेस्ड पेपर, अपूर्ण ब्रश टाइपोग्राफी और कोलाज जैसी ज्यामिति पर जोर दें।
 
-विषय: रेफरेंस वाले उसी व्यक्ति को रखें जिसने वही काली टोपी, सफेद {argument name="shirt text" default="20A"} अक्षरों वाली काली टी-शर्ट, काली पैंट और काले स्नीकर्स पहने हों। उसके झुके हुए ऊर्जावान रुख और अभिव्यंजक हाथों को बनाए रखें, लेकिन प्रत्येक लेबल वाले दृष्टिकोण के लिए उसे स्वाभाविक रूप से घुमाएं। फ्रंट-व्यू पैनलों में उसका चेहरा दिखना चाहिए; रियर और साइड पैनलों को कोण के आधार पर चेहरे की विशेषताओं को सही ढंग से छिपाना या दिखाना चाहिए।
-
-शैली: फोटो-रियलिस्टिक, हाई-रिज़ॉल्यूशन स्टूडियो फोटोग्राफी, वाइड-एंगल डॉक्यूमेंट्री लुक, सुसंगत लाइटिंग, यथार्थवादी परिप्रेक्ष्य, कोई कार्टून स्टाइलिंग नहीं।
-
-सीमाएं: 9 दृश्य स्थानिक रूप से सुसंगत होने चाहिए, विशेष रूप से सामने, पीछे, बाएं और दाएं। अतिरिक्त पैनल, अतिरिक्त लेबल, वॉटरमार्क या असंबंधित टेक्स्ट न जोड़ें।
+सीमाएं: यथार्थवादी बाएं पैनल में ठीक 2 मुख्य टेनिस खिलाड़ियों और दाएं पैनल में ठीक 1 चित्रित टेनिस खिलाड़ी का उपयोग करें। साफ स्प्लिट-स्क्रीन लेआउट को बनाए रखें, बाईं ओर Rolex-शैली के स्कोरबोर्ड को छोड़कर कोई अतिरिक्त लोगो नहीं, कोई वॉटरमार्क नहीं, कोई आधुनिक UI तत्व नहीं।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -4105,33 +4331,33 @@ REFERENCE_0 को कैरेक्टर बेस के रूप में
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942343162_fkde8d_HRu3E13asAAYv-P.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - संगत 3x3 स्टूडियो व्यू शीट - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789113122535_az77zg_HR4MsiSakAAaKIv.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - विंबलडन मोशन डिप्टिक पोस्टर - Image 1">
 </div>
 
 #### 📌 विवरण
 
-- **लेखक:** [白井圧＠組長](https://x.com/kumi0708)
-- **स्रोत:** [Twitter Post](https://x.com/kumi0708/status/2097471450869629049#reversed-1)
-- **प्रकाशित:** 8 सितंबर 2026
+- **लेखक:** [小小东](https://x.com/xiaoxiaodong01)
+- **स्रोत:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2098134017929568309#reversed-0)
+- **प्रकाशित:** 10 सितंबर 2026
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34023)**
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34326)**
 
 ---
 
-### No. 86: कॉमिक / स्टोरीबोर्ड - आकाशीय साकुरा किमोनो कन्या
+### No. 92: प्रोडक्ट मार्केटिंग - कॉफी कप में बसा एक लघु शहर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक अलंकृत साकुरा महल के बगीचे में चमकते हुए आकाशीय गोले की ओर हाथ बढ़ाती गुलाबी बालों वाली किमोनो कन्या का विस्तृत वर्टिकल एनीमे फैंटेसी चित्रण।
+कॉफी के कप के अंदर भाप और झाग से बने एक फोटो-रियलिस्टिक लघु शहर को उत्पन्न करने के लिए एक असली और मनमौजी प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-एक भव्य आकाशीय जापानी महल के बगीचे में एक सुंदर युवती का अत्यधिक विस्तृत वर्टिकल एनीमे फैंटेसी चित्रण तैयार करें। उसके {argument name="hair color" default="लंबे लहराते पेस्टल गुलाबी बाल"} बाईं ओर नाटकीय रूप से बह रहे हैं, त्वचा का रंग हल्का है, आँखें कोमल हरी हैं, और उसकी दृष्टि ऊपर की ओर शांत है। वह एक चमकदार, रत्न जैसे फर्श पर शालीनता से घुटनों के बल बैठी है और अपने दोनों हाथ ऊपर एक चमकते हुए गोले की ओर फैला रही है। उसे एक असाधारण स्तरित {argument name="outfit" default="बहु-रंगीन फूलों वाला किमोनो जिसमें सोने की कढ़ाई, लाल, काले, बैंगनी, सफेद और पन्ने जैसी परतें हैं"} पहनाएं, जिसमें लंबी चौड़ी आस्तीन, अलंकृत कढ़ाई, चेरी ब्लॉसम पैटर्न, सारस, लटकन, रिबन और धात्विक सोने की किनारी हो। गुलाबी फूलों, लटकते गहनों और सोने की जालीदार कारीगरी के साथ बालों में एक बड़ा फूलों का सजावट जोड़ें। उसे एक जादुई वातावरण से घेरें: लटकते लालटेन, सोने की जंजीरें, आकाशीय छल्ले, चमकते कण, झरने जैसी रोशनी, पृष्ठभूमि में महल की बालकनी और शिवालय वास्तुकला, हर जगह गुलाबी चेरी ब्लॉसम और कांच जैसे परावर्तक आभूषण। ठीक 5 प्रमुख गोलाकार आभूषण शामिल करें: नीचे दाईं ओर अग्रभूमि में एक बड़ा फूलों वाला ग्लोब, नीचे बाईं ओर अग्रभूमि में एक बैंगनी पारभासी गोला, नीचे बाईं ओर के किनारे के पास एक छोटा गहरा फूलों वाला गोला, दाईं ओर मध्यभूमि में एक पेडस्टल पर एक मध्यम फूलों वाला ग्लोब, और ऊपरी बाईं ओर एक तैरता हुआ बैंगनी बुलबुला। बाईं ओर एक सुनहरी सारस की मूर्ति और बहुत सारी गिरती हुई पंखुड़ियाँ शामिल करें। {argument name="lighting mood" default="तीव्र चमक के साथ गर्म सुनहरी जादुई बैकलाइट"}, अति-जटिल विवरण, चमकदार हाइलाइट्स, समृद्ध रत्न टोन, सिनेमाई गहराई, चमकदार बोकेह, अलंकृत फैंटेसी यथार्थवाद और एक शानदार साकुरा उत्सव का माहौल उपयोग करें। रचना वर्टिकल 9:16 है, फुल-बॉडी थ्री-क्वार्टर व्यू, कोई टेक्स्ट नहीं, कोई वॉटरमार्क नहीं, कोई आधुनिक वस्तु नहीं।
+एक {argument name="subject" default="लघु शहर"} की असली लेकिन फोटो-रियलिस्टिक छवि बनाएं, जो एक {argument name="vessel" default="कॉफी के कप"} के अंदर बनी हो। झाग और तरल पदार्थ को इलाके, सड़कों और छोटी चमकती इमारतों का रूप लेना चाहिए, जिसमें छोटे पुल और इधर-उधर घूमते हुए छोटे लोग हों। भाप को नाटकीय रूप से उठते हुए और सुबह की गर्म रोशनी को दृश्य पर पड़ते हुए दिखाएं। इसे मनमौजी, अत्यधिक विस्तृत और दृश्य रूप से समृद्ध बनाएं, जैसे कि कोई प्रीमियम कमर्शियल कॉन्सेप्ट हो।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -4139,52 +4365,33 @@ REFERENCE_0 को कैरेक्टर बेस के रूप में
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942388043_l8qbhc_HRuzccrbYAAhcan.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - आकाशीय साकुरा किमोनो कन्या - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789113117792_zqa4m2_HR3yrutWQAI9eAh.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - कॉफी कप में बसा एक लघु शहर - Image 1">
 </div>
 
 #### 📌 विवरण
 
-- **लेखक:** [ねね*](https://x.com/NeneneAI)
-- **स्रोत:** [Twitter Post](https://x.com/NeneneAI/status/2097467359636463735#reversed-0)
-- **प्रकाशित:** 8 सितंबर 2026
+- **लेखक:** [Mira](https://x.com/miratechtool)
+- **स्रोत:** [Twitter Post](https://x.com/miratechtool/status/2098099843382042647)
+- **प्रकाशित:** 10 सितंबर 2026
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34087)**
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34318)**
 
 ---
 
-### No. 87: कॉमिक / स्टोरीबोर्ड - मोनोक्रोम मंगा महिला और आवारा बिल्ली
+### No. 93: प्रोडक्ट मार्केटिंग - यूरोपीय ऑटम फैशन एडिटोरियल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक अकेली ऑफिस जाने वाली महिला के बारे में एक विस्तृत ब्लैक-एंड-व्हाइट जापानी मंगा पेज बनाएं, जो एक आवारा बिल्ली के माध्यम से गर्मजोशी और आत्मविश्वास पाती है।
+पतझड़ के फैशन में एक युवक के लिए एक सिनेमैटिक एडिटोरियल प्रॉम्प्ट, जो नाटकीय रोशनी और गिरती पत्तियों के बीच पत्थर वाली सड़क पर चल रहा है।
 
 #### 📝 प्रॉम्पट
 
 ```
-लक्ष्य: एक भावुक स्लाइस-ऑफ-लाइफ शैली में, एक शांत ऑफिस जाने वाली महिला के बारे में एक मोनोक्रोम जापानी मंगा पेज बनाएं, जो एक आवारा बिल्ली से मिलने के बाद धीरे-धीरे खुलती है। {argument name="page format" default="वर्टिकल मंगा पेज, ब्लैक एंड व्हाइट, 4:5 आस्पेक्ट रेशियो"} का उपयोग करें।
-
-कैनवास: साफ ब्लैक पैनल बॉर्डर, ग्रेस्केल स्क्रीनटोन, बारीक इंक लाइनवर्क, सॉफ्ट शेडिंग, यथार्थवादी शहरी पृष्ठभूमि और अभिव्यंजक लेकिन संयमित चरित्र अभिनय के साथ फुल-पेज मंगा लेआउट। पढ़ने की दिशा और टेक्स्ट बॉक्स एक जापानी मंगा पेज की तरह महसूस होने चाहिए, जिसमें वर्टिकल जापानी संवाद और वर्णन हो।
-
-मुख्य विषय: एक युवा जापानी ऑफिस महिला, {argument name="character name" default="अनाम नायिका"}, 20 के दशक की शुरुआत में, कंधे तक सीधे काले बाल और बैंग्स, सौम्य थकी हुई आंखें, ऑफिस के कपड़ों के ऊपर कार्डिगन पहने हुए और कंधे पर बैग लिए हुए। वह शुरुआत में अकेली और अंतर्मुखी है, फिर अधिक गर्मजोशी और आत्मविश्वास से भरी हो जाती है। सहायक विषय बिल्कुल 1 ब्लैक-एंड-व्हाइट आवारा बिल्ली है जिसकी गोल आंखें, फूला हुआ सीना और थोड़ा बिखरा हुआ लेकिन प्यारा रूप है।
-
-लेआउट: एक घने मंगा ग्रिड में व्यवस्थित ठीक 9 अलग-अलग पैनलों का उपयोग करें।
-1. ऊपर-बायां पैनल: महिला ऑफिस डेस्क पर बैठी है, अपने गाल को हाथ पर टिकाए हुए, कंप्यूटर मॉनिटर और कागजों के बगल में थकी हुई दिख रही है। एक थॉट बबल और वर्टिकल वर्णन जोड़ें।
-2. ऊपर-दायां चौड़ा पैनल: वह अपने पीछे इमारतों और राहगीरों के साथ एक शहर की सड़क पर चल रही है, अपने बैग का पट्टा पकड़े हुए, आरक्षित दिख रही है। दो लंबे वर्णन बॉक्स जोड़ें।
-3. मध्य-बायां पैनल: वह एक गली या साइड स्ट्रीट में बैठी है और आवारा बिल्ली को एक छोटे बर्तन में खाना दे रही है। बिल्ली खाती है जबकि वह शर्मीले ढंग से देखती है। एक स्पीच बबल जोड़ें।
-4. मध्य-दायां पैनल: बिल्ली गली में एक दीवार के बगल में अकेली बैठी है, सीधे दर्शक की ओर देख रही है। बिल्ली की एक छोटी ध्वनि और एक लंबा वर्णन बॉक्स जोड़ें।
-5. निचले-मध्य-बाएं पैनल: ऑफिस कैफेटेरिया या वर्कस्पेस में, महिला सहकर्मियों के साथ बात करते हुए मुस्कुराती है; डेस्क, मॉनिटर और पृष्ठभूमि के लोगों को शामिल करें। एक वर्टिकल वर्णन बॉक्स और किसी अन्य व्यक्ति का स्पीच बबल जोड़ें।
-6. निचले-मध्य-दाएं पैनल: महिला का भावनात्मक क्लोज-अप, जो बिल्ली को सहलाते हुए अपनी आंखें बंद करके मुस्कुरा रही है, गाल उसके सिर के करीब है। बिल्ली की एक ध्वनि और दो वर्णन बॉक्स जोड़ें।
-7. नीचे-बायां चौड़ा पैनल: महिला अपनी डेस्क पर ड्रिंक लिए बैठी है, आंखें बंद करके खुशी से मुस्कुरा रही है; सहकर्मी पृष्ठभूमि में बातचीत कर रहे हैं। एक छोटा वर्टिकल स्पीच बबल जोड़ें।
-8. नीचे-केंद्र का संकरा पैनल: बिल्ली के चेहरे का क्लोज-अप, हाथ/सहलाने के विवरण के साथ, जिसे एक चिंतनशील संक्रमण के रूप में उपयोग किया गया है। दो संकरे वर्टिकल वर्णन बॉक्स जोड़ें।
-9. नीचे-दायां चौड़ा पैनल: पीछे से सूर्यास्त की छत या नदी का किनारा; महिला बिल्ली के बगल में बैठी है, दोनों शहर की स्काईलाइन और नाटकीय सनबर्स्ट बादलों की ओर देख रहे हैं। दो वर्णन बॉक्स जोड़ें, एक आकाश के पास और एक निचले केंद्र के पास।
-
-टेक्स्ट सामग्री: पैनलों में जापानी वर्टिकल मंगा टेक्स्ट शामिल करें। केंद्रीय विषय {argument name="story theme" default="एक अकेली साधारण ऑफिस वर्कर भावनात्मक रूप से एक आवारा बिल्ली द्वारा बचाई जाती है और लोगों से जुड़ना सीखती है"} होना चाहिए। ऐसी टोन वाले वर्णन का उपयोग करें: “मैं कहीं भी एक साधारण ऑफिस वर्कर हूं,” “मैं लोगों से बात करने में अच्छी नहीं हूं,” “मैं कंपनी के पास एक आवारा बिल्ली से मिली,” “शुरुआत में मैं केवल दूर से देखती थी,” “धीरे-धीरे दूरी कम हो गई,” “उस बच्चे की बदौलत, मैं आगे देखने में सक्षम हो गई,” और “किसी दिन मैं कोई ऐसी बनना चाहती हूं जो कुछ वापस दे सके।”
-
-विजुअल स्टाइल: प्रामाणिक सीनिन/शोजो स्लाइस-ऑफ-लाइफ मंगा, हाथ से खींची गई इंक, विस्तृत शहर और ऑफिस की पृष्ठभूमि, ग्रेस्केल टोन, सूक्ष्म हैचिंग, सिनेमाई भावनात्मक गति, साफ सफेद गटर, कोई रंग नहीं, कोई वॉटरमार्क नहीं। महिला और बिल्ली को सभी पैनलों में सुसंगत रखें, बिल्ली ठीक 5 पैनलों में दिखाई दे: खाते हुए, अकेले बैठे हुए, सहलाते हुए, क्लोज-अप में, और स्काईलाइन पर उसके बगल में बैठे हुए।
+एक {argument name="subject" default="20 के दशक की शुरुआत में एक हैंडसम युवक"} का अल्ट्रा-रियलिस्टिक सिनेमैटिक यूरोपीय ऑटम फैशन एडिटोरियल, जो {argument name="setting" default="नारंगी, तांबे और सुनहरे पेड़ों से घिरी एक संकरी पत्थर वाली सड़क"} पर अकेला चल रहा है। उसके घने प्राकृतिक घुंघराले काले बाल, भावपूर्ण गहरे भूरे रंग की आंखें, घनी भौहें, उभरी हुई चीकबोन्स, एक शार्प मैस्कुलिन जॉलाइन और हल्की प्राकृतिक स्टबल है। उसने {argument name="clothing" default="लंबे ऊंट के रंग का डबल-ब्रेस्टेड ओवरकोट, काली टर्टलनेक, टेलर्ड काली पतलून, पॉलिश किए हुए लेदर चेल्सी बूट्स"} और एक क्लासिक विंटेज रिस्टवॉच पहनी है। उसने एक हाथ में लापरवाही से एक डार्क लेदर ब्रीफकेस पकड़ा हुआ है। सड़क पर गिरी हुई पतझड़ की पत्तियां बिखरी हैं और एक हल्की हवा उसके चारों ओर कुछ पत्तियों को उड़ा रही है। पेड़ों के बीच से आती सुनहरी शाम की धूप नाटकीय प्रकाश की किरणें और लंबी सिनेमैटिक परछाइयां बना रही है। दूर थोड़ी धुंध, सुरुचिपूर्ण यूरोपीय ग्रामीण वातावरण, सोफिस्टिकेटेड ओल्ड-मनी एस्थेटिक, क्वाइट लग्जरी, सहज आत्मविश्वास, एडिटोरियल मैगजीन कंपोजिशन, यथार्थवादी त्वचा बनावट, अलग-अलग बाल, प्राकृतिक अनुपात, शैलो डेप्थ ऑफ फील्ड, 85mm लेंस, सिनेमैटिक फिल्म ग्रेन, HDR, फोटो-रियलिस्टिक, वर्टिकल 9:16, कोई टेक्स्ट नहीं, कोई वॉटरमार्क नहीं, कोई AI-दिखने वाला चेहरा नहीं।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -4192,21 +4399,21 @@ REFERENCE_0 को कैरेक्टर बेस के रूप में
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942378256_axvqsb_HRunPw2aQAAoGl3.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - मोनोक्रोम मंगा महिला और आवारा बिल्ली - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789113114754_2yznzt_HR2VCS2boAAi_HZ.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - यूरोपीय ऑटम फैशन एडिटोरियल - Image 1">
 </div>
 
 #### 📌 विवरण
 
-- **लेखक:** [けいすけ🌈『ぽちペタ』音声入力ソフト開発](https://x.com/kei31)
-- **स्रोत:** [Twitter Post](https://x.com/kei31/status/2097453957555835344#reversed-0)
-- **प्रकाशित:** 8 सितंबर 2026
+- **लेखक:** [HeisenLegacy](https://x.com/MohdAdnanA86218)
+- **स्रोत:** [Twitter Post](https://x.com/MohdAdnanA86218/status/2097996880148111855)
+- **प्रकाशित:** 10 सितंबर 2026
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34069)**
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34312)**
 
 ---
 
-### No. 88: प्रोडक्ट मार्केटिंग - Venus Soap Holder Bathroom Interior Design
+### No. 94: प्रोडक्ट मार्केटिंग - Venus Soap Holder Bathroom Interior Design
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4240,7 +4447,7 @@ Generate a 16:9 horizontal bathroom design presentation image. On the left, plac
 
 ---
 
-### No. 89: प्रोडक्ट मार्केटिंग - Mondrian Style Storage Cabinet Design
+### No. 95: प्रोडक्ट मार्केटिंग - Mondrian Style Storage Cabinet Design
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4274,7 +4481,41 @@ Generate a 16:9 horizontal desktop design presentation. On the left, place a pai
 
 ---
 
-### No. 90: प्रोडक्ट मार्केटिंग - Rhode Lip Treatment तुलनात्मक विज्ञापन
+### No. 96: प्रोडक्ट मार्केटिंग - धुंधली कश्मीर में सिनेमाई पोर्ट्रेट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+हिमालय की देवदार से ढकी ढलानों और धुंधली घाटियों की पृष्ठभूमि में पारंपरिक-आधुनिक फैशन पोर्ट्रेट बनाने के लिए एक विस्तृत सिनेमाई प्रॉम्प्ट।
+
+#### 📝 प्रॉम्पट
+
+```
+धुंधली सुबह के दौरान {argument name="location" default="कश्मीर"} की एक शांत पहाड़ी सड़क पर खड़े एक बेहद आकर्षक {argument name="subject" default="20 के दशक की शुरुआत के युवक"} की अल्ट्रा-रियलिस्टिक सिनेमाई संपादकीय तस्वीर। उनके घने, प्राकृतिक रूप से लहरदार काले बाल, घनी और सुगठित भौहें, गहरी भावपूर्ण गहरे भूरे रंग की आँखें, सीधी तराशी हुई नाक, उभरी हुई चीकबोन्स, एक तीखी मर्दाना जॉलाइन और हल्की प्राकृतिक स्टबल है। उन्होंने एक परिष्कृत पारंपरिक-आधुनिक कश्मीरी पोशाक पहनी है — एक खूबसूरती से तैयार किया गया चारकोल फेरन, जिसके नीचे एक क्रिस्प क्रीम कुर्ता, स्लिम डार्क ट्राउजर और एलिगेंट लेदर बूट्स हैं, जो कालातीत कश्मीरी विरासत को समकालीन फैशन के साथ जोड़ते हैं। वह आत्मविश्वास के साथ एक शांत, विचारशील अभिव्यक्ति के साथ खड़े हैं, एक हाथ स्वाभाविक रूप से उनकी जेब में है। उनके पीछे, राजसी हिमालय पर्वत, देवदार से ढकी ढलानें और दूर की घाटियाँ धीरे-धीरे घने सफेद सुबह के कोहरे की परतों में गायब हो रही हैं। ओस से ढकी घास, सड़क पर तैरती हल्की धुंध, म्यूट अर्थी टोन, ठंडी सुबह का वातावरण, कोहरे के माध्यम से धीरे-धीरे आती हुई सॉफ्ट डिफ्यूज्ड सूर्योदय की रोशनी, सिनेमाई गहराई, यथार्थवादी कपड़े की बनावट, प्राकृतिक त्वचा के रोमछिद्र, वायुमंडलीय परिप्रेक्ष्य, उथली गहराई (shallow depth of field), 85mm लेंस, फोटो-रियलिस्टिक, 8K HDR, लक्जरी फैशन संपादकीय सौंदर्य, नाटकीय लेकिन शांतिपूर्ण रचना, प्रामाणिक कश्मीर परिदृश्य, कोई कृत्रिम दिखने वाला चेहरा नहीं, कोई टेक्स्ट नहीं, कोई वॉटरमार्क नहीं। वर्टिकल 9:16 कंपोजिशन।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113112842_q8kotd_HR0jus5a4AEfVS9.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - धुंधली कश्मीर में सिनेमाई पोर्ट्रेट - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [HeisenLegacy](https://x.com/MohdAdnanA86218)
+- **स्रोत:** [Twitter Post](https://x.com/MohdAdnanA86218/status/2097872296048496687)
+- **प्रकाशित:** 10 सितंबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34309)**
+
+---
+
+### No. 97: प्रोडक्ट मार्केटिंग - Rhode Lip Treatment तुलनात्मक विज्ञापन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4322,7 +4563,7 @@ Generate a 16:9 horizontal desktop design presentation. On the left, place a pai
 
 ---
 
-### No. 91: प्रोडक्ट मार्केटिंग - शरद ऋतु ऑनसेन (Onsen) और स्वादिष्ट भोजन सेल पोस्टर
+### No. 98: प्रोडक्ट मार्केटिंग - शरद ऋतु ऑनसेन (Onsen) और स्वादिष्ट भोजन सेल पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4372,7 +4613,7 @@ Generate a 16:9 horizontal desktop design presentation. On the left, place a pai
 
 ---
 
-### No. 92: प्रोडक्ट मार्केटिंग - नेचुरल रामेन एडवरटाइजमेंट पॉप
+### No. 99: प्रोडक्ट मार्केटिंग - नेचुरल रामेन एडवरटाइजमेंट पॉप
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4406,7 +4647,7 @@ Generate a 16:9 horizontal desktop design presentation. On the left, place a pai
 
 ---
 
-### No. 93: प्रोडक्ट मार्केटिंग - स्केच से यथार्थवादी रूम प्रमोशन रेंडर
+### No. 100: प्रोडक्ट मार्केटिंग - स्केच से यथार्थवादी रूम प्रमोशन रेंडर
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4440,57 +4681,7 @@ Generate a 16:9 horizontal desktop design presentation. On the left, place a pai
 
 ---
 
-### No. 94: प्रोडक्ट मार्केटिंग - GPT Image 2.5 एनीमे लॉन्च पोस्टर
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक विंकिंग टेकवियर मैस्कॉट, रोबोट साथी और विस्तृत GPT Image 2.5 फीचर UI कार्ड्स के साथ एक वर्गाकार भविष्यवादी एनीमे प्रमोशनल पोस्टर बनाता है।
-
-#### 📝 प्रॉम्पट
-
-```
-लक्ष्य: {argument name="product name" default="GPT Image 2.5"} के लिए एक बेहतरीन वर्गाकार प्रमोशनल एनीमे की-विजुअल बनाएं, इसे एक भविष्यवादी रचनात्मक इमेज-जेनरेशन सेवा के रूप में प्रस्तुत करें, जिसमें एक हंसमुख एनीमे एंबेसडर दर्शक की ओर हाथ बढ़ा रही हो।
-
-कैनवास: 1:1 वर्गाकार सोशल-मीडिया पोस्टर, सूर्यास्त के समय सिनेमैटिक नियॉन शहर की पृष्ठभूमि, स्लीक SaaS लॉन्च-पेज UI ओवरले के साथ मिश्रित उच्च-विवरण वाली एनीमे इलस्ट्रेशन। स्ट्रांग डेप्थ ऑफ फील्ड का उपयोग करें: चरित्र का फैला हुआ हाथ बड़ा और अग्रभूमि (foreground) में थोड़ा मोशन-ब्लर है, उसका चेहरा स्पष्ट है, और शहर उसके पीछे धीरे-धीरे चमक रहा है।
-
-मुख्य विषय: केंद्र-दाएं अग्रभूमि में एक प्यारी एनीमे लड़की, लगभग किशोर/युवा वयस्क शैली, छोटे फ्लफी {argument name="hair color" default="pale pink-blonde"} बॉब बाल और बैंग्स, एक आंख विंक करती हुई और एक गर्म लाल-भूरे रंग की आंख खुली, जो मुस्कुरा रही है। उसने चमकदार पैनल, पट्टियों, ज़िपर्स, बैज, लाल रिबन एक्सेंट, काले इनर टॉप और OpenAI-जैसे नॉट लोगो और “GPT Image 2.5” छपे हुए डोरी वाले बैज के साथ एक भविष्यवादी ब्लैक-एंड-व्हाइट टेकवियर जैकेट पहनी है। उसका दाहिना हाथ कैमरे की ओर निमंत्रण देते हुए बढ़ा हुआ है। एक तरफ एक छोटा काला-और-लाल हेयर क्लिप और रिबन जोड़ें।
-
-साथी रोबोट: नीचे दाईं ओर ठीक 1 छोटा गोल साथी रोबोट रखें, सफेद शरीर, बिल्ली के कान जैसे बिंदुओं के साथ, चमकदार काली फेस स्क्रीन, सियान मुस्कुराती आंखें, और एक चेस्ट पैनल जिसमें OpenAI-जैसा नॉट लोगो और “Create Explore Together” टेक्स्ट हो।
-
-ब्रांडिंग और हेडलाइन: ऊपर बाईं ओर, एक बड़ा चमकता हुआ OpenAI-जैसा नॉट आइकन रखें, जिसके बाद पहली पंक्ति में विशाल टेक्स्ट “GPT” और उसके नीचे “Image 2.5” हो, जिसमें “2.5” नीले से गुलाबी नियॉन ग्रेडिएंट में हो। इसके नीचे, टैगलाइन “More Expressive. More Creative. Now in Your Hands.” जोड़ें। नीचे हस्तलिखित जापानी टेक्स्ट जोड़ें: 「想像を、もっと自由に。」
-
-बाईं ओर फीचर स्टैक: बाईं ओर लंबवत रूप से 6 पारभासी डार्क ग्लासमोर्फिज्म कार्ड जोड़ें, प्रत्येक में एक चमकता हुआ आइकन, बोल्ड सफेद शीर्षक, छोटा उपशीर्षक और जहां दिखाई दे वहां एक छोटा प्रीव्यू थंबनेल स्ट्रिप हो। 6 कार्ड हैं: 1) “Text to Image” उपशीर्षक “Just type your imagination” और 1 लैंडस्केप कैसल थंबनेल के साथ; 2) “Sketch to Image” उपशीर्षक “Turn your sketches into art” और एक तीर के साथ फैंटेसी लैंडस्केप में बदलते स्केच को दिखाते हुए 2 थंबनेल; 3) “Image Editing” उपशीर्षक “Refine with simple instructions” और एक तीर के साथ 2 एनीमे पोर्ट्रेट थंबनेल; 4) “In-context Creation” उपशीर्षक “Consistent characters & style” और 2 एनीमे कैरेक्टर थंबनेल; 5) “Faster Generation” उपशीर्षक “Create more, wait less” और एक लाइटनिंग आइकन; 6) “Higher Detail” उपशीर्षक “Sharper, richer, more real” और 1 फ्लावर थंबनेल।
-
-दाईं ओर फीचर स्टैक: दाईं ओर 3 पारभासी डार्क ग्लासमोर्फिज्म कार्ड जोड़ें। शीर्ष कार्ड “Multi-style” है, उपशीर्षक “Anime, Realistic, Illustration...” और ठीक 3 थंबनेल के साथ: एनीमे पोर्ट्रेट, रियलिस्टिक लैंडस्केप, बिल्ली की फोटो। बीच वाला कार्ड “Follow Instructions” है, उपशीर्षक “More accurate, more flexible” के साथ। निचला कार्ड “Create on Mobile” है, उपशीर्षक “@ → Sketch (iOS/Android)” के साथ।
-
-हस्तलिखित नोट्स: ऊपर दाईं ओर के आकाश में, जापानी हस्तलिखित कॉपी जोड़ें: 「好きな世界を、今すぐ、ここから。」 जिसके बाद एक हस्ताक्षर {argument name="signature" default="Chisato"} और एक दिल हो। नीचे दाईं ओर, हस्तलिखित जापानी कॉपी जोड़ें: 「つくろう。あなたの『好き』を。」 और “with GPT Image 2.5” लाइन। नीचे बाईं ओर, एक छोटा OpenAI-जैसा नॉट आइकन और कर्सिव अंग्रेजी टेक्स्ट “A more creative tomorrow_” जोड़ें।
-
-विजुअल शैली: प्रीमियम एनीमे प्रमोशनल आर्ट, जीवंत नीला, सियान, मैजेंटा और सनसेट-पिंक लाइटिंग; चमकते होलोग्राफिक UI पैनल; परावर्तक धातु और कांच; स्पष्ट टाइपोग्राफी; नाटकीय वाइड-एंगल सेल्फी परिप्रेक्ष्य; अत्यधिक विस्तृत चेहरा और कपड़े; सॉफ्ट ब्लूम, रिम लाइट और लेंस फ्लेयर। सभी UI टेक्स्ट को पठनीय और संरेखित रखें, निर्दिष्ट संख्या से अधिक कोई अतिरिक्त फीचर कार्ड न जोड़ें।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942374279_8axutb_HRvpE0sbgAAWyhq.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - GPT Image 2.5 एनीमे लॉन्च पोस्टर - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [AIossansan](https://x.com/toraaiuser2)
-- **स्रोत:** [Twitter Post](https://x.com/toraaiuser2/status/2097526327750598930#reversed-0)
-- **प्रकाशित:** 9 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34062)**
-
----
-
-### No. 95: प्रोडक्ट मार्केटिंग - सटल रोज़ नेल एडिट
+### No. 101: ई-कॉमर्स मुख्य इमेज - सटल रोज़ नेल एडिट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4510,13 +4701,13 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942358271_0ynebz_HRvk4F8bYAAUW5q.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - सटल रोज़ नेल एडिट - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788942358271_0ynebz_HRvk4F8bYAAUW5q.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - सटल रोज़ नेल एडिट - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942358277_clgsrw_HRvk4F2bcAADmc3.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - सटल रोज़ नेल एडिट - Image 2">
+<img src="https://cms-assets.youmind.com/media/1788942358277_clgsrw_HRvk4F2bcAADmc3.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - सटल रोज़ नेल एडिट - Image 2">
 </div>
 
 #### 📌 विवरण
@@ -4530,53 +4721,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 96: प्रोडक्ट मार्केटिंग - 敦煌飞天海报
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-生成一张垂直的中国文化时尚海报，以写实的敦煌飞天舞者为主角，并叠加醒目的大号字体。
-
-#### 📝 प्रॉम्पट
-
-```
-目标：创作一张以敦煌飞天为灵感的博物馆级垂直时尚海报，将写实的敦煌神话舞者与醒目的中文字体相结合。
-
-画布：高垂直 9:16 海报，暖象牙色纸张背景，干净的留白，无边框或水印。
-
-布局：放置四个巨大的深青色中文字符，采用粗体块状海报字体：顶行正好 2 个字符，{argument name="top headline text" default="敦煌"}，几乎占据整个宽度；底行正好 2 个字符，{argument name="bottom headline text" default="飞天"}，字体超大，部分位于人物后方或前方，营造出层次分明的编辑风格。在左下角添加一个小标语块，包含正好 2 行短的深青色中文字符：{argument name="slogan text" default="穿越千年的\n飞天之美。"}。
-
-主体细节：一位优雅的 {argument name="main subject" default="敦煌飞天舞者"} 从左下角斜向右上角漂浮，躯干和面部在右侧可见，一只手臂向左水平伸展。她拥有瓷白肌肤、宁静的向上凝视目光、红唇、精致的五官，以及梳着高双髻并饰有金色花卉发饰的乌黑秀发。她佩戴着古风金耳环、手镯、臂钏和装饰性项链，身穿青色与铁锈红相间的短款丝绸上衣，以及多层半透明的飘逸长裙。
-
-面料与动态：使用 3 组主要的飘逸丝带：一条青色丝带在伸展的手臂后方掠过，一条铁锈红丝带从左侧横跨至中心，另一条长长的铁锈红丝带向下卷曲至底部边缘。半透明的裙摆在左下角铺开，呈现出绘画般的米色、青色和赤陶色质感，展现出风与飞翔的动感。
-
-视觉风格：高端当代中国文化海报，电影级写实 3D 时尚摄影与敦煌壁画配色方案相结合，柔和的自然光，精致的阴影，哑光纸张质感，青色字体，赤陶色与玉色面料，优雅的构图，人物与字体之间戏剧性的比例对比。
-
-约束：保持字体清晰且占据主导地位，保留正好四个大标题字符和一个两行小标语，避免多余文字，避免现代配饰，避免面部被裁切，避免背景杂乱。
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942333987_q3ln8y_HRvihr8aYAEoN9U.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - 敦煌飞天海报 - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [踏雪寻仙](https://x.com/TaXue2025)
-- **स्रोत:** [Twitter Post](https://x.com/TaXue2025/status/2097519362743898515#reversed-0)
-- **प्रकाशित:** 9 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34013)**
-
----
-
-### No. 97: प्रोडक्ट मार्केटिंग - प्रोडक्ट प्लेसमेंट लाइफस्टाइल जनरेशन
+### No. 102: ई-कॉमर्स मुख्य इमेज - प्रोडक्ट प्लेसमेंट लाइफस्टाइल जनरेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4595,7 +4740,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029005307_j2vgpe_HRvBtnraAAAChs3.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - प्रोडक्ट प्लेसमेंट लाइफस्टाइल जनरेशन - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789029005307_j2vgpe_HRvBtnraAAAChs3.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - प्रोडक्ट प्लेसमेंट लाइफस्टाइल जनरेशन - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -4609,7 +4754,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 98: ई-कॉमर्स मुख्य इमेज - कोरियाई सुपरमार्केट में खरीदारी करती महिला की कैंडिड फोटो
+### No. 103: ई-कॉमर्स मुख्य इमेज - कोरियाई सुपरमार्केट में खरीदारी करती महिला की कैंडिड फोटो
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4661,7 +4806,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 99: ई-कॉमर्स मुख्य इमेज - टूटा हुआ प्राचीन टेराकोटा फूलदान
+### No. 104: ई-कॉमर्स मुख्य इमेज - टूटा हुआ प्राचीन टेराकोटा फूलदान
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4701,7 +4846,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 100: ई-कॉमर्स मुख्य इमेज - स्ट्रीटवियर फुल बॉडी फैशन पोर्ट्रेट
+### No. 105: ई-कॉमर्स मुख्य इमेज - स्ट्रीटवियर फुल बॉडी फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4748,7 +4893,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 101: ई-कॉमर्स मुख्य इमेज - बुटीक ई-कॉमर्स फ्लैट ले ग्रिड
+### No. 106: ई-कॉमर्स मुख्य इमेज - बुटीक ई-कॉमर्स फ्लैट ले ग्रिड
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4798,7 +4943,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 102: ई-कॉमर्स मुख्य इमेज - कमर्शियल पिंक बेरी स्मूदी फोटोग्राफी
+### No. 107: ई-कॉमर्स मुख्य इमेज - कमर्शियल पिंक बेरी स्मूदी फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4832,7 +4977,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 103: ई-कॉमर्स मुख्य इमेज - मैक्रो पिंक बेवरेज फोटोग्राफी
+### No. 108: ई-कॉमर्स मुख्य इमेज - मैक्रो पिंक बेवरेज फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4866,7 +5011,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 104: ई-कॉमर्स मुख्य इमेज - प्रोफेशनल प्रोडक्ट एडवरटाइजिंग फोटो
+### No. 109: ई-कॉमर्स मुख्य इमेज - प्रोफेशनल प्रोडक्ट एडवरटाइजिंग फोटो
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4906,7 +5051,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 105: ई-कॉमर्स मुख्य इमेज - स्टिर की हुई आइस्ड हनी लट्टे का क्लोज-अप
+### No. 110: ई-कॉमर्स मुख्य इमेज - स्टिर की हुई आइस्ड हनी लट्टे का क्लोज-अप
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4940,7 +5085,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 106: ई-कॉमर्स मुख्य इमेज - गोल्डन रिट्रीवर स्प्रे विज्ञापन
+### No. 111: ई-कॉमर्स मुख्य इमेज - गोल्डन रिट्रीवर स्प्रे विज्ञापन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4974,7 +5119,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 107: ई-कॉमर्स मुख्य इमेज - गुलाबी डिवाइस के साथ सॉफ्ट स्टूडियो पोर्ट्रेट
+### No. 112: ई-कॉमर्स मुख्य इमेज - गुलाबी डिवाइस के साथ सॉफ्ट स्टूडियो पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5008,7 +5153,7 @@ REFERENCE_0 को बेस इमेज के रूप में इस्�
 
 ---
 
-### No. 108: ई-कॉमर्स मुख्य इमेज - प्रीमियम बेवरेज विज्ञापन पोस्टर
+### No. 113: ई-कॉमर्स मुख्य इमेज - प्रीमियम बेवरेज विज्ञापन पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5041,7 +5186,7 @@ CREMA BLOOM नामक एक ओरिजिनल प्रीमियम �
 
 ---
 
-### No. 109: ई-कॉमर्स मुख्य इमेज - लक्जरी घड़ी उत्पाद विज्ञापन टेम्प्लेट
+### No. 114: ई-कॉमर्स मुख्य इमेज - लक्जरी घड़ी उत्पाद विज्ञापन टेम्प्लेट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5092,7 +5237,7 @@ CREMA BLOOM नामक एक ओरिजिनल प्रीमियम �
 
 ---
 
-### No. 110: ई-कॉमर्स मुख्य इमेज - लक्ज़री स्किनकेयर उत्पाद विज्ञापन
+### No. 115: ई-कॉमर्स मुख्य इमेज - लक्ज़री स्किनकेयर उत्पाद विज्ञापन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5132,7 +5277,7 @@ CREMA BLOOM नामक एक ओरिजिनल प्रीमियम �
 
 ---
 
-### No. 111: ई-कॉमर्स मुख्य इमेज - एलाबास्टर मिनिएचर सिटी स्कल्पचर
+### No. 116: ई-कॉमर्स मुख्य इमेज - एलाबास्टर मिनिएचर सिटी स्कल्पचर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5178,7 +5323,7 @@ CREMA BLOOM नामक एक ओरिजिनल प्रीमियम �
 
 ---
 
-### No. 112: ई-कॉमर्स मुख्य इमेज - उन्नत वॉर्डरोब कंसिस्टेंसी नियम
+### No. 117: ई-कॉमर्स मुख्य इमेज - उन्नत वॉर्डरोब कंसिस्टेंसी नियम
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5229,7 +5374,7 @@ AI जनरेशन के दौरान परिधान की पहच
 
 ---
 
-### No. 113: ई-कॉमर्स मुख्य इमेज - 3D फ़ुटस्टूल मेश तुलना
+### No. 118: ई-कॉमर्स मुख्य इमेज - 3D फ़ुटस्टूल मेश तुलना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5274,155 +5419,29 @@ AI जनरेशन के दौरान परिधान की पहच
 
 ---
 
-### No. 114: गेम एसेट - 2D Game Animation Sprite Sheet Generator
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-A highly precise prompt for creating 2D game character animation sprite sheets in a 4x4 grid, focusing on character consistency and frame alignment.
-
-#### 📝 प्रॉम्पट
-
-```
-Referencing this character, create a 2D animation sprite sheet for a game. The content is "{argument name="action" default="fill in action"}". 
-
-Represent one continuous action across a total of 16 frames in a 4x4 grid.
-
-[Sprite Sheet Specifications] - Square canvas - 4 columns x 4 rows, total 16 frames - All 16 cells are exactly the same size - Ensure at least 10px margins on top, bottom, left, and right of each cell - No borders, grid lines, numbers, text, symbols, or UI required - Background is a single solid white color unified across all frames - Arrange frames in chronological order from top-left to right, and top row to bottom row.
-
-[Most Important: Fixed Size and Position] - Unify character scale across all 16 frames - No zooming in or out - Fix the ground baseline at the same height - Ensure the character's center position does not move significantly between frames - Change poses only as needed for movement.
-
-[Most Important: Fit Entirely Within Cells] - Everything including hair, clothes, limbs, weapons, accessories, effects, afterglow, and particles must fit inside each cell - Do not exceed cell boundaries - Do not violate the 10px margin safety area - Even if the action is large, do not adjust by shrinking the character - If necessary, keep effects or arm swings moderate to fit within the cell.
-
-[Drawing Strategy] - Clear silhouette readable as a 2D game sprite - Movement that connects naturally between frames - Prioritize continuity without breaking as animation material rather than a single illustration - Unify detail density, lines, coloring, and shading for each frame.
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029057361_wn8ppj_HRzfqcvaoAAI5gk.jpg" width="600" alt="गेम एसेट - 2D Game Animation Sprite Sheet Generator - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029057394_srfmku_HRzfqwpbsAAu5G_.jpg" width="600" alt="गेम एसेट - 2D Game Animation Sprite Sheet Generator - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN)
-- **स्रोत:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/2097797456117539136)
-- **प्रकाशित:** 9 सितंबर 2026
-- **भाषाएं:** ja
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34141)**
-
----
-
-### No. 115: गेम एसेट - कैरेक्टर बैटल मोशन स्प्राइट शीट
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एनिमेशन के लिए तैयार पिक्सेल आर्ट स्प्राइट शीट बनाने के लिए एक प्रॉम्प्ट। यह मॉडल को कैरेक्टर इमेज रेफरेंस के आधार पर पंच और किक जैसी कॉम्बैट मोशन की 16-फ्रेम ग्रिड बनाने का निर्देश देता है।
-
-#### 📝 प्रॉम्पट
-
-```
-इस कैरेक्टर के लिए एक बैटल मोशन स्प्राइट शीट बनाएं। {argument name="pixel size" default="128px"} में सरलीकृत पिक्सेल आर्ट, {argument name="grid layout" default="4x4=16 frames"}, पारदर्शी बैकग्राउंड के साथ। इसमें {argument name="motions" default="4 idle / 4 punch / 4 kick / 4 hit"} शामिल करें।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029057366_2p63te_HRwSI5iaAAAfB2G.jpg" width="600" alt="गेम एसेट - कैरेक्टर बैटल मोशन स्प्राइट शीट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [アイビー｜X運用・AIマネタイズ・活用法について発信](https://x.com/Aivy___X)
-- **स्रोत:** [Twitter Post](https://x.com/Aivy___X/status/2097572540034302295)
-- **प्रकाशित:** 9 सितंबर 2026
-- **भाषाएं:** ja
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=33968)**
-
----
-
-### No. 116: गेम एसेट - 3D इमोजी स्टिकर शीट
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक कैरेक्टर रेफरेंस के आधार पर 3x3 ग्रिड में 3D पारदर्शी स्टिकर बनाने के लिए एक रचनात्मक प्रॉम्प्ट, जो डिजिटल संचार और ब्रांडिंग के लिए उपयुक्त है।
-
-#### 📝 प्रॉम्पट
-
-```
-मेरे द्वारा अपलोड की गई इमेज के आधार पर, 3D इमोजी 1:1 पारदर्शी स्टिकर शीट का एक सेट डिज़ाइन करें, जिसमें 3X3 ग्रिड में व्यवस्थित 9 अलग-अलग स्टिकर हों। प्रत्येक स्टिकर में एक अलग एक्सप्रेशन, पोज़ या रिएक्शन दिखना चाहिए। स्टिकर के बीच चौड़ा और पूरी तरह से पारदर्शी गैप रखें। कोई बैकग्राउंड, शैडो या ओवरलैपिंग एलिमेंट न हो। {argument name="emojis" default="🚀🎉🥳🤟"} को शामिल करें।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789029048622_329hr3_HRwCF0SbsAE5IJP.jpg" width="600" alt="गेम एसेट - 3D इमोजी स्टिकर शीट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [币安小说🍄 头](https://x.com/BAXSCTO)
-- **स्रोत:** [Twitter Post](https://x.com/BAXSCTO/status/2097554076494102704)
-- **प्रकाशित:** 9 सितंबर 2026
-- **भाषाएं:** zh
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=33951)**
-
----
-
-### No. 117: गेम एसेट - प्लश व्हेल टोक्यो डिज़ाइन स्टूडियो
+### No. 119: गेम एसेट - Galaxy Rail टाइटल स्क्रीन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-एक सिनेमाई वर्टिकल पोस्टर प्रॉम्प्ट, जिसमें टोक्यो की एक ऊंची इमारत के स्टूडियो में बारिश के बीच एक प्लश व्हेल को चमकती कांच के पंखों वाली यांत्रिक तितलियाँ डिज़ाइन करते हुए दिखाया गया है।
+स्पेस रेल्स, जापानी निर्देशों और मोबाइल गेम स्प्लैश लेआउट के साथ एक पोर्ट्रेट रेट्रो आर्केड रेल-शूटर टाइटल स्क्रीन बनाता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-लक्ष्य: टोक्यो की एक ऊंची इमारत की ऊपरी मंजिल पर स्थित एक भविष्यवादी डिज़ाइन स्टूडियो का 3:4 वर्टिकल सिनेमाई विज़ुअल पोस्टर बनाएं, जो भारी बारिश के बाद नीले घंटे (blue hour) के दौरान का दृश्य हो। इसमें एक प्लश व्हेल कैरेक्टर को एक यांत्रिक तितली डिज़ाइन करते हुए दिखाया गया है।
+लक्ष्य: {argument name="game title" default="GALAXY RAIL"} नामक रेल शूटर के लिए एक रेट्रो 2D वर्टिकल आर्केड गेम टाइटल स्क्रीन बनाएं, जिसमें स्पेस-एंड-रेलरोड थीम और जापानी UI टेक्स्ट हो।
 
-कैनवास: वर्टिकल 3:4 कंपोज़िशन, अल्ट्रा-डिटेल्ड सिनेमाई यथार्थवाद, शैलो डेप्थ ऑफ फील्ड, चमकदार रिफ्लेक्शन, डेस्क की गर्म रोशनी और बाहर की ठंडी बारिश वाली नीली रोशनी का कंट्रास्ट। कैमरा थोड़ा नीचे की ओर, डिज़ाइनर की अस्त-व्यस्त डेस्क से फर्श से छत तक की खिड़कियों की ओर देखता है।
+कैनवस: पोर्ट्रेट मोबाइल गेम स्प्लैश स्क्रीन, 9:16 आस्पेक्ट रेशियो, पिक्सेल-आर्ट से प्रेरित लेकिन साफ वेक्टर जैसी इलस्ट्रेशन, गहरे नीले रंग का बाहरी अंतरिक्ष बैकग्राउंड जो कई छोटे सफेद और हल्के पीले सितारों से भरा हो।
 
-मुख्य विषय: एक बड़ा प्यारा प्लश {argument name="character name" default="blue whale"} मैस्कॉट डेस्क पर एक काली ऑफिस कुर्सी पर बैठा है, जिसने सफेद डोरी वाली डार्क ग्रे हुडी पहनी है। इसके पास मुलायम नीले फर, सफेद पेट और थूथन, छोटी काली चमकदार आंखें, साइड फिन्स और ऊपर एक छोटा गोल फिन है। कैरेक्टर ने हाथ में स्टाइलस पकड़ा है और एक बड़े पेन-डिस्प्ले टैबलेट पर ड्राइंग कर रहा है।
+लेआउट: टाइटल को ऊपर-मध्य में रखें। टाइटल के पीछे बाईं ओर एक बड़ा आंशिक रूप से कटा हुआ पृथ्वी जैसा नीला ग्रह रखें, जो इमेज की ऊंचाई का लगभग एक तिहाई हिस्सा घेरे हुए हो, जिसमें साधारण हरे भूभाग और पारभासी बादल की धारियां हों। ऊपर से नीचे तक जाने वाली ठीक 3 वर्टिकल रेलरोड ट्रैक जोड़ें: एक बायां ट्रैक जो आंशिक रूप से ग्रह के ऊपर हो, एक केंद्र ट्रैक, और एक दायां ट्रैक; प्रत्येक ट्रैक में ग्रे रेल और कई भूरे स्लीपर हैं। निचले केंद्र ट्रैक पर ठीक 2 छोटी ट्रेन/प्लेयर कारें रखें, जो वर्टिकली स्टैक्ड हों, जिनके गोल सफेद शरीर, नीली खिड़कियां, पीली आउटलाइन और शीर्ष कार पर एक पीली हेडलाइट हो।
 
-दृश्य और वातावरण: कैरेक्टर के पीछे, बारिश से ढकी विशाल खिड़कियों में टोक्यो की जीवंत रात का स्काईलाइन दिखाई दे रहा है, जिसमें गीला कांच, बोकेह नियॉन रिफ्लेक्शन, गगनचुंबी इमारतें और दूर चमकता नारंगी टोक्यो टॉवर है। कांच पर यथार्थवादी बारिश की बूंदें हैं। इनडोर पौधे, अलमारियां, डेस्क लैंप और धात्विक स्टूडियो उपकरण जोड़ें। बाईं दीवार पर, एक काले गोलाकार लोगो और चीनी टेक्स्ट 「更快・更锐利・更智能」 वाला एक मिनिमलिस्ट पोस्टर लगाएं।
+टेक्स्ट कंटेंट: मुख्य टाइटल टेक्स्ट दो लाइनों में है: “GALAXY” बड़े सफेद स्लैब-सेरिफ अक्षरों में गहरे नीले आउटलाइन के साथ, और “RAIL” नीचे बड़े सुनहरे पीले स्लैब-सेरिफ अक्षरों में गहरे नीले आउटलाइन के साथ। टाइटल के नीचे, जापानी टैगलाइन {argument name="tagline" default="銀河を、レールで切り拓く"} को चमकदार सियान रंग में दिखाएं। इसके नीचे, छोटा ग्रे फीचर टेक्स्ट जोड़ें: “RAIL SHOOTER / 2D VERTICAL / 3 STAGES”। निचले तिहाई हिस्से में, एक पतले नीले बॉर्डर के साथ पारभासी गहरे नीले रंग का आयताकार निर्देश पैनल जोड़ें। पैनल के अंदर, तीन जापानी निर्देश लाइनें दिखाएं: “←→↑↓ / WASD：移動（レールから自動ジャンプ）”, “Z / SPACE：短押し＝単発 / 長押し＝2連射”, और “時間経過で最寄りのレールへ強制着地”。 पैनल के नीचे, एक छोटी लाल चेतावनी लाइन जोड़ें: “赤いサークル＝瞬着攻撃の予兆。収束前に発生源を倒せ！” सबसे नीचे, केंद्र में, हल्के ग्रे रंग का प्रॉम्प्ट टेक्स्ट दिखाएं: {argument name="start prompt" default="PRESS Z SPACE OR CLICK TO START"}।
 
-डेस्क की सामग्री: डेस्क पर ठीक 9 अलग-अलग आइटम शामिल करें: तितली के कॉन्सेप्ट स्केच वाला 1 बड़ा पेन-डिस्प्ले टैबलेट, 1 काला कीबोर्ड, पानी से भरा 1 पारदर्शी कांच का मग, व्हेल कैरेक्टर की 3 पोलरॉइड तस्वीरें, 1 खुली नोटबुक, नोटबुक के सामने रखा 1 काला पेन, और 1 काला बेलनाकार पेन कप। तीनों पोलरॉइड में ये दिखना चाहिए: धूप का चश्मा पहने व्हेल, लाल टोपी पहने व्हेल, और कप से पीती हुई व्हेल।
+विजुअल स्टाइल: रेट्रो आर्केड टाइटल स्क्रीन, साधारण 2D गेम मॉकअप, स्पष्ट आकार, थोड़ी पिक्सेलेटेड टाइपोग्राफी, उच्च कंट्रास्ट, नेवी, सफेद, सियान, पीला, ग्रे और लाल रंग का डीप-स्पेस पैलेट। कंपोजिशन एक वर्टिकल रेल शूटर प्रोटोटाइप स्प्लैश स्क्रीन जैसा महसूस होना चाहिए।
 
-तितली डिज़ाइन: ठीक 2 प्रमुख यांत्रिक तितलियाँ दिखाएं: एक बड़ी चमकती नारंगी और कांच वाली तितली जो टैबलेट के सामने तैर रही है, और एक छोटी पारदर्शी कांच के पंखों वाली तितली जो एक फ्लोटिंग UI कार्ड में दिखाई गई है। बड़ी तितली का शरीर धात्विक नारंगी होना चाहिए, जिसमें यांत्रिक शिरा संरचनाओं के साथ नाजुक पारदर्शी पंख, गर्म LED हाइलाइट्स और चमकते रिफ्लेक्शन हों। टैबलेट स्क्रीन पर तितली डिज़ाइन के कई चरण भी दिखने चाहिए, जिसमें पेंसिल लाइन स्केच और रंगीन यांत्रिक रेंडरिंग शामिल हैं।
-
-इंटरफ़ेस ओवरले: दाईं ओर ठीक 2 फ्लोटिंग पारभासी UI बबल जोड़ें। ऊपरी बबल में व्हेल का एक छोटा गोल आइकन और चीनी टेक्स्ट है: 「只把蝴蝶翅膀改成透明玻璃，其他部分保持不变。」 निचले बबल में छोटी कांच के पंखों वाली तितली का प्रीव्यू है। गोल आयत, सूक्ष्म नीले-ग्रे ग्लासमोर्फिज्म और सॉफ्ट ग्लो का उपयोग करें।
-
-नोटबुक टेक्स्ट: नीचे दाईं ओर अग्रभूमि में खुली नोटबुक पर, बड़े हस्तलिखित चीनी टेक्स्ट लिखें: 「想象，不止于提示词。」 और उसके नीचे “GPT-Image 2.5” लिखें।
-
-विज़ुअल स्टाइल: हाइपररियलिस्टिक 3D सिनेमाई विज्ञापन पोस्टर, त्रुटिहीन मटेरियल रेंडरिंग, गीला कांच, पॉलिश की हुई काली टेबलटॉप, धातु के किनारे, पानी की बूंदें, मुलायम प्लश फर, पारदर्शी कांच के पंख, नारंगी नियॉन चमक, नीली एम्बिएंट सिटी लाइट, वॉल्यूमेट्रिक लैंप ग्लो, उच्च कंट्रास्ट लेकिन साफ, लगभग कोई शोर नहीं।
-
-सीमाएं: सटीक गिने हुए आइटम और टेक्स्ट प्लेसमेंट को बनाए रखें, सभी टेक्स्ट को स्पष्ट रखें, अतिरिक्त कैरेक्टर न जोड़ें, कार्टून जैसा सपाटपन न लाएं, वर्णित वॉल पोस्टर और नोटबुक टेक्स्ट के अलावा वॉटरमार्क या लोगो ओवरले से बचें।
+बाधाएं: ठीक 3 फुल-हाइट वर्टिकल ट्रैक, ठीक 2 ट्रेन कारें, बाईं ओर एक ग्रह, एक निर्देश पैनल का उपयोग करें, और कोई भी कैरेक्टर या अतिरिक्त UI विंडो न रखें। सभी टेक्स्ट को स्पष्ट और केंद्रित रखें, जिसमें कोई लोगो या वॉटरमार्क न हो।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -5430,43 +5449,43 @@ Represent one continuous action across a total of 16 frames in a 4x4 grid.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942325069_m4z67h_HRvrlBKa0AArsW9.jpg" width="600" alt="गेम एसेट - प्लश व्हेल टोक्यो डिज़ाइन स्टूडियो - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789113123630_736yji_HR6tEwabwAAqS03.jpg" width="600" alt="गेम एसेट - Galaxy Rail टाइटल स्क्रीन - Image 1">
 </div>
 
 #### 📌 विवरण
 
-- **लेखक:** [Fini.Yang](https://x.com/FiniYang)
-- **स्रोत:** [Twitter Post](https://x.com/FiniYang/status/2097529600947753247#reversed-0)
-- **प्रकाशित:** 9 सितंबर 2026
+- **लेखक:** [⛩🧙‍♂️ゲーム仙人かいぽん⚔️ぱぱら快刀🌻💙](https://x.com/kenji_kaido)
+- **स्रोत:** [Twitter Post](https://x.com/kenji_kaido/status/2098306732330258927#reversed-0)
+- **प्रकाशित:** 11 सितंबर 2026
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34000)**
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34329)**
 
 ---
 
-### No. 118: गेम एसेट - चिबी मैस्कॉट फाइटिंग स्प्राइट शीट
+### No. 120: गेम एसेट - स्टाइललाइज्ड पाइन ट्री गेम एसेट शीट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-GIF, गेम या कैरेक्टर मोशन स्टडीज के लिए 16-फ्रेम वाली 3D चिबी मैस्कॉट बैटल एनिमेशन स्प्राइट शीट बनाता है।
+3D मॉडलिंग वर्कफ़्लो के लिए स्केल संदर्भों के साथ एक स्टाइललाइज्ड कोनिफर ट्री गेम एसेट के लिए एक स्पष्ट मल्टी-व्यू कॉन्सेप्ट शीट बनाता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-लक्ष्य: एक प्यारे मैस्कॉट कैरेक्टर के लिए एक साफ-सुथरी 3D चिबी फाइटिंग एनिमेशन स्प्राइट शीट बनाएं, जो लूपिंग GIF बनाने के लिए उपयुक्त हो।
+लक्ष्य: 3D मॉडल में रूपांतरण के लिए डिज़ाइन की गई, {argument name="asset code" default="TREE01"} लेबल वाली एक स्टाइललाइज्ड कोनिफर ट्री के लिए एक स्पष्ट गेम-एसेट कॉन्सेप्ट शीट बनाएं।
 
-कैनवस: वर्गाकार 1:1 कैनवस, लगभग 1200 x 1200 px, जिसमें पारदर्शी बैकग्राउंड का प्रीव्यू हल्के ग्रे चेकरबोर्ड के रूप में दिखाया गया है। स्प्राइट्स को 4 कॉलम और 4 पंक्तियों के ग्रिड में समान दूरी पर व्यवस्थित करें, ताकि कुल 16 अलग-अलग एनिमेशन फ्रेम हों। प्रत्येक कैरेक्टर के चारों ओर पर्याप्त जगह छोड़ें और सभी फ्रेम को एक समान स्केल पर रखें।
+कैनवास: सादे हल्के भूरे रंग की पृष्ठभूमि पर चौड़ी क्षैतिज कॉन्सेप्ट-आर्ट शीट, सॉफ्ट स्टूडियो लाइटिंग, कोई वातावरण नहीं, कोई सजावटी बॉर्डर नहीं। म्यूट नेचुरल रंगों और पेंटरली सेमी-रियलिस्टिक फैंटेसी गेम स्टाइल का उपयोग करें।
 
-कैरेक्टर: एक खिलौने जैसा चमकदार 3D चिबी मैस्कॉट, जिसका सिर आड़ू के रंग का गोल प्याज/बूंद के आकार का है और ऊपर से थोड़ा नुकीला है, छोटा मुस्कुराता हुआ मुंह, गुलाबी गाल, बड़े काले सनग्लासेस, और ऊपरी माथे पर काला नंबर {argument name="forehead number" default="29"} छपा हुआ है। शरीर छोटा और वीरतापूर्ण है, जिसने चमकीले {argument name="suit color" default="blue"} रंग का लंबी आस्तीन वाला बॉडीसूट पहना है, जिसमें सफेद बेल्ट की पट्टी, गर्दन पर लाल स्कार्फ/केपलेट, छाती पर एक छोटा सफेद सर्किट जैसा प्रतीक, लाल दस्ताने या गोल मुट्ठियां, और चमकदार लाल जूते हैं। सॉफ्ट स्टूडियो लाइटिंग, चिकने प्लास्टिक/विनाइल टॉय मटेरियल, गोल अनुपात और एक खुशमिजाज आत्मविश्वासपूर्ण अभिव्यक्ति का उपयोग करें।
+लेआउट: ठीक 4 पेड़ के चित्रण दिखाएं: बाईं ओर 1 बड़ा फ्रंट व्यू, केंद्र में 1 बड़ा साइड व्यू, दाईं ओर 1 बड़ा बैक व्यू, और नीचे केंद्र के पास 1 छोटा गेम-स्केल व्यू। ठीक 2 स्केल संदर्भ जोड़ें: बड़े फ्रंट ट्री के बगल में एक वर्टिकल हाइट रूलर जिस पर {argument name="tree height" default="9 m"} लेबल हो, और छोटे गेम व्यू के बगल में एक ग्रे मानव सिल्हूट, जिसके साथ एक छोटा वर्टिकल रूलर हो जिस पर {argument name="human height" default="1.8 m"} लेबल हो। पेड़ों के नीचे व्यू लेबल लगाएं: {argument name="front label" default="FRONT"}, "SIDE", "BACK", और "GAME VIEW"।
 
-स्प्राइट एक्शन: एक साधारण बैटल मोशन सीक्वेंस के ठीक 16 फ्रेम दिखाएं, जो मुख्य रूप से सामने की ओर हों और थोड़े 3/4 टर्न के साथ हों। इन फ्रेमों को बाएं से दाएं, ऊपर से नीचे के क्रम में गिनें और दिखाएं: 1 दोनों मुट्ठियां उठाकर न्यूट्रल गार्ड स्टांस; 2 चौड़ा गार्ड स्टांस; 3 दाहिने हाथ से सीधे पंच की शुरुआत; 4 दाहिने हाथ का पूरा फैला हुआ पंच; 5 रीसेट गार्ड स्टांस; 6 थोड़ा झुककर गार्ड स्टांस; 7 शरीर के आर-पार लंबा सीधा पंच; 8 गार्ड में वापसी; 9 बाएं घुटने को ऊपर उठाने की तैयारी; 10 ऊंचा घुटना उठाना; 11 दाहिनी ओर पूरी तरह फैला हुआ साइड किक; 12 दूसरा फैला हुआ साइड किक फ्रेम; 13 घुटने को वापस नीचे लाना; 14 न्यूट्रल गार्ड स्टांस; 15 न्यूट्रल गार्ड स्टांस का वेरिएशन; 16 अंतिम न्यूट्रल गार्ड स्टांस।
+विषय का विवरण: पेड़ एक लंबा स्प्रूस या फर है जिसमें एक मजबूत सीधा तना, दिखाई देने वाली भूरे-ग्रे रंग की फटी हुई छाल, आधार पर उभरी हुई जड़ें, और स्तरित लटकती हुई शाखाएं हैं। पत्तियां घनी लेकिन अनियमित हैं, जो डीसैचुरेटेड जैतून हरे, गहरे पाइन हरे, और छायादार चारकोल हरे रंग के दांतेदार गुच्छों से बनी हैं। सिल्हूट त्रिकोणीय और प्राकृतिक है, जिसमें एक नुकीला क्राउन, असममित शाखा की लंबाई, तने के पास दिखाई देने वाली कुछ खाली शाखाएं, और ऊपर की ओर पतली होती चौड़ी निचली शाखाएं हैं। साइड व्यू संकरा दिखना चाहिए जिसमें शाखाएं ओवरलैप हो रही हों, जबकि बैक व्यू में पीछे से समान पत्तों का समूह और तने की संरचना दिखाई देनी चाहिए। छोटे गेम व्यू में मानव सिल्हूट के बगल में अनुपात के लिए उसी पेड़ के डिज़ाइन को छोटे पैमाने पर दोहराया जाना चाहिए।
 
-विजुअल स्टाइल: उच्च गुणवत्ता वाला प्यारा 3D रेंडर, निन्टेंडो-जैसा मैस्कॉट टॉय एस्थेटिक, स्पष्ट किनारे, सैचुरेटेड प्राथमिक रंग, सॉफ्ट शैडो, एक समान कैमरा एंगल, एक समान कैरेक्टर साइज, कोई मोशन ब्लर नहीं, प्राकृतिक 3D शेडिंग के अलावा कोई आउटलाइन नहीं।
+टाइपोग्राफी और एनोटेशन: एसेट कोड को ऊपरी बाएं कोने में एक साधारण सेरिफ़ टाइपफेस में, बड़े और काले रंग में रखें। प्रत्येक व्यू के नीचे छोटे काले सेरिफ़ लेबल का उपयोग करें। रूलर पतली गहरे भूरे रंग की वर्टिकल लाइनें हैं जिनमें स्मॉल कैप्स और संयमित माप टेक्स्ट है।
 
-सीमाएं: माथे के नंबर के अलावा कोई टेक्स्ट लेबल न हो। हथियार, बैकग्राउंड, UI एलिमेंट, फ्रेम बॉर्डर, वॉटरमार्क या अतिरिक्त कैरेक्टर न जोड़ें। प्रत्येक फ्रेम के पीछे चेकरबोर्ड पारदर्शिता प्रीव्यू को दिखाई देने दें।
+सीमाएं: शीट को अव्यवस्थित न होने दें और ऑर्थोग्राफ़िक रखें, तीनों बड़े व्यू के बीच स्केल एक समान रखें। वर्णित 4 पेड़ के चित्रण और 2 स्केल संदर्भों का ही उपयोग करें, अतिरिक्त पौधों, चट्टानों, UI तत्वों, टेक्सचर, लोगो, वॉटरमार्क या पृष्ठभूमि के दृश्यों से बचें।
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -5474,113 +5493,17 @@ GIF, गेम या कैरेक्टर मोशन स्टडीज �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942348687_oub1q3_HRvahSkaYAAD7hr.jpg" width="600" alt="गेम एसेट - चिबी मैस्कॉट फाइटिंग स्प्राइट शीट - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789113121277_cw7svi_HR4q5UYawAA41AM.jpg" width="600" alt="गेम एसेट - स्टाइललाइज्ड पाइन ट्री गेम एसेट शीट - Image 1">
 </div>
 
 #### 📌 विवरण
 
-- **लेखक:** [にく](https://x.com/29meat_ai)
-- **स्रोत:** [Twitter Post](https://x.com/29meat_ai/status/2097511262477603307#reversed-0)
-- **प्रकाशित:** 9 सितंबर 2026
+- **लेखक:** [OrcDev](https://x.com/orcdev)
+- **स्रोत:** [Twitter Post](https://x.com/orcdev/status/2098161885757505957#reversed-0)
+- **प्रकाशित:** 10 सितंबर 2026
 - **भाषाएं:** en
 
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34030)**
-
----
-
-### No. 119: गेम एसेट - भविष्यवादी इमारत का रूपांतरण
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक साधारण इमेज-टू-इमेज निर्देश, जो एक सामान्य इमारत को भविष्यवादी स्थापत्य डिज़ाइन में बदल देता है।
-
-#### 📝 प्रॉम्पट
-
-```
-{argument name="target" default="इसे"} को एक {argument name="style" default="भविष्यवादी इमारत"} में बदलें
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942270773_mhxzv7_HRvUPvMaIAAMWkE.jpg" width="600" alt="गेम एसेट - भविष्यवादी इमारत का रूपांतरण - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [zdhpeter](https://x.com/peter6759)
-- **स्रोत:** [Twitter Post](https://x.com/peter6759/status/2097503664789430530)
-- **प्रकाशित:** 9 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=33929)**
-
----
-
-### No. 120: गेम एसेट - पिक्सेल आर्ट स्केटबोर्ड गर्ल स्प्राइट शीट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-GIF एनिमेशन या गेम एसेट्स के लिए स्केटबोर्ड ट्रिक सीक्वेंस करती हुई स्ट्रीटवियर गर्ल की 4x4 रेट्रो पिक्सेल-आर्ट स्प्राइट शीट बनाती है।
-
-#### 📝 प्रॉम्पट
-
-```
-लक्ष्य: GIF में एनिमेट करने के लिए उपयुक्त, स्केटबोर्डिंग करती हुई {argument name="character name" default="एक स्टाइलिश स्ट्रीट गर्ल"} की एक साफ-सुथरी 4x4 पिक्सेल-आर्ट स्प्राइट शीट बनाएं।
-
-कैनवास: वर्गाकार कैनवास, सफेद या पारदर्शी बैकग्राउंड, कोई बॉर्डर नहीं, कोई टेक्स्ट नहीं, कोई वॉटरमार्क नहीं। ठीक 16 अलग-अलग फुल-बॉडी स्प्राइट्स को 4 कॉलम और 4 पंक्तियों के ग्रिड में समान दूरी पर व्यवस्थित करें, प्रत्येक स्प्राइट को एक समान स्केल और पर्याप्त खाली जगह के साथ अलग रखें।
-
-विजुअल स्टाइल: स्पष्ट ब्लॉक वाले किनारों, सीमित पैलेट, सॉफ्ट सेल शेडिंग, प्यारे चिबी अनुपात, अभिव्यंजक चेहरे, गतिशील बालों की गति और वीडियो-गेम कैरेक्टर स्प्राइट-शीट के अहसास के साथ उच्च गुणवत्ता वाली रेट्रो पिक्सेल आर्ट।
-
-चरित्र का विवरण: एक युवा स्ट्रीटवियर लड़की जिसके {argument name="hair color" default="लंबे बिखरे हुए सुनहरे बाल"} गति के साथ उड़ रहे हैं, छोटी नीली आँखें, आड़ू जैसी त्वचा, चांदी की हूप इयररिंग्स, भारी चांदी की चेन का हार, ओवरसाइज़्ड डार्क ऑलिव बॉम्बर जैकेट, काली क्रॉप टॉप, ढीली काली पैंट और सफेद स्नीकर्स। सभी फ्रेम्स में उसके अनुपात और पोशाक को एक समान रखें।
-
-स्केटबोर्ड का विवरण: एक काला स्केटबोर्ड जिसके किनारे भूरे लकड़ी के हैं, छोटे बेज रंग के पहिए और पिक्सेलेटेड ट्रक्स हैं। ट्रिक के साथ बोर्ड का कोण बदलता है, लेकिन डिज़ाइन एक समान रहता है।
-
-स्प्राइट की संख्या और पोज़: ठीक 16 स्प्राइट्स शामिल करें, बाएं से दाएं, ऊपर से नीचे के क्रम में:
-1. स्केटबोर्ड पर सीधे खड़े होकर आगे बढ़ना, बाल बाईं ओर उड़ रहे हैं।
-2. बोर्ड पर झुकना शुरू करना, घुटने मुड़े हुए, एक हाथ नीचे।
-3. ट्रिक की तैयारी के लिए गहरा झुकना, शरीर आगे की ओर झुका हुआ।
-4. बहुत नीचे झुकना, चेहरा केंद्रित, एक हाथ बोर्ड के पास।
-5. बोर्ड के थोड़ा ऊपर की ओर झुके होने के साथ रोल करना, झुकी हुई और संतुलित।
-6. बोर्ड को ऊपर की ओर पॉप करना, सामने का पैर ऊपर उठाना, बाल उड़ रहे हैं।
-7. हवा में ट्रिक, बोर्ड तिरछा है, संतुलन के लिए हाथ बाहर की ओर।
-8. हवा में ऊंची ट्रिक, बोर्ड का कोण अधिक है, जीभ चंचलता से बाहर निकली हुई।
-9. जंप का चरम पोज़, हाथ चौड़े, जीभ बाहर, बोर्ड उसके नीचे तिरछा है।
-10. ट्रिक से नीचे उतरना, बोर्ड लगभग सीधा, हाथ फैले हुए।
-11. लैंडिंग के लिए झुकना, बोर्ड थोड़ा तिरछा, केंद्रित अभिव्यक्ति।
-12. लैंडिंग के बाद स्थिर होना, हाथ बाहर की ओर करके नीचे झुकना।
-13. पहियों के बगल में छोटे मोशन मार्क्स के साथ धीमी रोलिंग लैंडिंग।
-14. आगे बढ़ते हुए झुकने की स्थिति से उठना, साइड प्रोफाइल।
-15. सीधे खड़े होकर क्रूज़िंग पोज़, साइड प्रोफाइल, शांत अभिव्यक्ति।
-16. पीछे से क्रूज़िंग पोज़, उसकी पीठ और लहराते बाल दिखाई दे रहे हैं।
-
-सीमाएं: सभी 16 स्प्राइट्स को एक ही चरित्र और स्केल में रखें, एक व्यवस्थित ग्रिड लेआउट बनाए रखें, अतिरिक्त प्रॉप्स से बचें, बैकग्राउंड के दृश्यों से बचें, और शीट को एनिमेशन सीक्वेंस के रूप में पढ़ने योग्य बनाएं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942351044_vtooqo_HRvNJ0QaIAAj66r.jpg" width="600" alt="गेम एसेट - पिक्सेल आर्ट स्केटबोर्ड गर्ल स्प्राइट शीट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [AA - AerialAlias🇯🇵](https://x.com/aerialaliastgst)
-- **स्रोत:** [Twitter Post](https://x.com/aerialaliastgst/status/2097496668778455170#reversed-0)
-- **प्रकाशित:** 9 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34034)**
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/gpt-image-2-prompts?id=34323)**
 
 ---
 
@@ -5590,7 +5513,7 @@ GIF एनिमेशन या गेम एसेट्स के लिए �
 
 <div align="center">
 
-### 🎯 17278 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 17299 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5653,6 +5576,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-09-11T01:55:21.308Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-09-11T15:27:41.150Z</sub>
 
 </div>
