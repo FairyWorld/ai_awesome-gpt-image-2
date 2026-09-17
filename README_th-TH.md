@@ -139,9 +139,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **17494** |
+| 📝 คำสั่งทั้งหมด | **17504** |
 | ⭐ แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 17 กันยายน พ.ศ. 2569 เวลา 2 นาฬิกา 15 นาที 29 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 17 กันยายน พ.ศ. 2569 เวลา 15 นาฬิกา 49 นาที 57 วินาที UTC** |
 
 </div>
 
@@ -525,7 +525,54 @@ by {argument name="author" default="Steve Jobs"}
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### No. 1: โปรไฟล์ / รูปประจำตัว - ภาพบุคคลแนว Double Exposure กับฉากภูเขาตอนรุ่งสาง
+### No. 1: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแจ็คเก็ตยีนส์สไตล์ภาพยนตร์
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์ภาพพอร์ตเทรตสไตล์ภาพยนตร์สมจริงยิ่งยวดของหญิงสาวในแจ็คเก็ตและกางเกงยีนส์สีดำ ปรับแต่งให้เหมาะสมสำหรับ GPT Image 2
+
+#### 📝 คำสั่ง
+
+```
+สร้างภาพถ่ายพอร์ตเทรตสไตล์ภาพยนตร์ที่สมจริงยิ่งยวด (Ultra-realistic) ของหญิงสาวสวยผมยาวสีน้ำตาลเข้ม มีวอลลุ่มเป็นธรรมชาติ แสกกลางพร้อมปอยผมที่โอบกรอบใบหน้าอย่างอ่อนโยน เธอมีลักษณะใบหน้าอ่อนหวานประณีต ผิวขาวใส ริมฝีปากสีชมพูอ่อน คิ้วธรรมชาติ และดวงตาสีน้ำตาลเข้มที่สื่ออารมณ์ เธอมองตรงเข้ามายังกล้องด้วยท่าทางสงบ อ่อนโยน และดูจริงจังเล็กน้อย
+
+เธอสวมแจ็คเก็ตยีนส์สีดำที่มีสไตล์ทับเสื้อตัวในสีดำพอดีตัว จับคู่กับกางเกงยีนส์สีดำและเข็มขัดหนังสีดำพร้อมหัวเข็มขัดสี่เหลี่ยมสีเงิน สร้อยคอสีเงินเส้นบางพร้อมจี้เล็กๆ ประดับอยู่ที่คอของเธอ บนข้อมือข้างที่ยกขึ้นสวมใส่ นาฬิกาข้อมือหนังสีดำคลาสสิกพร้อมตัวเรือนสีเงิน
+
+ท่าโพส: ภาพพอร์ตเทรตระยะใกล้ถึงปานกลาง ยืนอยู่ภายในอาคารที่เป็นทางเดินโมเดิร์นหรูหรา มือข้างหนึ่งสัมผัสและยกผมขึ้นเบาๆ บริเวณด้านข้างศีรษะ ในขณะที่แขนอีกข้างวางตามธรรมชาติ ลำตัวหันหน้าเข้าหากล้อง ด้วยท่าทางที่ผ่อนคลายและมั่นใจ
+
+ฉากหลัง: ทางเดินของโรงแรมหรูหรืออพาร์ตเมนต์ระดับไฮเอนด์ที่ดูสง่างาม ผนังสีเบจอบอุ่น พื้นผิวมันเงาสะท้อนแสง ไฟเพดานนุ่มนวล และโบเก้สีทองครีมที่สวยงามในระยะไกล ฉากหลังถูกเบลออย่างนุ่มนวล สร้างบรรยากาศแบบภาพยนตร์ระดับพรีเมียม
+
+การจัดแสง: แสงไฟภายในอาคารที่อบอุ่นและนุ่มนวล แสงกระจายธรรมชาติบนใบหน้า ไฮไลท์ละเอียดอ่อนบนเส้นผม เนื้อผิวสมจริง เงาอ่อนโยน และโทนสีหรูหราอบอุ่น
+
+สไตล์การถ่ายภาพ: ภาพถ่ายแฟชั่นมืออาชีพที่สมจริงยิ่งยวด พอร์ตเทรตสไตล์ภาพยนตร์ สไตล์นิตยสารแฟชั่นเชิงบรรณาธิการ เลนส์ 85mm รูรับแสง f/1.8 ความชัดลึกตื้น เส้นผมสมจริง รูขุมขนธรรมชาติ รายละเอียดเนื้อผ้าแจ็คเก็ตยีนส์สีดำชัดเจน ช่วงไดนามิกสูง (HDR) โบเก้นุ่มนวล และการปรับสีระดับมืออาชีพ
+
+องค์ประกอบภาพ: ภาพพอร์ตเทรตแนวตั้งสัดส่วน 2:3 มุมกล้องระดับสายตา ตัวแบบอยู่ตรงกลาง โฟกัสที่ศีรษะและลำตัวส่วนบนอย่างเด่นชัด รายละเอียดสูง สมจริงเหมือนภาพถ่าย คุณภาพ 8K
+
+Negative prompt: การ์ตูน, อนิเมะ, ภาพประกอบ, CGI, ผิวพลาสติก, หน้าเรียบเกินไป, ตาเบลอ, มือผิดรูป, นิ้วเกิน, ใบหน้าบิดเบี้ยว, ผมไม่ธรรมชาติ, สีอิ่มตัวเกินไป, แสงแข็งกระด้าง, ความละเอียดต่ำ, ลายน้ำ, ข้อความ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789631451411_2xjqd2_HSZSO4Ra8AAw3Si.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแจ็คเก็ตยีนส์สไตล์ภาพยนตร์ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Zorvia](https://x.com/ZorviaLux)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/ZorviaLux/status/2100456702823030825)
+- **เผยแพร่เมื่อ:** 17 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34844)**
+
+---
+
+### No. 2: โปรไฟล์ / รูปประจำตัว - ภาพบุคคลแนว Double Exposure กับฉากภูเขาตอนรุ่งสาง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -558,7 +605,7 @@ by {argument name="author" default="Steve Jobs"}
 
 ---
 
-### No. 2: โปรไฟล์ / รูปประจำตัว - เซลฟี่หน้ากระจกในชุดเดรสสีเหลือง
+### No. 3: โปรไฟล์ / รูปประจำตัว - เซลฟี่หน้ากระจกในชุดเดรสสีเหลือง
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -613,7 +660,7 @@ Negative:
 
 ---
 
-### No. 3: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพบุคคลสไตล์บ้านอบอุ่น
+### No. 4: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพบุคคลสไตล์บ้านอบอุ่น
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -658,7 +705,7 @@ Negative:
 
 ---
 
-### No. 4: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเก้าอี้ริมหน้าต่าง ผมดำ
+### No. 5: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเก้าอี้ริมหน้าต่าง ผมดำ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -713,7 +760,7 @@ Negative:
 
 ---
 
-### No. 5: โปรไฟล์ / รูปประจำตัว - ภาพประกอบกระดาษทำมือ
+### No. 6: โปรไฟล์ / รูปประจำตัว - ภาพประกอบกระดาษทำมือ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -818,7 +865,7 @@ No photograph, photographic section, split-screen, upper half, collage, multiple
 
 ---
 
-### No. 6: โปรไฟล์ / รูปประจำตัว - ภาพล้อเลียนสไตล์มงมาร์ต
+### No. 7: โปรไฟล์ / รูปประจำตัว - ภาพล้อเลียนสไตล์มงมาร์ต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -868,7 +915,7 @@ No photograph, photographic section, split-screen, upper half, collage, multiple
 
 ---
 
-### No. 7: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสองแผงแบบไดพทิช
+### No. 8: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสองแผงแบบไดพทิช
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -907,7 +954,7 @@ No photograph, photographic section, split-screen, upper half, collage, multiple
 
 ---
 
-### No. 8: โปรไฟล์ / รูปประจำตัว - พรอมต์สร้างอวตารมืออาชีพสมจริง
+### No. 9: โปรไฟล์ / รูปประจำตัว - พรอมต์สร้างอวตารมืออาชีพสมจริง
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -944,7 +991,7 @@ No photograph, photographic section, split-screen, upper half, collage, multiple
 
 ---
 
-### No. 9: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพพอร์ตเทรตชายหนุ่มหล่อสไตล์ภาพยนตร์
+### No. 10: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพพอร์ตเทรตชายหนุ่มหล่อสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -979,7 +1026,7 @@ No photograph, photographic section, split-screen, upper half, collage, multiple
 
 ---
 
-### No. 10: โปรไฟล์ / รูปประจำตัว - อ้างอิงภาพพอร์ตเทรตชายสไตล์ภาพยนตร์
+### No. 11: โปรไฟล์ / รูปประจำตัว - อ้างอิงภาพพอร์ตเทรตชายสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1012,7 +1059,7 @@ Photorealistic cinematic close-up portrait of a young adult man use image for fa
 
 ---
 
-### No. 11: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพพอร์ตเทรตหญิงในเสื้อริบสีดำ แสงเฉียง
+### No. 12: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพพอร์ตเทรตหญิงในเสื้อริบสีดำ แสงเฉียง
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1075,7 +1122,7 @@ Photorealistic cinematic close-up portrait of a young adult man use image for fa
 
 ---
 
-### No. 12: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพพอร์ตเทรตคาเฟ่วันฝนตก
+### No. 13: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพพอร์ตเทรตคาเฟ่วันฝนตก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1114,7 +1161,7 @@ Photorealistic cinematic close-up portrait of a young adult man use image for fa
 
 ---
 
-### No. 13: โปรไฟล์ / รูปประจำตัว - ตารางอวตารชายสไตล์จัดเรียงแบบเก้ามุม
+### No. 14: โปรไฟล์ / รูปประจำตัว - ตารางอวตารชายสไตล์จัดเรียงแบบเก้ามุม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1147,7 +1194,7 @@ Photorealistic cinematic close-up portrait of a young adult man use image for fa
 
 ---
 
-### No. 14: โปรไฟล์ / รูปประจำตัว - สาวน้อยน่ารักสไตล์สีน้ำบนถนน Nathan Road
+### No. 15: โปรไฟล์ / รูปประจำตัว - สาวน้อยน่ารักสไตล์สีน้ำบนถนน Nathan Road
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1192,7 +1239,7 @@ Photorealistic cinematic close-up portrait of a young adult man use image for fa
 
 ---
 
-### No. 15: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพบุคคลฤดูหนาวสมจริง
+### No. 16: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพบุคคลฤดูหนาวสมจริง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1237,7 +1284,7 @@ Photorealistic cinematic close-up portrait of a young adult man use image for fa
 
 ---
 
-### No. 16: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตเงาบนผนังสีเขียว
+### No. 17: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตเงาบนผนังสีเขียว
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1292,7 +1339,7 @@ Photorealistic cinematic close-up portrait of a young adult man use image for fa
 
 ---
 
-### No. 17: โปรไฟล์ / รูปประจำตัว - พรอมต์ GPT Image 2: ภาพพอร์ตเทรตคาเฟ่ปารีส
+### No. 18: โปรไฟล์ / รูปประจำตัว - พรอมต์ GPT Image 2: ภาพพอร์ตเทรตคาเฟ่ปารีส
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1325,7 +1372,7 @@ Photorealistic cinematic close-up portrait of a young adult man use image for fa
 
 ---
 
-### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพเหมือนสไตล์สีน้ำมันดิจิทัล
+### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพเหมือนสไตล์สีน้ำมันดิจิทัล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1358,7 +1405,7 @@ Photorealistic cinematic close-up portrait of a young adult man use image for fa
 
 ---
 
-### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตชุดเดรสทวีดช่วงบ่าย
+### No. 20: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตชุดเดรสทวีดช่วงบ่าย
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1413,28 +1460,18 @@ Photorealistic cinematic close-up portrait of a young adult man use image for fa
 
 ---
 
-### No. 20: โปรไฟล์ / รูปประจำตัว - พรอมต์วาดเงาแบบการ์ตูนสำหรับบุคคลจริง
+### No. 21: โพสต์บนโซเชียลมีเดีย - หญิงสาวรับละอองน้ำในสวนกุหลาบ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 คำอธิบาย
 
-พรอมต์สำหรับสร้างภาพพอร์ตเทรตแบบมิกซ์มีเดีย (Mixed-media) ที่ผสมผสานระหว่างบุคคลจริงกับเงาที่วาดเป็นสไตล์การ์ตูนสุดวุ่นวาย ซึ่งแสดงท่าทางเกินจริงตามบุคคลนั้น
+ภาพที่สร้างโดย AI แบบสมจริงของหญิงสาวกำลังเล่นสนุกกับการรับละอองน้ำจากสายยางในสวนกุหลาบที่เต็มไปด้วยแสงแดด
 
 #### 📝 คำสั่ง
 
 ```
-ใช้รูปภาพอ้างอิงที่อัปโหลดเป็นเกณฑ์มาตรฐานสำหรับอัตลักษณ์และเครื่องแต่งกาย รักษารูปหน้า ลักษณะใบหน้า สีผิว ทรงผม สีผม เครื่องประดับ เสื้อผ้า และบรรยากาศโดยรวมให้ตรงกับต้นฉบับอย่างเคร่งครัด
-
-สร้างภาพพอร์ตเทรตแบบมิกซ์มีเดียคุณภาพสูงในแนวตั้ง (อัตราส่วน 4:5 หรือ 9:16) โดยประกอบด้วย:
-1. บุคคลจริงแบบสมจริงเต็มตัว
-2. เงาที่วาดด้วยมือสีดำสไตล์การ์ตูนของบุคคลเดียวกันบนผนังด้านข้าง
-
-บุคคลจริงควรมีท่าทางที่น่ารัก slightly embarrassed (เขินอายเล็กน้อย) ขี้เล่น และดูเหมือนกำลังเลียนแบบท่าทางซุกซนแบบสุ่มใหม่ในแต่ละครั้งที่สร้าง ส่วนเงาการ์ตูนควรแสดงท่าทางเดียวกันแต่ในลักษณะที่เกินจริง วุ่นวาย และเป็นสไตล์การ์ตูนมากขึ้น พร้อมเพิ่มเส้นเคลื่อนไหวแบบมังงะ ดาว หัวใจ และประกายแสง
-
-ใช้ผนังสตูดิโอสีขาวหรือสีครีมสะอาดตา พื้นหลังเรียบง่าย แสงธรรมชาติอ่อนนุ่ม และทำให้ทั้งสองตัวละครมองเห็นได้ชัดเจน เงาการ์ตูนควรมีลักษณะคล้ายบุคคลจริงผ่านทรงผม เครื่องประดับ รูปทรงเสื้อผ้า และท่าทาง
-
-Negative Prompt: การเปลี่ยนชุด, การเปลี่ยนอัตลักษณ์, บุคคลจริงคนที่สอง, เงาปกติ, สยองขวัญ, มนุษย์อนิเมะ, พื้นหลังรก, ท่าชี้หรือท่าปืนนิ้วซ้ำๆ, ท่าทางแข็งทื่อ, แขน/นิ้วเกิน, ร่างกายบิดเบี้ยว, ข้อความ, ลายน้ำ, โลโก้, AI artifacts
+ภาพถ่ายบุคคลแบบสมจริงความละเอียดสูงของหญิงสาวคนหนึ่งที่ยืนอยู่ในสวนเขียวชอุ่มซึ่งเต็มไปด้วยดอกกุหลาบสีชมพูและสีขาวบานสะพรั่ง ผมสีดำยาวเปียกโชกแนบติดกับผิวของเธอ เธอสวมเสื้อกล้ามถักลายริ้วสีครีมมีกระดุมหน้าคู่กับกางเกงขาสั้นสีขาว ศีรษะของเธอเงยไปด้านหลัง ดวงตาปิดลงด้วยความสุข และเธอแลบลิ้นออกมาอย่างร่าเริงเพื่อรับละอองน้ำที่พุ่งออกมาจากหัวฉีดสายยางรดน้ำต้นไม้สีดำซึ่งถืออยู่ในมือขวา แสงสว่างมีความอบอุ่นเป็นสีทอง บ่งบอกถึงแสงแดดยามบ่ายแก่ๆ ที่ลอดผ่านต้นไม้ สร้างบรรยากาศราวกับความฝันที่มีหยดน้ำลอยอยู่ในอากาศอย่างชัดเจน
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1442,27 +1479,57 @@ Negative Prompt: การเปลี่ยนชุด, การเปลี�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789388934249_huocqi_HSJVbE4aYAAoJ8A.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - พรอมต์วาดเงาแบบการ์ตูนสำหรับบุคคลจริง - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789388934760_qqdvpx_HSJVbnIbsAAfurN.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - พรอมต์วาดเงาแบบการ์ตูนสำหรับบุคคลจริง - Image 2">
+<img src="https://cms-assets.youmind.com/media/1789631458731_5egfhq_HSWTM_JaAAE-nxe.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - หญิงสาวรับละอองน้ำในสวนกุหลาบ - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Sarmad Tahir](https://x.com/itxsarmadd)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/itxsarmadd/status/2099334317306761376)
-- **เผยแพร่เมื่อ:** 14 กันยายน 2569
+- **ผู้เขียน:** [One Breath｜AI Portrait](https://x.com/OneBreath00)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/OneBreath00/status/2100382476413583422#reversed-0)
+- **เผยแพร่เมื่อ:** 17 กันยายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34642)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34851)**
 
 ---
 
-### No. 21: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายฟิล์มสไตล์เรโทร ผู้หญิงกำลังวิ่ง
+### No. 22: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตแฟชั่นผมสีม่วง
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์ภาพพอร์ตเทรตแฟชั่นมุมต่ำสมจริงสูง สำหรับผู้หญิงผมสีม่วงและเสื้อเบลเซอร์สีส้ม ออกแบบมาสำหรับ GPT Image 2 โดยเฉพาะ
+
+#### 📝 คำสั่ง
+
+```
+สร้างภาพพอร์ตเทรตแฟชั่นเต็มตัวมุมต่ำที่สมจริงสูงของหญิงสาวคนเดิมจากภาพอ้างอิง โดยคงไว้ซึ่งทรงผมบ็อบยาวถึงคางสี {argument name="hair color" default="ม่วง-ชมพู"} ที่สดใส ข้างหน้าตรงเรียบเนียน ผิวขาวละเอียดราวกระเบื้องพอร์ซเลน กระกระจายธรรมชาติ ดวงตาสีเฮเซล/น้ำตาลอ่อน ใบหน้าละมุน ริมฝีปากเงางาม และรูปร่างผอมเพรียว
+เธอนั่งอย่างสบายๆ บนขอบหิน โดยงอเข่าและแยกขาออกเล็กน้อย มือวางใกล้ตัก ศีรษะเอนไปด้านหลังเล็กน้อยขณะมองออกไปนอกเฟรมกล้อง เธอสวมเสื้อเบลเซอร์สี {argument name="jacket color" default="ส้ม"} ตัวโคร่งขนาดใหญ่ ทับเสื้อกล้ามสีขาวเข้ารูปเนื้อผ้า Ribbed กางเกงขายาวสีขาวทรงหลวมพับปลายข้อเท้า ถุงเท้าสีขาว รองเท้าผ้าใบสีขาวทรงหนา และแว่นกันแดดกลมเลนส์สี {argument name="glasses tint" default="ส้ม"}
+ใช้ผนังหินสีน้ำตาลขนาดใหญ่ที่มีพื้นผิวหยาบและเส้นตารางชัดเจนเป็นฉากหลัง แสงแดดจัดในช่วง Golden Hour สร้างเงาเฉียงที่ดราม่าและคอนทราสต์สูง โทนสีอบอุ่นแบบภาพยนตร์ ผิวหนังและเนื้อผ้าดูสมจริง รายละเอียดคมชัด ภาพถ่ายแฟชั่นสตรีทสไตล์ระดับบรรณาธิการ สมจริงระดับ Photorealistic ความละเอียด 8K
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789631453805_szoqwf_HSV85EobAAA77Yj.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตแฟชั่นผมสีม่วง - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Wareen AI 💟](https://x.com/Wareenaa)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Wareenaa/status/2100222128834703614)
+- **เผยแพร่เมื่อ:** 16 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34845)**
+
+---
+
+### No. 23: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายฟิล์มสไตล์เรโทร ผู้หญิงกำลังวิ่ง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1481,7 +1548,7 @@ Negative Prompt: การเปลี่ยนชุด, การเปลี�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789545095146_2qrnmy_HSUlvEDbYAE4OOK.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายฟิล์มสไตล์เรโทร ผู้หญิงกำลังวิ่ง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789631455394_rvwtrr_HSUlvEDbYAE4OOK.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายฟิล์มสไตล์เรโทร ผู้หญิงกำลังวิ่ง - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1495,7 +1562,7 @@ Negative Prompt: การเปลี่ยนชุด, การเปลี�
 
 ---
 
-### No. 22: โพสต์บนโซเชียลมีเดีย - พรอมต์ภาพบุคคลคาเฟ่ริมทะเลสำหรับ GPT Image 2
+### No. 24: โพสต์บนโซเชียลมีเดีย - พรอมต์ภาพบุคคลคาเฟ่ริมทะเลสำหรับ GPT Image 2
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1550,7 +1617,7 @@ Negative:
 
 ---
 
-### No. 23: โพสต์บนโซเชียลมีเดีย - ช่อดอกพีโอนีกลางคืนด้วยแฟลช
+### No. 25: โพสต์บนโซเชียลมีเดีย - ช่อดอกพีโอนีกลางคืนด้วยแฟลช
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1603,7 +1670,79 @@ Negative:
 
 ---
 
-### No. 24: โพสต์บนโซเชียลมีเดีย - รีสอร์ทเกาะกีวีขนาดจิ๋ว
+### No. 26: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตแฟชั่นกลางแจ้งสมจริงยิ่งยวดพร้อมแมว
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพพอร์ตเทรตแฟชั่นกลางแจ้งแบบสมจริงยิ่งยวดของหญิงสาวผมสีม่วงที่มีแมวเป็นองค์ประกอบ โดยมีฉากหลังเป็นสตรีทอาร์ต
+
+#### 📝 คำสั่ง
+
+```
+สร้างภาพพอร์ตเทรตแฟชั่นเต็มตัวกลางแจ้งแบบสมจริงยิ่งยวด (Hyper-realistic) ของตัวละครหญิงวัยผู้ใหญ่คนเดิมจากภาพอ้างอิง รักษาลักษณะเด่นของเธอไว้ให้ครบถ้วน: ผมบ๊อบตรงความยาวระดับคางสีม่วงไวโอเล็ตสดใส มีหน้าม้าตรงนุ่มนวล ผิวขาวเนียนละเอียดราวพอร์ซเลน กระเนื้อธรรมชาติเห็นชัดเจนบนจมูกและแก้ม ดวงตาสีเฮเซล/น้ำตาลอ่อนรูปทรงอัลมอนด์ จมูกเล็กตรง ใบหน้าละมุนละไม ริมฝีปากเงางามตามธรรมชาติ และรูปร่างผอมเพรียวสง่างาม
+
+เธอยืนพิงกำแพงคอนกรีตที่มีพื้นผิวหยาบอย่างสบายๆ หันหน้าเข้าหากล้องด้วยรอยยิ้มอ่อนโยนและท่าทางผ่อนคลาย เอนตัวไปด้านหลังเล็กน้อย มือทั้งสองข้างสอดอยู่ในกระเป๋าหน้ากางเกงยีนส์อย่างเป็นธรรมชาติ เธอสวมเสื้อเชิ้ตผ้าแฟลannel ลายสก๊อตสีแดงแขนยาว สอดชายเสื้อไว้ในกางเกงคาร์โก้เดนิมสีน้ำเงินทรงหลวมเอวสูงที่มีกระเป๋าแปะด้านหน้าชัดเจน แขนเสื้อพับขึ้นถึงปลายแขน และสวมรองเท้าผ้าใบสีขาวสะอาดตาแบบ Low-top
+
+ข้างๆ เธอมีแมวจริงสีเทา-ขาวนั่งอยู่บนพื้น ใส่ผ้าพันคอ Bandana ลายสก๊อตสีแดง กำลังเงยหน้ามองผลงานศิลปะบนกำแพงที่น่ารัก กำแพงคอนกรีตมีงาน Shadow Art การ์ตูนน่ารักของเด็กผู้หญิงทำมือสัญลักษณ์ V, ภาพประกอบการ์ตูนแมวเต้นรำ, รายละเอียดกราฟฟิตี้เล็กๆ, หัวใจ, และองค์ประกอบสตรีทอาร์ตแบบสบายๆ
+
+ใช้แสงแดดอุ่นในช่วง Golden Hour สร้างเงาที่นุ่มนวลแต่ชัดเจนบนกำแพงและตัวแบบ บรรยากาศกลางแจ้งตามธรรมชาติ โทนสีคอนกรีตอบอุ่น เนื้อสัมผัสผิวหนังและเส้นผมสมจริง รายละเอียดของผ้าเดนิมและเนื้อผ้า แมวที่มีขนสมจริง ความลึกของสนามภาพแบบภาพยนตร์ (Cinematic depth of field) เม็ดฟิล์มละเอียด (Subtle film grain) ภาพถ่ายสตรีทแฟชั่นพรีเมียม aesthetic แบบเมืองที่อบอุ่น สมจริงเหมือนภาพถ่าย (Photorealistic) รายละเอียดสูงมาก 8K คุณภาพระดับบรรณาธิการมืออาชีพ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789631455366_kzmkhb_HSTt_UwaEAAqHa-.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตแฟชั่นกลางแจ้งสมจริงยิ่งยวดพร้อมแมว - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Wareen AI 💟](https://x.com/Wareenaa)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Wareenaa/status/2100065010076840182)
+- **เผยแพร่เมื่อ:** 16 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34848)**
+
+---
+
+### No. 27: โพสต์บนโซเชียลมีเดีย - เด็กเล็กกำลังโต้ตอบกับพนักงานเสิร์ฟ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+ภาพสมจริงของเด็กเล็กที่กำลังพูดคุยกับพนักงานเสิร์ฟที่ยิ้มแย้มอยู่นอกร้านอาหาร พร้อมข้อความ "Knock" ซ้อนทับอยู่
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายแนวตั้งสไตล์ภาพยนตร์ที่สมจริง แสดงให้เห็นเด็กน้อยน่ารักยืนอยู่บนทางเท้าในเมืองหน้าประตูร้านอาหารที่เปิดอยู่ เด็กกำลังเงยหน้ามองหญิงสาวที่ยิ้มแย้ม ซึ่งดูเหมือนจะเป็นพนักงานเสิร์ฟหรือพนักงานต้อนรับ สวมเสื้อเชิ้ตกระดุมสีเบจและผ้ากันเปื้อน ฉากนี้จับภาพช่วงเวลาที่เด็กดูเหมือนกำลังพูดหรือแสดงปฏิกิริยาด้วยสีหน้าที่น่าขำ คำว่า "Knock" ถูกซ้อนทับไว้ด้วยตัวอักษรสีขาวหนาใกล้กับจุดกึ่งกลาง แสงธรรมชาติอบอุ่น ความชัดลึกของภาพตื้น ความละเอียดสูง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789631455709_uzapfe_HSTqfUAaoAAWuJk.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - เด็กเล็กกำลังโต้ตอบกับพนักงานเสิร์ฟ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Adnan](https://x.com/Adnan_Ai4)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Adnan_Ai4/status/2100061425360376189#reversed-0)
+- **เผยแพร่เมื่อ:** 16 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34849)**
+
+---
+
+### No. 28: โพสต์บนโซเชียลมีเดีย - รีสอร์ทเกาะกีวีขนาดจิ๋ว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1636,7 +1775,7 @@ Negative:
 
 ---
 
-### No. 25: โพสต์บนโซเชียลมีเดีย - นักทำแผนที่แฟนตาซีกับสุนัข
+### No. 29: โพสต์บนโซเชียลมีเดีย - นักทำแผนที่แฟนตาซีกับสุนัข
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1669,7 +1808,7 @@ Negative:
 
 ---
 
-### No. 26: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตชายหนุ่มริมทะเลยามพระอาทิตย์ตกในสไตล์ภาพยนตร์
+### No. 30: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตชายหนุ่มริมทะเลยามพระอาทิตย์ตกในสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1706,7 +1845,7 @@ Negative:
 
 ---
 
-### No. 27: โพสต์บนโซเชียลมีเดีย - ภาพเหมือนบัลเลต์หน้ากระจกในท่า Pointe
+### No. 31: โพสต์บนโซเชียลมีเดีย - ภาพเหมือนบัลเลต์หน้ากระจกในท่า Pointe
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1761,7 +1900,7 @@ Negative:
 
 ---
 
-### No. 28: โพสต์บนโซเชียลมีเดีย - โพรอมต์สร้างภาพคอลลาจพอร์ตเทรตแสงทอง
+### No. 32: โพสต์บนโซเชียลมีเดีย - โพรอมต์สร้างภาพคอลลาจพอร์ตเทรตแสงทอง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1858,7 +1997,7 @@ image_generation": {
 
 ---
 
-### No. 29: โพสต์บนโซเชียลมีเดีย - พรอมต์ภาพเหมือนสตรีเอเชียใต้
+### No. 33: โพสต์บนโซเชียลมีเดีย - พรอมต์ภาพเหมือนสตรีเอเชียใต้
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1897,7 +2036,7 @@ image_generation": {
 
 ---
 
-### No. 30: โพสต์บนโซเชียลมีเดีย - พรอมต์ภาพพอร์ตเทรตแฟชั่นหรู
+### No. 34: โพสต์บนโซเชียลมีเดีย - พรอมต์ภาพพอร์ตเทรตแฟชั่นหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1930,7 +2069,7 @@ image_generation": {
 
 ---
 
-### No. 31: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตเจ้าสาวเอเชียใต้ในชุดเลเฮงกา
+### No. 35: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตเจ้าสาวเอเชียใต้ในชุดเลเฮงกา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1964,7 +2103,7 @@ image_generation": {
 
 ---
 
-### No. 32: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตสไตล์วินเทจในคาเฟ่ปารีส
+### No. 36: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตสไตล์วินเทจในคาเฟ่ปารีส
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1997,74 +2136,7 @@ image_generation": {
 
 ---
 
-### No. 33: โพสต์บนโซเชียลมีเดีย - GPT Image 2 Prompt: Scrapbook นิตยสารแฟชั่น
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-
-#### 📖 คำอธิบาย
-
-Prompt สำหรับสร้างภาพตัดปะบนบอร์ดไม้ก๊อก (Corkboard) ที่รวมภาพถ่ายของบุคคลเฉพาะตัว ในสไตล์สมุดสะสมภาพจากนิตยสารแฟชั่นสตรีญี่ปุ่น
-
-#### 📝 คำสั่ง
-
-```
-สร้างภาพบอร์ดไม้ก๊อกที่เต็มไปด้วยภาพถ่ายจำนวนมากของบุคคลในรูปภาพที่แนบมา โดยจัดวางในสไตล์สมุดสะสมภาพ (Scrapbook) ของนิตยสารแฟชั่นสตรีญี่ปุ่น
-แสดงบอร์ดไม้ก๊อกให้เต็มทั้งหน้าจอ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789458731824_az7oix_HSN4rMZbEAA0TGJ.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - GPT Image 2 Prompt: Scrapbook นิตยสารแฟชั่น - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [モヒにゃぱん](https://x.com/nyapan_mohy)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/nyapan_mohy/status/2099654540102652111)
-- **เผยแพร่เมื่อ:** 15 กันยายน 2569
-- **ภาษา:** ja
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34685)**
-
----
-
-### No. 34: โพสต์บนโซเชียลมีเดีย - หุ่นยนต์ตำรวจยักษ์กั้นถนนในโตเกียว
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-ภาพสมจริงของหุ่นยนต์ตำรวจสองขาส่งกำลังพลขนาดใหญ่ที่กำลังติดตั้งสิ่งกีดขวางบนถนนในโตเกียว โดยมีเจ้าหน้าที่ล้อมรอบ
-
-#### 📝 คำสั่ง
-
-```
-ภาพถ่ายมุมกว้างแบบเรียลลิสติกขั้นสูง แสดงให้เห็นหุ่นยนต์ตำรวจสองขาขนาดมหึมา ยืนอยู่กลางสี่แยกที่วุ่นวายในโตเกียวในวันที่มีเมฆครึ้ม หุ่นยนต์มีความสูงประมาณ 15 เมตร สร้างขึ้นจากเครื่องจักรอุตสาหกรรมหนักที่มีลูกสูบไฮดรอลิกสีดำ สายเคเบิล และแผ่นเกราะสีขาวเปิดเผยให้เห็น หัวของมันมีรูปทรงเป็นบล็อก ติดตั้งเลนส์กล้องและชุดเซ็นเซอร์หลายตัว ไฟฉุกเฉินกระพริบสีแดงติดอยู่ที่ไหล่และหน้าอก ข้อความ "警視庁 MPD" (กรมตำรวจนครบาล) พิมพ์ด้วยตัวอักษรสีดำอย่างชัดเจนบนแผ่นเกราะสีขาวบริเวณหน้าอก ต้นขา และหน้าแข้ง หุ่นยนต์กำลังถือรั้วกั้นฝูงชนโลหะสีเงินยาวด้วยมือซ้าย วางกั้นถนนเพื่อปิดกั้นพื้นที่ ในฉากหน้า เจ้าหน้าที่ตำรวจมนุษย์หลายคนสวมเครื่องแบบสีน้ำเงินเข้ม เสื้อกั๊กสะท้อนแสง และหมวกกันน็อกสีขาว กำลังอำนวยการจราจร; เจ้าหน้าที่คนหนึ่งทางซ้ายถือไม้กระบองสีส้ม ขณะที่อีกคนทางขวาทำท่าชี้ไปยังหุ่นยนต์ พื้นหลังมีป้ายบอกทางบนถนนสไตล์ญี่ปุ่นที่สมจริง รวมถึงป้ายเหนือศีรษะขนาดใหญ่สีน้ำเงินชี้ไปทาง "Shinjuku," "Ginza," และ "Tokyo Sta." ป้ายแนวตั้งบนอาคารทางซ้ายเขียนว่า "ともに守る。東京の未来" (ปกป้องร่วมกัน อนาคตของโตเกียว) ฉากนี้รวมถึงพื้นยางมะตอยเปียกที่สะท้อนท้องฟ้าครึ้ม กรวยจราจรสีส้ม และตึกระฟ้าในเมืองที่อยู่ไกลออกไป
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789458734397_s8p35t_HSLmHWBa8AAH1UO.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - หุ่นยนต์ตำรวจยักษ์กั้นถนนในโตเกียว - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [カーブミラー](https://x.com/kabumira862571)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/kabumira862571/status/2099493402438254809#reversed-0)
-- **เผยแพร่เมื่อ:** 14 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34689)**
-
----
-
-### No. 35: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกโรงบำบัดน้ำเสีย
+### No. 37: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกโรงบำบัดน้ำเสีย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2116,7 +2188,7 @@ Prompt สำหรับสร้างภาพตัดปะบนบอร�
 
 ---
 
-### No. 36: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - คำสั่งสร้างโปสเตอร์พิธีการสไตล์มินิมอลสำหรับ GPT Image 2
+### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - คำสั่งสร้างโปสเตอร์พิธีการสไตล์มินิมอลสำหรับ GPT Image 2
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2169,7 +2241,7 @@ Prompt สำหรับสร้างภาพตัดปะบนบอร�
 
 ---
 
-### No. 37: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ตารางพาเนลการตลาดสไตล์ UGC
+### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ตารางพาเนลการตลาดสไตล์ UGC
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2209,7 +2281,7 @@ Prompt สำหรับสร้างภาพตัดปะบนบอร�
 
 ---
 
-### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การแปลงภาพกวางสีทองยามเช้าเป็นงานเฟลท์
+### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การแปลงภาพกวางสีทองยามเช้าเป็นงานเฟลท์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2271,7 +2343,7 @@ Prompt สำหรับสร้างภาพตัดปะบนบอร�
 
 ---
 
-### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Technical Product Infographic Overlay
+### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Technical Product Infographic Overlay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2311,7 +2383,7 @@ Premium technical infographic of {argument name="product" default="[Apple 18 pro
 
 ---
 
-### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Research Paper Academic Poster
+### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Research Paper Academic Poster
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2345,7 +2417,7 @@ Research the poster regulations for presentation at the {argument name="conferen
 
 ---
 
-### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - 3D Diagrams and Visual Layouts
+### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - 3D Diagrams and Visual Layouts
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2381,7 +2453,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพจำลองหัวใจเทียมแบบโปร่งใสในมุมมองแยกส่วน
+### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพจำลองหัวใจเทียมแบบโปร่งใสในมุมมองแยกส่วน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2435,7 +2507,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - เปลี่ยนภาพร่างผลิตภัณฑ์ด้วย AI ให้เป็นโคมไฟสมจริง
+### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - เปลี่ยนภาพร่างผลิตภัณฑ์ด้วย AI ให้เป็นโคมไฟสมจริง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2469,7 +2541,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - แผ่นรายละเอียดหน้าต่างระเบียงสไตล์ญี่ปุ่น
+### No. 46: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - แผ่นรายละเอียดหน้าต่างระเบียงสไตล์ญี่ปุ่น
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2515,7 +2587,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การสร้างอินโฟกราฟิกนโยบายสไตล์ญี่ปุ่นขึ้นใหม่ให้เหมือนต้นฉบับ
+### No. 47: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การสร้างอินโฟกราฟิกนโยบายสไตล์ญี่ปุ่นขึ้นใหม่ให้เหมือนต้นฉบับ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2549,7 +2621,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 46: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพหน้าจออินโฟกราฟิกเรื่องกบฏอันสื่อของ ChatGPT
+### No. 48: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพหน้าจออินโฟกราฟิกเรื่องกบฏอันสื่อของ ChatGPT
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2605,7 +2677,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 47: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพตัดขวางอาคารกระจกผ่านแว่นขยาย
+### No. 49: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพตัดขวางอาคารกระจกผ่านแว่นขยาย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2659,7 +2731,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 48: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - UI การแปลงภาพร่างแม่มดให้เป็นภาพแฟนตาซี
+### No. 50: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - UI การแปลงภาพร่างแม่มดให้เป็นภาพแฟนตาซี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2707,7 +2779,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 49: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพเปรียบเทียบการวิเคราะห์ทรงผม
+### No. 51: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพเปรียบเทียบการวิเคราะห์ทรงผม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2741,7 +2813,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 50: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การออกแบบหน้าปก PPT สไตล์บรรณาธิการ
+### No. 52: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การออกแบบหน้าปก PPT สไตล์บรรณาธิการ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2787,40 +2859,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 51: ภาพขนาดย่อของ YouTube - โปสเตอร์ภาพยนตร์สไตล์ควันแดงแบบซีเนมาติก
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-โปสเตอร์ภาพยนตร์สไตล์มีดีไซน์ แสดงภาพผู้หญิงในชุดสูทสีขาวท่ามกลางเอฟเฟกต์ควันสีแดงอันน่าตื่นเต้น
-
-#### 📝 คำสั่ง
-
-```
-ภาพสไตล์โปสเตอร์ภาพยนตร์แบบซีเนมาติก แสดงหญิงสาวชาวเอเชียใต้ผู้มีความมั่นใจในสามท่าทางที่แตกต่างกัน บนพื้นหลังอันน่าตื่นเต้นของควันสีแดงที่ลอยฟุ้งและหยดกระเซ็น ตัวละครหลักคือภาพเต็มตัวของผู้หญิงที่ยืนมืออยู่ในกระเป๋า สวมชุดสูทกางเกงสีขาวตัดเย็บอย่างประณีต (เบลเซอร์และกางเกง) ทับเสื้อเชิ้ตขาวติดกระดุม จับคู่กับรองเท้าผ้าใบสีขาวและแว่นกันแดดนักบินทรงกลมเลนส์สีออกแดง เธอมีผมสีน้ำตาลยาวหนาเป็นลอน ขนาบข้างด้วยภาพพอร์ตเทรตขนาดใหญ่สองภาพ: ด้านซ้ายเป็นมุมมองด้านข้างสวมแว่นกันแดดเดียวกัน; ด้านขวาเป็นภาพพอร์ตเทรตด้านหน้าโดยไม่สวมแว่นกันแดด มองตรงมายังผู้ชม พื้นหลังเต็มไปด้วยกลุ่มควันสีแดงเข้มที่ลอยขึ้นมาจากด้านล่าง สร้างบรรยากาศร้อนแรง ดุจไฟลุกโชน พื้นผิวสะท้อนแสง ทำให้เห็นเงาสะท้อนของควันสีแดงและเท้าของตัวละคร คอนทราสต์สูง แสงสว่างระดับมืออาชีพ โฟกัสคมชัด
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789545107079_hd5uc5_HSUVAYMaEAA7kim.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - โปสเตอร์ภาพยนตร์สไตล์ควันแดงแบบซีเนมาติก - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [AiHua](https://x.com/aihua_art)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/aihua_art/status/2100108059498688933#reversed-0)
-- **เผยแพร่เมื่อ:** 16 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34774)**
-
----
-
-### No. 52: ภาพขนาดย่อของ YouTube - สตอรีบอร์ดทีเซอร์ Cyber Idol VTuber
+### No. 53: ภาพขนาดย่อของ YouTube - สตอรีบอร์ดทีเซอร์ Cyber Idol VTuber
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2883,7 +2922,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 53: ภาพขนาดย่อของ YouTube - โปสเตอร์อนิเมะนักดาบหญิงในคืนจันทรุปราคา
+### No. 54: ภาพขนาดย่อของ YouTube - โปสเตอร์อนิเมะนักดาบหญิงในคืนจันทรุปราคา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2933,7 +2972,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 54: ภาพขนาดย่อของ YouTube - ตารางตัวละครสไตล์ Vocaloid MV
+### No. 55: ภาพขนาดย่อของ YouTube - ตารางตัวละครสไตล์ Vocaloid MV
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2967,7 +3006,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 55: ภาพขนาดย่อของ YouTube - ภาพประกอบเมืองลอยฟ้าแห่งอนาคตท่ามกลางเนบิวลา
+### No. 56: ภาพขนาดย่อของ YouTube - ภาพประกอบเมืองลอยฟ้าแห่งอนาคตท่ามกลางเนบิวลา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3006,7 +3045,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 56: ภาพขนาดย่อของ YouTube - พิธีกรพอดแคสต์สไตล์เรโทรซินธ์เวฟ
+### No. 57: ภาพขนาดย่อของ YouTube - พิธีกรพอดแคสต์สไตล์เรโทรซินธ์เวฟ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3040,7 +3079,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 57: ภาพขนาดย่อของ YouTube - ปกอัลบั้ม Cinematic Desert Ring of Fire
+### No. 58: ภาพขนาดย่อของ YouTube - ปกอัลบั้ม Cinematic Desert Ring of Fire
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3079,7 +3118,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 58: ภาพขนาดย่อของ YouTube - นักดาบสาวหูตูบในโลกไซเบอร์พังค์
+### No. 59: ภาพขนาดย่อของ YouTube - นักดาบสาวหูตูบในโลกไซเบอร์พังค์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3119,7 +3158,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 59: ภาพขนาดย่อของ YouTube - มิวสิกวิดีโอแนวปาร์กัวร์ในเมืองไซเบอร์พังก์
+### No. 60: ภาพขนาดย่อของ YouTube - มิวสิกวิดีโอแนวปาร์กัวร์ในเมืองไซเบอร์พังก์
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3157,7 +3196,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 60: ภาพขนาดย่อของ YouTube - การถ่ายภาพโคมไฟในยามสนธยาฤดูหนาว
+### No. 61: ภาพขนาดย่อของ YouTube - การถ่ายภาพโคมไฟในยามสนธยาฤดูหนาว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3191,7 +3230,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 61: ภาพขนาดย่อของ YouTube - ภาพปกเพลง Miami Night Dance
+### No. 62: ภาพขนาดย่อของ YouTube - ภาพปกเพลง Miami Night Dance
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3239,7 +3278,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 62: ภาพขนาดย่อของ YouTube - ปกเพลย์ลิสต์ Pirate Funk
+### No. 63: ภาพขนาดย่อของ YouTube - ปกเพลย์ลิสต์ Pirate Funk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3273,7 +3312,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 63: ภาพขนาดย่อของ YouTube - ภาพปกรีวิวหูฟัง Sony
+### No. 64: ภาพขนาดย่อของ YouTube - ภาพปกรีวิวหูฟัง Sony
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3307,7 +3346,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 64: ภาพขนาดย่อของ YouTube - ภาพพอร์ตเทรตสไตล์ภาพยนตร์แอ็กชัน
+### No. 65: ภาพขนาดย่อของ YouTube - ภาพพอร์ตเทรตสไตล์ภาพยนตร์แอ็กชัน
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3353,7 +3392,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 65: ภาพขนาดย่อของ YouTube - ภาพหน้าจอการดีเบตสดบน YouTube
+### No. 66: ภาพขนาดย่อของ YouTube - ภาพหน้าจอการดีเบตสดบน YouTube
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3387,7 +3426,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 66: ภาพขนาดย่อของ YouTube - ภาพนิ่งฉากห้องเรียนจากอนิเมะเรื่อง Makeine: Too Many Losing Heroines!
+### No. 67: ภาพขนาดย่อของ YouTube - ภาพนิ่งฉากห้องเรียนจากอนิเมะเรื่อง Makeine: Too Many Losing Heroines!
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3435,7 +3474,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 67: ภาพขนาดย่อของ YouTube - ภาพคีย์วิชวลอนิเมะเรื่อง Makeine: Too Many Losing Heroines! ในห้องเรียน
+### No. 68: ภาพขนาดย่อของ YouTube - ภาพคีย์วิชวลอนิเมะเรื่อง Makeine: Too Many Losing Heroines! ในห้องเรียน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3469,7 +3508,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 68: ภาพขนาดย่อของ YouTube - ภาพคีย์วิชวลอนิเมะเรื่อง Makeine: Too Many Losing Heroines!
+### No. 69: ภาพขนาดย่อของ YouTube - ภาพคีย์วิชวลอนิเมะเรื่อง Makeine: Too Many Losing Heroines!
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3503,7 +3542,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 69: ภาพขนาดย่อของ YouTube - คีย์วิชวลอนิเมะแนวโรงเรียนเรื่อง Makeine: Too Many Losing Heroines!
+### No. 70: ภาพขนาดย่อของ YouTube - คีย์วิชวลอนิเมะแนวโรงเรียนเรื่อง Makeine: Too Many Losing Heroines!
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3537,7 +3576,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 70: ภาพขนาดย่อของ YouTube - คีย์วิชวลอนิเมะเรื่อง Makeine: Too Many Losing Heroines!
+### No. 71: ภาพขนาดย่อของ YouTube - คีย์วิชวลอนิเมะเรื่อง Makeine: Too Many Losing Heroines!
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3585,7 +3624,40 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 71: คอมิก / สตอรี่บอร์ด - ภาพคอลลาจพอร์ตเทรตสไตล์วินเทจ
+### No. 72: คอมิก / สตอรี่บอร์ด - การเปลี่ยนภาพครอบครัวเป็นเวิร์กช็อปสไตล์สตีมพังค์จากมุมมองด้านบน
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+แปลงภาพครอบครัวให้เป็นฉากเวิร์กช็อปสไตล์สตีมพังค์จากมุมมองด้านบน พร้อมเอฟเฟกต์สีน้ำและแบบแปลนทางเทคนิค
+
+#### 📝 คำสั่ง
+
+```
+ใช้ภาพอ้างอิงที่ให้มา แปลงภาพบุคคลให้เป็นมุมมองด้านบน (Top-down aerial view) ที่มีความละเอียดสูง แสดงให้เห็นตัวแบบกำลังทำงานอยู่ในเวิร์กช็อปของนักประดิษฐ์สไตล์สตีมพังค์ที่เต็มไปด้วยข้าวของรกๆ โดยคงลักษณะใบหน้าและสีสันเสื้อผ้าของบุคคลทั้งสามไว้ให้เหมือนเดิม (ชายในเสื้อยืดสีขาว, หญิงสูงอายุในชุดสีครีม, และหญิงสาวในชุดเดรสสีครีมแขนกุด) แต่จัดวางตำแหน่งใหม่รอบโต๊ะไม้ขนาดใหญ่ บนโต๊ะควรมีแบบแปลนกระดาษหนังสัตว์เก่าแก่ที่มีภาพร่างทางเทคนิคของเครื่องจักรวิจิตรบรรจง เฟืองทองเหลืองกระจายอยู่ทั่วไป เครื่องมือเขียนแบบความแม่นยำสูง และแว่นขยาย ฉากทั้งหมดควรได้รับการส่องสว่างด้วยหลอดไฟแขวนที่เรืองแสงอบอุ่นจากด้านบน ประยุกต์ใช้เอฟเฟกต์สีน้ำกระเซ็นสดใสบริเวณขอบนอกขององค์ประกอบภาพ โดยผสมผสานเม็ดสีต่างๆ เช่น แดง น้ำเงิน และเหลือง เข้ากับพื้นหลังกระดาษที่มีเนื้อสัมผัส
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789631458350_1r8oar_HSUeSbNaIAAvoXV.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - การเปลี่ยนภาพครอบครัวเป็นเวิร์กช็อปสไตล์สตีมพังค์จากมุมมองด้านบน - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Tiyashi](https://x.com/TiyashiAI)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/TiyashiAI/status/2100118111504752947#reversed-0)
+- **เผยแพร่เมื่อ:** 16 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34852)**
+
+---
+
+### No. 73: คอมิก / สตอรี่บอร์ด - ภาพคอลลาจพอร์ตเทรตสไตล์วินเทจ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3624,7 +3696,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 72: คอมิก / สตอรี่บอร์ด - หญิงสาวในราชสำนักชุดกุหลาบโปร่งแสง
+### No. 74: คอมิก / สตอรี่บอร์ด - หญิงสาวในราชสำนักชุดกุหลาบโปร่งแสง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3664,7 +3736,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 73: คอมิก / สตอรี่บอร์ด - รถไฟอนิเมะยามโพล้เพล้กับภูเขาไฟฟูจิ
+### No. 75: คอมิก / สตอรี่บอร์ด - รถไฟอนิเมะยามโพล้เพล้กับภูเขาไฟฟูจิ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3704,7 +3776,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 74: คอมิก / สตอรี่บอร์ด - โปสเตอร์สมุดภาพ Cloud Friend
+### No. 76: คอมิก / สตอรี่บอร์ด - โปสเตอร์สมุดภาพ Cloud Friend
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3763,7 +3835,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 75: คอมิก / สตอรี่บอร์ด - ฉากแนวคิดพิพิธภัณฑ์แห่งวันพรุ่งนี้ที่สูญหาย
+### No. 77: คอมิก / สตอรี่บอร์ด - ฉากแนวคิดพิพิธภัณฑ์แห่งวันพรุ่งนี้ที่สูญหาย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3835,7 +3907,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 76: คอมิก / สตอรี่บอร์ด - ฉากภาพยนตร์ The Last Train Home
+### No. 78: คอมิก / สตอรี่บอร์ด - ฉากภาพยนตร์ The Last Train Home
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3907,7 +3979,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 77: คอมิก / สตอรี่บอร์ด - บัลลังก์ราชาแวมไพร์อมตะ
+### No. 79: คอมิก / สตอรี่บอร์ด - บัลลังก์ราชาแวมไพร์อมตะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3941,7 +4013,7 @@ Purpose: {argument name="purpose" default="หน้าปก PPT สำหร�
 
 ---
 
-### No. 78: คอมิก / สตอรี่บอร์ด - Hand-drawn travel journal illustration
+### No. 80: คอมิก / สตอรี่บอร์ด - Hand-drawn travel journal illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3975,7 +4047,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 79: คอมิก / สตอรี่บอร์ด - ภาพนิ่งอนิเมะสไตล์โกธิคโลลิต้าแบบ Cinematic 3x3
+### No. 81: คอมิก / สตอรี่บอร์ด - ภาพนิ่งอนิเมะสไตล์โกธิคโลลิต้าแบบ Cinematic 3x3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4030,7 +4102,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 80: คอมิก / สตอรี่บอร์ด - เส้นทางภูเขาออร์ฟีอุสในสไตล์ภาพพิมพ์แกะไม้ญี่ปุ่น (Ukiyo-e)
+### No. 82: คอมิก / สตอรี่บอร์ด - เส้นทางภูเขาออร์ฟีอุสในสไตล์ภาพพิมพ์แกะไม้ญี่ปุ่น (Ukiyo-e)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4082,7 +4154,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 81: คอมิก / สตอรี่บอร์ด - สาวน้อยกัปปะกับแม่มดหุ่นไล่กา
+### No. 83: คอมิก / สตอรี่บอร์ด - สาวน้อยกัปปะกับแม่มดหุ่นไล่กา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4122,7 +4194,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 82: คอมิก / สตอรี่บอร์ด - ฉากอนิเมะกระซิบข้างประตูโชจิ
+### No. 84: คอมิก / สตอรี่บอร์ด - ฉากอนิเมะกระซิบข้างประตูโชจิ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4156,7 +4228,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 83: คอมิก / สตอรี่บอร์ด - Rabbit Gentleman Character Sheet
+### No. 85: คอมิก / สตอรี่บอร์ด - Rabbit Gentleman Character Sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4202,7 +4274,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 84: คอมิก / สตอรี่บอร์ด - คอลลาจสตอรี่บอร์ดอนิเมะ 9 ช่อง
+### No. 86: คอมิก / สตอรี่บอร์ด - คอลลาจสตอรี่บอร์ดอนิเมะ 9 ช่อง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4263,7 +4335,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 85: คอมิก / สตอรี่บอร์ด - คอลลาจภาพถ่ายสไตล์ภาพยนตร์บันทึกประจำวันของนักเรียนหญิง
+### No. 87: คอมิก / สตอรี่บอร์ด - คอลลาจภาพถ่ายสไตล์ภาพยนตร์บันทึกประจำวันของนักเรียนหญิง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4316,7 +4388,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 86: คอมิก / สตอรี่บอร์ด - ภาพเบื้องหลังกองถ่ายหนังกำลังภายในสไตล์ย้อนยุค
+### No. 88: คอมิก / สตอรี่บอร์ด - ภาพเบื้องหลังกองถ่ายหนังกำลังภายในสไตล์ย้อนยุค
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4368,19 +4440,18 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 87: คอมิก / สตอรี่บอร์ด - เจ้าหญิงซามูไรผมสีชมพูสุดวิจิตร
+### No. 89: การตลาดผลิตภัณฑ์ - พรอมต์ภาพบุคคลสไตล์ภาพยนตร์สำหรับ GPT-Image-2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-ภาพคีย์วิชวลแนวแฟนตาซีอนิเมะแบบจัดเต็มในแนวตั้ง ของเจ้าหญิงซามูไรผมสีชมพูที่กำลังชักดาบคาตานะอันวิจิตรบรรจงภายในพระราชวังที่จัดงานเทศกาลอันสว่างไสว
+พรอมต์รายละเอียดสำหรับสร้างภาพบุคคลสไตล์ภาพยนตร์ที่สมจริงเป็นพิเศษของชายหนุ่ม พร้อมการจัดแสงแบบโลว์คีย์และเอฟเฟกต์ Chiaroscuro โดยใช้ GPT-Image-2
 
 #### 📝 คำสั่ง
 
 ```
-สร้างภาพประกอบแนวแฟนตาซีอนิเมะแนวตั้งที่มีรายละเอียดสูงพิเศษของเจ้าหญิงซามูไรหญิงผู้สง่างามเพียงหนึ่งเดียว {argument name="character name" default="unnamed"} โดยแสดงในมุมข้างที่ดูน่าทึ่งในระยะใกล้มาก เธอมีผมยาวสลวยสี {argument name="hair color" default="pink"} ดวงตาสีเขียวอ่อนที่ดูละเอียดอ่อน ริมฝีปากมันวาว และสีหน้าที่ดูสงบนิ่งอย่างจริงจัง เธอสวมชุดกิโมโนลายดอกไม้แบบเลเยอร์ที่หรูหราในโทนสี {argument name="kimono color palette" default="red, black, purple, white, and gold"} ซึ่งเต็มไปด้วยลายดอกซากุระ ดอกเบญจมาศ ผ้าไหมปักดิ้น พู่ ลูกปัด งานปักทอง เครื่องประดับลงรัก และปิ่นปักผมอันวิจิตร องค์ประกอบภาพ: มุมมองภาพยนตร์จากมุมต่ำโดยมีดาบคาตานะเพียงเล่มเดียวที่โดดเด่นอยู่ด้านหน้า ถือในแนวทแยงจากขอบล่างขึ้นไปยังมือของเธอใกล้กับส่วนบนตรงกลาง ใบดาบขัดเงาราวกับกระจกและเปล่งประกาย ในขณะที่ฝักดาบหรือสันดาบตกแต่งอย่างหรูหราด้วยลวดลายทอง ดอกไม้สีแดง งานลงรักสีดำ และรายละเอียดที่ดูเหมือนอัญมณี มือข้างที่อยู่ใกล้เอื้อมมาทางผู้ชมข้างใบดาบพร้อมเล็บที่ได้รับการตกแต่งอย่างประณีต พื้นหลัง: เมืองในพระราชวังยามค่ำคืนที่จัดงานเทศกาลอย่างวิจิตรบรรจง เต็มไปด้วยโคมไฟสีทอง ฉากกั้นพับสีดำทอง ดอกซากุระ เครื่องประดับแขวน สะพาน และละอองแสงระยิบระยับ; รวมถึงพระจันทร์เต็มดวง 1 ดวง มังกรทองขดตัวใกล้พระจันทร์ 1 ตัว นกกระเรียนสีขาวบินอยู่ทางด้านขวา 1 ตัว ลวดลายเสือบนฉากกั้นพับที่ด้านซ้ายล่าง 1 ตัว และหอคอยเจดีย์หลายชั้นที่มองเห็นได้ 3 แห่ง สไตล์: ภาพคีย์วิชวลอนิเมะ gpt-image-2 ความละเอียดสูง, แฟนตาซีญี่ปุ่นแบบจัดเต็ม, ไฮไลท์สีทองสว่างไสว, กลีบดอกไม้สีชมพูที่ล่องลอย, แสงแฟลร์จากเลนส์แบบปริซึม, รายละเอียดใบหน้าที่คมชัด, ระยะชัดลึกที่ตื้นบนดาบที่อยู่ด้านหน้า, พื้นผิวที่ซับซ้อนสูง, แสงสีดั่งอัญมณี, ไม่มีข้อความ, ไม่มีลายน้ำ
+ภาพบุคคลสไตล์ภาพยนตร์ที่สมจริงเป็นพิเศษของชายหนุ่ม ใช้ภาพอ้างอิงใบหน้าในมุมมองด้านข้าง หันหน้าไปทางซ้าย สวมเสื้อคอกลมสีดำเรียบๆ การจัดแสงแบบโลว์คีย์ที่ทรงพลังด้วยแหล่งกำเนิดแสงสีทองอุ่นเพียงจุดเดียวส่องสว่างเฉพาะบางส่วนของใบหน้า หน้าผาก จมูก ริมฝีปาก กราม คอ และไหล่ ในขณะที่ส่วนที่เหลือของใบหน้าและร่างกายจมหายไปในเงาดำสนิท คอนทราสต์สูงแบบ Chiaroscuro บรรยากาศลึกลับมืดมน พื้นหลังสีดำ แสงขอบ (Rim lighting) อ่อนๆ บนเส้นผม ลักษณะใบหน้าชายที่ละเอียดอ่อน ผมสั้นสีดำจัดทรงเรียบร้อย เนื้อผิวเป็นธรรมชาติ สีหน้าครุ่นคิด คอนทราสต์สูง ไฮไลท์สีเหลืองอำพันอบอุ่น สีดำลึก การถ่ายภาพสไตล์บรรณาธิการที่มีอารมณ์ (Moody editorial photography) ความชัดตื้น เลนส์พอร์ตเทรต 85mm การปรับสีสไตล์ภาพยนตร์ สมจริงเหมือนภาพถ่าย องค์ประกอบแนวตั้ง พื้นหลังน้อยที่สุด เงาตะคุ่มที่ทรงพลัง 4K
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4388,21 +4459,54 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788942345142_n203rb_HRvXsTOa4AAAcIN.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - เจ้าหญิงซามูไรผมสีชมพูสุดวิจิตร - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789631453792_q5cfxg_HSY5MDkbgAARbDv.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - พรอมต์ภาพบุคคลสไตล์ภาพยนตร์สำหรับ GPT-Image-2 - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [ねね*](https://x.com/NeneneAI)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/NeneneAI/status/2097507221785747638#reversed-0)
-- **เผยแพร่เมื่อ:** 9 กันยายน 2569
+- **ผู้เขียน:** [Aijaz](https://x.com/iamsofiaijaz)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/iamsofiaijaz/status/2100429164914557427)
+- **เผยแพร่เมื่อ:** 17 กันยายน 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34025)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34847)**
 
 ---
 
-### No. 88: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตชุดสูทกำมะหยี่สไตล์ภาพยนตร์
+### No. 90: การตลาดผลิตภัณฑ์ - ป้ายหน้าร้านราเม็งสไตล์ญี่ปุ่น
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+ภาพสมจริงของหน้าร้านอาหารญี่ปุ่นที่มีเมนูติดผนังสีสันสดใส และป้ายตั้งพื้นกลางแจ้งโฆษณาคอร์สอาหารราคา 500 เยน
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายสมจริงของภายนอก ร้านอาหารญี่ปุ่น ที่โดดเด่นด้วยป้ายสองชิ้น ในฉากหลัง มีกระดานเมนูขนาดใหญ่ติดตั้งบนผนังสีชมพูเหนือเคาน์เตอร์ไม้สีเข้ม แบ่งออกเป็นคอลัมน์แนวตั้งตามสี (เหลือง ขาว น้ำเงิน แดง) ข้อความในคอลัมน์เหล่านี้ระบุรายการอาหารเส้น เช่น 'Tanuki Udon', 'Bukkake Udon', 'Abura Soba' และ 'Tsuke Men' พร้อมราคา 380 เยน ในฉากหน้า บนทางเท้า มีป้ายตั้งพื้นแบบ A-frame สีดำ แสดงคอร์สอาหารโปรโมชันสี่ชุด จัดเรียงในรูปแบบตาราง 2x2 แต่ละส่วนมีรูปภาพอาหารน่ารับประทาน (บะหมี่และข้าวหน้าหมู) พร้อมข้อความตัวหนาโฆษณา ราคา 500 เยน สำหรับชุดที่รวมบะหมี่กับ 'Butadon' (ข้าวหน้าหมู) แสงเป็นแสงธรรมชาติกลางวัน จับภาพสีสันสดใสของป้ายท่ามกลางบรรยากาศริมถนน
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789631457355_f54o9x_HSU_xn5aUAA7gAR.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ป้ายหน้าร้านราเม็งสไตล์ญี่ปุ่น - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Torishima / INTP](https://x.com/izutorishima)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/izutorishima/status/2100233876388053345#reversed-0)
+- **เผยแพร่เมื่อ:** 16 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34850)**
+
+---
+
+### No. 91: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตชุดสูทกำมะหยี่สไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4443,7 +4547,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 89: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นระดับสูงแบบ Double Exposure
+### No. 92: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นระดับสูงแบบ Double Exposure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4478,7 +4582,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 90: การตลาดผลิตภัณฑ์ - ฉากเบเกอรี่ขนาดจิ๋วสุดมหัศจรรย์ของ Tiny Chefs
+### No. 93: การตลาดผลิตภัณฑ์ - ฉากเบเกอรี่ขนาดจิ๋วสุดมหัศจรรย์ของ Tiny Chefs
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4505,7 +4609,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789545106268_3ue94n_HSTg-NqawAA8NAi.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ฉากเบเกอรี่ขนาดจิ๋วสุดมหัศจรรย์ของ Tiny Chefs - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789631456671_iwuvr1_HSTg-NqawAA8NAi.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ฉากเบเกอรี่ขนาดจิ๋วสุดมหัศจรรย์ของ Tiny Chefs - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4519,7 +4623,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 91: การตลาดผลิตภัณฑ์ - การสร้างตัวละครมาสคอตแบรนด์ระดับพรีเมียม
+### No. 94: การตลาดผลิตภัณฑ์ - การสร้างตัวละครมาสคอตแบรนด์ระดับพรีเมียม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4591,7 +4695,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 92: การตลาดผลิตภัณฑ์ - พรอมต์ชายยักษ์เหนือปารีส
+### No. 95: การตลาดผลิตภัณฑ์ - พรอมต์ชายยักษ์เหนือปารีส
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4632,7 +4736,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 93: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตสตูดิโอแฟชั่นหรู
+### No. 96: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตสตูดิโอแฟชั่นหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4671,7 +4775,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 94: การตลาดผลิตภัณฑ์ - พรอมต์ GPT Image 2: เครื่องปั่นสีชมพูวินเทจ
+### No. 97: การตลาดผลิตภัณฑ์ - พรอมต์ GPT Image 2: เครื่องปั่นสีชมพูวินเทจ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4704,7 +4808,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 95: การตลาดผลิตภัณฑ์ - โปสเตอร์แฟชั่นสไตล์ฮอลลีวูด จันทรุปราคา
+### No. 98: การตลาดผลิตภัณฑ์ - โปสเตอร์แฟชั่นสไตล์ฮอลลีวูด จันทรุปราคา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4737,94 +4841,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 96: การตลาดผลิตภัณฑ์ - ภาพถ่ายไลฟ์สไตล์สมจริงพร้อมศิลปะบนผนังลายเส้นดูเดิล
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์สร้างสรรค์ที่ผสมผสานภาพถ่ายสมจริงของผู้หญิงและแมวของเธอเข้ากับพื้นหลังผนังลายเส้นดูเดิลวาดมือ พร้อมแสงยามบ่ายที่อบอุ่น
-
-#### 📝 คำสั่ง
-
-```
-สร้างภาพถ่ายไลฟ์สไตล์ที่สมจริง อบอุ่น และมีศิลปะ โดยได้รับแรงบันดาลใจจากภาพอ้างอิง หญิงสาวที่มี {argument name="facial features" default="ใบหน้าสวยงามเป็นธรรมชาติ"} กำลังนั่งยองๆ อย่างอ่อนโยนข้าง {argument name="cat" default="แมวขนฟูสีขาว"} บนพื้นสีเบจโทนอุ่น เธอกำลังโน้มตัวไปข้างหน้าเล็กน้อยเข้าหาแมวด้วยรอยยิ้มที่อ่อนโยนและเปี่ยมไปด้วยความรัก สร้างความรู้สึกเชื่อมโยงที่แท้จริงระหว่างทั้งคู่ หญิงสาวมีผมสีน้ำตาลที่รวบเป็นมวยสูงแบบสบายๆ โดยมีปอยผมหลุดลุ่ยล้อมกรอบใบหน้าเล็กน้อย เธอสวม {argument name="outfit" default="เสื้อเชิ้ตสีขาวครีมทรงหลวม กางเกงขายาวสีน้ำตาลโทนอุ่น และรองเท้าผ้าใบสีขาวสะอาดตา"} แมวสีขาวนั่งอยู่อย่างสงบตรงหน้าเธอ มองขึ้นมาที่เธอด้วยสีหน้าที่ดูอยากรู้อยากเห็นและน่ารัก แมวมีขนฟูรายละเอียดชัดเจนและสวมผ้าพันคอสีแดงเรียบๆ ไว้ที่คอ ด้านหลังของพวกเขาคือผนังสีครีมโทนอุ่นขนาดใหญ่ที่เต็มไปด้วยงานศิลปะลายเส้นดูเดิลสีขาวดำที่วาดด้วยมืออย่างสวยงาม ภาพประกอบแสดงให้เห็นเด็กหญิงตัวน้อยที่ดูน่ารักและขี้เล่น ผมมวย ทำท่าชูสองนิ้วและขยิบตา ล้อมรอบด้วยหัวใจดวงเล็กๆ ประกายไฟ และเส้นสายที่ดูสนุกสนาน ข้างๆ เธอมีลูกแมวการ์ตูนน่ารักที่มีดวงตากลมโตแสดงอารมณ์ อุ้งเท้าที่ยกขึ้น ผีเสื้อตัวจิ๋ว และหัวใจดวงเล็กๆ ที่ประดับตกแต่ง เอฟเฟกต์ภาพหลักคือการโต้ตอบที่ไร้รอยต่อระหว่างหญิงสาวและแมวตัวจริงในเบื้องหน้า กับตัวละครภาพวาดบนผนังด้านหลัง ทำให้ฉากจริงดูเหมือนมีชีวิตขึ้นมาจากสมุดสเก็ตช์ที่มีเสน่ห์ แสงแดดยามบ่ายแก่ๆ ที่อบอุ่นส่องผ่านหน้าต่างใกล้ๆ ทำให้เกิดเงาของกรอบหน้าต่างรูปทรงเรขาคณิตที่สวยงามพาดผ่านผนังและพื้นสีครีม แสงธรรมชาติสีทองนุ่มนวล ไฮไลท์โทนอุ่นที่ละเอียดอ่อน เงาที่นุ่มนวล บรรยากาศแสนสบาย เกรนฟิล์มที่ละเอียดอ่อน องค์ประกอบภาพ: ภาพแนวตั้งแบบเต็มตัวของหญิงสาวและแมว พื้นที่ว่างที่สมดุลรอบภาพประกอบบนผนัง การถ่ายภาพไลฟ์สไตล์เชิงบรรณาธิการที่สง่างาม มุมกล้องต่ำเล็กน้อย มุมมองที่เป็นธรรมชาติ พื้นผิวผิวหนังที่สมจริงเป็นพิเศษ เส้นผมที่สมจริง ขนแมวที่มีรายละเอียดสูง กายวิภาคของมือและใบหน้าที่เป็นธรรมชาติ พื้นผิวผ้าที่สมจริง เงาที่สมจริง ระยะชัดลึกแบบภาพยนตร์ การเบลอของพื้นหลังที่นุ่มนวล การถ่ายภาพระดับพรีเมียม การปรับสีที่เป็นธรรมชาติ และการเล่าเรื่องด้วยภาพที่ซับซ้อน คงความสมจริงของหญิงสาวและแมวตัวจริงเอาไว้ ในขณะที่ตัวละครบนผนังต้องมีความชัดเจนว่าเป็นภาพวาดลายเส้นดินสอ/หมึก ห้ามเปลี่ยนหญิงสาวหรือแมวให้กลายเป็นตัวการ์ตูน ไม่มีข้อความ ไม่มีลายน้ำ ไม่มีโลโก้ ไม่มีกายวิภาคที่บิดเบี้ยว ไม่มีแขนขาเกิน ไม่มีวัตถุซ้ำซ้อน และไม่มีผิวพลาสติกเทียม
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789199145554_ynwf5w_HR-2iFOasAA_Vho.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายไลฟ์สไตล์สมจริงพร้อมศิลปะบนผนังลายเส้นดูเดิล - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789199145606_jdm9a8_HR-2k65aAAA5Oel.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายไลฟ์สไตล์สมจริงพร้อมศิลปะบนผนังลายเส้นดูเดิล - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Saira](https://x.com/AiWithSaira)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/AiWithSaira/status/2098596715809177602)
-- **เผยแพร่เมื่อ:** 12 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34461)**
-
----
-
-### No. 97: การตลาดผลิตภัณฑ์ - ภาพจำลองสวนดอกเคลมาทิสสไตล์นิตยสาร
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-เปลี่ยนภาพถ่ายดอกไม้ทั่วไปให้กลายเป็นภาพจำลองสวนพฤกษศาสตร์สไตล์สตูดิโอที่สะอาดตา พร้อมฐานกระถางและระแนงไม้
-
-#### 📝 คำสั่ง
-
-```
-ใช้ภาพอ้างอิงที่กำหนดให้เป็นต้นแบบทางพฤกษศาสตร์ เพื่อเปลี่ยนภาพถ่ายระยะใกล้ของสวนแบบเดิมให้กลายเป็นฉากสินค้าสไตล์นิตยสารที่ดูประณีต โดยยังคงเอกลักษณ์ของเถาเคลมาทิส ดอกสีม่วงแดง ใบสีเขียว ดอกตูม ฝักเมล็ด และระแนงไม้แบบรัสติกเอาไว้ แต่จัดองค์ประกอบใหม่ให้เป็นสวนขนาดเล็กที่ดูเป็นระเบียบ
-
-เป้าหมาย: สร้างภาพจำลองพฤกษศาสตร์ในสตูดิโอที่ดูหรูหราจากภาพอ้างอิง
-องค์ประกอบภาพ: จัดวางต้นไม้ในแนวตั้งบนฐานกระถางหินสีครีมทรงสี่เหลี่ยมที่เต็มไปด้วยดินและพืชพรรณขนาดเล็ก โดยมีระแนงไม้อยู่ด้านหลัง ใช้มุมมองภาพแบบไอโซเมตริกสามส่วนสี่เพื่อให้เห็นฐาน ระแนง ดอกไม้ และเถาวัลย์ได้อย่างชัดเจน
-โครงสร้างดอกไม้: คงจำนวนดอกเคลมาทิสสีม่วงแดงที่บานเต็มที่ไว้ 3 ดอกตามต้นฉบับเพื่อเป็นจุดเด่น พร้อมด้วยดอกตูมและฝักเมล็ดที่จัดวางอย่างเป็นธรรมชาติรอบๆ
-พื้นหลัง: เปลี่ยนพื้นหลังสวนที่ดูวุ่นวายให้เป็นฉากหลังสตูดิโอสีขาวนวลแบบไร้รอยต่อ
-แสง: ใช้แสงธรรมชาติที่นุ่มนวลแบบภาพถ่ายนิตยสาร พร้อมเงาที่ละมุน พื้นผิวของกลีบดอกและใบที่สมจริง และให้ลุคภาพนิ่งแบบนิตยสารชั้นนำ
-สไตล์: สมจริง (Photorealistic) สะอาดตา เป็นภาพพฤกษศาสตร์ระดับไฮเอนด์ มีรายละเอียดครบถ้วนแต่ไม่รก
-ข้อจำกัด: ห้ามเพิ่มข้อความ ป้ายกำกับ ผู้คน แมลง แจกัน หรืออุปกรณ์ตกแต่งอื่นๆ เพิ่มเติม คงลักษณะของต้นไม้ให้จดจำได้จาก REFERENCE_0 ในขณะที่ทำให้ฉากดูเหมือนการจัดวางและถ่ายทำอย่างมืออาชีพ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789199151890_mwfo2z_HR80hPlWIAEYNBv.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพจำลองสวนดอกเคลมาทิสสไตล์นิตยสาร - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789199151764_nj7prk_HR80lZ7bEAAsE0i.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพจำลองสวนดอกเคลมาทิสสไตล์นิตยสาร - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [MTkapi](https://x.com/mtkapi)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/mtkapi/status/2098453895123001749#reversed-1)
-- **เผยแพร่เมื่อ:** 11 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34470)**
-
----
-
-### No. 98: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาเปรียบเทียบ Rhode Lip Treatment
+### No. 99: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาเปรียบเทียบ Rhode Lip Treatment
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4872,7 +4889,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 99: ภาพหลักสำหรับอีคอมเมิร์ซ - สร้างภาพโปรโมทห้องสมจริงจากภาพสเก็ตช์
+### No. 100: ภาพหลักสำหรับอีคอมเมิร์ซ - สร้างภาพโปรโมทห้องสมจริงจากภาพสเก็ตช์
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4906,7 +4923,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 100: ภาพหลักสำหรับอีคอมเมิร์ซ - ปรับแต่งเล็บโทนกุหลาบละมุน
+### No. 101: ภาพหลักสำหรับอีคอมเมิร์ซ - ปรับแต่งเล็บโทนกุหลาบละมุน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4946,7 +4963,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 101: ภาพหลักสำหรับอีคอมเมิร์ซ - การสร้างภาพไลฟ์สไตล์พร้อมการจัดวางสินค้า
+### No. 102: ภาพหลักสำหรับอีคอมเมิร์ซ - การสร้างภาพไลฟ์สไตล์พร้อมการจัดวางสินค้า
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4979,7 +4996,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 102: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแคนดิดหญิงสาวช้อปปิ้งในซูเปอร์มาร์เก็ตเกาหลี
+### No. 103: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแคนดิดหญิงสาวช้อปปิ้งในซูเปอร์มาร์เก็ตเกาหลี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5031,7 +5048,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 103: ภาพหลักสำหรับอีคอมเมิร์ซ - แจกันดินเผาโบราณแตกหัก
+### No. 104: ภาพหลักสำหรับอีคอมเมิร์ซ - แจกันดินเผาโบราณแตกหัก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5071,7 +5088,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 104: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแฟชั่นสตรีทแวร์เต็มตัว
+### No. 105: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแฟชั่นสตรีทแวร์เต็มตัว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5118,7 +5135,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 105: ภาพหลักสำหรับอีคอมเมิร์ซ - ตารางจัดวางสินค้าแบบ Flat Lay สำหรับร้านค้าออนไลน์สไตล์บูติก
+### No. 106: ภาพหลักสำหรับอีคอมเมิร์ซ - ตารางจัดวางสินค้าแบบ Flat Lay สำหรับร้านค้าออนไลน์สไตล์บูติก
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5168,7 +5185,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 106: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพเชิงพาณิชย์สำหรับสมูทตี้เบอร์รี่สีชมพู
+### No. 107: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพเชิงพาณิชย์สำหรับสมูทตี้เบอร์รี่สีชมพู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5202,7 +5219,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 107: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพมาโครเครื่องดื่มสีชมพู
+### No. 108: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพมาโครเครื่องดื่มสีชมพู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5236,7 +5253,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 108: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายโฆษณาสินค้าแบบมืออาชีพ
+### No. 109: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายโฆษณาสินค้าแบบมืออาชีพ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5276,7 +5293,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 109: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพระยะใกล้ของลาเต้น้ำผึ้งเย็นที่กำลังถูกคน
+### No. 110: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพระยะใกล้ของลาเต้น้ำผึ้งเย็นที่กำลังถูกคน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5310,7 +5327,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 110: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาสเปรย์สำหรับสุนัขโกลเด้นรีทรีฟเวอร์
+### No. 111: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาสเปรย์สำหรับสุนัขโกลเด้นรีทรีฟเวอร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5344,7 +5361,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 111: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพพอร์ตเทรตในสตูดิโอแบบซอฟต์พร้อมอุปกรณ์สีชมพู
+### No. 112: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพพอร์ตเทรตในสตูดิโอแบบซอฟต์พร้อมอุปกรณ์สีชมพู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5378,7 +5395,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 112: ภาพหลักสำหรับอีคอมเมิร์ซ - โปสเตอร์โฆษณาเครื่องดื่มระดับพรีเมียม
+### No. 113: ภาพหลักสำหรับอีคอมเมิร์ซ - โปสเตอร์โฆษณาเครื่องดื่มระดับพรีเมียม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5411,7 +5428,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 113: ภาพหลักสำหรับอีคอมเมิร์ซ - เทมเพลตโฆษณาสินค้าสำหรับนาฬิกาหรู
+### No. 114: ภาพหลักสำหรับอีคอมเมิร์ซ - เทมเพลตโฆษณาสินค้าสำหรับนาฬิกาหรู
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5462,7 +5479,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 114: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาผลิตภัณฑ์สกินแคร์ระดับลักชูรี
+### No. 115: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาผลิตภัณฑ์สกินแคร์ระดับลักชูรี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5502,7 +5519,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 115: ภาพหลักสำหรับอีคอมเมิร์ซ - ประติมากรรมเมืองจำลองจากหินอะลาบาสเตอร์
+### No. 116: ภาพหลักสำหรับอีคอมเมิร์ซ - ประติมากรรมเมืองจำลองจากหินอะลาบาสเตอร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5548,7 +5565,7 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 116: ภาพหลักสำหรับอีคอมเมิร์ซ - กฎการรักษาความสม่ำเสมอของตู้เสื้อผ้าขั้นสูง
+### No. 117: ภาพหลักสำหรับอีคอมเมิร์ซ - กฎการรักษาความสม่ำเสมอของตู้เสื้อผ้าขั้นสูง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5599,7 +5616,40 @@ Lighting & style: golden-hour warm light streaming from behind, soft bokeh, rich
 
 ---
 
-### No. 117: สินทรัพย์เกม - พรอมต์โลโก้ขาวดำสไตล์เส้นใยไหลสำหรับ GPT Image 2
+### No. 118: สินทรัพย์เกม - หุ่นยนต์ตำรวจยักษ์กั้นถนนในโตเกียว
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+ภาพสมจริงของหุ่นยนต์ตำรวจสองขาส่งกำลังพลขนาดใหญ่ที่กำลังติดตั้งสิ่งกีดขวางบนถนนในโตเกียว โดยมีเจ้าหน้าที่ล้อมรอบ
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายมุมกว้างแบบเรียลลิสติกขั้นสูง แสดงให้เห็นหุ่นยนต์ตำรวจสองขาขนาดมหึมา ยืนอยู่กลางสี่แยกที่วุ่นวายในโตเกียวในวันที่มีเมฆครึ้ม หุ่นยนต์มีความสูงประมาณ 15 เมตร สร้างขึ้นจากเครื่องจักรอุตสาหกรรมหนักที่มีลูกสูบไฮดรอลิกสีดำ สายเคเบิล และแผ่นเกราะสีขาวเปิดเผยให้เห็น หัวของมันมีรูปทรงเป็นบล็อก ติดตั้งเลนส์กล้องและชุดเซ็นเซอร์หลายตัว ไฟฉุกเฉินกระพริบสีแดงติดอยู่ที่ไหล่และหน้าอก ข้อความ "警視庁 MPD" (กรมตำรวจนครบาล) พิมพ์ด้วยตัวอักษรสีดำอย่างชัดเจนบนแผ่นเกราะสีขาวบริเวณหน้าอก ต้นขา และหน้าแข้ง หุ่นยนต์กำลังถือรั้วกั้นฝูงชนโลหะสีเงินยาวด้วยมือซ้าย วางกั้นถนนเพื่อปิดกั้นพื้นที่ ในฉากหน้า เจ้าหน้าที่ตำรวจมนุษย์หลายคนสวมเครื่องแบบสีน้ำเงินเข้ม เสื้อกั๊กสะท้อนแสง และหมวกกันน็อกสีขาว กำลังอำนวยการจราจร; เจ้าหน้าที่คนหนึ่งทางซ้ายถือไม้กระบองสีส้ม ขณะที่อีกคนทางขวาทำท่าชี้ไปยังหุ่นยนต์ พื้นหลังมีป้ายบอกทางบนถนนสไตล์ญี่ปุ่นที่สมจริง รวมถึงป้ายเหนือศีรษะขนาดใหญ่สีน้ำเงินชี้ไปทาง "Shinjuku," "Ginza," และ "Tokyo Sta." ป้ายแนวตั้งบนอาคารทางซ้ายเขียนว่า "ともに守る。東京の未来" (ปกป้องร่วมกัน อนาคตของโตเกียว) ฉากนี้รวมถึงพื้นยางมะตอยเปียกที่สะท้อนท้องฟ้าครึ้ม กรวยจราจรสีส้ม และตึกระฟ้าในเมืองที่อยู่ไกลออกไป
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789458734397_s8p35t_HSLmHWBa8AAH1UO.jpg" width="600" alt="สินทรัพย์เกม - หุ่นยนต์ตำรวจยักษ์กั้นถนนในโตเกียว - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [カーブミラー](https://x.com/kabumira862571)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/kabumira862571/status/2099493402438254809#reversed-0)
+- **เผยแพร่เมื่อ:** 14 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34689)**
+
+---
+
+### No. 119: สินทรัพย์เกม - พรอมต์โลโก้ขาวดำสไตล์เส้นใยไหลสำหรับ GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5658,7 +5708,7 @@ NEGATIVE (สิ่งที่ไม่ต้องการ): รูปทร�
 
 ---
 
-### No. 118: สินทรัพย์เกม - หน้าจอชื่อเกม Galaxy Rail
+### No. 120: สินทรัพย์เกม - หน้าจอชื่อเกม Galaxy Rail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5702,91 +5752,13 @@ NEGATIVE (สิ่งที่ไม่ต้องการ): รูปทร�
 
 ---
 
-### No. 119: สินทรัพย์เกม - แผ่นภาพ Game Asset ต้นสนสไตล์ Stylized
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-สร้างแผ่นภาพคอนเซปต์แบบหลายมุมมองที่สะอาดตาสำหรับ Game Asset ต้นสนสไตล์ Stylized พร้อมการอ้างอิงสเกลสำหรับขั้นตอนการทำงานแบบ 3D modeling
-
-#### 📝 คำสั่ง
-
-```
-เป้าหมาย: สร้างแผ่นภาพคอนเซปต์ Game Asset ที่สะอาดตาสำหรับต้นสนสไตล์ Stylized โดยระบุรหัส {argument name="asset code" default="TREE01"} ซึ่งออกแบบมาเพื่อนำไปแปลงเป็นโมเดล 3D
-
-ผืนผ้าใบ: แผ่นภาพคอนเซปต์อาร์ตแนวนอนบนพื้นหลังสีเทาอ่อนเรียบๆ จัดแสงแบบสตูดิโอนุ่มนวล ไม่มีสภาพแวดล้อม ไม่มีขอบตกแต่ง ใช้สีโทนธรรมชาติที่ดูนุ่มนวลและสไตล์เกมแฟนตาซีแบบกึ่งสมจริงที่เน้นงานวาด
-
-เลย์เอาต์: แสดงภาพต้นไม้ทั้งหมด 4 มุมมอง: มุมมองด้านหน้าขนาดใหญ่ 1 ภาพทางซ้าย, มุมมองด้านข้างขนาดใหญ่ 1 ภาพตรงกลาง, มุมมองด้านหลังขนาดใหญ่ 1 ภาพทางขวา และมุมมองขนาดเล็กสำหรับในเกม 1 ภาพใกล้กับด้านล่างตรงกลาง เพิ่มการอ้างอิงสเกล 2 จุด: ไม้บรรทัดวัดความสูงแนวตั้งข้างต้นไม้ด้านหน้าขนาดใหญ่พร้อมป้ายกำกับ {argument name="tree height" default="9 m"} และภาพเงาคนสีเทาข้างภาพมุมมองในเกมพร้อมไม้บรรทัดแนวตั้งสั้นๆ ที่มีป้ายกำกับ {argument name="human height" default="1.8 m"} วางป้ายกำกับมุมมองไว้ใต้ต้นไม้แต่ละต้น: {argument name="front label" default="FRONT"}, "SIDE", "BACK" และ "GAME VIEW"
-
-รายละเอียดวัตถุ: ต้นไม้เป็นต้นสนหรือต้นเฟอร์ทรงสูง ลำต้นตรงดูแข็งแรง เปลือกไม้สีเทาอมน้ำตาลที่มีรอยแตกชัดเจน มีรากโผล่ที่โคนต้น และมีชั้นกิ่งไม้ที่ห้อยลงมาเป็นชั้นๆ ใบไม้มีความหนาแน่นแต่ไม่สม่ำเสมอ ประกอบด้วยกลุ่มเข็มไม้ที่แหลมคมในโทนสีเขียวมะกอกหม่น สีเขียวสนเข้ม และสีเขียวถ่านในส่วนที่เป็นเงา รูปทรงโดยรวมเป็นสามเหลี่ยมและดูเป็นธรรมชาติ มีส่วนยอดแหลม ความยาวกิ่งไม่สมมาตร มีส่วนของกิ่งเปลือยให้เห็นใกล้ลำต้น และกิ่งล่างที่กว้างแล้วค่อยๆ เรียวขึ้นไปด้านบน มุมมองด้านข้างควรดูแคบลงโดยมีกิ่งไม้ซ้อนทับกัน ส่วนมุมมองด้านหลังควรเผยให้เห็นกลุ่มใบไม้และโครงสร้างลำต้นที่คล้ายคลึงกันจากด้านหลัง มุมมองขนาดเล็กสำหรับในเกมควรใช้การออกแบบต้นไม้เดียวกันในสเกลที่เล็กลง วางไว้ข้างภาพเงาคนเพื่อให้เห็นสัดส่วน
-
-ตัวอักษรและคำอธิบายประกอบ: วางรหัส Asset ไว้ที่มุมซ้ายบนด้วยฟอนต์แบบมีหัว (Serif) เรียบง่าย ขนาดใหญ่และเป็นสีดำ ใช้ป้ายกำกับสีดำขนาดเล็กแบบมีหัวใต้แต่ละมุมมอง ไม้บรรทัดเป็นเส้นแนวตั้งสีเทาเข้มเส้นบาง พร้อมข้อความระบุขนาดตัวพิมพ์เล็กและดูเรียบง่าย
-
-ข้อจำกัด: จัดวางแผ่นภาพให้สะอาดตาและเป็นแบบออร์โธกราฟิก (Orthographic) โดยรักษามาตราส่วนให้สม่ำเสมอในมุมมองขนาดใหญ่ทั้ง 3 มุมมอง ใช้ภาพต้นไม้ 4 ภาพและการอ้างอิงสเกล 2 จุดตามที่ระบุไว้เท่านั้น หลีกเลี่ยงการเพิ่มต้นไม้ ก้อนหิน องค์ประกอบ UI พื้นผิว โลโก้ ลายน้ำ หรือทิวทัศน์พื้นหลังอื่นๆ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113121277_cw7svi_HR4q5UYawAA41AM.jpg" width="600" alt="สินทรัพย์เกม - แผ่นภาพ Game Asset ต้นสนสไตล์ Stylized - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [OrcDev](https://x.com/orcdev)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/orcdev/status/2098161885757505957#reversed-0)
-- **เผยแพร่เมื่อ:** 10 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34323)**
-
----
-
-### No. 120: สินทรัพย์เกม - หุ่นยนต์นักวิ่งแห่งอนาคต
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ภาพคอนเซปต์เกม 3D สีสันสดใส แสดงหุ่นยนต์น่ารักกำลังกระโดดข้ามแพลตฟอร์มลอยฟ้าในเมืองแห่งอนาคตที่ได้รับแรงบันดาลใจจากโตเกียว
-
-#### 📝 คำสั่ง
-
-```
-สร้างภาพคอนเซปต์เกมแนว endless-runner สไตล์ 3D ที่มีชีวิตชีวาในเฟรมภาพยนตร์แบบ 16:9 แสดงภาพหุ่นยนต์มาสคอตทรงมนุษย์สุดน่ารักกำลังกระโดดจากมุมมองด้านหลังค่อนไปทางด้านข้าง ขณะวิ่งอยู่บนแพลตฟอร์มลอยฟ้าแห่งอนาคตที่อยู่เหนือเมฆ หุ่นยนต์มีหมวกกันน็อกทรงกลมสีขาวเงาพร้อมหน้าจอใบหน้าสีดำและดวงตาเรืองแสงสีฟ้า มีเสาอากาศขนาดเล็ก แขนขาแบ่งเป็นส่วนๆ สีครีมสลับเทา ถุงมือสีฟ้า และรองเท้าบูทสีฟ้าขนาดใหญ่ พร้อมด้วย {argument name="scarf color" default="ผ้าพันคอสีเหลืองทอง"} ที่พลิ้วไหวอย่างสวยงามตามแรงลม ฉากหลังเป็น {argument name="city setting" default="เมืองลอยฟ้าที่ได้รับแรงบันดาลใจจากโตเกียว"} แห่งอนาคตที่สดใสในช่วง {argument name="time of day" default="พระอาทิตย์ขึ้นที่อบอุ่น"} พร้อมแสงสีทองนวล ท้องฟ้าสีครามสดใส ก้อนเมฆฟูฟ่องสไตล์การ์ตูน และเส้นขอบฟ้าที่อยู่ไกลออกไป เพิ่ม {argument name="background landmark" default="ภูเขาไฟฟูจิ"} ที่มีหิมะปกคลุมทางด้านซ้ายของขอบฟ้า รถไฟหัวกระสุนที่โฉบเฉี่ยววิ่งโค้งไปตามรางทางด้านซ้าย และแพลตฟอร์มเสาโทริอิสีแดงขาวขนาดใหญ่ทางด้านขวา เส้นทางวิ่งทำจากแพลตฟอร์มลอยฟ้าสีครีมสะอาดตาพร้อมแผ่นกระเบื้องสีฟ้าเทอร์ควอยซ์ ขอบมน และเสารองรับสีสันสดใสที่โผล่ขึ้นมาจากก้อนเมฆ วางอัญมณีคริสตัลที่เก็บได้จำนวน 7 ชิ้นไว้ข้างหน้าหุ่นยนต์ตามเส้นทาง: คริสตัลเพชรสีชมพูขนาดใหญ่ใกล้จุดศูนย์กลาง, คริสตัลสีส้ม, คริสตัลสีฟ้า, คริสตัลสีม่วงแดง, คริสตัลสีเหลืองอ่อนขนาดเล็ก, คริสตัลสีส้มขนาดเล็ก และคริสตัลสีฟ้าขนาดจิ๋วที่อยู่ไกลออกไป ใช้สไตล์ศิลปะเกมแบบ Pixar ที่มีความประณีต แสงสว่างทั่วทั้งภาพที่นุ่มนวล สีสันที่อิ่มตัว วัสดุที่ดูเหมือนของเล่นที่คมชัด มุมมองแบบไดนามิก ให้ความรู้สึกถึงการเคลื่อนไหวที่ชัดเจน และไม่มีข้อความ UI โลโก้ หรือลายน้ำใดๆ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789113123406_rth3un_HR1obqIbEAEQZcr.jpg" width="600" alt="สินทรัพย์เกม - หุ่นยนต์นักวิ่งแห่งอนาคต - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [野生の男](https://x.com/yasei_no_otoko)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/yasei_no_otoko/status/2097948657018720560#reversed-0)
-- **เผยแพร่เมื่อ:** 10 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/gpt-image-2-prompts?id=34328)**
-
----
-
 ---
 
 ## 📚 มีคำสั่งเพิ่มเติม
 
 <div align="center">
 
-### 🎯 17374 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 17384 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5849,6 +5821,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-09-17T02:15:29.119Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-09-17T15:49:57.765Z</sub>
 
 </div>
