@@ -139,9 +139,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **17532** |
+| 📝 Total de prompts | **17536** |
 | ⭐ Destaque | **6** |
-| 🔄 Última atualização | **domingo, 20 de setembro de 2026 às 02:12:36 UTC** |
+| 🔄 Última atualização | **domingo, 20 de setembro de 2026 às 15:04:30 UTC** |
 
 </div>
 
@@ -525,7 +525,130 @@ Transforma uma linha do tempo evolutiva plana em um infográfico realista de esc
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
-### No. 1: Perfil / Avatar - Retrato de Selfie Matinal Divertido
+### No. 1: Perfil / Avatar - Prompt de Retrato Masculino Cinematográfico para GPT Image 2
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrição
+
+Um prompt de retrato fotorrealista que utiliza imagens de referência para os traços faciais, focando em iluminação cinematográfica, estética editorial de moda e renderização detalhada da pele e dos cabelos.
+
+#### 📝 Prompt
+
+```
+Retrato masculino ultra-realista cinematográfico, utilize a imagem de referência fornecida para os traços faciais e a aparência geral. Composição close-up de cabeça e ombros de um homem na casa dos 30 anos, com estrutura facial masculina forte, mandíbula definida, cabelo escuro espesso e texturizado, barba curta realista e textura natural detalhada da pele. Ele usa óculos de sol redondos vintage âmbar/casco de tartaruga com lentes escuras e um moletom preto oversized. Ele olha diretamente para a câmera com uma expressão intensa, calma e neutra.
+
+Estética editorial de moda luxuosa e sombria, luz de contorno lateral dramática em azul frio combinada com uma luz principal sutilmente quente sobre a pele, sombras cinematográficas profundas, reflexos realistas nos óculos de sol, fios de cabelo e barba individualmente visíveis. Fundo de estúdio azul-acinzentado suave com desvanecimento atmosférico gentil, profundidade de campo rasa, foco nítido no rosto. Fotografado com lente retrato de 85mm em f/1.8, fotografia profissional de estúdio, alto contraste, paleta de cores escura sofisticada, grão de filme analógico sutil, fotorrealista, extremamente detalhado, proporções naturais, color grading cinematográfico, visual editorial premium de revista, detalhes em 8K, composição centralizada.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789891171968_78b4ke_HSoUJGmbQAAX-RX.jpg" width="600" alt="Perfil / Avatar - Prompt de Retrato Masculino Cinematográfico para GPT Image 2 - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [Aijaz](https://x.com/iamsofiaijaz)
+- **Fonte:** [Twitter Post](https://x.com/iamsofiaijaz/status/2101514331200639444)
+- **Publicado:** 20 de setembro de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=35055)**
+
+---
+
+### No. 2: Perfil / Avatar - Garota de Anime Feita de Água
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrição
+
+Prompt para gerar um personagem etéreo de anime composto inteiramente por água, com vestido aquático e gotas flutuantes contra um fundo de céu nublado.
+
+#### 📝 Prompt
+
+```
+Crie uma ilustração digital vertical em estilo anime de uma jovem feita inteiramente de água. A personagem tem cabelo curto no corte bob, que parece ser formado por respingos de água com tons de rosa e azul nas pontas. Seus olhos são grandes, claros e azuis, lembrando gotas d'água. Ela veste um vestido feito de água líquida transparente e fluida, que envolve seu corpo como se fosse tecido. Suas pernas e pés também são compostos de água, descalços sobre uma poça rasa que reflete o céu acima. Ao redor dela, há inúmeras gotas d'água e bolhas flutuantes de vários tamanhos. O fundo é um céu suave e onírico, cheio de nuvens brancas fofas e luz solar brilhante filtrada, criando um efeito de iluminação high-key e etéreo. A paleta de cores geral consiste em azuis frios, brancos e rosas suaves.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789891173879_dfcw7a_HSnQUXya4AAKY2d.jpg" width="600" alt="Perfil / Avatar - Garota de Anime Feita de Água - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [あいぼりー](https://x.com/HetareIvory)
+- **Fonte:** [Twitter Post](https://x.com/HetareIvory/status/2101440136202559702#reversed-0)
+- **Publicado:** 19 de setembro de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=35057)**
+
+---
+
+### No. 3: Perfil / Avatar - Prompt do GPT Image 2 para Retrato em Quarto Japonês
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 📖 Descrição
+
+Um prompt detalhado para o GPT Image 2 gerar um retrato fotorealista de uma mulher vestindo quimono, sentada sobre tatames, com leque e detalhes de tatuagem.
+
+#### 📝 Prompt
+
+```
+Assunto:
+Quarto japonês com leque e peônia
+
+Sujeito Principal:
+No centro da tela, uma jovem está sentada sobre tatames em um quarto japonês iluminado, vestindo um quimono com padrões de peônias, abrindo um leque floral para a esquerda. Uma grande tatuagem em estilo line-art de carpa e ondas é visível na coxa direita, em primeiro plano.
+
+Pessoa & Expressão:
+Rosto ovalado e delicado, queixo pequeno, grandes olhos castanho-avermelhados (hazel), sobrancelhas finas, ponte nasal limpa, lábios ligeiramente entreabertos com brilho cor pêssego. Cabeça levemente inclinada para a direita, olhando fixamente para a câmera frontal. Cabelos castanho-escuros presos em um coque alto e despojado, com franja fina e fios soltos caindo nas bochechas; um kanzashi (enfeite de cabelo) dourado em forma de ramo floral inserido na parte traseira direita da cabeça.
+
+Vestuário & Pose:
+Quimono de manga comprida estilo one-piece com decote V profundo, apresentando grandes padrões de peônias em vermelho, laranja e verde sobre fundo bege, amarrado com um obi largo (fundo preto com padrão floral em vermelho e dourado) e um obijime fino vermelho. Sentada com as pernas dobradas sobre os tatames, segurando o leque na mão direita, enquanto a mão esquerda repousa no tatame à direita. A tatuagem em line-art de carpa, ondas e flores se estende pela coxa direita em primeiro plano.
+
+Fundo & Luz:
+Painéis shoji brancos à esquerda, um vaso cinza com ramos floridos, portas fusuma douradas e uma lanterna baixa ao fundo à direita. A luz suave do dia entra pelos shoji à esquerda, iluminando intensamente o rosto, o quimono e a coxa em primeiro plano, projetando sombras quentes para o fundo à direita.
+
+Composição & Câmera:
+Composição vertical 2:3, câmera posicionada ligeiramente acima da pessoa sentada, retrato close-up de corpo inteiro da cabeça às pernas dobradas. O rosto e o leque ocupam a metade superior, enquanto a coxa tatuada aparece grande no primeiro plano inferior esquerdo. A barra do quimono é cortada na parte inferior, com foco nos olhos e no leque, e fundo com profundidade de campo suave.
+
+Textura & Estilo:
+Foto live-action fotorealista. Alta definição de pele natural, brilho da seda, padrões finos de peônias, trama do obi, papel washi do leque, textura dos tatames e linhas finas da tatuagem, com cores quentes do quarto japonês em tons de bege, vermelhão e preto tinta.
+
+Negativo:
+Omitir o leque e a tatuagem de carpa na coxa; alterar o esquema de cores do quimono e do obi
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789891171955_stnqvi_HSbM81cawAAO85v.jpg" width="600" alt="Perfil / Avatar - Prompt do GPT Image 2 para Retrato em Quarto Japonês - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [Prompt アトリエ｜AI画像プロンプト](https://x.com/CyberTotal2026)
+- **Fonte:** [Twitter Post](https://x.com/CyberTotal2026/status/2101297254481223763)
+- **Publicado:** 19 de setembro de 2026
+- **Idiomas:** ja
+
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=35054)**
+
+---
+
+### No. 4: Perfil / Avatar - Retrato de Selfie Matinal Divertido
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -576,7 +699,7 @@ Um retrato fotorealista em close-up de uma jovem mulher do Leste Asiático tiran
 
 ---
 
-### No. 2: Perfil / Avatar - Prompt para Jantar ao Pôr do Sol à Beira-Mar
+### No. 5: Perfil / Avatar - Prompt para Jantar ao Pôr do Sol à Beira-Mar
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -631,7 +754,7 @@ Alterar vestido de alças finas ecru e postura sentada; Omissão do pôr do sol 
 
 ---
 
-### No. 3: Perfil / Avatar - Retrato Cinematográfico Hiper-realista com Fumaça
+### No. 6: Perfil / Avatar - Retrato Cinematográfico Hiper-realista com Fumaça
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -670,7 +793,7 @@ Use iluminação natural suave e atmosférica, com tons quentes de fumaça paste
 
 ---
 
-### No. 4: Perfil / Avatar - Prompt de retrato de viagem realista
+### No. 7: Perfil / Avatar - Prompt de retrato de viagem realista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -711,7 +834,7 @@ Prompt negativo: pele plástica, retoque de beleza excessivo, distorção facial
 
 ---
 
-### No. 5: Perfil / Avatar - Mulher piscando segurando chaveiro de bicicleta em miniatura
+### No. 8: Perfil / Avatar - Mulher piscando segurando chaveiro de bicicleta em miniatura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -744,7 +867,7 @@ Um retrato fotorrealista de uma jovem asiática em um ambiente acolhedor de livr
 
 ---
 
-### No. 6: Perfil / Avatar - Prompt de Foto de Leitura em Livraria
+### No. 9: Perfil / Avatar - Prompt de Foto de Leitura em Livraria
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -799,7 +922,7 @@ Mudança da pose de estar sentado no chão segurando um livro; perda das estante
 
 ---
 
-### No. 7: Perfil / Avatar - Prompt de Mulher em Café Parisiense com Gato
+### No. 10: Perfil / Avatar - Prompt de Mulher em Café Parisiense com Gato
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -832,7 +955,7 @@ Um retrato espontâneo de uma bela jovem sentada em uma mesa de bistrô ao ar li
 
 ---
 
-### No. 8: Perfil / Avatar - Prompt de Cena de Jardim com Kimono de Verão
+### No. 11: Perfil / Avatar - Prompt de Cena de Jardim com Kimono de Verão
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -887,7 +1010,7 @@ Alterações na base branca e no padrão floral azul/pêssego do yukata; pontas 
 
 ---
 
-### No. 9: Perfil / Avatar - Prompt de Foto de Brinde em Izakaya
+### No. 12: Perfil / Avatar - Prompt de Foto de Brinde em Izakaya
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -942,7 +1065,7 @@ Mudança na perspectiva de erguer o copo para frente; perda do sorriso e do yaki
 
 ---
 
-### No. 10: Perfil / Avatar - Retrato Cinematográfico de Jaqueta Jeans
+### No. 13: Perfil / Avatar - Retrato Cinematográfico de Jaqueta Jeans
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -982,7 +1105,7 @@ Prompt negativo: cartoon, anime, ilustração, CGI, pele plástica, rosto excess
 
 ---
 
-### No. 11: Perfil / Avatar - Prompt de Retrato Cinematográfico para GPT-Image-2
+### No. 14: Perfil / Avatar - Prompt de Retrato Cinematográfico para GPT-Image-2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1015,7 +1138,7 @@ Retrato cinematográfico ultra-realista de um jovem homem, use a imagem como ref
 
 ---
 
-### No. 12: Perfil / Avatar - Selfie de Renovação Art Déco
+### No. 15: Perfil / Avatar - Selfie de Renovação Art Déco
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1048,7 +1171,7 @@ Uma selfie hiper-realista e grande-angular de uma jovem mulher com cabelos longo
 
 ---
 
-### No. 13: Perfil / Avatar - Retrato ao Amanhecer com Montanhas em Dupla Exposição
+### No. 16: Perfil / Avatar - Retrato ao Amanhecer com Montanhas em Dupla Exposição
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1081,7 +1204,7 @@ Usando a imagem de referência fornecida, transforme o retrato da pessoa em uma 
 
 ---
 
-### No. 14: Perfil / Avatar - Selfie no Espelho com Vestido Amarelo
+### No. 17: Perfil / Avatar - Selfie no Espelho com Vestido Amarelo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1136,7 +1259,7 @@ Alterar a cor do vestido, as alças ou a fenda; esconder todo o rosto com o smar
 
 ---
 
-### No. 15: Perfil / Avatar - Prompt de Retrato Aconchegante
+### No. 18: Perfil / Avatar - Prompt de Retrato Aconchegante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1181,7 +1304,7 @@ A luz diurna suave e difusa do interior entra pela esquerda da câmera, produzin
 
 ---
 
-### No. 16: Perfil / Avatar - Foto de Cabelo Preto em Cadeira Diante da Janela
+### No. 19: Perfil / Avatar - Foto de Cabelo Preto em Cadeira Diante da Janela
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1236,7 +1359,7 @@ Alterar o penteado ou a maneira de sentar com os joelhos abraçados; vestir a ca
 
 ---
 
-### No. 17: Perfil / Avatar - Ilustração em papel artesanal
+### No. 20: Perfil / Avatar - Ilustração em papel artesanal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1341,35 +1464,25 @@ Sem fotografia, seção fotográfica, tela dividida, metade superior, colagem, m
 
 ---
 
-### No. 18: Perfil / Avatar - Retrato caricato de Montmartre
+### No. 21: Publicação em Mídias Sociais - Prompt de Pôster de Viagem em Painel Dividido para GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt para gerar um retrato fotorealista cinematográfico de uma pessoa em Montmartre segurando um bloco de desenho com sua própria caricatura exagerada.
+Um prompt detalhado para gerar um pôster de viagem vertical que combina fotografia realista na parte superior com ilustração 3D em estilo paper-craft na parte inferior. Inclui campos personalizáveis para localização, iluminação, tema principal e tipografia.
 
 #### 📝 Prompt
 
 ```
-Use a foto de retrato enviada como referência principal de identidade. Preserve a identidade facial reconhecível da pessoa com o máximo de precisão possível, incluindo formato do rosto, idade aparente, linha do cabelo recuada ou estilo de cabelo, sobrancelhas, formato dos olhos, nariz, boca, mandíbula, padrão da barba grisalha, tom de pele, expressão e caráter individual geral.
+Um pôster de viagem vertical, dividido em painéis, apresentando uma vista fotográfica na parte superior e uma ilustração 3D em camadas de papel (paper-craft) da mesma cena exata na parte inferior.
 
-Crie uma cena de retrato cinematográfica e fotorrealista na proporção 4:3 em um canto tranquilo e charmoso de Montmartre, Paris. Mostre a mesma pessoa da fotografia enviada sentada ou de pé do lado de fora de um café parisiense clássico em uma rua turística pacífica. O cenário deve parecer autenticamente montmartrense, com ruas de paralelepípedos, prédios antigos cor creme, cadeiras de café, toldo vermelho do café, luz suave do dia, atmosfera artística de rua e a Sacré-Cœur suavemente visível ao fundo.
+Painel Superior (Fotografia Realista): Uma fotografia vibrante, altamente detalhada e em grande angular de {argument name="location scenery" default="um vale alpino suíço sereno com um trem azul moderno"}. A iluminação é {argument name="lighting style" default="luz quente da hora dourada"}. A composição mostra {argument name="main subject action" default="um trem curvando-se nos trilhos"}.
 
-A pessoa deve estar claramente visível dentro do quadro e fotografada realisticamente, vestindo uma camisa ou jaqueta escura simples. Ele segura um grande bloco de desenho branco ao seu lado, voltado para a câmera.
+Painel Inferior (Arte Paper-Craft): Uma ilustração intrincada em recorte de papel 3D multi-camadas, recriando a cena exata da foto acima. Camadas dimensionais de papel feitas à mão criam profundidade, com bordas texturizadas visíveis e sombras. Elementos como as montanhas ao fundo, árvores, arquitetura e os temas principais são construídos a partir de recortes de papel em cores distintas. O papel de fundo atrás da ilustração é de um tom creme off-white quente e texturizado.
 
-O papel apresenta uma caricatura francesa de rua exagerada da mesma pessoa, desenhada no estilo clássico old-school de um artista turístico de Montmartre. A caricatura deve parecer desenhada à mão usando linhas de tinta preta ou caneta sobre papel branco. Deve ser dramaticamente exagerada e humorística, mas permanecer claramente reconhecível como a mesma pessoa.
-
-Exagere teatralmente os traços faciais: um nariz grande demais ou de forma incomum, uma mandíbula exagerada, orelhas aumentadas, sobrancelhas expressivas, proporções faciais distorcidas, um sorriso largo e travesso, uma forma de barba fortemente enfatizada e uma expressão lúdica e exagerada. Mantenha a caricatura encantadora, engraçada e artística, em vez de grotesca.
-
-Importante: mostre claramente ambas as versões dentro de uma única imagem:
-
-A pessoa real, fotorrealista
-O desenho da caricatura da mesma pessoa no papel
-
-Use iluminação realista, composição limpa, alto nível de detalhes, textura natural da pele, mãos críveis segurando o papel, fundo calmo e uma atmosfera lúdica de souvenir turístico parisiense vintage.
-
-Proporção de aspecto: 4:3.
+Tipografia & Layout: Design limpo e minimalista de pôster de viagem. Tipografia serifada escura e elegante para o título principal: "{argument name="title text" default="Alpine Journey"}". Texto menor em sans-serif alinhado à direita ou lateralmente: "SCENIC ROUTE / NATURE / A BRIGHTER TOMORROW". Legendas minimalistas e linhas finas de alinhamento posicionadas sobre o fundo de papel creme.
 ```
 
 #### 🖼️ Imagens geradas
@@ -1377,97 +1490,33 @@ Proporção de aspecto: 4:3.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789545094907_gtbdav_HSRMcsRWsAA2RVh.jpg" width="600" alt="Perfil / Avatar - Retrato caricato de Montmartre - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789891171902_3t0gre_HSo5s3jbsAArQri.jpg" width="600" alt="Publicação em Mídias Sociais - Prompt de Pôster de Viagem em Painel Dividido para GPT Image 2 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789891171896_ujcn5i_HSo5s33bYAAW4l6.jpg" width="600" alt="Publicação em Mídias Sociais - Prompt de Pôster de Viagem em Painel Dividido para GPT Image 2 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789891171896_sqponz_HSo5s4EbYAEaFka.jpg" width="600" alt="Publicação em Mídias Sociais - Prompt de Pôster de Viagem em Painel Dividido para GPT Image 2 - Image 3">
 </div>
 
 #### 📌 Detalhes
 
-- **Autor:** [Shine by Nous ✨](https://x.com/Shinebynous)
-- **Fonte:** [Twitter Post](https://x.com/Shinebynous/status/2099887409257177093)
-- **Publicado:** 15 de setembro de 2026
+- **Autor:** [Sairah](https://x.com/Sairah_0)
+- **Fonte:** [Twitter Post](https://x.com/Sairah_0/status/2101555686060536233)
+- **Publicado:** 20 de setembro de 2026
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=34753)**
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=35056)**
 
 ---
 
-### No. 19: Perfil / Avatar - Díptico de Retrato em Dois Painéis
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrição
-
-Um prompt para transformar uma única foto em um elegante díptico de dois painéis, apresentando humores contrastantes 'suave' e 'ousado' com bordas botânicas decorativas.
-
-#### 📝 Prompt
-
-```
-Usando a imagem de referência fornecida como base do personagem, gere um retrato horizontal em díptico de dois painéis. Preserve a identidade da pessoa, os traços faciais e os brincos prateados jhumka característicos exatamente como aparecem na referência.
-
-Layout: Uma composição dividida com uma fina linha vertical separando os dois painéis. Todo o canvas possui um fundo de papel bege texturizado, apresentando ilustrações botânicas de videiras desenhadas à mão em tinta preta que emolduram as bordas externas de ambos os painéis.
-
-Painel Esquerdo (Humor Suave): Represente a pessoa vestindo um kurta branco com delicada bordadura floral azul. Ela está apoiando o queixo na mão, olhando para cima e para a direita. O fundo é uma parede rosa empoeirada quente, com luz suave vinda de uma janela à esquerda.
-
-Painel Direito (Humor Ousado): Represente a pessoa vestindo um blazer preto estruturado sobre uma blusa preta. Ela está olhando para cima e para a direita com uma expressão confiante. O fundo é um cenário de estúdio azul ardósia frio, com um grande efeito circular de holofote suave atrás de sua cabeça.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789545104724_1cvtje_HSQz6FGaEAAURpy.jpg" width="600" alt="Perfil / Avatar - Díptico de Retrato em Dois Painéis - Image 1">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [boB](https://x.com/b0BRude)
-- **Fonte:** [Twitter Post](https://x.com/b0BRude/status/2099860408752599328#reversed-0)
-- **Publicado:** 15 de setembro de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=34769)**
-
----
-
-### No. 20: Perfil / Avatar - Prompt para Avatar Profissional Realista
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Descrição
-
-Um prompt altamente detalhado para o GPT Image 2 (referido como GPT2/versão web do ChatGPT) gerar avatares profissionais realistas e naturais, com instruções específicas de iluminação, fundo e textura.
-
-#### 📝 Prompt
-
-```
-Gere um avatar profissional real, natural e acessível com base na foto de entrada, mantendo rigorosamente a consistência da identidade, proporções faciais, formato do rosto, linha frontal do cabelo, percepção de idade e expressão de gênero original, sem alterar a aparência. Composição quadrada 1:1, enquadrada acima do peito, adotando equilíbrio visual assimétrico: personagem ligeiramente à direita, mantendo cerca de 18% da altura da tela acima da cabeça, com espaço negativo principal à esquerda e no canto superior esquerdo, evitando o estilo centralizado e recorte apertado típico de fotos de documentos. Linhas dos ombros naturais, leve inclinação da cabeça, olhando diretamente para a câmera, expressão relaxada, confiante e amigável, podendo ter um sorriso natural ou mostrar os dentes.
-
-A roupa deve ser simples, com gola redonda escura ou top minimalista, adaptada naturalmente ao estilo original do personagem; mulheres mantêm penteado, maquiagem e joias moderadas naturais, homens mantêm barba por fazer, penteado e outros traços reais, sem estereótipos de gênero. O fundo é uma parede real em tons quentes: marrom avermelhado/cinza quente caramelo de baixa luminosidade no topo, bege acinzentado/apricot no meio, branco creme na parte inferior, formando um gradiente vertical não linear através do decaimento natural da luz, reflexo da parede e leve vinheta; adicione grãos finos, de baixa amplitude e alta frequência, mais evidentes nas áreas escuras, simulando sensores digitais antigos e leve textura JPEG.
-
-Use luz suave de janela em grande área, baixa razão de iluminação, baixo contraste local, sem luz de contorno ou modelagem de estúdio comercial. O tom de pele mantém diferenças reais de matiz e cor sanguínea natural; evite suavização excessiva da pele branca como porcelana em mulheres e evite enfatizar demais texturas ásperas em homens; reduza detalhes de alta frequência e nitidez da pele, retendo estruturas faciais de média-baixa frequência, tornando a pele macia mas real. Tom geral quente de baixa saturação, destaques suaves, leve elevação dos pretos, cores azul-ciano reduzidas, apresentando a textura de avatar digital inicial dos anos 2000–2010: inteligente, confiável, relaxado, natural e acessível, em vez de um retrato comercial moderno de alto padrão.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789545099940_jstsvo_HSPWs47bYAArT_M.jpg" width="600" alt="Perfil / Avatar - Prompt para Avatar Profissional Realista - Image 1">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [小小东](https://x.com/xiaoxiaodong01)
-- **Fonte:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2099758539665490371)
-- **Publicado:** 15 de setembro de 2026
-- **Idiomas:** zh
-
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=34675)**
-
----
-
-### No. 21: Publicação em Mídias Sociais - Prompt de Retrato Cinematográfico em Estúdio
+### No. 22: Publicação em Mídias Sociais - Prompt de Retrato Cinematográfico em Estúdio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1504,7 +1553,7 @@ Use iluminação lateral quente e dramática vinda de uma direção, criando som
 
 ---
 
-### No. 22: Publicação em Mídias Sociais - GPT Image 2: Street Snap de Personagens da Vida Real
+### No. 23: Publicação em Mídias Sociais - GPT Image 2: Street Snap de Personagens da Vida Real
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1562,7 +1611,7 @@ Logo estilizado "V" + elemento de gato no canto superior esquerdo, assinatura vo
 
 ---
 
-### No. 23: Publicação em Mídias Sociais - Prompt de Retrato de Moda Ultra Realista
+### No. 24: Publicação em Mídias Sociais - Prompt de Retrato de Moda Ultra Realista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1596,7 +1645,7 @@ Retrato de moda ultra realista de uma mulher bonita cercada por tecido branco tr
 
 ---
 
-### No. 24: Publicação em Mídias Sociais - Prompt Editorial de Moda Mediterrânea de Luxo
+### No. 25: Publicação em Mídias Sociais - Prompt Editorial de Moda Mediterrânea de Luxo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1630,7 +1679,7 @@ Dramático cenário costeiro mediterrâneo, deslumbrante mar azul-turquesa e pen
 
 ---
 
-### No. 25: Publicação em Mídias Sociais - Transformação em Ilustração de Moda Desenhada à Mão
+### No. 26: Publicação em Mídias Sociais - Transformação em Ilustração de Moda Desenhada à Mão
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1681,7 +1730,7 @@ Transforme esta foto em um esboço fofo de moda/estilo de vida japonês desenhad
 
 ---
 
-### No. 26: Publicação em Mídias Sociais - Foto de Campanha Fitness Cinematográfica
+### No. 27: Publicação em Mídias Sociais - Foto de Campanha Fitness Cinematográfica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1721,7 +1770,7 @@ Sem mulheres, sem multidão, sem pessoas extras, sem logos, sem marca d'água, s
 
 ---
 
-### No. 27: Publicação em Mídias Sociais - Díptico em Foco Suave de um Momento Tranquilo de Escrita
+### No. 28: Publicação em Mídias Sociais - Díptico em Foco Suave de um Momento Tranquilo de Escrita
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1772,7 +1821,7 @@ Crie uma imagem díptica com dois painéis lado a lado. O painel esquerdo mostra
 
 ---
 
-### No. 28: Publicação em Mídias Sociais - Prompt de Ilustração em Recorte de Papel para GPT Image 2
+### No. 29: Publicação em Mídias Sociais - Prompt de Ilustração em Recorte de Papel para GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1853,114 +1902,7 @@ Evite fotorealismo, CGI, superfícies brilhantes, aparência plástica, cores ne
 
 ---
 
-### No. 29: Publicação em Mídias Sociais - Foto de Gato Cinza vs. Díptico de Arte em Biscoitos
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrição
-
-Uma composição em tela dividida que contrasta uma foto realista de um gato British Shorthair cinza com uma recriação lúdica da mesma cena usando biscoitos de açúcar decorados.
-
-#### 📝 Prompt
-
-```
-Crie uma imagem vertical em díptico comparando uma fotografia realista com uma ilustração artística feita de biscoitos. A metade superior apresenta uma fotografia close-up, de alta resolução, de um gato British Shorthair cinza deitado sobre uma superfície de madeira, olhando para cima e para a direita com olhos brilhantes amarelo-esverdeados. O fundo é branco desfocado, com folhas verdes de plantas borradas no canto superior esquerdo. No canto superior direito, sobreponha texto em estilo manuscrito lendo "Good Days" seguido por um pequeno símbolo de coração e, abaixo dele, texto menor em fonte sem serifa: "SAME CAT BRIGHTER TOMORROW".
-
-A metade inferior exibe uma ilustração criativa onde a mesma pose do gato é recriada usando biscoitos de açúcar decorados sobre um fundo de papel texturizado cor creme. O elemento central é um recorte grande e irregular de biscoito na forma do gato reclinado, coberto com glacê real cinza liso, com linhas de textura detalhadas imitando o pelo, bigodes brancos e olhos pintados de amarelo. À esquerda do biscoito-gato há uma pequena planta em vaso feita de glacê verde e bege. Acima da cabeça do gato está uma moldura quadrada de biscoito contendo um design de céu azul e nuvens. À direita estão três biscoitos retangulares empilhados rotulados como "NAP", "GOOD FOOD" e "HAPPY LIFE" em glacê marrom. Acima desses elementos, escreva "A Softer Tomorrow" em script cursivo marrom com um pequeno coração. No canto inferior esquerdo, repita o texto pequeno "SAME CAT BRIGHTER TOMORROW". No canto inferior direito, adicione dois pequenos biscoitos em formato de pegadas.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789803929582_2hmid8_HSaq4iVaMAEJiPp.jpg" width="600" alt="Publicação em Mídias Sociais - Foto de Gato Cinza vs. Díptico de Arte em Biscoitos - Image 1">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [小小东](https://x.com/xiaoxiaodong01)
-- **Fonte:** [Twitter Post](https://x.com/xiaoxiaodong01/status/2100555267608035471#reversed-0)
-- **Publicado:** 17 de setembro de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=35008)**
-
----
-
-### No. 30: Publicação em Mídias Sociais - Prompt de Retrato Desértico Cinematográfico para GPT Image 2
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrição
-
-Um prompt altamente detalhado para gerar um retrato cinematográfico ultra-realista de corpo inteiro de um homem vestindo roupas tradicionais do Oriente Médio, caminhando pelas dunas do deserto ao pôr do sol.
-
-#### 📝 Prompt
-
-```
-Retrato cinematográfico ultra-realista de corpo inteiro de um jovem deslumbrante no início dos seus 20 anos, caminhando com confiança por vastas dunas douradas do deserto ao pôr do sol. Ele tem cabelos pretos como azeviche, naturalmente ondulados e volumosos, sobrancelhas fortes e bem definidas, olhos castanho-escuros profundos e expressivos, nariz reto e esculpido, maçãs do rosto proeminentes, mandíbula masculina marcada e uma leve barba rala natural. Sua expressão é calma, régia, confiante e misteriosa.
-
-Ele veste roupas sofisticadas inspiradas na tradição do Oriente Médio: um thobe marfim luxuoso e fluido com detalhes sutis bordados, um bisht vinho-borgonha perfeitamente drapeado com acabamentos elegantes em ouro, sandálias de couro refinadas e um keffiyeh creme tradicional estilizado naturalmente ao redor da cabeça e ombros. O tecido se move suavemente na brisa quente do deserto.
-
-Dunas de areia esculpidas sem fim se estendem até o horizonte, brilhando sob um dramático pôr do sol na hora dourada. A luz solar quente cria longas sombras cinematográficas sobre a areia, com partículas de poeira atmosférica flutuando suavemente no ar. A silhueta majestosa de uma montanha distante no deserto adiciona profundidade ao horizonte.
-
-Fotografia editorial de moda de luxo, composição cinematográfica, textura natural da pele e poros visíveis, detalhes realistas do tecido, iluminação fisicamente precisa, luz solar dourada volumétrica, grão de filme sutil, profundidade de campo rasa, tons quentes ricos, céu dramático, fotorrealista, 8K HDR, ultra-detalhado, fotografado com lente de 85mm, estética premium de revista, sem rosto com aparência artificial, sem texto, sem marca d'água.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789717711906_q2qosr_HSaqaSWaAAAoc1X.jpg" width="600" alt="Publicação em Mídias Sociais - Prompt de Retrato Desértico Cinematográfico para GPT Image 2 - Image 1">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [HeisenLegacy](https://x.com/MohdAdnanA86218)
-- **Fonte:** [Twitter Post](https://x.com/MohdAdnanA86218/status/2100553654071968133)
-- **Publicado:** 17 de setembro de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=34931)**
-
----
-
-### No. 31: Publicação em Mídias Sociais - Cena Noturna de Maravilha do Carnaval
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrição
-
-Gera uma imagem cinematográfica de amigos maravilhados com um carnaval iluminado por neon e um cavalo de carrossel flutuante.
-
-#### 📝 Prompt
-
-```
-Uma cena noturna vibrante de carnaval, capturada em um plano aberto cinematográfico e hiper-realista. Em primeiro plano, quatro jovens adultos (dois homens e duas mulheres) estão de pé, olhando para cima com expressões de admiração e alegria. A mulher ao centro tem cabelos longos e escuros e veste uma blusa branca com estampa floral; ela sorri suavemente. À sua esquerda, um homem usando um moletom com capuz observa o céu. Atrás deles, outra mulher e outro homem também contemplam a paisagem celeste. O fundo é preenchido por luzes bokeh deslumbrantes e desfocadas, provenientes de uma enorme roda-gigante e estruturas de carrossel, brilhando em intensos tons de azul-neon, roxo e laranja. Um único cavalo de carrossel flutua misteriosamente no ar, no canto superior direito, separado da atração, banhado por uma luz mágica. A atmosfera é onírica e elétrica.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789717720870_j7ngii_HSaAZdnbcAAszVB.jpg" width="600" alt="Publicação em Mídias Sociais - Cena Noturna de Maravilha do Carnaval - Image 1">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Tiyashi](https://x.com/TiyashiAI)
-- **Fonte:** [Twitter Post](https://x.com/TiyashiAI/status/2100507464320077836#reversed-0)
-- **Publicado:** 17 de setembro de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=34944)**
-
----
-
-### No. 32: Infográfico / Edu Visual - Ficha de Design de Personagem Anime: Rainha da Espada
+### No. 30: Infográfico / Edu Visual - Ficha de Design de Personagem Anime: Rainha da Espada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2008,7 +1950,7 @@ Crie uma ficha de design de personagem altamente detalhada e profissional para u
 
 ---
 
-### No. 33: Infográfico / Edu Visual - Ilustração de Estudo em Café com Arte Popular
+### No. 31: Infográfico / Edu Visual - Ilustração de Estudo em Café com Arte Popular
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2069,7 +2011,7 @@ Espalhe apenas alguns elementos flutuantes minúsculos pelo espaço vazio: quatr
 
 ---
 
-### No. 34: Infográfico / Edu Visual - Prompt de Pôster Tipográfico para o Festival do Meio Outono
+### No. 32: Infográfico / Edu Visual - Prompt de Pôster Tipográfico para o Festival do Meio Outono
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2127,7 +2069,7 @@ Cor da Fonte: {argument name="font_color_en" default="Gucci Ancora Red"}
 
 ---
 
-### No. 35: Infográfico / Edu Visual - Infográfico de Estação de Tratamento de Esgoto
+### No. 33: Infográfico / Edu Visual - Infográfico de Estação de Tratamento de Esgoto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2179,7 +2121,7 @@ Crie um pôster infográfico horizontal explicando os princípios de funcionamen
 
 ---
 
-### No. 36: Infográfico / Edu Visual - Prompt para Pôster de Cerimônia Minimalista com GPT Image 2
+### No. 34: Infográfico / Edu Visual - Prompt para Pôster de Cerimônia Minimalista com GPT Image 2
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2232,7 +2174,7 @@ Defina o tema como "Dia de Portas Abertas da Biblioteca Pública Municipal" para
 
 ---
 
-### No. 37: Infográfico / Edu Visual - Grade de Painéis de Marketing no Estilo UGC
+### No. 35: Infográfico / Edu Visual - Grade de Painéis de Marketing no Estilo UGC
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2272,7 +2214,7 @@ Crie uma grade 3x3 em folha completa de painéis realistas no estilo UGC apresen
 
 ---
 
-### No. 38: Infográfico / Edu Visual - Transformação em Feltro: Cervos Dourados ao Amanhecer
+### No. 36: Infográfico / Edu Visual - Transformação em Feltro: Cervos Dourados ao Amanhecer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2334,7 +2276,7 @@ Restrições: Mantenha o layout de tela dividida, exatamente 5 cervos em cada la
 
 ---
 
-### No. 39: Infográfico / Edu Visual - Technical Product Infographic Overlay
+### No. 37: Infográfico / Edu Visual - Technical Product Infographic Overlay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2374,7 +2316,7 @@ Premium technical infographic of {argument name="product" default="[Apple 18 pro
 
 ---
 
-### No. 40: Infográfico / Edu Visual - Research Paper Academic Poster
+### No. 38: Infográfico / Edu Visual - Research Paper Academic Poster
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2408,7 +2350,7 @@ Research the poster regulations for presentation at the {argument name="conferen
 
 ---
 
-### No. 41: Infográfico / Edu Visual - 3D Diagrams and Visual Layouts
+### No. 39: Infográfico / Edu Visual - 3D Diagrams and Visual Layouts
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2444,7 +2386,7 @@ You are an information editor, diagram designer, and 3D art director.
 
 ---
 
-### No. 42: Infográfico / Edu Visual - Coração Artificial Transparente em Vista Explodida
+### No. 40: Infográfico / Edu Visual - Coração Artificial Transparente em Vista Explodida
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2498,7 +2440,7 @@ Restrições: Sem pessoas, sem mãos, sem sangue ou violência, sem estilo de de
 
 ---
 
-### No. 43: Infográfico / Edu Visual - Do Esboço à Renderização de Produto com IA
+### No. 41: Infográfico / Edu Visual - Do Esboço à Renderização de Produto com IA
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2532,7 +2474,7 @@ Crie uma cena de espaço de trabalho de design de produto limpa e fotorrealista,
 
 ---
 
-### No. 44: Infográfico / Edu Visual - Folha de Detalhamento de Janela de Corredor Japonês
+### No. 42: Infográfico / Edu Visual - Folha de Detalhamento de Janela de Corredor Japonês
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2578,7 +2520,7 @@ Estilo e restrições: Mantenha a apresentação arquitetônica japonesa limpa d
 
 ---
 
-### No. 45: Infográfico / Edu Visual - Recriação Fiel de Infográfico de Política Japonesa
+### No. 43: Infográfico / Edu Visual - Recriação Fiel de Infográfico de Política Japonesa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2612,7 +2554,7 @@ Usando REFERENCE_0 como fonte única, recrie fielmente o infográfico de políti
 
 ---
 
-### No. 46: Infográfico / Edu Visual - Captura de tela de infográfico sobre a Rebelião de An Lushan no ChatGPT
+### No. 44: Infográfico / Edu Visual - Captura de tela de infográfico sobre a Rebelião de An Lushan no ChatGPT
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2668,7 +2610,7 @@ Restrições: Não adicione mensagens de chat extras. Mantenha o infográfico to
 
 ---
 
-### No. 47: Infográfico / Edu Visual - Corte de Edifício em Vidro com Lupa
+### No. 45: Infográfico / Edu Visual - Corte de Edifício em Vidro com Lupa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2722,7 +2664,7 @@ Restrições de texto: O texto da anotação deve ser legível, branco, sem seri
 
 ---
 
-### No. 48: Miniatura do YouTube - Robô Policial Gigante Capturando Urso
+### No. 46: Miniatura do YouTube - Robô Policial Gigante Capturando Urso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2755,7 +2697,7 @@ Uma imagem fotorrealista em alta resolução de um gigante robô policial bíped
 
 ---
 
-### No. 49: Miniatura do YouTube - Criança pequena interagindo com garçonete
+### No. 47: Miniatura do YouTube - Criança pequena interagindo com garçonete
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2788,7 +2730,7 @@ Uma tomada vertical cinematográfica e realista de uma criança pequena fofa par
 
 ---
 
-### No. 50: Miniatura do YouTube - Storyboard de Teaser de VTuber Cyber Idol
+### No. 48: Miniatura do YouTube - Storyboard de Teaser de VTuber Cyber Idol
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2851,7 +2793,7 @@ Estilo visual: Anime japonês moderno e polido, arte conceitual de MV teaser de 
 
 ---
 
-### No. 51: Miniatura do YouTube - Pôster de Anime de Espadachim em Eclipse Lunar
+### No. 49: Miniatura do YouTube - Pôster de Anime de Espadachim em Eclipse Lunar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2901,7 +2843,7 @@ Estilo visual: Ilustração de anime moderna e polida, traços nítidos, ilumina
 
 ---
 
-### No. 52: Miniatura do YouTube - Grade de Personagens no Estilo de MV de Vocaloid
+### No. 50: Miniatura do YouTube - Grade de Personagens no Estilo de MV de Vocaloid
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2935,7 +2877,7 @@ Por favor, use este personagem para criar várias cenas no estilo {argument name
 
 ---
 
-### No. 53: Miniatura do YouTube - Ilustração Futurista de Cidade Flutuante com Nebulosa
+### No. 51: Miniatura do YouTube - Ilustração Futurista de Cidade Flutuante com Nebulosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2974,7 +2916,7 @@ Uma encantadora ilustração digital de uma paisagem urbana suspensa acima de um
 
 ---
 
-### No. 54: Miniatura do YouTube - Apresentador de Podcast Retro Synthwave
+### No. 52: Miniatura do YouTube - Apresentador de Podcast Retro Synthwave
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3008,7 +2950,7 @@ Crie um retrato fotorrealista de um apresentador de podcast synthwave retrô dos
 
 ---
 
-### No. 55: Miniatura do YouTube - Capa de álbum cinematográfica de deserto com anel de fogo
+### No. 53: Miniatura do YouTube - Capa de álbum cinematográfica de deserto com anel de fogo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3047,7 +2989,7 @@ Capa de álbum cinematográfica ultra-fotorrealista apresentando um cantor parad
 
 ---
 
-### No. 56: Miniatura do YouTube - Espadachim de orelhas de cão cyberpunk
+### No. 54: Miniatura do YouTube - Espadachim de orelhas de cão cyberpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3087,7 +3029,7 @@ Crie um visual de anime cinematográfico de {argument name="character name" defa
 
 ---
 
-### No. 57: Miniatura do YouTube - MV de Parkour em Cidade Cyberpunk
+### No. 55: Miniatura do YouTube - MV de Parkour em Cidade Cyberpunk
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3125,7 +3067,7 @@ Storyboard: GPT-5.6 Sol
 
 ---
 
-### No. 58: Miniatura do YouTube - Fotografia de Lanterna no Crepúsculo de Inverno
+### No. 56: Miniatura do YouTube - Fotografia de Lanterna no Crepúsculo de Inverno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3159,7 +3101,7 @@ Um prompt altamente detalhado e cinematográfico para gerar uma imagem fotorreal
 
 ---
 
-### No. 59: Miniatura do YouTube - Capa de Dança Miami Night
+### No. 57: Miniatura do YouTube - Capa de Dança Miami Night
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3207,7 +3149,7 @@ Restrições: Mantenha todo o texto listado legível e posicionado conforme desc
 
 ---
 
-### No. 60: Miniatura do YouTube - Capa de Playlist Pirate Funk
+### No. 58: Miniatura do YouTube - Capa de Playlist Pirate Funk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3241,7 +3183,7 @@ Crie uma capa de playlist quadrada para o Spotify para {argument name="playlist 
 
 ---
 
-### No. 61: Miniatura do YouTube - Thumbnail de Review de Fones de Ouvido Sony
+### No. 59: Miniatura do YouTube - Thumbnail de Review de Fones de Ouvido Sony
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3275,7 +3217,7 @@ Crie uma thumbnail de review de tecnologia para YouTube de alto impacto no forma
 
 ---
 
-### No. 62: Miniatura do YouTube - Retrato de Filme de Ação Cinematográfico
+### No. 60: Miniatura do YouTube - Retrato de Filme de Ação Cinematográfico
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3321,7 +3263,7 @@ Um prompt altamente detalhado para gerar uma captura de tela profissional de fil
 
 ---
 
-### No. 63: Miniatura do YouTube - Captura de tela de debate ao vivo no YouTube
+### No. 61: Miniatura do YouTube - Captura de tela de debate ao vivo no YouTube
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3355,7 +3297,7 @@ captura de tela de debate ao vivo {argument name="people" default="sam vs dario"
 
 ---
 
-### No. 64: Miniatura do YouTube - Anime Losing Heroines Classroom Still
+### No. 62: Miniatura do YouTube - Anime Losing Heroines Classroom Still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3403,7 +3345,7 @@ Restrições: Use exatamente 3 personagens e exatamente 5 objetos notáveis de m
 
 ---
 
-### No. 65: Miniatura do YouTube - Key Visual da sala de aula de Anime Losing Heroines
+### No. 63: Miniatura do YouTube - Key Visual da sala de aula de Anime Losing Heroines
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3437,7 +3379,7 @@ Crie um key visual de anime cinematográfico em 16:9 para uma comédia romântic
 
 ---
 
-### No. 66: Miniatura do YouTube - Key Visual de Anime: Makeine: Too Many Losing Heroines!
+### No. 64: Miniatura do YouTube - Key Visual de Anime: Makeine: Too Many Losing Heroines!
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3471,7 +3413,7 @@ Crie um key visual de anime cinematográfico para uma série de comédia românt
 
 ---
 
-### No. 67: Miniatura do YouTube - Key Visual de Anime Classroom Losing Heroines
+### No. 65: Miniatura do YouTube - Key Visual de Anime Classroom Losing Heroines
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3505,7 +3447,7 @@ Crie um key visual de anime cinematográfico em 16:9 para {argument name="anime 
 
 ---
 
-### No. 68: Quadrinhos / Storyboard - Transformação de Oficina Steampunk em Vista Aérea
+### No. 66: Quadrinhos / Storyboard - Transformação de Oficina Steampunk em Vista Aérea
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3538,7 +3480,7 @@ Usando a imagem de referência fornecida, transforme o retrato em uma vista aér
 
 ---
 
-### No. 69: Quadrinhos / Storyboard - Cartógrafo Fantástico e Cão
+### No. 67: Quadrinhos / Storyboard - Cartógrafo Fantástico e Cão
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3571,7 +3513,7 @@ Usando a imagem de referência fornecida, transforme o sujeito e seu cachorro em
 
 ---
 
-### No. 70: Quadrinhos / Storyboard - Colagem de Retrato Editorial Vintage
+### No. 68: Quadrinhos / Storyboard - Colagem de Retrato Editorial Vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3610,7 +3552,7 @@ Layout de grade 2×2 simétrico, divisórias brancas finas entre os painéis, id
 
 ---
 
-### No. 71: Quadrinhos / Storyboard - Dama da Corte em Rosa Translúcido
+### No. 69: Quadrinhos / Storyboard - Dama da Corte em Rosa Translúcido
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3650,7 +3592,7 @@ Crie uma ilustração de retrato delicada em estilo anime de {argument name="cha
 
 ---
 
-### No. 72: Quadrinhos / Storyboard - Trem de anime ao anoitecer com o Monte Fuji
+### No. 70: Quadrinhos / Storyboard - Trem de anime ao anoitecer com o Monte Fuji
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3690,7 +3632,7 @@ Crie uma ilustração cinematográfica em estilo anime de um interior de trem si
 
 ---
 
-### No. 73: Quadrinhos / Storyboard - Pôster Scrapbook Cloud Friend
+### No. 71: Quadrinhos / Storyboard - Pôster Scrapbook Cloud Friend
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3749,7 +3691,7 @@ Restrições: Preserve a composição exata de dois painéis, a contagem exata d
 
 ---
 
-### No. 74: Quadrinhos / Storyboard - Cena conceitual do Museu dos Amanhãs Perdidos
+### No. 72: Quadrinhos / Storyboard - Cena conceitual do Museu dos Amanhãs Perdidos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3821,7 +3763,7 @@ Um prompt cinematográfico para um museu subterrâneo que exibe vitrines de sonh
 
 ---
 
-### No. 75: Quadrinhos / Storyboard - Cena cinematográfica de The Last Train Home
+### No. 73: Quadrinhos / Storyboard - Cena cinematográfica de The Last Train Home
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3893,7 +3835,7 @@ Um prompt cinematográfico assustadoramente belo de uma estação de trem abando
 
 ---
 
-### No. 76: Quadrinhos / Storyboard - Trono do Rei Vampiro Morto-Vivo
+### No. 74: Quadrinhos / Storyboard - Trono do Rei Vampiro Morto-Vivo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3927,7 +3869,7 @@ Crie uma ilustração gótica de fantasia sombria ultra detalhada de {argument n
 
 ---
 
-### No. 77: Quadrinhos / Storyboard - Hand-drawn travel journal illustration
+### No. 75: Quadrinhos / Storyboard - Hand-drawn travel journal illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3961,7 +3903,7 @@ Transform the reference photograph into a delicate {argument name="style" defaul
 
 ---
 
-### No. 78: Quadrinhos / Storyboard - Stills de Anime Cinematic Gothic Lolita 3x3
+### No. 76: Quadrinhos / Storyboard - Stills de Anime Cinematic Gothic Lolita 3x3
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4016,7 +3958,7 @@ Restrições: Mantenha a mesma personagem, traje, penteado e acessórios consist
 
 ---
 
-### No. 79: Quadrinhos / Storyboard - Caminho da Montanha de Orfeu em estilo Ukiyo-e
+### No. 77: Quadrinhos / Storyboard - Caminho da Montanha de Orfeu em estilo Ukiyo-e
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4068,7 +4010,7 @@ Crie uma ilustração de paisagem mítica horizontal inspirada em ukiyo-e, no es
 
 ---
 
-### No. 80: Quadrinhos / Storyboard - Garota Kappa e Bruxa Espantalho
+### No. 78: Quadrinhos / Storyboard - Garota Kappa e Bruxa Espantalho
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4108,7 +4050,7 @@ Crie uma ilustração vertical de anime brilhante de duas garotas fofas em um ca
 
 ---
 
-### No. 81: Quadrinhos / Storyboard - Cena de anime com sussurros atrás da porta shoji
+### No. 79: Quadrinhos / Storyboard - Cena de anime com sussurros atrás da porta shoji
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4142,7 +4084,7 @@ Crie uma ilustração de anime cinematográfica e acolhedora ambientada em um qu
 
 ---
 
-### No. 82: Quadrinhos / Storyboard - Folha de Personagem: Cavalheiro Coelho
+### No. 80: Quadrinhos / Storyboard - Folha de Personagem: Cavalheiro Coelho
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4188,7 +4130,7 @@ Restrições: Mantenha a imagem como uma única folha de referência de personag
 
 ---
 
-### No. 83: Quadrinhos / Storyboard - Colagem de Storyboard de Anime em Nove Painéis
+### No. 81: Quadrinhos / Storyboard - Colagem de Storyboard de Anime em Nove Painéis
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4249,7 +4191,46 @@ Humor personalizável: A sensação geral deve ser {argument name="emotional ton
 
 ---
 
-### No. 84: Marketing de Produto - Prompt de Retrato em Garagem de Corrida Futurista
+### No. 82: Marketing de Produto - Prompt de Retrato Desértico Cinematográfico para GPT Image 2
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrição
+
+Um prompt altamente detalhado para gerar um retrato cinematográfico ultra-realista de corpo inteiro de um homem vestindo roupas tradicionais do Oriente Médio, caminhando pelas dunas do deserto ao pôr do sol.
+
+#### 📝 Prompt
+
+```
+Retrato cinematográfico ultra-realista de corpo inteiro de um jovem deslumbrante no início dos seus 20 anos, caminhando com confiança por vastas dunas douradas do deserto ao pôr do sol. Ele tem cabelos pretos como azeviche, naturalmente ondulados e volumosos, sobrancelhas fortes e bem definidas, olhos castanho-escuros profundos e expressivos, nariz reto e esculpido, maçãs do rosto proeminentes, mandíbula masculina marcada e uma leve barba rala natural. Sua expressão é calma, régia, confiante e misteriosa.
+
+Ele veste roupas sofisticadas inspiradas na tradição do Oriente Médio: um thobe marfim luxuoso e fluido com detalhes sutis bordados, um bisht vinho-borgonha perfeitamente drapeado com acabamentos elegantes em ouro, sandálias de couro refinadas e um keffiyeh creme tradicional estilizado naturalmente ao redor da cabeça e ombros. O tecido se move suavemente na brisa quente do deserto.
+
+Dunas de areia esculpidas sem fim se estendem até o horizonte, brilhando sob um dramático pôr do sol na hora dourada. A luz solar quente cria longas sombras cinematográficas sobre a areia, com partículas de poeira atmosférica flutuando suavemente no ar. A silhueta majestosa de uma montanha distante no deserto adiciona profundidade ao horizonte.
+
+Fotografia editorial de moda de luxo, composição cinematográfica, textura natural da pele e poros visíveis, detalhes realistas do tecido, iluminação fisicamente precisa, luz solar dourada volumétrica, grão de filme sutil, profundidade de campo rasa, tons quentes ricos, céu dramático, fotorrealista, 8K HDR, ultra-detalhado, fotografado com lente de 85mm, estética premium de revista, sem rosto com aparência artificial, sem texto, sem marca d'água.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789717711906_q2qosr_HSaqaSWaAAAoc1X.jpg" width="600" alt="Marketing de Produto - Prompt de Retrato Desértico Cinematográfico para GPT Image 2 - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [HeisenLegacy](https://x.com/MohdAdnanA86218)
+- **Fonte:** [Twitter Post](https://x.com/MohdAdnanA86218/status/2100553654071968133)
+- **Publicado:** 17 de setembro de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=34931)**
+
+---
+
+### No. 83: Marketing de Produto - Prompt de Retrato em Garagem de Corrida Futurista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4285,7 +4266,7 @@ Iluminação cinematográfica sombria, reflexos metálicos frios, névoa atmosf�
 
 ---
 
-### No. 85: Marketing de Produto - Sinalização de Loja de Macarrão Japonês
+### No. 84: Marketing de Produto - Sinalização de Loja de Macarrão Japonês
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4318,7 +4299,7 @@ Uma fotografia realista do exterior de um restaurante japonês, apresentando doi
 
 ---
 
-### No. 86: Marketing de Produto - Retrato de Moda com Cabelo Violeta
+### No. 85: Marketing de Produto - Retrato de Moda com Cabelo Violeta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4354,7 +4335,7 @@ Use uma grande parede de pedra marrom texturizada com linhas de grade limpas com
 
 ---
 
-### No. 87: Marketing de Produto - Retrato cinematográfico de terno de veludo
+### No. 86: Marketing de Produto - Retrato cinematográfico de terno de veludo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4395,7 +4376,7 @@ Sem mulheres, sem texto, sem logotipo, sem marca d'água, sem cigarro, sem músc
 
 ---
 
-### No. 88: Marketing de Produto - Editorial de Alta Moda com Dupla Exposição
+### No. 87: Marketing de Produto - Editorial de Alta Moda com Dupla Exposição
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4430,7 +4411,7 @@ Estética premium de revista de moda, pele e cabelo fotorrealistas, tecido extre
 
 ---
 
-### No. 89: Marketing de Produto - Cena Mágica de Mini Padaria dos Tiny Chefs
+### No. 88: Marketing de Produto - Cena Mágica de Mini Padaria dos Tiny Chefs
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4471,7 +4452,7 @@ Iluminação e estilo: luz dourada do pôr do sol fluindo de trás, bokeh suave,
 
 ---
 
-### No. 90: Marketing de Produto - Resort em Miniatura na Ilha de Kiwi
+### No. 89: Marketing de Produto - Resort em Miniatura na Ilha de Kiwi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4504,7 +4485,7 @@ Crie um mundo fantástico em miniatura altamente detalhado e cinematográfico, c
 
 ---
 
-### No. 91: Marketing de Produto - Retrato Cinematográfico de Praia ao Pôr do Sol
+### No. 90: Marketing de Produto - Retrato Cinematográfico de Praia ao Pôr do Sol
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4539,7 +4520,7 @@ Atrás dele, ondas suaves do oceano rolam em direção a uma praia de areia tran
 
 ---
 
-### No. 92: Marketing de Produto - Prompt de Retrato de Mulher Sul-Asiática
+### No. 91: Marketing de Produto - Prompt de Retrato de Mulher Sul-Asiática
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4575,7 +4556,7 @@ Importante: Preservar a mesma composição geral, pose sentada, estilo da roupa,
 
 ---
 
-### No. 93: Marketing de Produto - Prompt de Retrato de Moda de Luxo
+### No. 92: Marketing de Produto - Prompt de Retrato de Moda de Luxo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4608,7 +4589,7 @@ Retrato de estúdio de alta moda de uma mulher loira elegante, em pé na varanda
 
 ---
 
-### No. 94: Marketing de Produto - Prompt de Retrato Cinematográfico de Homem Bonito
+### No. 93: Marketing de Produto - Prompt de Retrato Cinematográfico de Homem Bonito
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4643,7 +4624,7 @@ Fotografia editorial masculina sofisticada, estética de luxo melancólica, text
 
 ---
 
-### No. 95: Marketing de Produto - Retrato de noiva sul-asiática com lehenga
+### No. 94: Marketing de Produto - Retrato de noiva sul-asiática com lehenga
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4677,7 +4658,7 @@ Use um fundo de estúdio bege quente com iluminação suave e difusa, sombras su
 
 ---
 
-### No. 96: Imagem Principal de E-commerce - Prompt do GPT Image 2: Liquidificador Rosa Retrô
+### No. 95: Imagem Principal de E-commerce - Prompt do GPT Image 2: Liquidificador Rosa Retrô
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4710,7 +4691,7 @@ Um close-up fotográfico realista e premium de um liquidificador rosa pastel em 
 
 ---
 
-### No. 97: Imagem Principal de E-commerce - Anúncio de Comparação do Tratamento Labial da rhode
+### No. 96: Imagem Principal de E-commerce - Anúncio de Comparação do Tratamento Labial da rhode
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4758,7 +4739,7 @@ Restrições: Mantenha exatamente 2 painéis de comparação, exatamente 2 rótu
 
 ---
 
-### No. 98: Imagem Principal de E-commerce - Renderização realista de promoção de quarto a partir de esboço
+### No. 97: Imagem Principal de E-commerce - Renderização realista de promoção de quarto a partir de esboço
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4792,7 +4773,7 @@ Crie uma imagem promocional realista de um quarto para anunciar meu espaço a po
 
 ---
 
-### No. 99: Imagem Principal de E-commerce - Edição de Unhas em Rosa Sutil
+### No. 98: Imagem Principal de E-commerce - Edição de Unhas em Rosa Sutil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4832,7 +4813,7 @@ Usando REFERENCE_0 como imagem base, realize uma edição de estilo de produto e
 
 ---
 
-### No. 100: Imagem Principal de E-commerce - Geração de Lifestyle com Product Placement
+### No. 99: Imagem Principal de E-commerce - Geração de Lifestyle com Product Placement
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4865,7 +4846,7 @@ analise esta foto e forneça um prompt em JSON muito detalhado descrevendo seu e
 
 ---
 
-### No. 101: Imagem Principal de E-commerce - Cliente em supermercado coreano (foto espontânea)
+### No. 100: Imagem Principal de E-commerce - Cliente em supermercado coreano (foto espontânea)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4917,7 +4898,7 @@ Crie uma foto vertical realista, com aspecto de smartphone, de um momento espont
 
 ---
 
-### No. 102: Imagem Principal de E-commerce - Vaso de terracota antigo quebrado
+### No. 101: Imagem Principal de E-commerce - Vaso de terracota antigo quebrado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4957,7 +4938,7 @@ Crie uma fotografia de produto hiper-realista em estilo de museu de um único {a
 
 ---
 
-### No. 103: Imagem Principal de E-commerce - Retrato de Moda Streetwear de Corpo Inteiro
+### No. 102: Imagem Principal de E-commerce - Retrato de Moda Streetwear de Corpo Inteiro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5004,7 +4985,7 @@ Proporção: retrato vertical 4:5.
 
 ---
 
-### No. 104: Imagem Principal de E-commerce - Grade de Flat Lay para E-commerce Boutique
+### No. 103: Imagem Principal de E-commerce - Grade de Flat Lay para E-commerce Boutique
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5054,7 +5035,7 @@ Um layout elegante projetado para lookbooks de e-commerce de moda e vestuário, 
 
 ---
 
-### No. 105: Imagem Principal de E-commerce - Fotografia Comercial de Smoothie de Frutas Vermelhas
+### No. 104: Imagem Principal de E-commerce - Fotografia Comercial de Smoothie de Frutas Vermelhas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5088,7 +5069,7 @@ Crie uma cena de fotografia gastronômica ultra-realista e de alto padrão em um
 
 ---
 
-### No. 106: Imagem Principal de E-commerce - Fotografia Macro de Bebida Rosa
+### No. 105: Imagem Principal de E-commerce - Fotografia Macro de Bebida Rosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5122,7 +5103,7 @@ Um close-up fotorrealista de um {argument name="container" default="copo cilínd
 
 ---
 
-### No. 107: Imagem Principal de E-commerce - Foto Profissional de Publicidade de Produto
+### No. 106: Imagem Principal de E-commerce - Foto Profissional de Publicidade de Produto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5162,7 +5143,7 @@ Foto publicitária profissional de "{argument name="product" default="[NOME DO P
 
 ---
 
-### No. 108: Imagem Principal de E-commerce - Close-up de Latte de Mel Gelado Sendo Mexido
+### No. 107: Imagem Principal de E-commerce - Close-up de Latte de Mel Gelado Sendo Mexido
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5196,7 +5177,7 @@ Crie uma imagem close-up fotorrealista na vertical 9:16 de um latte de mel gelad
 
 ---
 
-### No. 109: Imagem Principal de E-commerce - Anúncio de Spray para Golden Retriever
+### No. 108: Imagem Principal de E-commerce - Anúncio de Spray para Golden Retriever
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5230,7 +5211,7 @@ Usando a imagem de referência fornecida como base, expanda-a para uma foto de p
 
 ---
 
-### No. 110: Imagem Principal de E-commerce - Retrato de estúdio suave com dispositivo rosa
+### No. 109: Imagem Principal de E-commerce - Retrato de estúdio suave com dispositivo rosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5264,7 +5245,7 @@ Crie um retrato de estúdio fotorrealista vertical 2:3 de uma mulher adulta do L
 
 ---
 
-### No. 111: Imagem Principal de E-commerce - Pôster Publicitário de Bebida Premium
+### No. 110: Imagem Principal de E-commerce - Pôster Publicitário de Bebida Premium
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5297,7 +5278,7 @@ Crie um pôster publicitário de sobremesa gelada de nível Cannes para uma marc
 
 ---
 
-### No. 112: Imagem Principal de E-commerce - Modelo de Anúncio de Relógio de Luxo
+### No. 111: Imagem Principal de E-commerce - Modelo de Anúncio de Relógio de Luxo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5348,7 +5329,7 @@ Um prompt estruturado de fotografia de produto de alto padrão para relógios de
 
 ---
 
-### No. 113: Imagem Principal de E-commerce - Anúncio de Produto de Skincare de Luxo
+### No. 112: Imagem Principal de E-commerce - Anúncio de Produto de Skincare de Luxo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5388,7 +5369,7 @@ Crie um anúncio comercial de produto de luxo ultrarrealista para uma marca prem
 
 ---
 
-### No. 114: Imagem Principal de E-commerce - Escultura de Cidade em Miniatura de Alabastro
+### No. 113: Imagem Principal de E-commerce - Escultura de Cidade em Miniatura de Alabastro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5434,7 +5415,7 @@ Crie uma foto de produto arquitetônica de fantasia altamente detalhada de uma c
 
 ---
 
-### No. 115: Imagem Principal de E-commerce - Regras Avançadas de Consistência de Guarda-Roupa
+### No. 114: Imagem Principal de E-commerce - Regras Avançadas de Consistência de Guarda-Roupa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5485,7 +5466,7 @@ Regras de Guarda-Roupa Protegido — Prioridade máxima: trate as descrições d
 
 ---
 
-### No. 116: Ativo de Jogo - Geração de Personagem Mascote de Marca Premium
+### No. 115: Ativo de Jogo - Geração de Personagem Mascote de Marca Premium
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5557,7 +5538,7 @@ Baixa qualidade, borrado, anatomia distorcida, membros extras, dedos extras, mã
 
 ---
 
-### No. 117: Ativo de Jogo - Robô Policial Gigante de Tóquio Barricando Rua
+### No. 116: Ativo de Jogo - Robô Policial Gigante de Tóquio Barricando Rua
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5590,7 +5571,7 @@ Uma fotografia hiper-realista e angular ampla de um colossal robô policial bíp
 
 ---
 
-### No. 118: Ativo de Jogo - Prompt de Logo em Preto e Branco com Fluxo de Fibras para GPT Image 2
+### No. 117: Ativo de Jogo - Prompt de Logo em Preto e Branco com Fluxo de Fibras para GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5649,7 +5630,7 @@ NEGATIVO: forma alterada, proporções distorcidas, texto, elementos extras, con
 
 ---
 
-### No. 119: Ativo de Jogo - Tela de Título de Galaxy Rail
+### No. 118: Ativo de Jogo - Tela de Título de Galaxy Rail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5693,7 +5674,7 @@ Restrições: Use exatamente 3 trilhos verticais de altura total, exatamente 2 c
 
 ---
 
-### No. 120: Ativo de Jogo - Folha de Ativos de Jogo de Pinheiro Estilizado
+### No. 119: Ativo de Jogo - Folha de Ativos de Jogo de Pinheiro Estilizado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5737,13 +5718,47 @@ Restrições: Mantenha a folha organizada e ortográfica, com escala consistente
 
 ---
 
+### No. 120: Ativo de Jogo - Robô Corredor Futurista do Céu
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Uma cena conceitual de jogo 3D colorida mostrando um robô fofo saltando entre plataformas flutuantes em uma cidade no céu inspirada em Tóquio.
+
+#### 📝 Prompt
+
+```
+Crie uma imagem conceitual de jogo endless-runner 3D vibrante e estilizada em um quadro cinematográfico amplo de 16:9. Mostre um mascote robô humanoide fofo no meio de um salto, visto de trás e levemente de lado, correndo por plataformas futuristas flutuantes bem acima das nuvens. O robô tem um capacete arredondado branco brilhante com uma tela facial preta e olhos brilhantes em ciano, uma pequena antena, membros segmentados em creme e cinza, luvas azuis e botas azuis grandes, além de um cachecol {argument name="scarf color" default="amarelo dourado"} esvoaçante que tremula dramaticamente ao vento. O mundo é uma alegre {argument name="city setting" default="cidade no céu inspirada em Tóquio"} futurista ao {argument name="time of day" default="nascer do sol quente"}, com luz dourada suave, céu azul brilhante, nuvens fofas estilizadas e um horizonte distante. Inclua um {argument name="background landmark" default="Monte Fuji"} coberto de neve no horizonte esquerdo, um trem-bala elevado e elegante fazendo uma curva em um trilho à esquerda e um grande portal torii vermelho e branco à direita. O caminho do corredor é feito de plataformas flutuantes limpas na cor creme com painéis de azulejos azul-turquesa, bordas arredondadas e pilares de suporte coloridos emergindo das nuvens. Coloque exatamente sete gemas de cristal colecionáveis flutuantes à frente do robô ao longo do caminho: um grande cristal de diamante rosa perto do centro, um cristal laranja, um cristal azul, um cristal magenta, um pequeno cristal amarelo-pálido, um pequeno cristal laranja e um minúsculo cristal ciano mais ao longe. Use um estilo de arte de jogo polido tipo Pixar, iluminação global suave, cores saturadas, materiais nítidos que lembram brinquedos, perspectiva dinâmica, forte senso de movimento e sem texto, interface de usuário, logotipos ou marcas d'água.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789113123406_rth3un_HR1obqIbEAEQZcr.jpg" width="600" alt="Ativo de Jogo - Robô Corredor Futurista do Céu - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [野生の男](https://x.com/yasei_no_otoko)
+- **Fonte:** [Twitter Post](https://x.com/yasei_no_otoko/status/2097948657018720560#reversed-0)
+- **Publicado:** 10 de setembro de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-BR/gpt-image-2-prompts?id=34328)**
+
+---
+
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 17412 mais prompts não mostrados aqui
+### 🎯 17416 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5806,6 +5821,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-20T02:12:36.269Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-20T15:04:30.202Z</sub>
 
 </div>
